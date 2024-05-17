@@ -1,0 +1,2984 @@
+TCMsymptom::Bu Mei	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bu Mei	Symptom::Disease	Symptom::D006484
+TCMsymptom::Bu Mei	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Bu Mei	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Bu Mei	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Bu Mei	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Bu Mei	Symptom::Disease	Symptom::D003967
+TCMsymptom::Bu Mei	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bu Mei	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Da Bian Gan Jie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Da Bian Gan Jie Nan Xia	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Da Bian Gan Jie Nan Xia	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:C565834
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:D011535
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Syndrome::Feng Re
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Da Bian Nong Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Da Bian Nong Xie	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Da Bian Nong Xie	Symptom::Disease	Symptom::D014839
+TCMsymptom::Da Bian Nong Xie	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Da Bian Zao Jie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Symptom::D004108
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Symptom::SMMS00886
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Disease::MESH:D056693
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Disease::MESH:D015223
+TCMsymptom::Kou Gan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou Gan	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Kou Gan	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Kou Gan	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Kou Gan	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Disease::MESH:D003719
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Symptom::D006470
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Kou Ke Xi Yin	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Kou Ke Xi Yin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Symptom::D010309
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Symptom::D006484
+TCMsymptom::Kou She Gan Zao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Kou She Gan Zao	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Kou She Sheng Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Kou She Sheng Chuang	Syndrome::Symptom	Symptom::D014098
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Kou She Sheng Chuang	Syndrome::Symptom	Disease::MESH:C535362
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D049932
+TCMsymptom::Kou She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou Sheng Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Symptom::D004614
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D003744
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:C535460
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:C536631
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mian Hong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Mian Hong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Mian Hong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mian Hong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::She Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Hong	Symptom::Disease	Symptom::D008883
+TCMsymptom::She Hong	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::She Jian Hong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::She Jian Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Jian Hong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::She Mi Lan	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::She Mi Lan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Mi Lan	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::She Mi Lan	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::She Mi Lan	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::She Mi Lan	Symptom::Disease	Symptom::D015354
+TCMsymptom::She Mi Lan	Symptom::Disease	Syndrome::Wei Re
+TCMsymptom::She Pian Hong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::She Pian Hong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::She Pian Hong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Symptom::D010309
+TCMsymptom::She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Tu Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tu Xie	Symptom::Disease	Symptom::SMMS00052
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:D011535
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Xiao Bian Chi Se	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Chi Se	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Bian Chi Se	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Bian Chi Se	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Xiao Bian Duan Chi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Duan Chi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Duan Chi	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xin Qi Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xin Qi Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xin Qi Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Disease::MESH:D056807
+TCMsymptom::Xin Qi Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Symptom::D014098
+TCMsymptom::Xin Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xin Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xin Tong	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Xin Tong	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xie Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Re	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xie Re	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Xie Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Re	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xie Re	Symptom::Disease	Syndrome::Shi Re Pi Man
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Xie Re Tu Niu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xie Re Tu Niu	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Xie Re Tu Niu	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:D006333
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Symptom::D007319
+TCMsymptom::Xie Re Tu Nv	Syndrome::Symptom	Disease::MESH:C563739
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ye Liang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ye Liang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ye Liang	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Ye Ti	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ye Ti	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ye Ti	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ye Ti	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ye Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ye Ti	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Ye Ti	Symptom::Disease	Symptom::SMMS00730
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Ti Xiong Tong	Symptom::Disease	Disease::MESH:D006958
+TCMsymptom::Zhi Ti Xiong Tong	Symptom::Disease	Symptom::SMMS00575
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:C538178
+TCMsymptom::Zhi Ti Xiong Tong	Symptom::Disease	Symptom::SMMS00884
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Bu Mian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bu Mian	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Bu Mian	Symptom::Disease	Disease::MESH:C537475
+TCMsymptom::Bu Mian	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bu Mian	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fu Ren Zang Zao	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Fu Ren Zang Zao	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xie Re Fa Ban	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Re Fa Ban	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xie Re Fa Ban	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Re Fa Ban	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Xie Re Fa Ban	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Xie Re Fa Zhen	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Re Fa Zhen	Symptom::Disease	Disease::MESH:D018442
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xie Re Tu Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Re Tu Xie	Syndrome::Symptom	Syndrome::Xie Re
+TCMsymptom::Bian Huang Er Nian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bian Huang Er Nian	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bian Huang Er Nian	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Bu Xi Re Yin	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Bu Xi Re Yin	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bu Xi Re Yin	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Dai Xia Se Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Dai Xia Se Huang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Dai Xia Se Huang	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Symptom::D012409
+TCMsymptom::Dai Xia Se Huang	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Dai Xia Se Huang	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Symptom::D010309
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::E Xin	Symptom::Disease	Symptom::D003967
+TCMsymptom::E Xin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Er Dao Liu Nong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Er Dao Liu Nong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Er Dao Liu Nong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Er Dao Liu Nong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Er Dao Liu Nong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Er Long	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Er Long	Symptom::Disease	Symptom::D006484
+TCMsymptom::Er Long	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Er Long	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Er Long	Symptom::Disease	Symptom::D010309
+TCMsymptom::Er Long	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Er Lou	Symptom::Disease	Symptom::D012409
+TCMsymptom::Er Lou	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Er Lou	Symptom::Disease	Symptom::D006484
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Symptom::D004403
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D013700
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D013625
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:C562799
+TCMsymptom::Er Xia Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Er Xia Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Er Xia Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Er Xia Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Er Xia Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Er Xia Zhong Tong	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Fa Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fa Re	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Fa Re	Symptom::Disease	Symptom::D006484
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Fa Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Fa Re	Symptom::Disease	Symptom::D006069
+TCMsymptom::Fa Shao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Fa Shao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fa Shao	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Fa Shao	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fu Zhang	Symptom::Disease	Symptom::D012409
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Fu Zhang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Fu Zhang Man	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Fu Zhang Man	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Fu Zhang Man	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Fu Zhang Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Fu Zhang Man	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Fu Zhang Man	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Gan Qu Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D046351
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Symptom::D007319
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Symptom::D003967
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Gan Qu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Symptom::D006069
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Huang Dan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Huang Dan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Huang Dan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Huang Dan	Symptom::Disease	Symptom::D004403
+TCMsymptom::Huang Dan	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Huang Dan	Symptom::Disease	Symptom::D012409
+TCMsymptom::Huang Dan	Symptom::Disease	Disease::MESH:D013625
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D008881
+TCMsymptom::Jie Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D016779
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Jie Zhong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Jie Zhong	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Symptom::SMMS00753
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:C563273
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:D018442
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Symptom::D004108
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Kou Ku	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Kou Ku	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Kou She Zhong Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liang Xie Zhang Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Liang Xie Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D001249
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D013625
+TCMsymptom::Lin Li Teng Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Lin Li Teng Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Lin Zheng Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Lin Zheng Se Tong	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Lin Zheng Se Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Lin Zhuo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Lin Zhuo	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D019294
+TCMsymptom::Liu Huang Chou Ti	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Liu Nong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Liu Nong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Liu Nong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Liu Nong	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:C538052
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Mao Fa You Ni	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Mao Fa You Ni	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mao Fa You Ni	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Mian Mu Xi Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mian Mu Xi Huang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mian Mu Xi Huang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mian Mu Xi Huang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:C538052
+TCMsymptom::Mu Fa Huang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Mu Fa Huang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D049932
+TCMsymptom::Mu Huang	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Mu Huang	Symptom::Disease	Symptom::SMMS00730
+TCMsymptom::Mu Huang	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Mu Huang	Syndrome::Symptom	Symptom::SMMS00142
+TCMsymptom::Mu Huang	Syndrome::Symptom	Disease::MESH:C536631
+TCMsymptom::Mu Huang	Symptom::Disease	Symptom::SMMS00153
+TCMsymptom::Mu Huang	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Mu Huang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Na Cha	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Na Cha	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Na Cha	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Na Cha	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Na Cha	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Na Cha	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Nian Ye Bian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Nian Ye Bian	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Nian Ye Bian	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Niao Chi	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Niao Chi	Symptom::Disease	Symptom::D012409
+TCMsymptom::Niao Chi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Chi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Chi	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Niao Chi	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Niao Chi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Niao Chi	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Niao Dao Zhuo Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Niao Huang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Niao Huang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Huang Ru Cha	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Niao Huang Ru Cha	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Niao Huang Ru Cha	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Niao Hun Zhuo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Hun Zhuo	Symptom::Disease	Disease::MESH:D016110
+TCMsymptom::Niao Hun Zhuo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Niao Hun Zhuo	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Hun Zhuo	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Niao Ji	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Ji	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::Niao Ji	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Ji	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Niao Ji	Symptom::Disease	Symptom::D006484
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:C563739
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:D018442
+TCMsymptom::Niao Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Re	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Niao Re	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:D003744
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Niao Re	Symptom::Disease	Symptom::D004614
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C537475
+TCMsymptom::Niao Se Chi Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Niao Se Chi Huang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Niao Se Chi Huang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Symptom::D014987
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Niao Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Tong	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Niao Tong	Symptom::Disease	Symptom::SMMS00330
+TCMsymptom::Niao Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Niao Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Niao Tong	Symptom::Disease	Symptom::SMMS00153
+TCMsymptom::Niao Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Niao Tong	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Nong Fu Jiang Jing	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Nong Fu Jiang Jing	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Nong Pao	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Nong Pao	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Nong Pao	Symptom::Disease	Symptom::D010309
+TCMsymptom::Nong Pao	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Nong Pao	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Nong Pao	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Nong Shui	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Nong Shui	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Nong Shui	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Nong Shui	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Nong Shui	Symptom::Disease	Symptom::D010309
+TCMsymptom::Nong Shui	Syndrome::Symptom	Disease::MESH:C535748
+TCMsymptom::Nong Shui	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Nong Shui	Syndrome::Symptom	Symptom::SMMS00934
+TCMsymptom::Nong Tan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Nong Tan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Nong Tan	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::Nong Tan	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Nong Tan	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Nong Tan	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ou Tu	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Ou Tu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ou Tu	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Pi Fu Huang Ran	Syndrome::Symptom	Symptom::D002270
+TCMsymptom::Pi Fu Huang Ran	Syndrome::Symptom	Symptom::SMMS00330
+TCMsymptom::Pi Fu Huang Ran	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Pi Fu Kui Yang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Pi Fu Kui Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D003924
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Symptom::SMMS00455
+TCMsymptom::Pi Fu Kui Yang	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D019294
+TCMsymptom::Pi Fu Mi Lan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Pi Fu Mi Lan	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:C538052
+TCMsymptom::Pi Fu Mi Lan	Syndrome::Symptom	Disease::MESH:D019294
+TCMsymptom::Pi Fu Mi Lan	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Pi Fu Nian Mo Po Kui	Symptom::Disease	Symptom::D010309
+TCMsymptom::Pi Fu Nian Mo Po Kui	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Pi Fu Nian Mo Po Kui	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Pi Fu Shi Lan	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Pi Fu Shi Zhen	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Symptom::D007319
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Symptom::D012409
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Symptom::SMMS00575
+TCMsymptom::Pi Sun Cheng Hong Ban Shi Run	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Pi Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Pi Man	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Pi Man	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Pi Man	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Pi Man	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D009101
+TCMsymptom::Pi Men	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D015518
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D019896
+TCMsymptom::Pi Men	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Qian Biao Nong Pao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Qian Biao Nong Pao	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Re Bi Teng Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Re Bi Teng Tong	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Re Du Xie Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Symptom::D010309
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Re Li	Symptom::Disease	Symptom::SMMS00405
+TCMsymptom::Re Li	Symptom::Disease	Symptom::SMMS00725
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D009101
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Re Lin Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Re Lin Se Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D056693
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D001249
+TCMsymptom::She Hong Tai Huang Ni	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Pang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::She Pang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::She Pang	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::She Pang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::She Pang	Symptom::Disease	Symptom::D010309
+TCMsymptom::She Ti Pang Da	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::She Ti Pang Da	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Ti Zhong	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::She Ti Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Ti Zhong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::She Ti Zhong	Symptom::Disease	Symptom::D012409
+TCMsymptom::She Ti Zhong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Symptom::SMMS00071
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Symptom::D004108
+TCMsymptom::Shen Kun Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Disease::MESH:D015223
+TCMsymptom::Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Shen Kun Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Disease::MESH:D056807
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Syndrome::Wei Re
+TCMsymptom::Shen Mu Fa Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:C563739
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D006333
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:C565655
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shen Re	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Shen Re	Symptom::Disease	Disease::MESH:D018442
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Shi Bi Ju Luan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Bi Ju Luan	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Shi Bi Ju Luan	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Shi Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Chuang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Shi Chuang	Symptom::Disease	Disease::MESH:D019294
+TCMsymptom::Shi Chuang	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Shi Chuang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Shi Chuang	Symptom::Disease	Disease::MESH:D028921
+TCMsymptom::Shi Chuang	Symptom::Disease	Symptom::D002270
+TCMsymptom::Shi Chuang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Symptom::Disease	Symptom::D010309
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Symptom::Disease	Symptom::D006484
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Symptom::D006484
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Symptom::D012409
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:D019294
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:C564650
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Shi Re Xia Zhu	Symptom::Disease	Symptom::D006484
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Shi Re Xia Zhu	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Shi Re Xia Zhu	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Lin	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Shi Lin	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Shi Lin Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Shi Lin Se Tong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Shi Lin Se Tong	Symptom::Disease	Symptom::SMMS00698
+TCMsymptom::Shi Lin Se Tong	Symptom::Disease	Symptom::D003967
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Symptom::D012409
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:D049932
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Sou Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Sou Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D010282
+TCMsymptom::Sou Huang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Ting Shuai	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ting Shuai	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ting Shuai	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ting Shuai	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D001249
+TCMsymptom::Tou Shen Kun Zhong	Symptom::Disease	Disease::MESH:D057770
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::Symptom	Symptom::D014098
+TCMsymptom::Tou Shen Kun Zhong	Symptom::Disease	Syndrome::wet fever
+TCMsymptom::Tou Tong Ru Guo	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Tou Tong Ru Guo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tou Tong Ru Guo	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tou Tong Ru Guo	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Tou Tong Ru Guo	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Tou Zhong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Tou Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tou Zhong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D011535
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D020163
+TCMsymptom::Tou Zhong	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Tou Zhong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Tou Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Tu Nong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tu Nong	Syndrome::Symptom	Disease::MESH:D006333
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Wai Yin Hong Zhong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Wai Yin Hong Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Guan Fu Pi Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Guan Fu Pi Man	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Guan Fu Pi Man	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Guan Fu Pi Man	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Guan Fu Pi Man	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Symptom::D004108
+TCMsymptom::Guan Pi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Guan Pi	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Guan Pi	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Guan Pi	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Guan Pi	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Xi Suan Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xi Suan Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xi Suan Tong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Xi Suan Tong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xi Suan Tong	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xia Fu Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xia Fu Zhang Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Xia Li Chou Hui	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Symptom::D002270
+TCMsymptom::Xia Li Chou Hui	Syndrome::Symptom	Symptom::D059373
+TCMsymptom::Xia Li Chou Hui	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xia Li Nong Xie	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xia Li Nong Xie	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Xia Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xia Xie	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Xia Xie	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Xia Zhi Chen Zhong	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C567642
+TCMsymptom::Xia Zhi Chen Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Bian Bai Zhuo	Symptom::Disease	Symptom::D008883
+TCMsymptom::Xiao Bian Bai Zhuo	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Symptom::D004614
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:C538178
+TCMsymptom::Xiao Bian Huang	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Bian Huang Shao	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xiao Bian Huang Shao	Symptom::Disease	Disease::MESH:D015223
+TCMsymptom::Xiao Bian Huang Shao	Symptom::Disease	Symptom::D002270
+TCMsymptom::Xiao Bian Huang Shao	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::TCMsymptom	Symptom::D006484
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::Symptom	Disease::MESH:D020163
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:D046152
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Bian Lin Zhuo	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Xiao Bian Lin Zhuo	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Xiao Bian Lin Zhuo	Symptom::Disease	Symptom::D011537
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D046351
+TCMsymptom::Xiao Bian Se Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Se Tong	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D009101
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Xiao Bian Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Xiao Bian Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiao Er Ji Liang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Er Ji Liang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiao Er Ji Liang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Er Ji Liang	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xiao Fu Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Fu Man	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Fu Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Fu Man	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Fu Man	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiao Fu Zhang	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Xiao Fu Zhang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D020163
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D049932
+TCMsymptom::Xiao Fu Zhang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xiao Fu Zhang Tong	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Fu Zhang Tong	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D001249
+TCMsymptom::Xie Lei Bu Teng Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Lei Bu Teng Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Lei Bu Teng Tong	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Xie Lei Bu Teng Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::Symptom	Disease::MESH:C536196
+TCMsymptom::Xie Lei Teng Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Lei Teng Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Lei Teng Tong	Syndrome::Symptom	Disease::MESH:D003719
+TCMsymptom::Xie Lei Teng Tong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Xie Lei Teng Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xie Lei Teng Tong	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xie Xia Pi Kuai	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Xie Xia Pi Kuai	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Xie Xie	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Xie Xie	Syndrome::Symptom	Disease::MESH:D003719
+TCMsymptom::Xie Xie	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xie Xie	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Xie Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Xie Xie Ji Po	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Xie Ji Po	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xie Xie Ji Po	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Xie Ji Po	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xie Xie Ji Po	Symptom::Disease	Symptom::D004614
+TCMsymptom::Xiong Bu Men Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Bu Men Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Xiong Bu Men Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Symptom::D004108
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Xiong Fu Zhang Man	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D019294
+TCMsymptom::Xiong Fu Zhang Men	Syndrome::Symptom	Symptom::D004403
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Symptom::D006069
+TCMsymptom::Xiong Fu Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiong Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D046351
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:C535442
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xiong Ge Pi Man	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C567379
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C538052
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D056807
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Xiong Ge Pi Men	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D003744
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Ge Pi Sai	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xiong Man Yu Men	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiong Man Yu Men	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Xiong Pi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Pi	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Guan Man Men	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Guan Man Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Guan Man Men	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Guan Man Men	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Xiong Guan Man Men	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Xiong Guan Man Men	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Xiong Guan Man Men	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Guan Pi Men	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Xiong Guan Pi Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Guan Pi Men	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Guan Pi Men	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Xiong Guan Pi Men	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Xiong Guan Pi Men	Symptom::Disease	Syndrome::wet fever
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Guan Zhang Man	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiong Guan Zhang Man	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiong Guan Zhang Man	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Guan Zhang Man	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D011535
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiong Xie Men Tong	Syndrome::TCMsymptom	Symptom::D006484
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Symptom::SMMS00455
+TCMsymptom::Xiong Xie Pi Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Xiong Xie Pi Men	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D049932
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D056807
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Zhang Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Zhong Bie Men	Symptom::Disease	Symptom::D007169
+TCMsymptom::Xiong Zhong Bie Men	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Zhong Man Men	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiong Zhong Man Men	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiong Zhong Men Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiong Zhong Men Re	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiong Zhong Men Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiong Zhong Men Re	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiong Zhong Men Tong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xiong Zhong Men Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiong Zhong Men Tong	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:C567379
+TCMsymptom::Xie Lin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Lin	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Lin	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xie Niao	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Xie Niao	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yin Nang Shi Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yin Nang Shi Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yin Nang Shi Yang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yin Yang	Symptom::Disease	Symptom::D012409
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:C538178
+TCMsymptom::Yin Yang	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhang Tong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhang Tong	Symptom::Disease	Symptom::D006069
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Symptom::SMMS00455
+TCMsymptom::Zheng Jia Pi Kuai	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D010282
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D015518
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D028921
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Symptom::D014987
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D006973
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D011087
+TCMsymptom::Zhi Ti Kun Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Ti Kun Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Zhi Ti Suan Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D003744
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D006973
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Er Bian Bu Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Er Bian Bu Li	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:D003719
+TCMsymptom::Er Bian Bu Li	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Lao Re	Syndrome::TCMsymptom	Symptom::D006484
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Lao Re	Symptom::Disease	Symptom::D008595
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Ou Tu E Ni	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Symptom::SMMS00698
+TCMsymptom::Ou Tu E Ni	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ou Tu E Ni	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Wai Shang Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wai Shang Zhong Tong	Syndrome::Symptom	Symptom::D004614
+TCMsymptom::Wai Shang Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wai Shang Zhong Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Xiao Bian Lin Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:C538157
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D003324
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Symptom::D012409
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D020163
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Xiao Er Ji Liang Feng	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Ji Liang Feng	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xiao Er Ji Liang Feng	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Xiao Er Liang Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Liang Ti	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Er Liang Ti	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Xiao Er Liang Xian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xiao Er Liang Xian	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xiao Er Liang Xian	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xiao Er Liang Feng	Symptom::Disease	Disease::MESH:C536778
+TCMsymptom::Xiao Er Liang Feng	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Er Man Liang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Er Man Liang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Er Man Liang	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xiao Er Man Liang	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Niao Re Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Re Se Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Re Se Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Re Se Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Niao Re Se Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Niao Bi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Bi	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Dai Xia Se Chi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Dai Xia Se Chi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Dai Xia Yin Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Lin Li Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Lin Li Se Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Shi Re Lin Zheng	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Shi Re Chuang Man	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Re Chuang Man	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Re Chuang Man	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Shi Bi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Bi	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Shi Bi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Shi Bi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D000012
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D006333
+TCMsymptom::Shi Bi Bing	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Re Lin	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Re Lin	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C567379
+TCMsymptom::Re Lin	Symptom::Disease	Symptom::SMMS00698
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C536196
+TCMsymptom::Re Lin	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Re Bi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Re Bi	Symptom::Disease	Symptom::SMMS00405
+TCMsymptom::Re Bi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Re Bi	Symptom::Disease	Symptom::SMMS00455
+TCMsymptom::Re Bi	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Re Bi	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Re Bi	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Re Bi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Pi Fu Wan Xian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Pi Fu Wan Xian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Pi Fu Wan Xian	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:D005891
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Symptom::D006069
+TCMsymptom::Pin Er Liu Nong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Pin Er Liu Nong	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Symptom::D006069
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Pin Er Liu Nong	Syndrome::Symptom	Symptom::D059373
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Ting Er	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ting Er	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ting Er	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Ting Er	Symptom::Disease	Symptom::D014098
+TCMsymptom::Zhi Ti Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Ti Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Ti Zhong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Zhi Ti Zhong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Nong Shui Lin Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Nong Shui Lin Li	Symptom::Disease	Symptom::D006484
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Symptom::D006484
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Symptom::D010309
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Xie Lin Se Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xie Lin Se Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Lin Se Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xie Li	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xie Li	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Chi Bai Dai Xia	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chi Bai Dai Xia	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Huang Shui Lin Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Huang Shui Chuang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Huang Ju	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Huang Ju	Symptom::Disease	Symptom::D006484
+TCMsymptom::Huang Ju	Symptom::Disease	Symptom::D010309
+TCMsymptom::Huang Ju	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Huang Ju	Symptom::Disease	Disease::MESH:D006333
+TCMsymptom::Huang Ju	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Huang Ju	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Huang Ju	Syndrome::Symptom	Disease::MESH:C538052
+TCMsymptom::Huang Ju	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Cao Za	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Cao Za	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Cao Za	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Cao Za	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Cao Za	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Cao Za	Symptom::Disease	Symptom::D006484
+TCMsymptom::Cao Za	Symptom::Disease	Symptom::D010309
+TCMsymptom::Cao Za	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Cao Za Ou Tu	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Symptom::D006484
+TCMsymptom::Cao Za Ou Tu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Symptom::D012409
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Mian Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mian Huang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mian Huang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Mian Huang	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Mian Huang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:D019294
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Shen Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shen Huang	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ting Shi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ting Shi	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Ting Shi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ting Shi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ting Shi	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Ting Shi	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Ting Shi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ting Shi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Guan Fu Zhang Men	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Symptom::D010309
+TCMsymptom::Guan Fu Zhang Men	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Guan Fu Zhang Men	Syndrome::Symptom	Symptom::D002270
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Symptom::D006484
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Guan Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Symptom::D008883
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D046351
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Guan Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Xiao Bian Huang Chi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Bian Huang Chi	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Chang Ming	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chang Ming	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Chang Ming	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Chang Ming	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D003924
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Gang Men Teng Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Gang Men Teng Tong	Syndrome::Symptom	Disease::MESH:C538178
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Gang Men Teng Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Gang Men Zhuo Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Gang Men Zhuo Re	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Gang Men Zhuo Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Symptom::D008595
+TCMsymptom::Gang Men Zhuo Re	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Kou Ke	Symptom::Disease	Symptom::D010309
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Kou Ke	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Kou Ke	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Kou Ke	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Li Ji Hou Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Wan Gu Bu Hua	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wan Gu Bu Hua	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Wan Gu Bu Hua	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Hou Zhong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D016779
+TCMsymptom::Hou Zhong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Hou Zhong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Symptom::SMMS00698
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Bian Gan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bian Gan	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Bian Gan	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bian Gan	Symptom::Disease	Symptom::D006484
+TCMsymptom::Bian Gan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bian Gan	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Bian Gan	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Bian Gan	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Bian Jie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Bian Jie	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Bian Jie	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Cao Za Si Ji	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Symptom::D006484
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:D014071
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Da Bian Chu Xie	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Da Bian Chu Xie	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Da Bian Gan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Da Bian Gan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Da Bian Gan	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Da Bian Gan	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Da Bian Gan	Symptom::Disease	Symptom::SMMS00753
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Symptom::SMMS00725
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Da Bian Gan Zao	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Duo Shi	Symptom::Disease	Disease::MESH:D015464
+TCMsymptom::Duo Shi	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Duo Shi	Symptom::Disease	Symptom::D008883
+TCMsymptom::Duo Shi	Symptom::Disease	Symptom::D003967
+TCMsymptom::Duo Shi	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Duo Shi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Duo Yin	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Duo Yin	Syndrome::Symptom	Symptom::SMMS00246
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:C536196
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Duo Yin	Symptom::Disease	Symptom::D014545
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::E Ni	Symptom::Disease	Symptom::D010309
+TCMsymptom::E Ni	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::E Ni	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::E Ni	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Kou Bi Sheng Chuang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Kou Chou	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Kou Chou	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Kou Chou	Syndrome::Symptom	Syndrome::Feng Re
+TCMsymptom::Qu Chi Teng Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Qu Chi Teng Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Qu Chi Teng Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Ru Fang Jie Jie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Symptom::SMMS00007
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Symptom::D012409
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:D011087
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:D020162
+TCMsymptom::Ru Fang Jie Jie	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Ru Fang Teng Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Fang Teng Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Fang Teng Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ru Fang Teng Tong	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Ru Fang Teng Tong	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Ru Fang Teng Tong	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Ru Fang You Kuai	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Fang You Kuai	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ru Fang You Kuai	Symptom::Disease	Syndrome::Feng Re
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ru Fang Zhang Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ru Fang Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ru Fang Zhang Tong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ru Fang Zhong Kuai	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Ru Fang Zhong Kuai	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Ru Fang Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ru Pi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ru Pi	Symptom::Disease	Symptom::D003560
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:D009101
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ru Yong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Yong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Ru Yong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ru Yong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ru Yong Chu Qi	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Ru Zhang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ru Zhang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ru Zhang Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Wei Chang Ji Re	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Wei Chang Ji Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei Chang Ji Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wei Chang Ji Re	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Wei Chang Ji Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wei Chang Ji Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Wei Re	Symptom::Disease	Symptom::D012409
+TCMsymptom::Wei Re	Symptom::Disease	Symptom::D006484
+TCMsymptom::Wei Re	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:C535460
+TCMsymptom::Wei Re	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Wei Suan Guo Duo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wei Suan Guo Duo	Symptom::Disease	Symptom::D006484
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Wei Suan Guo Duo	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Wei Guan Bu Shu	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei Guan Bu Shu	Symptom::Disease	Symptom::D006484
+TCMsymptom::Wei Guan Bu Shu	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Guan Bu Shu	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Wei Guan Bu Shu	Symptom::Disease	Symptom::D006470
+TCMsymptom::Wei Guan Bu Shu	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wei Guan Bu Shu	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wei Guan Cao Za	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei Guan Cao Za	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Wei Guan Cao Za	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Wei Guan Cao Za	Symptom::Disease	Symptom::SMMS00793
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Wei Guan Cao Za	Symptom::Disease	Symptom::D012409
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Disease::MESH:D011087
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Symptom::SMMS00575
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Ya Teng	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ya Teng	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Ya Teng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ya Teng	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ya Teng	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ya Teng	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ya Teng	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Ya Ken Chu Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ya Ken Chu Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Symptom::D002270
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Symptom::SMMS00934
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Symptom::D008595
+TCMsymptom::Ya Ken Hong Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ya Ken Hong Zhong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ya Ken Hong Zhong	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::Symptom	Disease::MESH:D009101
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Yi Ji	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Yi Ji	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Yi Ji	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yi Ji	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Ru Yong Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Yong Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru Yong Zhong Tong	Symptom::Disease	Symptom::D006069
+TCMsymptom::Ru Yong Zhong Tong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Ru E	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru E	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ru E	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ru E	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ru E	Symptom::Disease	Symptom::D010309
+TCMsymptom::Ru E	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ru E	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::Ru E	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ru Bi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ru Bi	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Ru Bi	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Ru Bi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ru Bi	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ru Bi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ru Bi	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wei Huo Ya Tong	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::Wei Huo Ya Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Wei Huo Ya Tong	Symptom::Disease	Symptom::D002270
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D001249
+TCMsymptom::Chao Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:C564650
+TCMsymptom::Chao Re	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D011087
+TCMsymptom::Chao Re	Symptom::Disease	Symptom::D014987
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D057770
+TCMsymptom::Chao Re	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Dao Han	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D014376
+TCMsymptom::Dao Han	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Dao Han	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Kou Zao	Symptom::Disease	Symptom::D010309
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Kou Zao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Kou Zao	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Wu Xin Fan Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Wu Xin Fan Re	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Wu Xin Fan Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xiao Shou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Xiao Shou	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Symptom::D012409
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xing Ti Xiao Shou	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xing Ti Xiao Shou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xing Ti Xiao Shou	Symptom::Disease	Symptom::D010309
+TCMsymptom::Xing Ti Xiao Shou	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Er Gan Ji	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Xiao Er Gan Ji	Symptom::Disease	Symptom::D006484
+TCMsymptom::Xiao Er Gan Ji	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Xiao Er Gan Ji	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Bao Fa Huo Yan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bao Fa Huo Yan	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bao Fa Huo Yan	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bao Fa Huo Yan	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Bao Fa Huo Yan	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Bao Fa Huo Yan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bao Fa Huo Yan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Bao Fa Huo Yan	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Bao Jue	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bao Jue	Symptom::Disease	Symptom::D012409
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Bao Jue	Symptom::Disease	Symptom::D006484
+TCMsymptom::Bao Jue	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Bao Jue	Symptom::Disease	Symptom::SMMS00575
+TCMsymptom::Bao Zhu Xia Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Symptom::D010309
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Symptom::SMMS00052
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Bian Bi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bian Bi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D005693
+TCMsymptom::Bian Bi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Bian Xia Nong Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bian Xia Nong Xie	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Bian Xia Nong Xie	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Bian Xia Nong Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Bian Xie	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Bian Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:D016779
+TCMsymptom::Bian Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bian Xie	Symptom::Disease	Symptom::SMMS00405
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Chang Feng Bian Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D003744
+TCMsymptom::Chang Feng Bian Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Chang Feng Xia Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D046351
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Chi Bi Nv Xie	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Chi Bi Nv Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Chi Bi Nv Xie	Symptom::Disease	Symptom::D006484
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Chi Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Chi Tong	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D015518
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Chi Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Chi Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Chi Lv Hong Ban	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chi Lv Hong Ban	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Chi Lv Hong Ban	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Chong Yao Zhong Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Symptom::D010309
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D049932
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Symptom::SMMS00753
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Dong Zhe Han Chu	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::E Chuang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::E Chuang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::E Chuang	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::E Chuang	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::E Chuang	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::E Chuang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fei Zhen Xian Hong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Fei Zhen Xian Hong	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Fen Ci	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fen Ci	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Fen Ci	Symptom::Disease	Symptom::D010309
+TCMsymptom::Fen Ci	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Fen La Ge Da	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Fen La Ge Da	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Symptom::D010309
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Symptom::D006484
+TCMsymptom::Fen La Ge Da	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Feng Yan Lan Xian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Symptom::D010309
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Symptom::D006484
+TCMsymptom::Feng Yan Lan Xian	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Fu Rou Bu Qu	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Fu Rou Bu Qu	Syndrome::Symptom	Disease::MESH:D018442
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:D056807
+TCMsymptom::Fu Rou Bu Qu	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Fu Rou Bu Qu	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Ge Xie	Symptom::Disease	Disease::MESH:C537475
+TCMsymptom::Ge Xie	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Ge Xie	Symptom::Disease	Syndrome::Wei Re
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Hong Re	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Hong Re	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Hong Re	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ji Fu Hong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ji Fu Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Symptom::D004614
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Jian Xian Chi Lan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Jian Xian Chi Lan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Jian Xian Chi Lan	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Ke Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ke Xie	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D002609
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D009101
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C566340
+TCMsymptom::Lian Chuang Mi Lan	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C535740
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C566384
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Symptom::D004614
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:D003550
+TCMsymptom::Liang Sai Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Liang Sai Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Liang Sai Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Liang Sai Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liang Sai Tong	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Liang Sai Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liang Sai Zhong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Liang Sai Zhong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Symptom::D004403
+TCMsymptom::Liang Sai Zhong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mian Chi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Mian Chi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Mian Chi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mian Chi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Mian Chi	Symptom::Disease	Symptom::D011537
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Xie	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Niao Xie	Symptom::Disease	Symptom::D006484
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:C536196
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Niao Xie Xie Se Zi Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Symptom::D003560
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C535460
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Symptom::SMMS00062
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Nv Xie	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Nv Xie	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Nv Xie	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Re Bing Fa Shao	Symptom::Disease	Symptom::D010309
+TCMsymptom::Re Bing Fa Shao	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Re Bing Fa Shao	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Re Bing Fa Shao	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Re Bing Fa Shao	Symptom::Disease	Symptom::D006484
+TCMsymptom::Re Bing Fa Shao	Symptom::Disease	Symptom::SMMS00807
+TCMsymptom::Re Bing Fa Shao	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Ren Shen Lou Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D019896
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Ren Shen Tai Lou	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ren Shen Tai Lou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ren Shen Tai Lou	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Sai Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Sai Zhong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Sai Zhong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Sai Zhong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::She An	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::She An	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::She An Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::She An Hong	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::She An Hong	Symptom::Disease	Symptom::SMMS00730
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::She Chi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::She Chi	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::She Chi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::She Chi	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::She Chi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::She Jiang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::She Jiang	Symptom::Disease	Disease::MESH:D028921
+TCMsymptom::She Jiang	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Tai Dong Bu An	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tai Dong Bu An	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Tai Dong Bu An	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Tai Dong Bu An	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tai Dong Bu An	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Tai Dong Bu An	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tai Lou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tai Lou	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D016110
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Tai Lou	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Tou Yong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tou Yong	Syndrome::Symptom	Symptom::SMMS00542
+TCMsymptom::Tou Yong	Syndrome::Symptom	Symptom::D007319
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D006973
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:C536253
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D013700
+TCMsymptom::Tou Yong	Syndrome::Symptom	Symptom::D059373
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D010282
+TCMsymptom::Tu Nv	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tu Nv	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tu Nv	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yong Ju	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yong Ju	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yong Ju	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:C563273
+TCMsymptom::Yong Ju	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Ju Ding Du	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Ju Ding Du	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yong Ju Nan Kui	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Ju Nan Kui	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju Nan Kui	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yong Ju Nan Kui	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Yong Ju Nan Kui	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Ju Nan Kui	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Yong Ju Zhong Du	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Yong Zhong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Yong Zhong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Yong Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yong Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Zhong	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Yong Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Zhong Chuang Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Yong Zhong Chuang Yang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yong Zhong Kui Lan	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Yue Jing Guo Duo	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yue Jing Guo Duo	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yue Jing Liang Duo	Syndrome::Symptom	Syndrome::wet fever
+TCMsymptom::Yue Jing Ti Qian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yue Jing Ti Qian	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yue Jing Ti Qian	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Zhi Chuang Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Chuang Tong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Zhi Chuang Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D006014
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Symptom::SMMS00071
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Chuang Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Zhi Chuang Zhong Tong	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Zhi Xie	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Zhi Xie	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Zhi Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Zhong	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Zhi Zhong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhi Zhong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Zhong Du	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D000755
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Zhong Du	Syndrome::Symptom	Disease::MESH:D013625
+TCMsymptom::Zhong Du	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Zhong Du	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Er Bian Bu Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Tian Pao Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tian Pao Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Tian Pao Chuang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ting Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ting Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Ting Zhong	Syndrome::Symptom	Disease::MESH:D014376
+TCMsymptom::Ting Zhong	Syndrome::Symptom	Symptom::D004108
+TCMsymptom::Ting Zhong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Ting Zhong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::E Lu Bu Jin	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::E Lu Bu Jin	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::E Lu Bu Jin	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::E Lu Bu Jin	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::E Lu Bu Xing	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::E Lu Bu Xing	Symptom::Disease	Symptom::D006484
+TCMsymptom::E Lu Bu Xing	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Symptom::D012409
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Symptom::SMMS00405
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:D015223
+TCMsymptom::Xin Zhong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Xin Zhong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Xin Zhong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Xin Zhong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Xin Zhong	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Xin Zhong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Liao Du	Symptom::Disease	Symptom::D010309
+TCMsymptom::Liao Du	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Liao Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Liao Chuang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Liao Chuang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Yong Ju Chu Qi	Syndrome::Symptom	Symptom::D007169
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Yong Ju Chu Qi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Ju Chu Qi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Symptom::D006470
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Symptom::D006069
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C535748
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yong Zhong Ding Chuang	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Yong Zhong Ding Chuang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yong Zhong Chuang Du	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yong Zhong Chuang Du	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yong Zhong Chuang Du	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Zhi Lv	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Zhi Lv	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Disease::MESH:D018761
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Fei Zi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Fei Zi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Fei Zi	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Fei Zi	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Fei Zi	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Fei Zi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Hong Zhen	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Hong Zhen	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Hong Zhen	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Hong Zhen	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Hong Zhen	Symptom::Disease	Symptom::D010309
+TCMsymptom::Hong Zhen	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Hong Zhen	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Chang Yong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Chang Yong Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Chang Yong Zhong Tong	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Symptom::D014555
+TCMsymptom::Chang Yong Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chang Feng	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Chang Feng	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Chang Feng	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Chang Feng	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Lian Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Lian Chuang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Lian Chuang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Lian Chuang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Symptom::D007169
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:D006333
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Bi Sai	Symptom::Disease	Symptom::D010309
+TCMsymptom::Bi Sai	Symptom::Disease	Disease::MESH:D009477
+TCMsymptom::Bi Sai	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Bi Sai	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Bi Yang	Symptom::Disease	Disease::MESH:D015223
+TCMsymptom::Bi Yang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Bi Yang	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Bi Yang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Bi Yang	Symptom::Disease	Symptom::D004614
+TCMsymptom::Bi Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Bi Yang	Symptom::Disease	Syndrome::Shi Re Pi Man
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Feng Re	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Feng Re	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Feng Re	Symptom::Disease	Symptom::D010309
+TCMsymptom::Feng Re	Symptom::Disease	Symptom::D002270
+TCMsymptom::Feng Re	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Feng Re Gan Mao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C538157
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C536246
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C564650
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Feng Zhen Fa Hong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Feng Zhen Fa Hong	Symptom::Disease	Disease::MESH:D017241
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Feng Zhen Sao Yang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Feng Zhen Sao Yang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Feng Zhen Sao Yang	Symptom::Disease	Symptom::D006069
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D057770
+TCMsymptom::Feng Zhen Sao Yang	Symptom::Disease	Symptom::SMMS00575
+TCMsymptom::Ge Tan Se Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Hou Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Hou Yang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Hou Yang	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Jie Xian Sao Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Jie Xian Sao Yang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Jie Xian Sao Yang	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Jie Xian Sao Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Jie Xian Sao Yang	Syndrome::Symptom	Disease::MESH:D010282
+TCMsymptom::Jie Xian Sao Yang	Syndrome::Symptom	Symptom::D007169
+TCMsymptom::Liu Huang Ti	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:D009203
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Liu Huang Zhuo Ti	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D018442
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Symptom::D007169
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Liu Zhuo Ti	Symptom::Disease	Symptom::SMMS00730
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:D001816
+TCMsymptom::Mu An Bu Ming	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mu An Bu Ming	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mu An Hun Hua	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu An Hun Hua	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Mu An Hun Hua	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Chi Hun Hua	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Chi Hun Hua	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Mu Chi Hun Hua	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mu Chi Hun Hua	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Mu Chi Hun Hua	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mu Hua	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mu Hua	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mu Hua	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Mu Hua	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Mu Hun	Symptom::Disease	Symptom::D010309
+TCMsymptom::Mu Hun	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Hun	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C563273
+TCMsymptom::Mu Hun	Syndrome::Symptom	Disease::MESH:D016779
+TCMsymptom::Mu Hun	Symptom::Disease	Symptom::D002270
+TCMsymptom::Mu Hun	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Mu Hun Bu Ming	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Symptom::D010309
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Se	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Se	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Se	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Mu Se	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mu Se	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Sheng Yi Mo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Sheng Yi Mo	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mu Sheng Yun Yi	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mu Yang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D020163
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D000740
+TCMsymptom::Mu Yang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mu Yang	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Mu Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Disease::MESH:C564650
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Disease::MESH:C537302
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Syndrome::Wei Re
+TCMsymptom::Pi Fu Sao Yang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Symptom::Disease	Symptom::D010309
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Syndrome::Symptom	Syndrome::Feng Re
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Sao Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Symptom::D010309
+TCMsymptom::Sao Yang Ming Xian	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Symptom::D012409
+TCMsymptom::Sao Yang Ming Xian	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Sao Yang Ming Xian	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Sao Yang Nan Ren	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Symptom::D008883
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Sao Yang Nan Ren	Symptom::Disease	Disease::MESH:D025962
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tan Chou	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Tan Chou	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Tan Chou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tan Chou	Symptom::Disease	Disease::MESH:D016110
+TCMsymptom::Tan Chou	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Tan Chou	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Tan Chou	Syndrome::Symptom	Disease::MESH:C535442
+TCMsymptom::Tan Chou Huang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tan Chou Huang	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Tan Chou Nan Chu	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Tan Chou Nan Chu	Symptom::Disease	Disease::MESH:C536849
+TCMsymptom::Tan Chou Nan Chu	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Tan Chou Nan Chu	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tou Pi Sao Yang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Tuo Fa	Symptom::Disease	Symptom::D006484
+TCMsymptom::Tuo Fa	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tuo Fa	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tuo Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tuo Xie	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tuo Xie	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Tuo Xie	Symptom::Disease	Symptom::D006484
+TCMsymptom::Tuo Xie	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tuo Xie	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Tuo Xie	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Wei E Feng Han	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Wei E Feng Han	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Wei E Feng Han	Symptom::Disease	Symptom::D012409
+TCMsymptom::Wei E Feng Han	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Wei E Feng Han	Symptom::Disease	Symptom::D002270
+TCMsymptom::Wei E Feng Han	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Wei E Feng Han	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D000012
+TCMsymptom::Ya Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:C536246
+TCMsymptom::Ya Tong	Syndrome::Symptom	Symptom::D004403
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:C538052
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D000755
+TCMsymptom::Ya Ken Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Ya Ken Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ya Ken Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ya Ken Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ya Ken Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ya Ken Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Ya Ken Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Ya Ken Zhong Tong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Ya Ken Zhong Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Ya Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Ya Ken Zhong Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Ya Ken Zhong Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yan Bu Bu Shi	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yan Bu Bu Shi	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Bu Bu Shi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yan Bu Bu Shi	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yan Bu Bu Shi	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::Symptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Yan Gan Hou Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:C567379
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:D003324
+TCMsymptom::Yan Hong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Yan Hong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yan Hong	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yan Hong	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Yan Hong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:D016779
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Disease::MESH:D010282
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Symptom::D012409
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Symptom::SMMS00793
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Yan Hou Bu Li	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D028922
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:D015518
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D010282
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Yan Hou Gan	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Symptom::D014545
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Hou Gan Zao	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hou Gan Zao	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Hou Yang	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:D028922
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Symptom::SMMS00578
+TCMsymptom::Yan Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Tong	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Yan Tong	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Yan Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Yan Bian Ci Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Bian Ci Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Yan Bian Ci Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Symptom::SMMS00405
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Yan Jing Tong Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Jing Tong Yang	Symptom::Disease	Symptom::D006484
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D012516
+TCMsymptom::Yan Jing Tong Yang	Symptom::Disease	Disease::MESH:D014923
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Jing Zhong Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Symptom::D002270
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Jing Zhong Tong	Symptom::Disease	Symptom::D008883
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Disease::MESH:D020163
+TCMsymptom::Yan Jing Zhong Tong	Symptom::Disease	Symptom::SMMS00691
+TCMsymptom::Yan Jing Zhong Tong	Symptom::Disease	Disease::MESH:D015518
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D009477
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Yan Sheng Yi Mo	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Yang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:C563789
+TCMsymptom::Zhuo Ti	Symptom::Disease	Symptom::D006484
+TCMsymptom::Zhuo Ti	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Zhuo Ti	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhuo Ti	Symptom::Disease	Symptom::D010309
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Symptom::D003248
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Zhuo Ti	Symptom::Disease	Disease::MESH:C563273
+TCMsymptom::Zhuo Ti	Symptom::Disease	Disease::MESH:D002609
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:C563739
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Zhuo Ti Chou Qi	Symptom::Disease	Disease::MESH:D006502
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D014086
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:D012852
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:C565390
+TCMsymptom::Yan Hou Gan Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Yan Hou Gan Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Ya Ken Teng Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Ya Ken Teng Tong	Syndrome::Symptom	Symptom::SMMS00654
+TCMsymptom::Ya Ken Teng Tong	Syndrome::Symptom	Symptom::D006417
+TCMsymptom::Ya Ken Teng Tong	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Ya Ken Teng Tong	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Ya Ken Teng Tong	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Tan Re Ke Sou	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Tan Re Ke Sou	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Tan Re Ke Sou	Symptom::Disease	Disease::MESH:D000795
+TCMsymptom::Mu An	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu An	Syndrome::TCMsymptom	Disease::MESH:C536227
+TCMsymptom::Mu An	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu An	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mu An	Syndrome::Symptom	Disease::MESH:D006502
+TCMsymptom::Mu An	Syndrome::TCMsymptom	Symptom::SMMS01104
+TCMsymptom::Mu Se Tong	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:D008881
+TCMsymptom::Mu Se Tong	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C535362
+TCMsymptom::Mu Se Tong	Symptom::Disease	Symptom::D015354
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C564365
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:D006933
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C538178
+TCMsymptom::Mu Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Mu Tong	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Mu Tong	Symptom::Disease	Syndrome::Re Xie
+TCMsymptom::Tu Chuang	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D056587
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Symptom::SMMS00267
+TCMsymptom::Tu Chuang	Symptom::Disease	Symptom::D010309
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C538258
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Feng Shi Re Bi	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Symptom::D006484
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:C563789
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:D046349
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Symptom::SMMS00847
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D014923
+TCMsymptom::Feng Re Yu Fei Yan Tong	Symptom::Disease	Symptom::SMMS00889
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::TCMsymptom	Symptom::D002270
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:C535442
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D028921
+TCMsymptom::Feng Re Yu Fei Yan Tong	Symptom::Disease	Disease::MESH:C537839
+TCMsymptom::Feng Re Yu Fei Yan Tong	Symptom::Disease	Disease::MESH:C536833
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D005693
+TCMsymptom::Feng Zhen	Symptom::Disease	Disease::MESH:C536631
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Symptom::SMMS00847
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Disease::MESH:C567642
+TCMsymptom::Feng Zhen	Symptom::Disease	Disease::MESH:D000740
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Symptom::D014555
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Disease::MESH:D005693
+Syndrome::Xie Re	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D028921
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D005693
+Syndrome::Xie Re	Symptom::Disease	Symptom::SMMS00889
+Syndrome::Xie Re	Symptom::Disease	Symptom::D006484
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D056587
+Syndrome::Xie Re	Symptom::Disease	Disease::MESH:C563789
+Syndrome::Shi Re	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Shi Re	Symptom::Disease	Symptom::SMMS00847
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:D006502
+Syndrome::Shi Re	Symptom::Disease	Symptom::SMMS00889
+Syndrome::Shi Re	Symptom::Disease	Disease::MESH:D046349
+Syndrome::Shi Re Pi Man	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Shi Re Pi Man	Symptom::Disease	Symptom::D010309
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00267
+Syndrome::Shi Re Pi Man	Symptom::Disease	Symptom::SMMS00691
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:D028921
+Syndrome::Shi Re Pi Man	Symptom::Disease	Syndrome::Wei Re
+Syndrome::Feng Re	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:C538178
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:C538258
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:D017241
+Syndrome::Feng Re	Syndrome::Symptom	Disease::MESH:D056587
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:C536849
+Syndrome::Feng Re	Symptom::Disease	Symptom::D006484
+Syndrome::Wei Re	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Wei Re	Symptom::Disease	Symptom::D010309
+Syndrome::Wei Re	Symptom::Disease	Syndrome::Re Xie
+Syndrome::Xin Huo Kang Sheng	Syndrome::TCMsymptom	Disease::MESH:D017118
+Syndrome::Xin Huo Kang Sheng	Syndrome::TCMsymptom	Symptom::SMMS00724
+Syndrome::Xin Huo Kang Sheng	Syndrome::TCMsymptom	Disease::MESH:C536227
+Syndrome::Xin Huo Kang Sheng	Syndrome::TCMsymptom	Syndrome::Xie Re
+Syndrome::Re Xie	Syndrome::TCMsymptom	Symptom::D002270
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:D002609
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:D009101
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D028921
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:C563789
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D056587
+Syndrome::Re Xie	Symptom::Disease	Symptom::SMMS00847
+Syndrome::Re Xie	Symptom::Disease	Symptom::D014987
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:D056587
+Syndrome::Xu Re	Symptom::Disease	Disease::MESH:D014923
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D003248
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:D016110
+Syndrome::Xu Re	Symptom::Disease	Symptom::D010309
+Syndrome::Xu Re	Symptom::Disease	Symptom::D006484
+Syndrome::Xu Re	Symptom::Disease	Disease::MESH:C536631
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:C567642
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:D001249
+Symptom::SMMS00312	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::SMMS00312	Syndrome::Symptom	Symptom::D014545
+Symptom::SMMS00312	Syndrome::Symptom	Disease::MESH:D056587
+Symptom::SMMS00312	Symptom::Disease	Symptom::SMMS00847
+Symptom::SMMS00312	Symptom::Disease	Symptom::D006484
+Symptom::SMMS00312	Syndrome::Symptom	Disease::MESH:C567642
+Symptom::SMMS00312	Syndrome::Symptom	Symptom::D007169
+Symptom::D006396	Syndrome::TCMsymptom	Symptom::D002270
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:D014086
+Symptom::D006396	Symptom::Disease	Symptom::D010309
+Symptom::D006396	Syndrome::TCMsymptom	Disease::MESH:C536227
+Symptom::D006396	Symptom::Disease	Symptom::D006484
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:C567642
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:D005693
+Symptom::D007565	Syndrome::Symptom	Symptom::SMMS00267
+Symptom::D007565	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::D007565	Syndrome::Symptom	Disease::MESH:D057770
+Symptom::D007565	Symptom::Disease	Symptom::SMMS00889
+Symptom::D007565	Syndrome::Symptom	Symptom::SMMS00847
+Symptom::D007565	Syndrome::Symptom	Disease::MESH:D056587
+Symptom::D007565	Syndrome::Symptom	Disease::MESH:D005693
+Symptom::D014839	Syndrome::TCMsymptom	Symptom::D002270
+Symptom::D014839	Syndrome::TCMsymptom	Disease::MESH:C536227
+Symptom::D014839	Syndrome::TCMsymptom	Disease::MESH:D012852
+Symptom::D014839	Syndrome::TCMsymptom	Symptom::SMMS01104
+Symptom::D014839	Syndrome::TCMsymptom	Disease::MESH:C565390
+Symptom::D014839	Syndrome::TCMsymptom	Disease::MESH:D001816
+Symptom::D014839	Syndrome::TCMsymptom	Symptom::SMMS00071
+Symptom::D014839	Symptom::Disease	Syndrome::Re Xie
+Symptom::D012883	Syndrome::Symptom	Symptom::D004614
+Symptom::D012883	Syndrome::Symptom	Disease::MESH:C538178
+Symptom::D012883	Syndrome::Symptom	Syndrome::Re Xie
+Symptom::D007319	Symptom::Disease	Symptom::D006484
+Symptom::D007319	Syndrome::Symptom	Disease::MESH:D016110
+Symptom::D007319	Syndrome::Symptom	Symptom::SMMS00847
+Symptom::D007319	Symptom::Disease	Disease::MESH:C535460
+Symptom::D007319	Symptom::Disease	Symptom::SMMS00889
+Symptom::D007319	Symptom::Disease	Symptom::D010309
+Symptom::D007319	Symptom::Disease	Disease::MESH:D009477
+Symptom::D007319	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::SMMS00282	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::SMMS00282	Symptom::Disease	Symptom::D010309
+Symptom::SMMS00282	Symptom::Disease	Symptom::D003967
+Symptom::SMMS00282	Symptom::Disease	Syndrome::Re Xie
+Symptom::D004244	Syndrome::Symptom	Disease::MESH:D005693
+Symptom::D004244	Syndrome::Symptom	Disease::MESH:D009477
+Symptom::D004244	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::D004244	Symptom::Disease	Symptom::SMMS00889
+Symptom::D004244	Symptom::Disease	Disease::MESH:D028922
+Symptom::D004244	Syndrome::Symptom	Disease::MESH:D007566
+Symptom::D003967	Symptom::Disease	Syndrome::Re Xie
+Symptom::D003248	Syndrome::Symptom	Disease::MESH:D056587
+Symptom::D003248	Syndrome::Symptom	Symptom::SMMS00847
+Symptom::D003248	Syndrome::Symptom	Disease::MESH:D005693
+Symptom::D003248	Symptom::Disease	Syndrome::Re Xie
+Symptom::D005334	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::D005334	Syndrome::Symptom	Disease::MESH:D005693
+Symptom::D005334	Symptom::Disease	Syndrome::Re Xie
+Symptom::SMMS00455	Syndrome::TCMsymptom	Symptom::D002270
+Symptom::SMMS00455	Syndrome::Symptom	Disease::MESH:D056587
+Symptom::SMMS00455	Symptom::Disease	Symptom::D010309
+Symptom::SMMS00455	Syndrome::TCMsymptom	Disease::MESH:D001816
+Symptom::SMMS00455	Syndrome::TCMsymptom	Disease::MESH:C536227
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::SMMS00267
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::D007319
+Symptom::SMMS00455	Syndrome::Symptom	Disease::MESH:D028921
+Symptom::SMMS00455	Syndrome::Symptom	Disease::MESH:D057770
+Symptom::D014098	Syndrome::TCMsymptom	Symptom::D002270
+Symptom::D014098	Symptom::Disease	Symptom::D005128
+Symptom::D014098	Symptom::Disease	Symptom::SMMS00698
+Symptom::D014098	Symptom::Disease	Symptom::SMMS00575
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003324
+Symptom::D014098	Syndrome::Symptom	Symptom::D003248
+Symptom::D014098	Symptom::Disease	Disease::MESH:C537475
+Symptom::D014098	Symptom::Disease	Disease::MESH:C538258
+Symptom::D014098	Symptom::Disease	Syndrome::Re Xie

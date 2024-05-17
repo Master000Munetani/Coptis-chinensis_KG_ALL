@@ -1,0 +1,899 @@
+TCMsymptom::Bu Mei	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Da Bian Gan Jie Nan Xia	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Da Bian Zao Jie	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Kou Gan	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Kou Ke Xi Yin	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Kou She Gan Zao	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Kou She Sheng Chuang	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Kou Sheng Chuang	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Mian Hong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::She Hong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::She Mi Lan	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::She Pian Hong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::She Sheng Chuang	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Tu Xie	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xiao Bian Chi Se	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xiao Bian Duan Chi	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xin Qi Tong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xin Tong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re Tu Niu	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re Tu Nv	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Ye Liang	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Ye Ti	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Fu Ren Zang Zao	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re Fa Ban	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re Fa Zhen	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Xie Re Tu Xie	Syndrome::TCMsymptom	Syndrome::Xin Huo Kang Sheng
+TCMsymptom::Bian Huang Er Nian	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Bu Xi Re Yin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Dai Xia Se Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::E Xin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Dao Liu Nong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Long	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Lou	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Nei Liu Nong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Xia Zhong Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Fa Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Fa Shao	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Fu Zhang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Fu Zhang Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Gan Qu Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Huang Dan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Jie Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Kou She Zhong Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lin Li Teng Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lin Zheng Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lin Zhuo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Liu Huang Chou Ti	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Liu Nong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Liu Nong Ti	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Mao Fa You Ni	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Mian Mu Xi Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Mu Fa Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Mu Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Na Cha	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Chi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Huang Ru Cha	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Hun Zhuo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Ji	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Se Chi Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Se Pian Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nong Fu Jiang Jing	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nong Pao	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nong Shui	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nong Tan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Ou Tu	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Huang Ran	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Kui Yang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Mi Lan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Shi Lan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Shi Zhen	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Sun Cheng Hong Ban Shi Run	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Qian Biao Nong Pao	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Bi Teng Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Du Xie Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Lin Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Lin Zheng	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She Hong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She Pang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She Ti Pang Da	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She Ti Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shen Kun Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shen Mu Fa Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shen Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Chuang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Re Xia Zhu	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Lin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Lin Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shu Xie Fa Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Sou Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Sou Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Ting Shuai	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Tou Tong Ru Guo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Tou Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Guan Fu Pi Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Guan Pi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xi Suan Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xia Li Chou Hui	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xia Li Nong Xie	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xia Xie	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xia Zhi Chen Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Huang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Ji Liang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Fu Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Fu Zhang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Lei Teng Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Xia Pi Kuai	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Xie	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Xie Ji Po	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Bu Men Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Fu Zhang Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Ge Pi Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Ge Pi Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Man Yu Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Pi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Guan Man Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Guan Pi Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Xie Men Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Xie Pi Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Zhang Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Zhong Man Men	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Zhong Men Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Lin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Yin Nang Shi Yang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Yin Yang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhi Ti Kun Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhi Ti Suan Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Er Bian Bu Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lao Re	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Ou Tu E Ni	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Wai Shang Zhong Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Bian Lin Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Liang Ti	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Liang Xian	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Liang Feng	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xiao Er Man Liang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Re Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Niao Bi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Dai Xia Se Chi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Dai Xia Yin Yang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lin Li Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Re Lin Zheng	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Re Chuang Man	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Shi Bi Bing	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Lin	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Re Bi	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pi Fu Wan Xian	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Pin Er Liu Nong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Ting Er	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Zhi Ti Zhong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Nong Shui Lin Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Lin Se Tong	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Xie Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Chi Bai Dai Xia	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Huang Shui Lin Li	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Huang Shui Chuang	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Huang Ju	Syndrome::TCMsymptom	Syndrome::wet fever
+TCMsymptom::Bian Huang Er Nian	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Cao Za	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Cao Za Ou Tu	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::E Xin	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Fa Re	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Fa Shao	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Fu Zhang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Fu Zhang Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Huang Dan	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Lin Li Teng Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Lin Zheng Se Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Lin Zhuo	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Mian Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Mian Mu Xi Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Mu Fa Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Mu Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Na Cha	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Niao Se Chi Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Niao Se Pian Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Nong Fu Jiang Jing	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Nong Pao	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Nong Shui	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Ou Tu	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Pi Fu Huang Ran	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Pi Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Pi Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Re Lin Se Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Re Lin Zheng	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She Hong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She Pang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She Ti Pang Da	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She Ti Zhong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Shen Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Shen Kun Zhong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Shen Mu Fa Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Shi Lin	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Shi Lin Se Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Ting Shuai	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Ting Shi	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Tou Tong Ru Guo	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Tou Zhong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Guan Fu Pi Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Guan Fu Zhang Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Guan Pi	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Guan Xie Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Bian Huang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Bian Huang Chi	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Fu Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Fu Zhang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xie Xie	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xie Xie Ji Po	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Bu Men Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Fu Zhang Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Fu Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Ge Pi Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Ge Pi Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Man Yu Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Pi	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Guan Man Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Guan Pi Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Xie Pi Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Zhang Man	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Zhong Man Men	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Zhong Men Re	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xie Lin	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Er Bian Bu Li	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Ou Tu E Ni	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Xiao Bian Lin Li	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Lin Li Se Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Re Lin	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Nong Shui Lin Li	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Huang Shui Lin Li	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Huang Shui Chuang	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Huang Ju	Syndrome::TCMsymptom	Syndrome::Shi Re Pi Man
+TCMsymptom::Chang Ming	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Gang Men Teng Tong	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Gang Men Zhuo Re	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Kou Ke	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Kou Ke Xi Yin	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Li Ji Hou Zhong	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Wan Gu Bu Hua	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Xiao Bian Huang Chi	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Hou Zhong	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Xie Li Hou Zhong	Syndrome::TCMsymptom	Syndrome::Re Xie
+TCMsymptom::Bian Gan	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Bian Jie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Bu Xi Re Yin	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Cao Za Si Ji	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Chu Xie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Gan	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Gan Jie Nan Xia	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Gan Zao	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Da Bian Zao Jie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Duo Shi	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Duo Yin	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::E Ni	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Kou Chou	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Kou Ke	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Kou Ke Xi Yin	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Kou She Sheng Chuang	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Qu Chi Teng Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang Jie Jie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang Teng Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang You Kuai	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Pi	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Yong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Yong Chu Qi	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Zhang Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::She Hong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::She Mi Lan	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Chang Ji Re	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Re	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Suan Guo Duo	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Guan Bu Shu	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Guan Cao Za	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ya Teng	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ya Ken Chu Xie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Yi Ji	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Yong Zhong Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru E	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ru Bi	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Wei Huo Ya Tong	Syndrome::TCMsymptom	Syndrome::Wei Re
+TCMsymptom::Chao Re	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Dao Han	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Kou Zao	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Wu Xin Fan Re	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Xiao Shou	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Xing Ti Xiao Shou	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Xiao Er Gan Ji	Syndrome::TCMsymptom	Syndrome::Xu Re
+TCMsymptom::Bao Fa Huo Yan	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bao Jue	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bao Zhu Xia Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bian Bi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bian Xia Nong Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bian Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chang Feng Bian Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chang Feng Xia Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chi Bi Nv Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chi Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chi Ken Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chi Lv Hong Ban	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chong Yao Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Dong Zhe Han Chu	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::E Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Fen Ci	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Fen La Ge Da	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Feng Yan Lan Xian	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Fu Rou Bu Qu	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ge Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Hong Re	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ji Fu Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Jian Xian Chi Lan	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Jie Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ke Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Kou Ke	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Liang Sai Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Liang Sai Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Mian Chi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Mian Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Niao Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Niao Xie Xie Se Zi Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Nv Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Re Bi Teng Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Re Bing Fa Shao	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Re Du Xie Li	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Re Li	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ren Shen Lou Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ren Shen Tai Lou	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Sai Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::She An	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::She An Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::She Chi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::She Jiang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::She Pian Hong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tai Dong Bu An	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tai Lou	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tian Xing Chi Yan	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tou Yong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tu Nv	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tu Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xia Li Chou Hui	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xia Li Nong Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xia Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Lin	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re Tu Niu	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re Tu Nv	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Bu Kui	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Ding Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Nan Kui	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Zhong Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Zhong Kui Lan	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yue Jing Liang Duo	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yue Jing Ti Qian	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Chuang Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhong Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Er Bian Bu Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Tian Pao Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Ting Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::E Lu Bu Jin	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::E Lu Bu Xing	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Huo Du Chuang Yang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Re Bi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xin Zhong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Liao Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Liao Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Chu Qi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Fei Zi	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Hong Zhen	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chang Yong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chang Yong Zhong Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Chang Feng	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Lian Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Shi Chuang	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Lin Se Tong	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re Fa Ban	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re Fa Zhen	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Re Tu Xie	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Xie Li	Syndrome::TCMsymptom	Syndrome::Xie Re
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Bi Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Re Gan Mao	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ge Tan Se Huang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Hou Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Jie Xian Sao Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Kou Gan	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Liu Huang Chou Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Liu Huang Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Liu Zhuo Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu An Hun Hua	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Chi Hun Hua	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Hua	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Hun	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Hun Bu Ming	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Se	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Sheng Yi Mo	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Pi Fu Sao Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Sao Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Sao Yang Ming Xian	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Sao Yang Nan Ren	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Shen Re	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tan Chou	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tan Chou Huang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tan Chou Nan Chu	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tou Pi Sao Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tuo Fa	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tuo Xie	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Wei E Feng Han	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Bian Se Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Ji Liang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ya Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ya Ken Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ya Ken Zhong Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Bu Bu Shi	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Gan Hou Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hou Bu Li	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hou Gan	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hou Gan Zao	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hou Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Bian Ci Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Jing Tong Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Zhuo Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Liang Ti	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Liang Xian	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Liang Feng	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Xiao Er Man Liang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ya Ken Teng Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tan Re Ke Sou	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu An	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Se Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Mu Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Tu Chuang	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Shi Re Bi	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::TCMsymptom	Syndrome::Feng Re
+TCMsymptom::Feng Zhen	Syndrome::TCMsymptom	Syndrome::Feng Re
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D002270
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00863
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00863
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00007
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00007
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D004403
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006396
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00267
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00578
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00578
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D004403
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D007565
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006484
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00455
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D007565
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D011537
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00455
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D053159
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D012640
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00934
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D012640
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00730
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00807
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D012409
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D003248
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D006396
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006470
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D007169
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00886
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D006069
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D002386
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D058447
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00793
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00711
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00795
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00884
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D010612
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00753
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D014060
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00936
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006417
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D006417
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D014098
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D059373
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D004108
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00847
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00698
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00542
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00654
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014839
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D004108
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00052
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D005076
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::SMMS00889
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D008595
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D014545
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00575
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00575
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00094
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00376
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00062
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D005128
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00246
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D015354
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00896
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00052
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00347
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00884
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00142
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D014098
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00725
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00724
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D010309
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00408
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D001064
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00841
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00071
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00503
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D003560
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D004614
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00330
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00062
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014545
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D007169
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00094
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D006069
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::C0278034?
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00188
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D014987
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00153
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D007319
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00045
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::D003967
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00153
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D014555
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00405
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00936
+Symptom::SMMS00312	Symptom::Disease	Disease::MESH:D013971
+Symptom::D006396	Symptom::Disease	Disease::MESH:D014923
+Symptom::D007565	Symptom::Disease	Disease::MESH:D018281
+Symptom::D007565	Symptom::Disease	Disease::MESH:D017086
+Symptom::D007565	Symptom::Disease	Disease::MESH:C566340
+Symptom::D007565	Symptom::Disease	Disease::MESH:D019896
+Symptom::D007565	Symptom::Disease	Disease::MESH:D015464
+Symptom::D007565	Symptom::Disease	Disease::MESH:C535748
+Symptom::D007565	Symptom::Disease	Disease::MESH:D014376
+Symptom::D007565	Symptom::Disease	Disease::MESH:C535442
+Symptom::D007565	Symptom::Disease	Disease::MESH:C564365
+Symptom::D007565	Symptom::Disease	Disease::MESH:C537302
+Symptom::D007565	Symptom::Disease	Disease::MESH:D000755
+Symptom::D007565	Symptom::Disease	Disease::MESH:C565834
+Symptom::D007565	Symptom::Disease	Disease::MESH:D006502
+Symptom::D007565	Symptom::Disease	Disease::MESH:D015217
+Symptom::D007565	Symptom::Disease	Disease::MESH:D006527
+Symptom::D007565	Symptom::Disease	Disease::MESH:D012516
+Symptom::D007565	Symptom::Disease	Disease::MESH:D007566
+Symptom::D007565	Symptom::Disease	Disease::MESH:D006933
+Symptom::D007565	Symptom::Disease	Disease::MESH:C535443
+Symptom::D007565	Symptom::Disease	Disease::MESH:D006014
+Symptom::D007565	Symptom::Disease	Disease::MESH:D005693
+Symptom::D007565	Symptom::Disease	Disease::MESH:C536739
+Symptom::D007565	Symptom::Disease	Disease::MESH:D003550
+Symptom::D007565	Symptom::Disease	Disease::MESH:D002609
+Symptom::D007565	Symptom::Disease	Disease::MESH:D046351
+Symptom::D007565	Symptom::Disease	Disease::MESH:D046349
+Symptom::D014839	Symptom::Disease	Disease::MESH:C565655
+Symptom::D014839	Symptom::Disease	Disease::MESH:D054078
+Symptom::D014839	Symptom::Disease	Disease::MESH:D015464
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535746
+Symptom::D014839	Symptom::Disease	Disease::MESH:C563425
+Symptom::D014839	Symptom::Disease	Disease::MESH:C565253
+Symptom::D014839	Symptom::Disease	Disease::MESH:D056693
+Symptom::D014839	Symptom::Disease	Disease::MESH:D000755
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535740
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535742
+Symptom::D014839	Symptom::Disease	Disease::MESH:C563462
+Symptom::D014839	Symptom::Disease	Disease::MESH:D015175
+Symptom::D014839	Symptom::Disease	Disease::MESH:D017241
+Symptom::D014839	Symptom::Disease	Disease::MESH:D020163
+Symptom::D014839	Symptom::Disease	Disease::MESH:D000795
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535598
+Symptom::D014839	Symptom::Disease	Disease::MESH:D015223
+Symptom::D014839	Symptom::Disease	Disease::MESH:D006527
+Symptom::D014839	Symptom::Disease	Disease::MESH:D019082
+Symptom::D014839	Symptom::Disease	Disease::MESH:D020288
+Symptom::D014839	Symptom::Disease	Disease::MESH:D009101
+Symptom::D014839	Symptom::Disease	Disease::MESH:D028922
+Symptom::D014839	Symptom::Disease	Disease::MESH:D028921
+Symptom::D014839	Symptom::Disease	Disease::MESH:C537475
+Symptom::D014839	Symptom::Disease	Disease::MESH:C565390
+Symptom::D014839	Symptom::Disease	Disease::MESH:C536138
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535460
+Symptom::D014839	Symptom::Disease	Disease::MESH:C538167
+Symptom::D014839	Symptom::Disease	Disease::MESH:D020165
+Symptom::D014839	Symptom::Disease	Disease::MESH:C536833
+Symptom::D014839	Symptom::Disease	Disease::MESH:D005693
+Symptom::D014839	Symptom::Disease	Disease::MESH:D004402
+Symptom::D014839	Symptom::Disease	Disease::MESH:D003550
+Symptom::D014839	Symptom::Disease	Disease::MESH:C536778
+Symptom::D014839	Symptom::Disease	Disease::MESH:D056807
+Symptom::D014839	Symptom::Disease	Disease::MESH:D020162
+Symptom::D014839	Symptom::Disease	Disease::MESH:D002549
+Symptom::D014839	Symptom::Disease	Disease::MESH:C535978
+Symptom::D014839	Symptom::Disease	Disease::MESH:D017118
+Symptom::D014839	Symptom::Disease	Disease::MESH:D010580
+Symptom::D014839	Symptom::Disease	Disease::MESH:D006816
+Symptom::D014839	Symptom::Disease	Disease::MESH:C536657
+Symptom::D014839	Symptom::Disease	Disease::MESH:D046349
+Symptom::D012883	Symptom::Disease	Disease::MESH:D017086
+Symptom::D012883	Symptom::Disease	Disease::MESH:C538361
+Symptom::D012883	Symptom::Disease	Disease::MESH:C564878
+Symptom::D012883	Symptom::Disease	Disease::MESH:D009477
+Symptom::D012883	Symptom::Disease	Disease::MESH:D057770
+Symptom::D012883	Symptom::Disease	Disease::MESH:D013625
+Symptom::D012883	Symptom::Disease	Disease::MESH:C538187
+Symptom::D012883	Symptom::Disease	Disease::MESH:C538178
+Symptom::D012883	Symptom::Disease	Disease::MESH:D013700
+Symptom::D012883	Symptom::Disease	Disease::MESH:C538157
+Symptom::D012883	Symptom::Disease	Disease::MESH:D056732
+Symptom::D012883	Symptom::Disease	Disease::MESH:D004687
+Symptom::D012883	Symptom::Disease	Disease::MESH:D019339
+Symptom::D012883	Symptom::Disease	Disease::MESH:D004476
+Symptom::D012883	Symptom::Disease	Disease::MESH:C538052
+Symptom::D007319	Symptom::Disease	Disease::MESH:C566822
+Symptom::D007319	Symptom::Disease	Disease::MESH:D007340
+Symptom::D007319	Symptom::Disease	Disease::MESH:C579849
+Symptom::D007319	Symptom::Disease	Disease::MESH:D017118
+Symptom::D007319	Symptom::Disease	Disease::MESH:D046349
+Symptom::D007319	Symptom::Disease	Disease::MESH:D018980
+Symptom::SMMS00282	Symptom::Disease	Disease::MESH:C567642
+Symptom::SMMS00282	Symptom::Disease	Disease::MESH:D007340
+Symptom::D004244	Symptom::Disease	Disease::MESH:C536849
+Symptom::D003967	Symptom::Disease	Disease::MESH:C566340
+Symptom::D003967	Symptom::Disease	Disease::MESH:C567059
+Symptom::D003967	Symptom::Disease	Disease::MESH:D054078
+Symptom::D003967	Symptom::Disease	Disease::MESH:C563739
+Symptom::D003967	Symptom::Disease	Disease::MESH:D013262
+Symptom::D003967	Symptom::Disease	Disease::MESH:D015464
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535746
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535442
+Symptom::D003967	Symptom::Disease	Disease::MESH:D000755
+Symptom::D003967	Symptom::Disease	Disease::MESH:C566384
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535740
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535742
+Symptom::D003967	Symptom::Disease	Disease::MESH:D015175
+Symptom::D003967	Symptom::Disease	Disease::MESH:D000795
+Symptom::D003967	Symptom::Disease	Disease::MESH:C564563
+Symptom::D003967	Symptom::Disease	Disease::MESH:D015217
+Symptom::D003967	Symptom::Disease	Disease::MESH:D015223
+Symptom::D003967	Symptom::Disease	Disease::MESH:D006527
+Symptom::D003967	Symptom::Disease	Disease::MESH:C538361
+Symptom::D003967	Symptom::Disease	Disease::MESH:D011087
+Symptom::D003967	Symptom::Disease	Disease::MESH:D012516
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535588
+Symptom::D003967	Symptom::Disease	Disease::MESH:D009101
+Symptom::D003967	Symptom::Disease	Disease::MESH:D028921
+Symptom::D003967	Symptom::Disease	Disease::MESH:D049932
+Symptom::D003967	Symptom::Disease	Disease::MESH:C536510
+Symptom::D003967	Symptom::Disease	Disease::MESH:C536138
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535460
+Symptom::D003967	Symptom::Disease	Disease::MESH:C535443
+Symptom::D003967	Symptom::Disease	Disease::MESH:D005693
+Symptom::D003967	Symptom::Disease	Disease::MESH:C562799
+Symptom::D003967	Symptom::Disease	Disease::MESH:D004402
+Symptom::D003967	Symptom::Disease	Disease::MESH:D003550
+Symptom::D003967	Symptom::Disease	Disease::MESH:D019294
+Symptom::D003967	Symptom::Disease	Disease::MESH:D001816
+Symptom::D003967	Symptom::Disease	Disease::MESH:C538178
+Symptom::D003967	Symptom::Disease	Disease::MESH:D000012
+Symptom::D003967	Symptom::Disease	Disease::MESH:D017118
+Symptom::D003967	Symptom::Disease	Disease::MESH:D006816
+Symptom::D003967	Symptom::Disease	Disease::MESH:C536657
+Symptom::D003967	Symptom::Disease	Disease::MESH:D018761
+Symptom::D003967	Symptom::Disease	Disease::MESH:D046349
+Symptom::D003248	Symptom::Disease	Disease::MESH:C567642
+Symptom::D003248	Symptom::Disease	Disease::MESH:C536631
+Symptom::D003248	Symptom::Disease	Disease::MESH:C563789
+Symptom::D003248	Symptom::Disease	Disease::MESH:D010282
+Symptom::D003248	Symptom::Disease	Disease::MESH:C535362
+Symptom::D003248	Symptom::Disease	Disease::MESH:C564650
+Symptom::D003248	Symptom::Disease	Disease::MESH:D046152
+Symptom::D003248	Symptom::Disease	Disease::MESH:C548080
+Symptom::D003248	Symptom::Disease	Disease::MESH:D056693
+Symptom::D003248	Symptom::Disease	Disease::MESH:D017241
+Symptom::D003248	Symptom::Disease	Disease::MESH:C536246
+Symptom::D003248	Symptom::Disease	Disease::MESH:D015518
+Symptom::D003248	Symptom::Disease	Disease::MESH:D009800
+Symptom::D003248	Symptom::Disease	Disease::MESH:C538258
+Symptom::D003248	Symptom::Disease	Disease::MESH:C535598
+Symptom::D003248	Symptom::Disease	Disease::MESH:D018980
+Symptom::D003248	Symptom::Disease	Disease::MESH:D058496
+Symptom::D003248	Symptom::Disease	Disease::MESH:D025962
+Symptom::D003248	Symptom::Disease	Disease::MESH:D056929
+Symptom::D003248	Symptom::Disease	Disease::MESH:D017118
+Symptom::D003248	Symptom::Disease	Disease::MESH:C563475
+Symptom::D003248	Symptom::Disease	Disease::MESH:D054868
+Symptom::D003248	Symptom::Disease	Disease::MESH:C563273
+Symptom::D003248	Symptom::Disease	Disease::MESH:C536657
+Symptom::D003248	Symptom::Disease	Disease::MESH:D018442
+Symptom::D003248	Symptom::Disease	Disease::MESH:C537062
+Symptom::D003248	Symptom::Disease	Disease::MESH:D016110
+Symptom::D003248	Symptom::Disease	Disease::MESH:C536196
+Symptom::D003248	Symptom::Disease	Disease::MESH:D046349
+Symptom::D003248	Symptom::Disease	Disease::MESH:D011535
+Symptom::D005334	Symptom::Disease	Disease::MESH:D001650
+Symptom::D005334	Symptom::Disease	Disease::MESH:D017086
+Symptom::D005334	Symptom::Disease	Disease::MESH:D008224
+Symptom::D005334	Symptom::Disease	Disease::MESH:C567379
+Symptom::D005334	Symptom::Disease	Disease::MESH:D016779
+Symptom::D005334	Symptom::Disease	Disease::MESH:C537839
+Symptom::D005334	Symptom::Disease	Disease::MESH:D014890
+Symptom::D005334	Symptom::Disease	Disease::MESH:D013262
+Symptom::D005334	Symptom::Disease	Disease::MESH:D015464
+Symptom::D005334	Symptom::Disease	Disease::MESH:D014376
+Symptom::D005334	Symptom::Disease	Disease::MESH:D056587
+Symptom::D005334	Symptom::Disease	Disease::MESH:D018192
+Symptom::D005334	Symptom::Disease	Disease::MESH:C536253
+Symptom::D005334	Symptom::Disease	Disease::MESH:D006502
+Symptom::D005334	Symptom::Disease	Disease::MESH:D053358
+Symptom::D005334	Symptom::Disease	Disease::MESH:D000795
+Symptom::D005334	Symptom::Disease	Disease::MESH:C538361
+Symptom::D005334	Symptom::Disease	Disease::MESH:D007566
+Symptom::D005334	Symptom::Disease	Disease::MESH:D013625
+Symptom::D005334	Symptom::Disease	Disease::MESH:D013700
+Symptom::D005334	Symptom::Disease	Disease::MESH:C538157
+Symptom::D005334	Symptom::Disease	Disease::MESH:C536227
+Symptom::D005334	Symptom::Disease	Disease::MESH:D018442
+Symptom::D005334	Symptom::Disease	Disease::MESH:D006958
+Symptom::SMMS00455	Symptom::Disease	Disease::MESH:D018192
+Symptom::SMMS00455	Symptom::Disease	Disease::MESH:D017118
+Symptom::SMMS00455	Symptom::Disease	Disease::MESH:D007566
+Symptom::SMMS00455	Symptom::Disease	Disease::MESH:D006250
+Symptom::SMMS00455	Symptom::Disease	Disease::MESH:D054546
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003924
+Symptom::D014098	Symptom::Disease	Disease::MESH:D014071
+Symptom::D014098	Symptom::Disease	Disease::MESH:D008708
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003719
+Symptom::D014098	Symptom::Disease	Disease::MESH:D017202
+Symptom::D014098	Symptom::Disease	Disease::MESH:D008865
+Symptom::D014098	Symptom::Disease	Disease::MESH:D014086
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003324
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003922
+Symptom::D014098	Symptom::Disease	Disease::MESH:D014075
+Symptom::D014098	Symptom::Disease	Disease::MESH:D001523
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003744
+Symptom::D014098	Symptom::Disease	Disease::MESH:D006333
+Symptom::D014098	Symptom::Disease	Disease::MESH:D007938
+Symptom::D014098	Symptom::Disease	Disease::MESH:D009203
+Symptom::D014098	Symptom::Disease	Disease::MESH:D005891
+Symptom::D014098	Symptom::Disease	Disease::MESH:D012852
+Symptom::D014098	Symptom::Disease	Disease::MESH:D005901
+Symptom::D014098	Symptom::Disease	Disease::MESH:D010195
+Symptom::D014098	Symptom::Disease	Disease::MESH:D001249
+Symptom::D014098	Symptom::Disease	Disease::MESH:D000740
+Symptom::D014098	Symptom::Disease	Disease::MESH:D006973
+Symptom::D014098	Symptom::Disease	Disease::MESH:D003863
+Symptom::D014098	Symptom::Disease	Disease::MESH:D008881
+Symptom::D014098	Symptom::Disease	Disease::MESH:D002294
+Symptom::D014098	Symptom::Disease	Disease::MESH:D010520
+Symptom::D014098	Symptom::Disease	Disease::MESH:D000437

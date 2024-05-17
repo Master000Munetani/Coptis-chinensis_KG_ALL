@@ -1,0 +1,150 @@
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D013700
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D049932
+Syndrome::Xie Re	Symptom::Disease	Symptom::SMMS00896
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Xie Re	Symptom::Disease	Disease::MESH:D028921
+Syndrome::Xie Re	Symptom::Disease	Disease::MESH:D005693
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D006396
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:C567059
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:C563789
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:D006973
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:C567059
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D006396
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D000505
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D008883
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:C563789
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:D006973
+Syndrome::Feng Re	Symptom::Disease	Symptom::SMMS00896
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Feng Re	Syndrome::Symptom	Disease::MESH:D013700
+Syndrome::Feng Re	Syndrome::Symptom	Disease::MESH:C567059
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:C564878
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:D005693
+Syndrome::Feng Re	Symptom::Disease	Symptom::SMMS00188
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D014555
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D006396
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Wei Re	Symptom::Disease	Symptom::SMMS00896
+Syndrome::Wei Re	Syndrome::Symptom	Disease::MESH:C567059
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D013700
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D008883
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D006502
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D000505
+Syndrome::Xin Huo Kang Sheng	Symptom::Disease	Symptom::SMMS00896
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D049932
+Syndrome::Xin Huo Kang Sheng	Symptom::Disease	Disease::MESH:C536196
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::D008883
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D013700
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D049932
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:C567059
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:D005693
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:C538178
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:D009101
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D006396
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Xu Re	Symptom::Disease	Disease::MESH:D014071
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D014555
+Symptom::SMMS00312	Syndrome::Symptom	Symptom::D008883
+Symptom::SMMS00312	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::SMMS00312	Symptom::Disease	Disease::MESH:D028921
+Symptom::SMMS00312	Symptom::Disease	Disease::MESH:C563739
+Symptom::SMMS00312	Symptom::Disease	Disease::MESH:D005693
+Symptom::SMMS00312	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::D006396	Syndrome::Symptom	Symptom::D008883
+Symptom::D006396	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D006396	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::D006396	Syndrome::Symptom	Symptom::D000505
+Symptom::D006396	Symptom::Disease	Disease::MESH:D014075
+Symptom::D006396	Symptom::Disease	Symptom::SMMS00896
+Symptom::D006396	Symptom::Disease	Disease::MESH:D016110
+Symptom::D007565	Syndrome::Symptom	Symptom::D008883
+Symptom::D007565	Symptom::Disease	Disease::MESH:D049932
+Symptom::D007565	Symptom::Disease	Disease::MESH:D014075
+Symptom::D007565	Symptom::Disease	Symptom::SMMS00896
+Symptom::D007565	Symptom::Disease	Symptom::D011537
+Symptom::D007565	Symptom::Disease	Disease::MESH:C564878
+Symptom::D007565	Symptom::Disease	Disease::MESH:C536657
+Symptom::D007565	Symptom::Disease	Disease::MESH:D012852
+Symptom::D014839	Syndrome::Symptom	Symptom::D008883
+Symptom::D014839	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D014839	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D014839	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D014839	Symptom::Disease	Symptom::SMMS00896
+Symptom::D014839	Symptom::Disease	Disease::MESH:D014071
+Symptom::D014839	Symptom::Disease	Disease::MESH:D028921
+Symptom::D014839	Symptom::Disease	Disease::MESH:D049932
+Symptom::D012883	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::D012883	Syndrome::Symptom	Symptom::D008883
+Symptom::D012883	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D012883	Symptom::Disease	Symptom::SMMS00896
+Symptom::D012883	Syndrome::Symptom	Symptom::D000505
+Symptom::D012883	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D012883	Syndrome::Symptom	Symptom::D014555
+Symptom::D007319	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D007319	Syndrome::Symptom	Symptom::D008883
+Symptom::D007319	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D007319	Syndrome::Symptom	Disease::MESH:D006502
+Symptom::D007319	Symptom::Disease	Disease::MESH:D005693
+Symptom::D007319	Syndrome::Symptom	Symptom::D015354
+Symptom::SMMS00282	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::SMMS00282	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::SMMS00282	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::SMMS00282	Syndrome::Symptom	Symptom::D008883
+Symptom::SMMS00282	Syndrome::Symptom	Disease::MESH:D006502
+Symptom::SMMS00282	Syndrome::Symptom	Symptom::D015354
+Symptom::SMMS00282	Syndrome::Symptom	Symptom::D000505
+Symptom::SMMS00282	Symptom::Disease	Symptom::SMMS00503
+Symptom::D004244	Syndrome::Symptom	Symptom::D014555
+Symptom::D004244	Syndrome::Symptom	Symptom::D006396
+Symptom::D004244	Syndrome::Symptom	Disease::MESH:D009101
+Symptom::D004244	Symptom::Disease	Disease::MESH:D014071
+Symptom::D004244	Syndrome::Symptom	Symptom::D000505
+Symptom::D004244	Syndrome::Symptom	Symptom::D053159
+Symptom::D003967	Syndrome::Symptom	Symptom::D008883
+Symptom::D003967	Syndrome::Symptom	Symptom::D000505
+Symptom::D003967	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D003967	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D003967	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D003967	Symptom::Disease	Disease::MESH:D005693
+Symptom::D003967	Symptom::Disease	Symptom::SMMS01104
+Symptom::D003248	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D003248	Symptom::Disease	Disease::MESH:D028921
+Symptom::D003248	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D003248	Symptom::Disease	Disease::MESH:D014071
+Symptom::D003248	Symptom::Disease	Symptom::SMMS00896
+Symptom::D003248	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D003248	Symptom::Disease	Disease::MESH:C538178
+Symptom::D005334	Syndrome::Symptom	Symptom::D014555
+Symptom::D005334	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::D005334	Syndrome::Symptom	Symptom::D000505
+Symptom::D005334	Syndrome::Symptom	Symptom::D008883
+Symptom::D005334	Syndrome::Symptom	Symptom::D006396
+Symptom::D005334	Symptom::Disease	Symptom::SMMS00896
+Symptom::D005334	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::D008883
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::D014555
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::D000505
+Symptom::SMMS00455	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::SMMS00455	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::SMMS00455	Syndrome::Symptom	Symptom::D006396
+Symptom::D014098	Syndrome::Symptom	Symptom::D008883
+Symptom::D014098	Syndrome::Symptom	Symptom::SMMS00691
+Symptom::D014098	Syndrome::Symptom	Disease::MESH:D013700
+Symptom::D014098	Syndrome::Symptom	Disease::MESH:D049932
+Symptom::D014098	Syndrome::Symptom	Disease::MESH:C567059
+Symptom::D014098	Syndrome::Symptom	Symptom::D000505
+Symptom::D014098	Symptom::Disease	Symptom::SMMS00896
+Symptom::D014098	Syndrome::Symptom	Symptom::D006396

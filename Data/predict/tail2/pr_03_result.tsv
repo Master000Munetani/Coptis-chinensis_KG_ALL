@@ -1,0 +1,1689 @@
+head	rel	tail	score
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D057770	-0.435548663
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D057770	-0.234241217
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Disease::MESH:D057770	-0.21528846
+TCMsymptom::Tou Shen Kun Zhong	Symptom::Disease	Disease::MESH:D057770	-0.105647698
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D057770	-0.213607132
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D057770	-0.256276459
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D057770	-0.466620356
+TCMsymptom::Guan Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D057770	-0.057504781
+TCMsymptom::Bian Gan	Syndrome::Symptom	Disease::MESH:D057770	-0.562002838
+TCMsymptom::Da Bian Gan	Syndrome::Symptom	Disease::MESH:D057770	-0.372245103
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D057770	-0.173067153
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::Symptom	Disease::MESH:D057770	-0.360894531
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D057770	-0.304582745
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Disease::MESH:D056807	-0.081556767
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Disease::MESH:D056807	-0.291529775
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D056807	-0.214195147
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D056807	-0.321299255
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:D056807	-0.164512634
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Disease::MESH:D056693	-0.138156638
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D056693	-0.294687659
+TCMsymptom::Da Bian Nong Xie	Syndrome::Symptom	Disease::MESH:D056587	-0.258665323
+TCMsymptom::She Jian Hong	Syndrome::Symptom	Disease::MESH:D056587	-0.056224462
+TCMsymptom::She Mi Lan	Syndrome::Symptom	Disease::MESH:D056587	-0.083074041
+TCMsymptom::She Pian Hong	Syndrome::Symptom	Disease::MESH:D056587	-0.183808386
+TCMsymptom::She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.111644596
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D056587	-0.125197753
+TCMsymptom::Xie Re Tu Niu	Syndrome::Symptom	Disease::MESH:D056587	-0.154330954
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D056587	-0.047810331
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D056587	-0.107810244
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D056587	-0.311080933
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D056587	-0.142694518
+TCMsymptom::Gan Qu Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.042300433
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.271007359
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:D056587	-0.075553708
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.162648797
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.131534174
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D056587	-0.046649911
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D056587	-0.326093197
+TCMsymptom::Mian Mu Xi Huang	Syndrome::Symptom	Disease::MESH:D056587	-0.061751567
+TCMsymptom::Niao Huang	Syndrome::Symptom	Disease::MESH:D056587	-0.232536957
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Disease::MESH:D056587	-0.089803368
+TCMsymptom::Nong Tan	Syndrome::Symptom	Disease::MESH:D056587	-0.195307106
+TCMsymptom::Pi Fu Shi Zhen	Syndrome::Symptom	Disease::MESH:D056587	-0.173654214
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:D056587	-0.248585418
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::Symptom	Disease::MESH:D056587	-0.31934762
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D056587	-0.22040768
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.163698345
+TCMsymptom::Shu Xie Fa Re	Syndrome::Symptom	Disease::MESH:D056587	-0.233631119
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.145871013
+TCMsymptom::Ting Shuai	Syndrome::Symptom	Disease::MESH:D056587	-0.311112553
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D056587	-0.293268502
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.553798318
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::Symptom	Disease::MESH:D056587	-0.119392723
+TCMsymptom::Xie Xia Pi Kuai	Syndrome::Symptom	Disease::MESH:D056587	-0.140653104
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:D056587	-0.424489588
+TCMsymptom::Xiong Bu Men Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.326326162
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D056587	-0.384983897
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D056587	-0.319455922
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D056587	-0.236245304
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D056587	-0.16418758
+TCMsymptom::Xiong Zhong Men Re	Syndrome::Symptom	Disease::MESH:D056587	-0.075137727
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D056587	-0.181664094
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.015168219
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.176301718
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D056587	-0.218636796
+TCMsymptom::Xiao Er Liang Ti	Syndrome::Symptom	Disease::MESH:D056587	-0.192429364
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:D056587	-0.170445129
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D056587	-0.152558938
+TCMsymptom::Niao Re Se Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.378570288
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D056587	-0.346413016
+TCMsymptom::Re Bi	Syndrome::Symptom	Disease::MESH:D056587	-0.259723902
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.589818835
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::Symptom	Disease::MESH:D056587	-0.271221876
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D056587	-0.09574423
+TCMsymptom::Xie Lin Se Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.194070265
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D056587	-0.3283481
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D056587	-0.223890692
+TCMsymptom::Guan Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.260864288
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D056587	-0.097116821
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D056587	-0.277907163
+TCMsymptom::Hou Zhong	Syndrome::Symptom	Disease::MESH:D056587	-0.226160526
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:D056587	-0.291062087
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:D056587	-0.338484615
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D056587	-0.088110596
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D056587	-0.116866119
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.485627353
+TCMsymptom::Ru Fang Teng Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.114163563
+TCMsymptom::Ru Fang You Kuai	Syndrome::Symptom	Disease::MESH:D056587	-0.158788323
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:D056587	-0.248445421
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D056587	-0.192083582
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D056587	-0.258083433
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Disease::MESH:D056587	-0.126863688
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D056587	-0.181812584
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D056587	-0.184860185
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D056587	-0.036464412
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.071178123
+TCMsymptom::Chi Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.29269138
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D056587	-0.098277718
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D056587	-0.465978175
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Disease::MESH:D056587	-0.3638632
+TCMsymptom::Mian Chi	Syndrome::Symptom	Disease::MESH:D056587	-0.193878099
+TCMsymptom::She Jiang	Syndrome::Symptom	Disease::MESH:D056587	-0.060544159
+TCMsymptom::Tai Dong Bu An	Syndrome::Symptom	Disease::MESH:D056587	-0.254088044
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:D056587	-0.274491549
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D056587	-0.218278259
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D056587	-0.283673555
+TCMsymptom::Yong Ju Nan Kui	Syndrome::Symptom	Disease::MESH:D056587	-0.226369604
+TCMsymptom::Yue Jing Guo Duo	Syndrome::Symptom	Disease::MESH:D056587	-0.140573904
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D056587	-0.349195927
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.124691062
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.3094877
+TCMsymptom::Tian Pao Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.173284858
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:D056587	-0.156755343
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D056587	-0.391467571
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D056587	-0.048692882
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.427509457
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::Symptom	Disease::MESH:D056587	-0.096710801
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Syndrome::Symptom	Disease::MESH:D056587	-0.287331432
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.067520611
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D056587	-0.156441793
+TCMsymptom::Zhi Lv	Syndrome::Symptom	Disease::MESH:D056587	-0.047210783
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D056587	-0.287456244
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.567965388
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D056587	-0.183355495
+TCMsymptom::Bi Yang	Syndrome::Symptom	Disease::MESH:D056587	-0.213711381
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D056587	-0.289158404
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D056587	-0.326714188
+TCMsymptom::Mu Se	Syndrome::Symptom	Disease::MESH:D056587	-0.090019882
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D056587	-0.324394643
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Disease::MESH:D056587	-0.218753472
+TCMsymptom::Yan Hong	Syndrome::Symptom	Disease::MESH:D056587	-0.073843427
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::Symptom	Disease::MESH:D056587	-0.30044663
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D056587	-0.10964559
+TCMsymptom::Mu Se Tong	Syndrome::Symptom	Disease::MESH:D056587	-0.124057442
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D056587	-0.19272171
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D049932	-0.496675551
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D049932	-0.325062066
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:D049932	-0.222726583
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D049932	-0.476525217
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D049932	-0.257146329
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D049932	-0.111785136
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D046351	-0.043569226
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D046351	-0.340755075
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D046351	-0.073712423
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D046351	-0.258770585
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D046351	-0.326693475
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D046351	-0.114965461
+TCMsymptom::Mian Huang	Syndrome::Symptom	Disease::MESH:D046351	-0.342384249
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D046351	-0.176138356
+TCMsymptom::Kou Chou	Syndrome::Symptom	Disease::MESH:D046351	-0.075288735
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D046351	-0.263269126
+TCMsymptom::Kou Gan	Symptom::Disease	Disease::MESH:D046349	-0.449504286
+TCMsymptom::Xie Re Fa Ban	Symptom::Disease	Disease::MESH:D046349	-0.171449125
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D046349	-0.135239586
+TCMsymptom::Er Long	Symptom::Disease	Disease::MESH:D046349	-0.049382113
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D046349	-0.278537273
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D046349	-0.229375377
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:D046349	-0.11929483
+TCMsymptom::Zhang Tong	Symptom::Disease	Disease::MESH:D046349	-0.046862405
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:D046349	-0.00780319
+TCMsymptom::Ting Er	Symptom::Disease	Disease::MESH:D046349	-0.16802083
+TCMsymptom::Zhi Ti Zhong	Symptom::Disease	Disease::MESH:D046349	-0.180926815
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Disease::MESH:D046349	-0.33907944
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D046349	-0.170300946
+TCMsymptom::Ru Yong Zhong Tong	Symptom::Disease	Disease::MESH:D046349	-0.181942269
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Disease::MESH:D046349	-0.069641225
+TCMsymptom::Bian Xia Nong Xie	Symptom::Disease	Disease::MESH:D046349	-0.034294534
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:D046349	-0.236540481
+TCMsymptom::Fen Ci	Symptom::Disease	Disease::MESH:D046349	-0.367345065
+TCMsymptom::Yong Ju Nan Kui	Symptom::Disease	Disease::MESH:D046349	-0.317509592
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:D046349	-0.044030681
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:D046349	-0.311202198
+TCMsymptom::Yan Hong	Symptom::Disease	Disease::MESH:D046349	-0.127854437
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:D046349	-0.228220433
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:D046152	-0.415142983
+TCMsymptom::Fu Ren Zang Zao	Symptom::Disease	Disease::MESH:D028922	-0.173440769
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:D028922	-0.296407312
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D028922	-0.109019719
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D028922	-0.355032593
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:D028922	-0.140418306
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D028922	-0.03488043
+TCMsymptom::Jie Zhong	Symptom::Disease	Disease::MESH:D028922	-0.174223945
+TCMsymptom::Liu Huang Chou Ti	Symptom::Disease	Disease::MESH:D028922	-0.150072247
+TCMsymptom::Niao Se Chi Huang	Symptom::Disease	Disease::MESH:D028922	-0.369196951
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D028922	-0.126672402
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D028922	-0.322107524
+TCMsymptom::Sou Tong	Symptom::Disease	Disease::MESH:D028922	-0.227591306
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Disease::MESH:D028922	-0.057849862
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D028922	-0.063825533
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D028922	-0.349223942
+TCMsymptom::Xie Lei Teng Tong	Symptom::Disease	Disease::MESH:D028922	-0.062526025
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D028922	-0.084711961
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D028922	-0.040172961
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D028922	-0.061917808
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D028922	-0.064773634
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D028922	-0.156796902
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D028922	-0.343608946
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Symptom::Disease	Disease::MESH:D028922	-0.545773983
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:D028922	-0.24839747
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D028922	-0.042509895
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D028922	-0.237045601
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:D028922	-0.404251933
+TCMsymptom::Kou Bi Sheng Chuang	Symptom::Disease	Disease::MESH:D028922	-0.136827186
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:D028922	-0.101225249
+TCMsymptom::Liang Sai Zhong	Symptom::Disease	Disease::MESH:D028922	-0.341232091
+TCMsymptom::Yue Jing Ti Qian	Symptom::Disease	Disease::MESH:D028922	-0.13293457
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D028922	-0.135413796
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D028922	-0.336692184
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:D028922	-0.169926345
+TCMsymptom::Mu Yang	Symptom::Disease	Disease::MESH:D028922	-0.28885141
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D028922	-0.1129684
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:D028922	-0.165308475
+TCMsymptom::Bu Mei	Syndrome::Symptom	Disease::MESH:D028921	-0.142132431
+TCMsymptom::Da Bian Gan Jie Nan Xia	Syndrome::Symptom	Disease::MESH:D028921	-0.081743084
+TCMsymptom::Da Bian Nong Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.066583022
+TCMsymptom::Kou Gan	Syndrome::Symptom	Disease::MESH:D028921	-0.07884191
+TCMsymptom::Kou Ke Xi Yin	Syndrome::Symptom	Disease::MESH:D028921	-0.314328969
+TCMsymptom::Kou She Gan Zao	Syndrome::Symptom	Disease::MESH:D028921	-0.230666548
+TCMsymptom::Kou She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D028921	-0.497768342
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D028921	-0.240454599
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.149157465
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.051076047
+TCMsymptom::Tu Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.087689623
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D028921	-0.065200083
+TCMsymptom::Xiao Bian Duan Chi	Syndrome::Symptom	Disease::MESH:D028921	-0.099784389
+TCMsymptom::Xin Qi Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.073135063
+TCMsymptom::Xie Re	Syndrome::Symptom	Disease::MESH:D028921	-0.222706959
+TCMsymptom::Xie Re Tu Niu	Syndrome::Symptom	Disease::MESH:D028921	-0.108728275
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D028921	-0.008448297
+TCMsymptom::Bu Mian	Syndrome::Symptom	Disease::MESH:D028921	-0.182216763
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D028921	-0.0356117
+TCMsymptom::Xie Re Fa Ban	Syndrome::Symptom	Disease::MESH:D028921	-0.012105045
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D028921	-0.140470549
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D028921	-0.062448226
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::Symptom	Disease::MESH:D028921	-0.466258973
+TCMsymptom::Er Dao Liu Nong	Syndrome::Symptom	Disease::MESH:D028921	-0.112424828
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D028921	-0.291410983
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D028921	-0.054383632
+TCMsymptom::Er Xia Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.254963666
+TCMsymptom::Fa Re	Syndrome::Symptom	Disease::MESH:D028921	-0.003377457
+TCMsymptom::Fa Shao	Syndrome::Symptom	Disease::MESH:D028921	-0.029422339
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:D028921	-0.02083604
+TCMsymptom::Gan Qu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.092506334
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.21562095
+TCMsymptom::Huang Dan	Syndrome::Symptom	Disease::MESH:D028921	-0.12914373
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.059300251
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.248342201
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.107021675
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D028921	-0.098637104
+TCMsymptom::Liu Nong	Syndrome::Symptom	Disease::MESH:D028921	-0.146477029
+TCMsymptom::Mu Huang	Syndrome::Symptom	Disease::MESH:D028921	-0.2816495
+TCMsymptom::Na Cha	Syndrome::Symptom	Disease::MESH:D028921	-0.113714725
+TCMsymptom::Nian Ye Bian	Syndrome::Symptom	Disease::MESH:D028921	-0.040615369
+TCMsymptom::Niao Chi	Syndrome::Symptom	Disease::MESH:D028921	-0.15721418
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:D028921	-0.001500239
+TCMsymptom::Niao Hun Zhuo	Syndrome::Symptom	Disease::MESH:D028921	-0.1846838
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:D028921	-0.203380108
+TCMsymptom::Ou Tu	Syndrome::Symptom	Disease::MESH:D028921	-0.184394822
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:D028921	-0.044593744
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D028921	-0.065684207
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D028921	-0.077735238
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.000285988
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D028921	-0.193888173
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D028921	-0.013540112
+TCMsymptom::She Ti Pang Da	Syndrome::Symptom	Disease::MESH:D028921	-0.016937619
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D028921	-0.08026626
+TCMsymptom::Shi Chuang	Symptom::Disease	Disease::MESH:D028921	-0.186431766
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::Symptom	Disease::MESH:D028921	-0.068212338
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Syndrome::Symptom	Disease::MESH:D028921	-0.267937392
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D028921	-0.356786251
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D028921	-0.060682569
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.095425636
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.187743753
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.017849017
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.004386825
+TCMsymptom::Guan Fu Pi Man	Syndrome::Symptom	Disease::MESH:D028921	-0.300842434
+TCMsymptom::Xi Suan Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.012164375
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.271337807
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.336468726
+TCMsymptom::Xia Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.04010053
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D028921	-0.129490674
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::Symptom	Disease::MESH:D028921	-0.109100394
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::Symptom	Disease::MESH:D028921	-0.083677977
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Disease::MESH:D028921	-0.132173419
+TCMsymptom::Xiao Bian Se Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.083703592
+TCMsymptom::Xiao Bian Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.043869425
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D028921	-0.480217338
+TCMsymptom::Xiao Fu Man	Syndrome::Symptom	Disease::MESH:D028921	-0.031998277
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.086248785
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.076704383
+TCMsymptom::Xie Lei Teng Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.0039202
+TCMsymptom::Xie Xia Pi Kuai	Syndrome::Symptom	Disease::MESH:D028921	-0.156953901
+TCMsymptom::Xie Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.150503397
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:D028921	-0.321565568
+TCMsymptom::Xiong Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.13847208
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D028921	-0.222503126
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D028921	-0.473245829
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D028921	-0.122342117
+TCMsymptom::Xiong Guan Man Men	Syndrome::Symptom	Disease::MESH:D028921	-0.002918688
+TCMsymptom::Xiong Guan Pi Men	Syndrome::Symptom	Disease::MESH:D028921	-0.064412408
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D028921	-0.299720079
+TCMsymptom::Xiong Xie Pi Men	Syndrome::Symptom	Disease::MESH:D028921	-0.155562371
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D028921	-0.113368534
+TCMsymptom::Xiong Zhong Bie Men	Syndrome::Symptom	Disease::MESH:D028921	-0.086359225
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D028921	-0.19731544
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.169571131
+TCMsymptom::Xie Lin	Syndrome::Symptom	Disease::MESH:D028921	-0.017634999
+TCMsymptom::Yin Nang Shi Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.08668004
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.046401352
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D028921	-0.184089139
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D028921	-0.205709845
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.076757312
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D028921	-0.194384381
+TCMsymptom::Zhi Ti Kun Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.312069446
+TCMsymptom::Zhi Ti Suan Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.01110525
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.232107118
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.119792663
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.010576818
+TCMsymptom::Ou Tu E Ni	Syndrome::Symptom	Disease::MESH:D028921	-0.364307106
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D028921	-0.159464598
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D028921	-0.336189955
+TCMsymptom::Niao Re Se Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.265122533
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D028921	-0.21910134
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.055401489
+TCMsymptom::Shi Re Chuang Man	Syndrome::Symptom	Disease::MESH:D028921	-0.278891474
+TCMsymptom::Shi Bi	Syndrome::Symptom	Disease::MESH:D028921	-0.03099452
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:D028921	-0.208119243
+TCMsymptom::Re Bi	Syndrome::Symptom	Disease::MESH:D028921	-0.458467633
+TCMsymptom::Pi Fu Wan Xian	Syndrome::Symptom	Disease::MESH:D028921	-0.265666693
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Syndrome::Symptom	Disease::MESH:D028921	-0.102977149
+TCMsymptom::Ting Er	Syndrome::Symptom	Disease::MESH:D028921	-0.017414507
+TCMsymptom::Zhi Ti Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.015494175
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:D028921	-0.077045202
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D028921	-0.182501048
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:D028921	-0.564666152
+TCMsymptom::Huang Ju	Syndrome::Symptom	Disease::MESH:D028921	-0.352577329
+TCMsymptom::Cao Za	Syndrome::Symptom	Disease::MESH:D028921	-0.147569343
+TCMsymptom::Cao Za Ou Tu	Syndrome::Symptom	Disease::MESH:D028921	-0.079112202
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.051241953
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D028921	-0.222732857
+TCMsymptom::Ting Shi	Syndrome::Symptom	Disease::MESH:D028921	-0.360295832
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D028921	-0.129218236
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D028921	-0.083152212
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.235039875
+TCMsymptom::Wan Gu Bu Hua	Syndrome::Symptom	Disease::MESH:D028921	-0.338623941
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D028921	-0.022437455
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:D028921	-0.526507258
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.031216601
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D028921	-0.230750471
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D028921	-0.164331436
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D028921	-0.001831442
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.111314341
+TCMsymptom::Ru Fang Jie Jie	Syndrome::Symptom	Disease::MESH:D028921	-0.056899678
+TCMsymptom::Ru Fang Teng Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.01621291
+TCMsymptom::Ru Fang You Kuai	Syndrome::Symptom	Disease::MESH:D028921	-0.063305698
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.146381304
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:D028921	-0.055594195
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::Symptom	Disease::MESH:D028921	-0.136600569
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D028921	-0.001174704
+TCMsymptom::Ru Zhang Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.045798156
+TCMsymptom::Wei Chang Ji Re	Syndrome::Symptom	Disease::MESH:D028921	-0.299518615
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:D028921	-0.104819812
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D028921	-0.139528394
+TCMsymptom::Wei Guan Bu Shu	Syndrome::Symptom	Disease::MESH:D028921	-0.131954849
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:D028921	-0.02114759
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D028921	-0.035760324
+TCMsymptom::Ya Teng	Syndrome::Symptom	Disease::MESH:D028921	-0.1591153
+TCMsymptom::Ya Ken Chu Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.054685604
+TCMsymptom::Ya Ken Hong Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.025767218
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::Symptom	Disease::MESH:D028921	-0.130027071
+TCMsymptom::Yi Ji	Syndrome::Symptom	Disease::MESH:D028921	-0.042727403
+TCMsymptom::Ru Yong Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.06107213
+TCMsymptom::Ru E	Syndrome::Symptom	Disease::MESH:D028921	-0.158423334
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.182465553
+TCMsymptom::Kou Zao	Syndrome::Symptom	Disease::MESH:D028921	-0.184999868
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D028921	-0.004899629
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D028921	-0.226937503
+TCMsymptom::Xiao Er Gan Ji Fa Re	Syndrome::Symptom	Disease::MESH:D028921	-0.368498951
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D028921	-0.116344683
+TCMsymptom::Bao Jue	Syndrome::Symptom	Disease::MESH:D028921	-0.556688011
+TCMsymptom::Bao Zhu Xia Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.004027519
+TCMsymptom::Bian Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.181078345
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.143418506
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.290051013
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.193052709
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.068560258
+TCMsymptom::Chi Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.329984128
+TCMsymptom::Chi Lv Hong Ban	Syndrome::Symptom	Disease::MESH:D028921	-0.045263819
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.23717232
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D028921	-0.281000763
+TCMsymptom::Fen La Ge Da	Syndrome::Symptom	Disease::MESH:D028921	-0.183347821
+TCMsymptom::Feng Yan Lan Xian	Syndrome::Symptom	Disease::MESH:D028921	-0.00166977
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D028921	-0.350611717
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.042290106
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D028921	-0.118155122
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.028063465
+TCMsymptom::Liang Sai Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.416192651
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.086878106
+TCMsymptom::Mian Chi	Syndrome::Symptom	Disease::MESH:D028921	-0.02860084
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.099953778
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.095830582
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.151287332
+TCMsymptom::Re Bing Fa Shao	Syndrome::Symptom	Disease::MESH:D028921	-0.321601003
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D028921	-0.244878009
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.10509561
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.181789294
+TCMsymptom::She Chi	Syndrome::Symptom	Disease::MESH:D028921	-0.101330638
+TCMsymptom::She Jiang	Symptom::Disease	Disease::MESH:D028921	-0.067132212
+TCMsymptom::Tai Dong Bu An	Syndrome::Symptom	Disease::MESH:D028921	-0.251499534
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D028921	-0.237563312
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:D028921	-0.393301308
+TCMsymptom::Tu Nv	Syndrome::Symptom	Disease::MESH:D028921	-0.095523372
+TCMsymptom::Yong Ju	Syndrome::Symptom	Disease::MESH:D028921	-0.118043661
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D028921	-0.149583817
+TCMsymptom::Yong Ju Nan Kui	Syndrome::Symptom	Disease::MESH:D028921	-0.0682614
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D028921	-0.197346523
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.129348561
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.072177038
+TCMsymptom::Yue Jing Guo Duo	Syndrome::Symptom	Disease::MESH:D028921	-0.175520912
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D028921	-0.112111203
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.15745312
+TCMsymptom::Zhi Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.073537506
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.182535499
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:D028921	-0.423930466
+TCMsymptom::E Lu Bu Jin	Syndrome::Symptom	Disease::MESH:D028921	-0.029593064
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D028921	-0.353159994
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.121181913
+TCMsymptom::Xin Zhong	Syndrome::Symptom	Disease::MESH:D028921	-0.134694546
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D028921	-0.249162197
+TCMsymptom::Yong Ju Chu Qi	Syndrome::Symptom	Disease::MESH:D028921	-0.15296559
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D028921	-0.047384247
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D028921	-0.364642859
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.396430612
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D028921	-0.081175409
+TCMsymptom::Chang Yong Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.292523652
+TCMsymptom::Chang Feng	Syndrome::Symptom	Disease::MESH:D028921	-0.052011352
+TCMsymptom::Bi Sai	Syndrome::Symptom	Disease::MESH:D028921	-0.169877052
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::Symptom	Disease::MESH:D028921	-0.582577229
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.189898133
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D028921	-0.225491479
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.360777229
+TCMsymptom::Jie Xian Sao Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.256107807
+TCMsymptom::Liu Huang Ti	Syndrome::Symptom	Disease::MESH:D028921	-0.004769417
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D028921	-0.130351126
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D028921	-0.287240595
+TCMsymptom::Mu Chi Hun Hua	Syndrome::Symptom	Disease::MESH:D028921	-0.022897333
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D028921	-0.421248525
+TCMsymptom::Mu Hun Bu Ming	Syndrome::Symptom	Disease::MESH:D028921	-0.076376632
+TCMsymptom::Mu Se	Syndrome::Symptom	Disease::MESH:D028921	-0.009468556
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D028921	-0.194219425
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.118449114
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.097202778
+TCMsymptom::Sao Yang Ming Xian	Syndrome::Symptom	Disease::MESH:D028921	-0.164527476
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D028921	-0.282083184
+TCMsymptom::Tuo Fa	Syndrome::Symptom	Disease::MESH:D028921	-0.193978116
+TCMsymptom::Tuo Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.028863767
+TCMsymptom::Wei E Feng Han	Syndrome::Symptom	Disease::MESH:D028921	-0.157646805
+TCMsymptom::Ya Ken Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.098188974
+TCMsymptom::Yan Gan Hou Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.228409201
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D028921	-0.090148538
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.243918791
+TCMsymptom::Yan Nian Mo Chong Xie	Syndrome::Symptom	Disease::MESH:D028921	-0.154184878
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.44814831
+TCMsymptom::Yan Bian Ci Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.063506946
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.124787137
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.323312759
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D028921	-0.020355303
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D028921	-0.017761223
+TCMsymptom::Yan Hou Gan Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.019767368
+TCMsymptom::Mu An	Syndrome::Symptom	Disease::MESH:D028921	-0.140436634
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.010357783
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D028921	-0.078310452
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D028921	-0.13257657
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D025962	-0.205066457
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D025962	-0.369560629
+TCMsymptom::Ye Liang	Symptom::Disease	Disease::MESH:D025962	-0.426121324
+TCMsymptom::Bu Xi Re Yin	Symptom::Disease	Disease::MESH:D025962	-0.540915906
+TCMsymptom::Niao Huang Ru Cha	Symptom::Disease	Disease::MESH:D025962	-0.135474399
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:D025962	-0.198952153
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:D025962	-0.212709665
+TCMsymptom::Nong Shui	Symptom::Disease	Disease::MESH:D025962	-0.31722039
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D025962	-0.144212291
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D025962	-0.10779348
+TCMsymptom::Xiao Fu Zhang Tong	Symptom::Disease	Disease::MESH:D025962	-0.113321535
+TCMsymptom::Guan Fu Zhang Men	Symptom::Disease	Disease::MESH:D025962	-0.280570269
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D025962	-0.194975913
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:D025962	-0.151801378
+TCMsymptom::Sao Yang Nan Ren	Symptom::Disease	Disease::MESH:D025962	-0.376588941
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D020163	-0.122654319
+TCMsymptom::Xiao Bian Hun Zhuo	Syndrome::Symptom	Disease::MESH:D020163	-0.173226461
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D020163	-0.308247119
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D020163	-0.11386504
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D020163	-0.194880873
+TCMsymptom::Yan Jing Zhong Tong	Syndrome::Symptom	Disease::MESH:D020163	-0.369797528
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:D020162	-0.180979162
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D019896	-0.087411843
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D019896	-0.118120126
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D019294	-0.130163118
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D019294	-0.18380402
+TCMsymptom::Pi Fu Mi Lan	Syndrome::Symptom	Disease::MESH:D019294	-0.232242137
+TCMsymptom::Shi Chuang	Symptom::Disease	Disease::MESH:D019294	-0.128859013
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:D019294	-0.269001693
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D019294	-0.258017838
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:D019294	-0.260332823
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Disease::MESH:D018761	-0.574111044
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D018761	-0.432879627
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Symptom::Disease	Disease::MESH:D018761	-0.198443055
+TCMsymptom::Guan Pi	Symptom::Disease	Disease::MESH:D018761	-0.318841875
+TCMsymptom::Xiao Fu Zhang Tong	Symptom::Disease	Disease::MESH:D018761	-0.084258594
+TCMsymptom::Xiong Guan Man Men	Symptom::Disease	Disease::MESH:D018761	-0.17201525
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D018761	-0.293623656
+TCMsymptom::Gang Men Zhuo Re	Symptom::Disease	Disease::MESH:D018761	-0.192124814
+TCMsymptom::Kou Ke	Symptom::Disease	Disease::MESH:D018761	-0.332728595
+TCMsymptom::Ru Bi	Symptom::Disease	Disease::MESH:D018761	-0.403027594
+TCMsymptom::Bao Fa Huo Yan	Symptom::Disease	Disease::MESH:D018761	-0.360968173
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D018761	-0.291229337
+TCMsymptom::E Chuang	Symptom::Disease	Disease::MESH:D018761	-0.265653074
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:D018761	-0.208766758
+TCMsymptom::Nv Xie	Symptom::Disease	Disease::MESH:D018761	-0.29048875
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:D018761	-0.37697494
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D018761	-0.406843334
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Disease::MESH:D018761	-0.539603472
+TCMsymptom::Xie Re Fa Zhen	Symptom::Disease	Disease::MESH:D018442	-0.142475843
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:D018442	-0.424200892
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:D018442	-0.423264593
+TCMsymptom::Shen Re	Symptom::Disease	Disease::MESH:D018442	-0.216042042
+TCMsymptom::Fu Rou Bu Qu	Syndrome::Symptom	Disease::MESH:D018442	-0.104471095
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D018442	-0.249975085
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:D017241	-0.120717682
+TCMsymptom::She Jian Hong	Symptom::Disease	Disease::MESH:D017241	-0.119955294
+TCMsymptom::Ye Ti	Symptom::Disease	Disease::MESH:D017241	-0.261751413
+TCMsymptom::Bu Xi Re Yin	Symptom::Disease	Disease::MESH:D017241	-0.233015925
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D017241	-0.088294551
+TCMsymptom::Mu Huang	Symptom::Disease	Disease::MESH:D017241	-0.12259908
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D017241	-0.076419286
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:D017241	-0.254223853
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:D017241	-0.272947222
+TCMsymptom::Shi Lin Se Tong	Symptom::Disease	Disease::MESH:D017241	-0.14433597
+TCMsymptom::Tou Tong Ru Guo	Symptom::Disease	Disease::MESH:D017241	-0.173656926
+TCMsymptom::Xiao Bian Lin Zhuo	Symptom::Disease	Disease::MESH:D017241	-0.215052351
+TCMsymptom::Xiao Fu Zhang	Symptom::Disease	Disease::MESH:D017241	-0.110156909
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:D017241	-0.146835446
+TCMsymptom::Xiong Zhong Men Tong	Symptom::Disease	Disease::MESH:D017241	-0.067746624
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:D017241	-0.034927081
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D017241	-0.093179367
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D017241	-0.381816685
+TCMsymptom::Chang Ming	Symptom::Disease	Disease::MESH:D017241	-0.20111537
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:D017241	-0.110757865
+TCMsymptom::Wei Chang Ji Re	Symptom::Disease	Disease::MESH:D017241	-0.037727442
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D017241	-0.261304677
+TCMsymptom::Tai Dong Bu An	Symptom::Disease	Disease::MESH:D017241	-0.148394927
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Disease::MESH:D017241	-0.497690201
+TCMsymptom::Xin Zhong	Symptom::Disease	Disease::MESH:D017241	-0.080030255
+TCMsymptom::Feng Re	Symptom::Disease	Disease::MESH:D017241	-0.147582695
+TCMsymptom::Feng Zhen Fa Hong	Symptom::Disease	Disease::MESH:D017241	-0.327534676
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.067329384
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.107053258
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D016779	-0.113549642
+TCMsymptom::Niao Tong	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.142115191
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.172318324
+TCMsymptom::She Ti Zhong	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.137035251
+TCMsymptom::Er Bian Bu Li	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.153552786
+TCMsymptom::Hou Zhong	Symptom::Disease	Disease::MESH:D016779	-0.202526093
+TCMsymptom::Kou Chou	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.068101436
+TCMsymptom::Wei Guan Cao Za	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.018446058
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:D016779	-0.132028311
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.165854663
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.09916871
+TCMsymptom::Hong Zhen	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.21622397
+TCMsymptom::Mu Hun	Syndrome::Symptom	Disease::MESH:D016779	-0.404782355
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:D016779	-0.100530095
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D016110	-0.35713616
+TCMsymptom::Niao Hun Zhuo	Symptom::Disease	Disease::MESH:D016110	-0.160417616
+TCMsymptom::Shi Chuang	Syndrome::Symptom	Disease::MESH:D016110	-0.133181781
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D016110	-0.384158731
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D016110	-0.1002267
+TCMsymptom::Pin Er Liu Nong	Syndrome::Symptom	Disease::MESH:D016110	-0.363895118
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D016110	-0.526426375
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D016110	-0.418152511
+TCMsymptom::Tan Chou	Symptom::Disease	Disease::MESH:D016110	-0.143787608
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D015518	-0.049834006
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D015518	-0.225582466
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:D015518	-0.233787075
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:D015518	-0.160344437
+TCMsymptom::Yan Jing Zhong Tong	Symptom::Disease	Disease::MESH:D015518	-0.45008418
+TCMsymptom::Duo Shi	Symptom::Disease	Disease::MESH:D015464	-0.118909657
+TCMsymptom::Da Bian Zao Jie	Syndrome::Symptom	Disease::MESH:D015223	-0.163698092
+TCMsymptom::Shen Kun Zhong	Symptom::Disease	Disease::MESH:D015223	-0.156508863
+TCMsymptom::Xiao Bian Huang Shao	Symptom::Disease	Disease::MESH:D015223	-0.271658808
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:D015223	-0.188791499
+TCMsymptom::Bi Yang	Symptom::Disease	Disease::MESH:D015223	-0.196588933
+TCMsymptom::Bu Mei	Symptom::Disease	Disease::MESH:D014923	-0.379089922
+TCMsymptom::Kou Gan	Syndrome::Symptom	Disease::MESH:D014923	-0.4223952
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D014923	-0.2173094
+TCMsymptom::Xin Qi Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.082817934
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D014923	-0.335901111
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D014923	-0.151605025
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D014923	-0.123149045
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Syndrome::Symptom	Disease::MESH:D014923	-0.536669314
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D014923	-0.310961425
+TCMsymptom::Er Lou	Syndrome::Symptom	Disease::MESH:D014923	-0.374997586
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.349463463
+TCMsymptom::Jie Zhong	Syndrome::Symptom	Disease::MESH:D014923	-0.170550913
+TCMsymptom::Kou Ku	Symptom::Disease	Disease::MESH:D014923	-0.065005809
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.095969118
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D014923	-0.073408239
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D014923	-0.049827099
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:D014923	-0.194968715
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D014923	-0.347549051
+TCMsymptom::Mian Mu Xi Huang	Syndrome::Symptom	Disease::MESH:D014923	-0.08935567
+TCMsymptom::Nong Pao	Syndrome::Symptom	Disease::MESH:D014923	-0.096941628
+TCMsymptom::Pi Fu Kui Yang	Symptom::Disease	Disease::MESH:D014923	-0.162125945
+TCMsymptom::Pi Man	Symptom::Disease	Disease::MESH:D014923	-0.227713212
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D014923	-0.230409816
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D014923	-0.155613095
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D014923	-0.057859566
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D014923	-0.183704183
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D014923	-0.141233206
+TCMsymptom::Tou Zhong	Syndrome::Symptom	Disease::MESH:D014923	-0.019137906
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D014923	-0.137500286
+TCMsymptom::Guan Fu Pi Man	Syndrome::Symptom	Disease::MESH:D014923	-0.386512578
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D014923	-0.128753752
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:D014923	-0.17665486
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D014923	-0.228504747
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D014923	-0.356157571
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:D014923	-0.290435344
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:D014923	-0.087353207
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D014923	-0.10764803
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D014923	-0.294827104
+TCMsymptom::Xiong Guan Zhang Man	Syndrome::Symptom	Disease::MESH:D014923	-0.350966245
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::Symptom	Disease::MESH:D014923	-0.331791162
+TCMsymptom::Xie Niao	Symptom::Disease	Disease::MESH:D014923	-0.17584604
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D014923	-0.191610977
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D014923	-0.226045921
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D014923	-0.146517187
+TCMsymptom::Jiao Qi Zhong Du	Syndrome::Symptom	Disease::MESH:D014923	-0.334291458
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D014923	-0.152522147
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D014923	-0.38276431
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.104857206
+TCMsymptom::Ting Shi	Syndrome::Symptom	Disease::MESH:D014923	-0.205553338
+TCMsymptom::Guan Fu Zhang Men	Syndrome::Symptom	Disease::MESH:D014923	-0.080713421
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:D014923	-0.194242001
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D014923	-0.123600438
+TCMsymptom::Bian Gan	Symptom::Disease	Disease::MESH:D014923	-0.395929277
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D014923	-0.456184477
+TCMsymptom::Duo Shi	Symptom::Disease	Disease::MESH:D014923	-0.168581441
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.548581958
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.106365763
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D014923	-0.206046268
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:D014923	-0.130127668
+TCMsymptom::Ya Teng	Syndrome::Symptom	Disease::MESH:D014923	-0.234600231
+TCMsymptom::Ru Bi	Syndrome::Symptom	Disease::MESH:D014923	-0.379212528
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.221498281
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D014923	-0.522101402
+TCMsymptom::Bian Bi	Syndrome::Symptom	Disease::MESH:D014923	-0.116667114
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D014923	-0.593677282
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D014923	-0.303652465
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D014923	-0.629270017
+TCMsymptom::Ji Fu Hong	Syndrome::Symptom	Disease::MESH:D014923	-0.010346518
+TCMsymptom::Re Bing Fa Shao	Syndrome::Symptom	Disease::MESH:D014923	-0.168149844
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D014923	-0.110339463
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.044456031
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D014923	-0.285253853
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D014923	-0.547837615
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:D014923	-0.323963195
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D014923	-0.298720419
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::Symptom	Disease::MESH:D014923	-0.078726597
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D014923	-0.516796172
+TCMsymptom::Huo Du Chuang Yang	Syndrome::Symptom	Disease::MESH:D014923	-0.04871735
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:D014923	-0.439546257
+TCMsymptom::Fei Zi	Syndrome::Symptom	Disease::MESH:D014923	-0.07124953
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D014923	-0.38233912
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014923	-0.20678027
+TCMsymptom::Mu An Bu Ming	Syndrome::Symptom	Disease::MESH:D014923	-0.157791585
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D014923	-0.604204595
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D014923	-0.42122218
+TCMsymptom::Tan Chou Nan Chu	Syndrome::Symptom	Disease::MESH:D014923	-0.077793583
+TCMsymptom::Yan Hong	Syndrome::Symptom	Disease::MESH:D014923	-0.150875151
+TCMsymptom::Yan Jing Tong Yang	Symptom::Disease	Disease::MESH:D014923	-0.162501246
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D014923	-0.038284265
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014923	-0.382555902
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D014923	-0.042434238
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:D014923	-0.202140629
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.188868299
+TCMsymptom::Tu Chuang	Syndrome::Symptom	Disease::MESH:D014923	-0.298863769
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D014923	-0.060070153
+TCMsymptom::She Hong	Symptom::Disease	Disease::MESH:D014376	-0.241897345
+TCMsymptom::Fu Zhang Man	Symptom::Disease	Disease::MESH:D014376	-0.247338727
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D014376	-0.112042896
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D014376	-0.285947174
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:D014376	-0.272113919
+TCMsymptom::Xiao Bian Bai Zhuo	Symptom::Disease	Disease::MESH:D014376	-0.16045703
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D014376	-0.236519992
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D014376	-0.109275021
+TCMsymptom::Da Bian Chu Xie	Symptom::Disease	Disease::MESH:D014376	-0.078000613
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D014376	-0.093380347
+TCMsymptom::Ting Zhong	Syndrome::Symptom	Disease::MESH:D014376	-0.08547733
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.267478257
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D014086	-0.315995514
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:D014086	-0.099261984
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:D014086	-0.411890596
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:D014086	-0.726377726
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D014086	-0.027249457
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.596314788
+TCMsymptom::Xiao Bian Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.28701061
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D014086	-0.332148343
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D014086	-0.149330586
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.271616608
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.538406372
+TCMsymptom::Hou Zhong	Syndrome::Symptom	Disease::MESH:D014086	-0.134710357
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:D014086	-0.228536367
+TCMsymptom::Da Bian Gan	Syndrome::Symptom	Disease::MESH:D014086	-0.370893389
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D014086	-0.31654194
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:D014086	-0.189466313
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D014086	-0.452361614
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:D014086	-0.140721858
+TCMsymptom::Feng Yan Lan Xian	Syndrome::Symptom	Disease::MESH:D014086	-0.021114426
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:D014086	-0.127701223
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D014086	-0.448002934
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.482879847
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D014086	-0.367796451
+TCMsymptom::Feng Zhen Sao Yang	Syndrome::Symptom	Disease::MESH:D014086	-0.262338817
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014086	-0.149333
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D014086	-0.322563261
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D014086	-0.085062392
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:D014086	-0.458050489
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D014086	-0.036100898
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:D014071	-0.381444782
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D013700	-0.064167142
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D013700	-0.144037455
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:D013625	-0.067354396
+TCMsymptom::Huang Dan	Symptom::Disease	Disease::MESH:D013625	-0.190316662
+TCMsymptom::Lin Li Teng Tong	Syndrome::Symptom	Disease::MESH:D013625	-0.325443298
+TCMsymptom::Zhong Du	Syndrome::Symptom	Disease::MESH:D013625	-0.120746396
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.030023627
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.10242708
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.111187294
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.014726347
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.03008124
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.029084029
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:D012852	-9.27E-06
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.06192657
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.00038976
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:D012852	-1.48E-06
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.165165439
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.00378772
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.007835662
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.120554
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.222692966
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.002160248
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.044362947
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.104539722
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.232690632
+TCMsymptom::Dao Han	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.108819485
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.056811195
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.009086759
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D012852	-1.14E-05
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.055792574
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.167616174
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.064272352
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.004805843
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:D012852	-0.000372678
+TCMsymptom::Bu Mian	Syndrome::Symptom	Disease::MESH:D012516	-0.261645883
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D012516	-0.505137265
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D012516	-0.201481864
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D012516	-0.24846153
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D012516	-0.312461168
+TCMsymptom::Ru Fang Jie Jie	Syndrome::Symptom	Disease::MESH:D012516	-0.205987185
+TCMsymptom::Wei Guan Shao Zhuo Gan	Syndrome::Symptom	Disease::MESH:D012516	-0.411646605
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D012516	-0.33012411
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D012516	-0.247494712
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D012516	-0.407673955
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D012516	-0.147290647
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:D011535	-0.195069209
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:D011535	-0.191698834
+TCMsymptom::Tou Zhong	Symptom::Disease	Disease::MESH:D011535	-0.106558055
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D011535	-0.032697029
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D011087	-0.217256367
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:D011087	-0.154202938
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Disease::MESH:D011087	-0.296478689
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D011087	-0.136529341
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:D010282	-0.389660597
+TCMsymptom::Er Lou	Symptom::Disease	Disease::MESH:D010282	-0.249085233
+TCMsymptom::Shi Re Xia Zhu	Symptom::Disease	Disease::MESH:D010282	-0.317768037
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D010282	-0.380463481
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:D010282	-0.267566711
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D010282	-0.216689914
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D010282	-0.081351936
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:D010282	-0.110678405
+TCMsymptom::Zheng Jia Pi Kuai	Syndrome::Symptom	Disease::MESH:D010282	-0.206366405
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D010282	-0.255661011
+TCMsymptom::Ou Tu E Ni	Symptom::Disease	Disease::MESH:D010282	-0.378185004
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:D010282	-0.503440082
+TCMsymptom::Wei Suan Guo Duo	Symptom::Disease	Disease::MESH:D010282	-0.270991176
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D010282	-0.408616036
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D010282	-0.153642833
+TCMsymptom::Yong Ju Ding Du	Symptom::Disease	Disease::MESH:D010282	-0.469831228
+TCMsymptom::Jie Xian Sao Yang	Syndrome::Symptom	Disease::MESH:D010282	-0.279897064
+TCMsymptom::Yan Hong Zhong Tong	Symptom::Disease	Disease::MESH:D010282	-0.230115652
+TCMsymptom::Yan Hou Bu Li	Syndrome::Symptom	Disease::MESH:D010282	-0.273099542
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D009477	-0.061049189
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D009477	-0.347804844
+TCMsymptom::She Sheng Chuang	Syndrome::Symptom	Disease::MESH:D009477	-0.171322897
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D009477	-0.369816095
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D009477	-0.056874733
+TCMsymptom::Er Long	Symptom::Disease	Disease::MESH:D009477	-0.079227738
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D009477	-0.276842952
+TCMsymptom::Niao Se Chi Huang	Syndrome::Symptom	Disease::MESH:D009477	-0.338984668
+TCMsymptom::Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D009477	-0.179647312
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D009477	-0.379402459
+TCMsymptom::Tou Tong Ru Guo	Syndrome::Symptom	Disease::MESH:D009477	-0.055988554
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D009477	-0.281948358
+TCMsymptom::Xiao Bian Di Li Bu Jing	Syndrome::Symptom	Disease::MESH:D009477	-0.132044569
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:D009477	-0.141352907
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D009477	-0.257283002
+TCMsymptom::Xiong Ge Pi Men	Syndrome::Symptom	Disease::MESH:D009477	-0.2433341
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D009477	-0.281552464
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D009477	-0.316806465
+TCMsymptom::Xiong Xie Pi Men	Syndrome::Symptom	Disease::MESH:D009477	-0.231268808
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D009477	-0.202304766
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D009477	-0.509359717
+TCMsymptom::Xiao Er Man Liang	Symptom::Disease	Disease::MESH:D009477	-0.240490735
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D009477	-0.16433613
+TCMsymptom::Mian Huang	Syndrome::Symptom	Disease::MESH:D009477	-0.303736538
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D009477	-0.311428964
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D009477	-0.312864691
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:D009477	-0.418756008
+TCMsymptom::E Chuang	Syndrome::Symptom	Disease::MESH:D009477	-0.342268199
+TCMsymptom::Fen Ci	Syndrome::Symptom	Disease::MESH:D009477	-0.213900864
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:D009477	-0.016669584
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D009477	-0.215976164
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D009477	-0.280938238
+TCMsymptom::Yue Jing Ti Qian	Symptom::Disease	Disease::MESH:D009477	-0.318417221
+TCMsymptom::Bi Sai	Symptom::Disease	Disease::MESH:D009477	-0.10939189
+TCMsymptom::Bi Yang	Syndrome::Symptom	Disease::MESH:D009477	-0.250477314
+TCMsymptom::Tan Chou	Syndrome::Symptom	Disease::MESH:D009477	-0.10417904
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D009477	-0.08841034
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D009203	-0.456746012
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D009203	-0.190238997
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:D009203	-0.363432556
+TCMsymptom::Shen Huang	Symptom::Disease	Disease::MESH:D009203	-0.140239999
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:D009203	-0.353257388
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:D009203	-0.083884686
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:D009203	-0.007460015
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:D009101	-0.026389237
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D009101	-0.131709412
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D009101	-0.197364256
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:D009101	-0.130922511
+TCMsymptom::Yan Hou Zhuo Re	Syndrome::Symptom	Disease::MESH:D009101	-0.137178198
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D009101	-0.265218467
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D008881	-0.485998064
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Disease::MESH:D008881	-0.667285562
+TCMsymptom::Xie Xie Ji Po	Symptom::Disease	Disease::MESH:D008881	-0.281032771
+TCMsymptom::Xiong Guan Pi Men	Symptom::Disease	Disease::MESH:D008881	-0.281978071
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D008881	-0.345330387
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:D008881	-0.206603751
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:D008881	-0.190957069
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:D008881	-0.216069534
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:D008881	-0.33509028
+TCMsymptom::Yong Ju Zhong Tong	Symptom::Disease	Disease::MESH:D008881	-0.409823
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Disease::MESH:D008881	-0.174427256
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:D008881	-0.124216609
+TCMsymptom::Zhi Ti Chen Zhong	Symptom::Disease	Disease::MESH:D006973	-0.244918555
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D006973	-0.216906816
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D006973	-0.079392947
+TCMsymptom::Zhi Ti Xiong Tong	Symptom::Disease	Disease::MESH:D006958	-0.537837327
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D006933	-0.140782684
+TCMsymptom::E Xin	Symptom::Disease	Disease::MESH:D006933	-0.007216201
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D006933	-0.084667824
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:D006933	-0.291640401
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D006933	-0.090526536
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:D006933	-0.254430979
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:D006933	-0.352103651
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:D006933	-0.307626992
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D006933	-0.232371718
+TCMsymptom::Xiong Xie Pi Men	Symptom::Disease	Disease::MESH:D006933	-0.230242833
+TCMsymptom::Xiao Er Liang Ti	Symptom::Disease	Disease::MESH:D006933	-0.387805253
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D006933	-0.171475694
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:D006933	-0.191383108
+TCMsymptom::Mu Chi Hun Hua	Symptom::Disease	Disease::MESH:D006933	-0.088075198
+TCMsymptom::Yan Tong	Symptom::Disease	Disease::MESH:D006933	-0.493900985
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:D006933	-0.327572942
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D006502	-0.376995534
+TCMsymptom::Lin Zhuo	Symptom::Disease	Disease::MESH:D006502	-0.129124865
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D006502	-0.076875888
+TCMsymptom::Mao Fa You Ni	Syndrome::Symptom	Disease::MESH:D006502	-0.130957693
+TCMsymptom::Na Cha	Symptom::Disease	Disease::MESH:D006502	-0.341954917
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:D006502	-0.234317645
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D006502	-0.14762415
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.082243346
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D006502	-0.238083586
+TCMsymptom::She Pang	Syndrome::Symptom	Disease::MESH:D006502	-0.066511922
+TCMsymptom::Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D006502	-0.157446548
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D006502	-0.183275908
+TCMsymptom::Shi Bi Ju Luan	Syndrome::Symptom	Disease::MESH:D006502	-0.082540445
+TCMsymptom::Sou Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.219947726
+TCMsymptom::Xiao Bian Lin Zhuo	Symptom::Disease	Disease::MESH:D006502	-0.149948865
+TCMsymptom::Xiao Er Ji Liang	Syndrome::Symptom	Disease::MESH:D006502	-0.523795962
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:D006502	-0.134316593
+TCMsymptom::Xiong Guan Zhang Men	Syndrome::Symptom	Disease::MESH:D006502	-0.25611645
+TCMsymptom::Xiong Zhong Men Tong	Symptom::Disease	Disease::MESH:D006502	-0.224104941
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:D006502	-0.256965965
+TCMsymptom::Zhuo Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.136445776
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.168591246
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D006502	-0.194172159
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:D006502	-0.034250688
+TCMsymptom::Zhi Ti Zhong	Syndrome::Symptom	Disease::MESH:D006502	-0.10340254
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D006502	-0.234801471
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.512943387
+TCMsymptom::Xi Suan Ruan	Syndrome::Symptom	Disease::MESH:D006502	-0.161059216
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:D006502	-0.289741904
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D006502	-0.21363391
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D006502	-0.15385592
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D006502	-0.339118421
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D006502	-0.036401119
+TCMsymptom::Da Bian Gan Zao	Syndrome::Symptom	Disease::MESH:D006502	-0.269167542
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::Symptom	Disease::MESH:D006502	-0.172624186
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:D006502	-0.093128286
+TCMsymptom::Ru Yong	Syndrome::Symptom	Disease::MESH:D006502	-0.050874036
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D006502	-0.152845964
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D006502	-0.033242479
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D006502	-0.318027318
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D006502	-0.188909858
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D006502	-0.330015421
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:D006502	-0.103154741
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D006502	-0.492379665
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.194153324
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D006502	-0.444998205
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D006502	-0.558664858
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D006502	-0.179740205
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::Symptom	Disease::MESH:D006502	-0.084766455
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D006502	-0.583563983
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D006502	-0.520308375
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D006502	-0.27301234
+TCMsymptom::Mu An Hun Hua	Syndrome::Symptom	Disease::MESH:D006502	-0.167519614
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D006502	-0.601328313
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.236981094
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D006502	-0.178371727
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Disease::MESH:D006502	-0.360561073
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D006502	-0.055196308
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D006502	-0.025778815
+TCMsymptom::Zhuo Ti Chou Qi	Symptom::Disease	Disease::MESH:D006502	-0.031020876
+TCMsymptom::Zhuo Ti Chou Qi	Syndrome::Symptom	Disease::MESH:D006502	-0.042829603
+TCMsymptom::Yan Hou Gan Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.04626425
+TCMsymptom::Ya Ken Teng Tong	Syndrome::Symptom	Disease::MESH:D006502	-0.032611553
+TCMsymptom::Mu An	Syndrome::Symptom	Disease::MESH:D006502	-0.203301907
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:D006333	-0.240649283
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:D006333	-0.096351273
+TCMsymptom::Tu Nong	Syndrome::Symptom	Disease::MESH:D006333	-0.102787368
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D006333	-0.482699424
+TCMsymptom::Huang Ju	Symptom::Disease	Disease::MESH:D006333	-0.277682632
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:D006333	-0.189317212
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D006014	-0.013615345
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:D005891	-0.049813498
+TCMsymptom::Bu Mei	Syndrome::Symptom	Disease::MESH:D005693	-0.528393388
+TCMsymptom::Mian Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.364408672
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.051502027
+TCMsymptom::She Jian Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.116328217
+TCMsymptom::Xiao Bian Chi Se	Syndrome::Symptom	Disease::MESH:D005693	-0.06589023
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:D005693	-0.212120444
+TCMsymptom::Ye Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.259954482
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.311114669
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:D005693	-0.192375347
+TCMsymptom::Xie Re Fa Ban	Syndrome::Symptom	Disease::MESH:D005693	-0.037430435
+TCMsymptom::Xie Re Fa Zhen	Syndrome::Symptom	Disease::MESH:D005693	-0.184487745
+TCMsymptom::Bian Huang Er Nian	Syndrome::Symptom	Disease::MESH:D005693	-0.057344183
+TCMsymptom::Bu Xi Re Yin	Syndrome::Symptom	Disease::MESH:D005693	-0.313108742
+TCMsymptom::E Xin	Syndrome::Symptom	Disease::MESH:D005693	-0.121404737
+TCMsymptom::Er Xia Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.119009607
+TCMsymptom::Fu Zhang Man	Syndrome::Symptom	Disease::MESH:D005693	-0.133858606
+TCMsymptom::Kou Ku	Syndrome::Symptom	Disease::MESH:D005693	-0.061422341
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.50964129
+TCMsymptom::Lin Zhuo	Syndrome::Symptom	Disease::MESH:D005693	-0.059370439
+TCMsymptom::Liu Huang Chou Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.024535323
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:D005693	-0.040658101
+TCMsymptom::Na Cha	Syndrome::Symptom	Disease::MESH:D005693	-0.360660255
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Disease::MESH:D005693	-0.079563767
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:D005693	-0.061681513
+TCMsymptom::Niao Hun Zhuo	Syndrome::Symptom	Disease::MESH:D005693	-0.173648342
+TCMsymptom::Nong Shui	Syndrome::Symptom	Disease::MESH:D005693	-0.327287078
+TCMsymptom::Nong Tan	Syndrome::Symptom	Disease::MESH:D005693	-0.154003844
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.03544496
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::Symptom	Disease::MESH:D005693	-0.010217
+TCMsymptom::Qian Biao Nong Pao	Syndrome::Symptom	Disease::MESH:D005693	-0.057474848
+TCMsymptom::Re Bi Teng Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.098897763
+TCMsymptom::Re Lin Zheng	Syndrome::Symptom	Disease::MESH:D005693	-0.287774265
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D005693	-0.195049837
+TCMsymptom::She Ti Pang Da	Syndrome::Symptom	Disease::MESH:D005693	-0.16944018
+TCMsymptom::Shen Re	Syndrome::Symptom	Disease::MESH:D005693	-0.236430734
+TCMsymptom::Shi Bi Ju Luan	Syndrome::Symptom	Disease::MESH:D005693	-0.072577409
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	Syndrome::Symptom	Disease::MESH:D005693	-0.233798236
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:D005693	-0.339524716
+TCMsymptom::Shi Lin	Syndrome::Symptom	Disease::MESH:D005693	-0.18534258
+TCMsymptom::Tou Tong Ru Guo	Syndrome::Symptom	Disease::MESH:D005693	-0.147519484
+TCMsymptom::Tou Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.20624122
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.090327844
+TCMsymptom::Guan Pi	Syndrome::Symptom	Disease::MESH:D005693	-0.198645696
+TCMsymptom::Xi Suan Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.039136145
+TCMsymptom::Xia Li Chou Hui	Syndrome::Symptom	Disease::MESH:D005693	-0.240081251
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.232654944
+TCMsymptom::Xia Li Nong Xie	Symptom::Disease	Disease::MESH:D005693	-0.38812384
+TCMsymptom::Xia Zhi Chen Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.232481256
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::Symptom	Disease::MESH:D005693	-0.071288191
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:D005693	-0.187773854
+TCMsymptom::Xiao Fu Man	Syndrome::Symptom	Disease::MESH:D005693	-0.065029807
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.105271615
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:D005693	-0.342675716
+TCMsymptom::Xiong Ge Pi Sai	Syndrome::Symptom	Disease::MESH:D005693	-0.330496192
+TCMsymptom::Xiong Man Yu Men	Syndrome::Symptom	Disease::MESH:D005693	-0.269512355
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:D005693	-0.290805757
+TCMsymptom::Xiong Guan Man Men	Syndrome::Symptom	Disease::MESH:D005693	-0.073228002
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.096252456
+TCMsymptom::Xiong Zhang Man	Syndrome::Symptom	Disease::MESH:D005693	-0.120545641
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:D005693	-0.028200135
+TCMsymptom::Xiong Zhong Men Re	Syndrome::Symptom	Disease::MESH:D005693	-0.102563299
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:D005693	-0.169631124
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.229492888
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Syndrome::Symptom	Disease::MESH:D005693	-0.43987456
+TCMsymptom::Zhang Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.107445426
+TCMsymptom::Zhi Ti Chen Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.290114909
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.038316589
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:D005693	-0.336739153
+TCMsymptom::Xiao Er Ji Liang Feng	Syndrome::Symptom	Disease::MESH:D005693	-0.386668801
+TCMsymptom::Xiao Er Liang Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.183614984
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:D005693	-0.227422133
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:D005693	-0.060190085
+TCMsymptom::Xiao Er Man Liang	Syndrome::Symptom	Disease::MESH:D005693	-0.186544657
+TCMsymptom::Dai Xia Se Chi	Syndrome::Symptom	Disease::MESH:D005693	-0.279343009
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.061273932
+TCMsymptom::Shi Bi	Syndrome::Symptom	Disease::MESH:D005693	-0.098216452
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D005693	-0.519934177
+TCMsymptom::Nong Shui Lin Li	Syndrome::Symptom	Disease::MESH:D005693	-0.075717196
+TCMsymptom::Xie Lin Se Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.156722054
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:D005693	-0.149910092
+TCMsymptom::Cao Za	Syndrome::Symptom	Disease::MESH:D005693	-0.334632695
+TCMsymptom::Cao Za Ou Tu	Syndrome::Symptom	Disease::MESH:D005693	-0.053547245
+TCMsymptom::Mian Huang	Symptom::Disease	Disease::MESH:D005693	-0.413135976
+TCMsymptom::Shen Huang	Syndrome::Symptom	Disease::MESH:D005693	-0.188046694
+TCMsymptom::Kou Ke	Syndrome::Symptom	Disease::MESH:D005693	-0.29097864
+TCMsymptom::Li Ji Hou Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.036571
+TCMsymptom::Bian Gan	Syndrome::Symptom	Disease::MESH:D005693	-0.203481495
+TCMsymptom::Bian Jie	Syndrome::Symptom	Disease::MESH:D005693	-0.14434509
+TCMsymptom::Da Bian Chu Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.102270678
+TCMsymptom::Duo Shi	Syndrome::Symptom	Disease::MESH:D005693	-0.320481777
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:D005693	-0.235518336
+TCMsymptom::E Ni	Syndrome::Symptom	Disease::MESH:D005693	-0.00772193
+TCMsymptom::Qu Chi Teng Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.503773689
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:D005693	-0.122309089
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.282713562
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:D005693	-0.32483092
+TCMsymptom::Wei Chang Ji Re	Syndrome::Symptom	Disease::MESH:D005693	-0.293223709
+TCMsymptom::Wei Suan Guo Duo	Syndrome::Symptom	Disease::MESH:D005693	-0.148199201
+TCMsymptom::Wei Guan Bu Shu	Syndrome::Symptom	Disease::MESH:D005693	-0.2954247
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::Symptom	Disease::MESH:D005693	-0.274255097
+TCMsymptom::Yi Ji	Syndrome::Symptom	Disease::MESH:D005693	-0.242089316
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.243601218
+TCMsymptom::Wu Xin Fan Re	Syndrome::Symptom	Disease::MESH:D005693	-0.024154402
+TCMsymptom::Xiao Shou	Syndrome::Symptom	Disease::MESH:D005693	-0.404334873
+TCMsymptom::Xing Ti Xiao Shou	Syndrome::Symptom	Disease::MESH:D005693	-0.057119433
+TCMsymptom::Bao Fa Huo Yan	Syndrome::Symptom	Disease::MESH:D005693	-0.368063599
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:D005693	-0.21723859
+TCMsymptom::Bian Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.067207642
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.206349999
+TCMsymptom::Chi Bi Nv Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.404454619
+TCMsymptom::Chi Lv Hong Ban	Syndrome::Symptom	Disease::MESH:D005693	-0.236602753
+TCMsymptom::E Chuang	Syndrome::Symptom	Disease::MESH:D005693	-0.096829288
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.182860225
+TCMsymptom::Fu Rou Bu Qu	Syndrome::Symptom	Disease::MESH:D005693	-0.178938359
+TCMsymptom::Hong Re	Syndrome::Symptom	Disease::MESH:D005693	-0.421347886
+TCMsymptom::Jian Xian Chi Lan	Syndrome::Symptom	Disease::MESH:D005693	-0.266821146
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.182340577
+TCMsymptom::Liang Sai Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.482926607
+TCMsymptom::Liang Sai Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.230183348
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.261964053
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.072946325
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.157207564
+TCMsymptom::Ren Shen Tai Lou	Syndrome::Symptom	Disease::MESH:D005693	-0.327746451
+TCMsymptom::Sai Xian Yan Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.043497484
+TCMsymptom::Sai Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.31781143
+TCMsymptom::She An Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.058087263
+TCMsymptom::She Chi	Syndrome::Symptom	Disease::MESH:D005693	-0.032636125
+TCMsymptom::Tai Lou	Syndrome::Symptom	Disease::MESH:D005693	-0.548879325
+TCMsymptom::Yong Ju Bu Kui	Syndrome::Symptom	Disease::MESH:D005693	-0.400004804
+TCMsymptom::Yong Ju Ding Du	Syndrome::Symptom	Disease::MESH:D005693	-0.415053159
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:D005693	-0.171807393
+TCMsymptom::Yong Ju Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.496448845
+TCMsymptom::Yong Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.064388126
+TCMsymptom::Yue Jing Ti Qian	Syndrome::Symptom	Disease::MESH:D005693	-0.150427476
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.042565376
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.158255592
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.188677296
+TCMsymptom::Er Bian Bu Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.278438509
+TCMsymptom::Tian Pao Chuang	Syndrome::Symptom	Disease::MESH:D005693	-0.386176705
+TCMsymptom::E Lu Bu Jin	Syndrome::Symptom	Disease::MESH:D005693	-0.065261208
+TCMsymptom::E Lu Bu Xing	Syndrome::Symptom	Disease::MESH:D005693	-0.561255932
+TCMsymptom::Xin Zhong	Syndrome::Symptom	Disease::MESH:D005693	-0.227248505
+TCMsymptom::Liao Chuang	Syndrome::Symptom	Disease::MESH:D005693	-0.365178078
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::Symptom	Disease::MESH:D005693	-0.084006555
+TCMsymptom::Zhi Zhong Chu Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.294711977
+TCMsymptom::Fei Zi	Syndrome::Symptom	Disease::MESH:D005693	-0.137380287
+TCMsymptom::Hong Zhen	Syndrome::Symptom	Disease::MESH:D005693	-0.09740591
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:D005693	-0.027839731
+TCMsymptom::Lian Chuang	Syndrome::Symptom	Disease::MESH:D005693	-0.541172564
+TCMsymptom::Bi Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.23102358
+TCMsymptom::Feng Zhen Fa Hong	Syndrome::Symptom	Disease::MESH:D005693	-0.401438802
+TCMsymptom::Ge Tan Se Huang	Syndrome::Symptom	Disease::MESH:D005693	-0.165469274
+TCMsymptom::Hou Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.378051668
+TCMsymptom::Liu Huang Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.116333187
+TCMsymptom::Liu Zhuo Ti	Syndrome::Symptom	Disease::MESH:D005693	-0.19309999
+TCMsymptom::Mu An Bu Ming	Syndrome::Symptom	Disease::MESH:D005693	-0.292487174
+TCMsymptom::Mu Hua	Syndrome::Symptom	Disease::MESH:D005693	-0.496738017
+TCMsymptom::Mu Sheng Yun Yi	Syndrome::Symptom	Disease::MESH:D005693	-0.402782172
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.262442827
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.221806705
+TCMsymptom::Sao Yang Nan Ren	Syndrome::Symptom	Disease::MESH:D005693	-0.469590038
+TCMsymptom::Tuo Xie	Syndrome::Symptom	Disease::MESH:D005693	-0.113441803
+TCMsymptom::Ya Ken Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.287302464
+TCMsymptom::Yan Bu Bu Shi	Syndrome::Symptom	Disease::MESH:D005693	-0.30208838
+TCMsymptom::Yan Bu Zhong Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.044483654
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Disease::MESH:D005693	-0.169195846
+TCMsymptom::Yan Hou Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.05335889
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.378097892
+TCMsymptom::Yan Bian Ci Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.109963246
+TCMsymptom::Yan Jing Tong Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.180419385
+TCMsymptom::Yan Sheng Yi Mo	Syndrome::Symptom	Disease::MESH:D005693	-0.02762806
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:D005693	-0.041776322
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:D005693	-0.073957227
+TCMsymptom::Mu Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.115234293
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:D005693	-0.218987375
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Disease::MESH:D005693	-0.153883532
+TCMsymptom::Pi Fu Kui Yang	Syndrome::Symptom	Disease::MESH:D003924	-0.092204235
+TCMsymptom::Chang Ming	Syndrome::Symptom	Disease::MESH:D003924	-0.283325225
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:D003744	-0.349730372
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:D003744	-0.122995943
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D003744	-0.252628416
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D003744	-0.047664192
+TCMsymptom::Chang Feng Bian Xie	Syndrome::Symptom	Disease::MESH:D003744	-0.279846042
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Disease::MESH:D003719	-0.127840087
+TCMsymptom::Xie Lei Teng Tong	Syndrome::Symptom	Disease::MESH:D003719	-0.051208809
+TCMsymptom::Xie Xie	Syndrome::Symptom	Disease::MESH:D003719	-0.134434238
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:D003719	-0.341351926
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:D003550	-0.181303635
+TCMsymptom::Da Bian Nong Xie	Symptom::Disease	Disease::MESH:D003324	-0.147057742
+TCMsymptom::Kou She Sheng Chuang	Symptom::Disease	Disease::MESH:D003324	-0.474255681
+TCMsymptom::Xin Tong	Symptom::Disease	Disease::MESH:D003324	-0.119018868
+TCMsymptom::Guan Pi	Symptom::Disease	Disease::MESH:D003324	-0.205475494
+TCMsymptom::Xiong Pi	Symptom::Disease	Disease::MESH:D003324	-0.29918918
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:D003324	-0.316749811
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D003324	-0.059370317
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:D003324	-0.341632962
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D002609	-0.097425275
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:D002609	-0.051872104
+TCMsymptom::Fu Ren Zang Zao	Symptom::Disease	Disease::MESH:D002609	-0.074685082
+TCMsymptom::Gan Qu Zhang Tong	Symptom::Disease	Disease::MESH:D002609	-0.046645314
+TCMsymptom::Mu Huang	Symptom::Disease	Disease::MESH:D002609	-0.272206277
+TCMsymptom::Niao Chi	Symptom::Disease	Disease::MESH:D002609	-0.055937428
+TCMsymptom::Niao Huang Ru Cha	Symptom::Disease	Disease::MESH:D002609	-0.015197009
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D002609	-0.332596511
+TCMsymptom::Re Du Xie Li	Symptom::Disease	Disease::MESH:D002609	-0.669286132
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:D002609	-0.107526489
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:D002609	-0.311738819
+TCMsymptom::Xiao Bian Se Tong	Symptom::Disease	Disease::MESH:D002609	-0.066597506
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:D002609	-0.200868055
+TCMsymptom::Xiong Ge Pi Men	Symptom::Disease	Disease::MESH:D002609	-0.140355811
+TCMsymptom::Zhi Ti Suan Zhong	Symptom::Disease	Disease::MESH:D002609	-0.093633451
+TCMsymptom::Chi Bai Dai Xia	Symptom::Disease	Disease::MESH:D002609	-0.146812633
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:D002609	-0.188220054
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:D002609	-0.107522719
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:D002609	-0.035933103
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:D002609	-0.287894815
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:D002609	-0.434014648
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:D002609	-0.176815912
+TCMsymptom::Liang Sai Zhong	Symptom::Disease	Disease::MESH:D002609	-0.287018359
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Disease::MESH:D002609	-0.119945616
+TCMsymptom::Nv Xie	Symptom::Disease	Disease::MESH:D002609	-0.206711143
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:D002609	-0.277665734
+TCMsymptom::Yong Zhong	Symptom::Disease	Disease::MESH:D002609	-0.020342907
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D002609	-0.099822164
+TCMsymptom::Hong Zhen	Symptom::Disease	Disease::MESH:D002609	-0.082304247
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:D002609	-0.101355664
+TCMsymptom::Mu Se	Symptom::Disease	Disease::MESH:D002609	-0.058725566
+TCMsymptom::Sao Yang Ming Xian	Symptom::Disease	Disease::MESH:D002609	-0.211629331
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:D002609	-0.074609585
+TCMsymptom::Zhuo Ti	Symptom::Disease	Disease::MESH:D002609	-0.479890108
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.266902447
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.092974059
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.006340126
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.001361984
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:D001816	-3.41E-06
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.000937582
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.020006616
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.010319891
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.209861174
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:D001816	-0.156536981
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:D001249	-0.179055899
+TCMsymptom::She Hong Tai Huang Ni	Syndrome::Symptom	Disease::MESH:D001249	-0.172460392
+TCMsymptom::Tou Shen Kun Zhong	Syndrome::Symptom	Disease::MESH:D001249	-0.058447756
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:D001249	-0.161798403
+TCMsymptom::Wei Huo Ya Tong	Syndrome::Symptom	Disease::MESH:D001249	-0.375561684
+TCMsymptom::Kou Ke Xi Yin	Symptom::Disease	Disease::MESH:D000795	-0.242411286
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D000795	-0.239872485
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:D000795	-0.2097141
+TCMsymptom::Dai Xia Se Huang Zhi Chou	Symptom::Disease	Disease::MESH:D000795	-0.564035892
+TCMsymptom::Er Xia Zhong Tong	Symptom::Disease	Disease::MESH:D000795	-0.404309392
+TCMsymptom::Mao Fa You Ni	Symptom::Disease	Disease::MESH:D000795	-0.33729881
+TCMsymptom::Nong Tan	Symptom::Disease	Disease::MESH:D000795	-0.217818871
+TCMsymptom::Pi Fu Nian Mo Po Kui	Symptom::Disease	Disease::MESH:D000795	-0.045668323
+TCMsymptom::Shi Lin	Symptom::Disease	Disease::MESH:D000795	-0.256516427
+TCMsymptom::Tou Tong Ru Guo	Symptom::Disease	Disease::MESH:D000795	-0.166576311
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:D000795	-0.066605113
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:D000795	-0.3230775
+TCMsymptom::Xiong Fu Zhang Men	Symptom::Disease	Disease::MESH:D000795	-0.253993273
+TCMsymptom::Yue Jing Liang Duo    Wei Chou	Symptom::Disease	Disease::MESH:D000795	-0.342722446
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:D000795	-0.434509605
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:D000795	-0.433268279
+TCMsymptom::Ru Bi	Symptom::Disease	Disease::MESH:D000795	-0.274303854
+TCMsymptom::Dao Han	Symptom::Disease	Disease::MESH:D000795	-0.178571314
+TCMsymptom::Dong Zhe Han Chu	Symptom::Disease	Disease::MESH:D000795	-0.347419977
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:D000795	-0.109005168
+TCMsymptom::Liang Sai Tong	Symptom::Disease	Disease::MESH:D000795	-0.462256223
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:D000795	-0.104675889
+TCMsymptom::Fei Zi	Symptom::Disease	Disease::MESH:D000795	-0.208798587
+TCMsymptom::Jie Xian Sao Yang	Symptom::Disease	Disease::MESH:D000795	-0.187511221
+TCMsymptom::Liu Huang Zhuo Ti	Symptom::Disease	Disease::MESH:D000795	-0.235723481
+TCMsymptom::Tan Re Ke Sou	Symptom::Disease	Disease::MESH:D000795	-0.360561937
+TCMsymptom::She Sheng Chuang	Symptom::Disease	Disease::MESH:D000755	-0.196298227
+TCMsymptom::Jie Zhong	Symptom::Disease	Disease::MESH:D000755	-0.181868836
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:D000755	-0.142127484
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D000755	-0.288866311
+TCMsymptom::Shi Lin	Symptom::Disease	Disease::MESH:D000755	-0.218453959
+TCMsymptom::Xi Suan Tong	Symptom::Disease	Disease::MESH:D000755	-0.107788712
+TCMsymptom::Xia Li Chou Hui	Symptom::Disease	Disease::MESH:D000755	-0.136837825
+TCMsymptom::Xie Lei Teng Tong	Symptom::Disease	Disease::MESH:D000755	-0.073729604
+TCMsymptom::Gang Men Zhuo Re	Symptom::Disease	Disease::MESH:D000755	-0.285539985
+TCMsymptom::Ru Fang Teng Tong	Symptom::Disease	Disease::MESH:D000755	-0.197295338
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:D000755	-0.028362814
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:D000755	-0.046105623
+TCMsymptom::Zhong Du	Symptom::Disease	Disease::MESH:D000755	-0.08110562
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D000755	-0.09390562
+TCMsymptom::Kou She Gan Zao	Symptom::Disease	Disease::MESH:D000740	-0.271233439
+TCMsymptom::Kou She Gan Zao	Syndrome::Symptom	Disease::MESH:D000740	-0.327721089
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:D000740	-0.180615008
+TCMsymptom::Guan Jie Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D000740	-0.238348484
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:D000740	-0.155676514
+TCMsymptom::Pi Fu Shi Zhen	Symptom::Disease	Disease::MESH:D000740	-0.331290871
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:D000740	-0.160775021
+TCMsymptom::Xiao Er Ji Liang	Symptom::Disease	Disease::MESH:D000740	-0.46550259
+TCMsymptom::Xiong Guan Pi Men	Syndrome::Symptom	Disease::MESH:D000740	-0.272626966
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:D000740	-0.070186473
+TCMsymptom::Guan Fu Pi Man Zhang Tong	Symptom::Disease	Disease::MESH:D000740	-0.540520608
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:D000740	-0.177994221
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Disease::MESH:D000740	-0.257380694
+TCMsymptom::Ru Xian Zeng Sheng	Syndrome::Symptom	Disease::MESH:D000740	-0.113094464
+TCMsymptom::Wei Re	Symptom::Disease	Disease::MESH:D000740	-0.395813912
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:D000740	-0.42214635
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:D000740	-0.191012725
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:D000740	-0.119712099
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Disease::MESH:D000740	-0.234728515
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:D000740	-0.099180758
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:D000740	-0.139484823
+TCMsymptom::Yong Ju Nan Kui	Symptom::Disease	Disease::MESH:D000740	-0.205255926
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:D000740	-0.232502654
+TCMsymptom::Tian Pao Chuang	Symptom::Disease	Disease::MESH:D000740	-0.299053967
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:D000740	-0.035508383
+TCMsymptom::Mu Yang	Syndrome::Symptom	Disease::MESH:D000740	-0.215664238
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:D000740	-0.275805086
+TCMsymptom::Yan Tong	Symptom::Disease	Disease::MESH:D000740	-0.521125913
+TCMsymptom::Feng Zhen	Symptom::Disease	Disease::MESH:D000740	-0.109682545
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:D000012	-0.215507433
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:D000012	-0.016649244
+TCMsymptom::Fu Ren Zang Zao	Syndrome::Symptom	Disease::MESH:C567642	-0.175366879
+TCMsymptom::Fu Zhang	Syndrome::Symptom	Disease::MESH:C567642	-0.167903423
+TCMsymptom::Fu Zhang Man	Syndrome::Symptom	Disease::MESH:C567642	-0.197444588
+TCMsymptom::Jing Shui Lin Li Bu Jing	Syndrome::Symptom	Disease::MESH:C567642	-0.307917178
+TCMsymptom::Kou She Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.527518451
+TCMsymptom::Liang Xie Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.180189028
+TCMsymptom::Niao Dao Zhuo Re	Syndrome::Symptom	Disease::MESH:C567642	-0.089156441
+TCMsymptom::Niao Huang Ru Cha	Syndrome::Symptom	Disease::MESH:C567642	-0.080599003
+TCMsymptom::Niao Re	Syndrome::Symptom	Disease::MESH:C567642	-0.115687259
+TCMsymptom::Niao Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.17975013
+TCMsymptom::Nong Pao	Syndrome::Symptom	Disease::MESH:C567642	-0.195692047
+TCMsymptom::Pi Fu Mi Lan	Syndrome::Symptom	Disease::MESH:C567642	-0.130444363
+TCMsymptom::Pi Fu Nian Mo Po Kui	Syndrome::Symptom	Disease::MESH:C567642	-0.032737371
+TCMsymptom::Pi Men	Syndrome::Symptom	Disease::MESH:C567642	-0.075383112
+TCMsymptom::Re Du Xie Li	Syndrome::Symptom	Disease::MESH:C567642	-0.724589169
+TCMsymptom::She Ti Zhong	Syndrome::Symptom	Disease::MESH:C567642	-0.234069899
+TCMsymptom::Shi Chuang	Syndrome::Symptom	Disease::MESH:C567642	-0.186364561
+TCMsymptom::Shi Re Xia Zhu	Syndrome::Symptom	Disease::MESH:C567642	-0.172985107
+TCMsymptom::Ting Shuai	Syndrome::Symptom	Disease::MESH:C567642	-0.091369867
+TCMsymptom::Xia Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.559540629
+TCMsymptom::Xia Li Nong Xie	Syndrome::Symptom	Disease::MESH:C567642	-0.163596943
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C567642	-0.220616505
+TCMsymptom::Xiao Fu Zhang	Syndrome::Symptom	Disease::MESH:C567642	-0.260919571
+TCMsymptom::Xiao Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.037663274
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C567642	-0.160509273
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.122930072
+TCMsymptom::Xie Lin	Syndrome::Symptom	Disease::MESH:C567642	-0.060798146
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:C567642	-0.212630793
+TCMsymptom::Dai Xia Yin Yang	Syndrome::Symptom	Disease::MESH:C567642	-0.16684854
+TCMsymptom::Shi Bi Bing	Syndrome::Symptom	Disease::MESH:C567642	-0.146769643
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C567642	-0.329563081
+TCMsymptom::Pin Er Liu Nong	Syndrome::Symptom	Disease::MESH:C567642	-0.135650411
+TCMsymptom::Chi Bai Dai Xia	Syndrome::Symptom	Disease::MESH:C567642	-0.27000308
+TCMsymptom::Huang Shui Lin Li	Syndrome::Symptom	Disease::MESH:C567642	-0.534043968
+TCMsymptom::Qi Fu Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.209574878
+TCMsymptom::Gang Men Teng Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.383426607
+TCMsymptom::Xie Li Hou Zhong	Syndrome::Symptom	Disease::MESH:C567642	-0.275887221
+TCMsymptom::Cao Za Si Ji	Syndrome::Symptom	Disease::MESH:C567642	-0.298394471
+TCMsymptom::Ru Fang Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.031025058
+TCMsymptom::Ru Zhang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.057242531
+TCMsymptom::Wei Guan Cao Za Bu Shi	Syndrome::Symptom	Disease::MESH:C567642	-0.109242253
+TCMsymptom::Ru E	Syndrome::Symptom	Disease::MESH:C567642	-0.343498319
+TCMsymptom::Ru Bi	Syndrome::Symptom	Disease::MESH:C567642	-0.31021446
+TCMsymptom::Chao Re	Syndrome::Symptom	Disease::MESH:C567642	-0.213042825
+TCMsymptom::Xiao Er Gan Ji	Syndrome::Symptom	Disease::MESH:C567642	-0.436457157
+TCMsymptom::Chang Feng Xia Xie	Syndrome::Symptom	Disease::MESH:C567642	-0.225912526
+TCMsymptom::Chi Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.09899243
+TCMsymptom::Fen La Ge Da	Syndrome::Symptom	Disease::MESH:C567642	-0.364423603
+TCMsymptom::Liang Sai Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.255704701
+TCMsymptom::Niao Xie	Syndrome::Symptom	Disease::MESH:C567642	-0.110163406
+TCMsymptom::Nv Xie	Syndrome::Symptom	Disease::MESH:C567642	-0.165690914
+TCMsymptom::Yong Zhong Chuang Yang	Syndrome::Symptom	Disease::MESH:C567642	-0.137629941
+TCMsymptom::Zhi Chuang Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.156634197
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:C567642	-0.697696626
+TCMsymptom::Ting Zhong	Syndrome::Symptom	Disease::MESH:C567642	-0.125788972
+TCMsymptom::Yong Zhong Chuang Du	Syndrome::Symptom	Disease::MESH:C567642	-0.376582175
+TCMsymptom::Chang Yong	Syndrome::Symptom	Disease::MESH:C567642	-0.27357927
+TCMsymptom::Feng Re	Syndrome::Symptom	Disease::MESH:C567642	-0.24716258
+TCMsymptom::Sao Yang	Syndrome::Symptom	Disease::MESH:C567642	-0.469310731
+TCMsymptom::Wei E Feng Han	Syndrome::Symptom	Disease::MESH:C567642	-0.13987267
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.326500714
+TCMsymptom::Yan Hou Gan	Syndrome::Symptom	Disease::MESH:C567642	-0.023810929
+TCMsymptom::Yan Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.538086593
+TCMsymptom::Tan Re Ke Sou	Syndrome::Symptom	Disease::MESH:C567642	-0.317267984
+TCMsymptom::Mu Se Tong	Syndrome::Symptom	Disease::MESH:C567642	-0.135149255
+TCMsymptom::Feng Zhen	Syndrome::Symptom	Disease::MESH:C567642	-0.088834241
+TCMsymptom::Niao Tong	Symptom::Disease	Disease::MESH:C567379	-0.351700753
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C567379	-0.279431462
+TCMsymptom::She Hong Tai Huang Ni	Symptom::Disease	Disease::MESH:C567379	-0.185952753
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C567379	-0.301616758
+TCMsymptom::Xiong Zhong Men Tong	Syndrome::Symptom	Disease::MESH:C567379	-0.24495095
+TCMsymptom::Xiao Er Man Liang	Symptom::Disease	Disease::MESH:C567379	-0.151421383
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C567379	-0.295483232
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C567379	-0.409571767
+TCMsymptom::Cao Za	Symptom::Disease	Disease::MESH:C567379	-0.101099432
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:C567379	-0.260888904
+TCMsymptom::Ting Shi	Symptom::Disease	Disease::MESH:C567379	-0.138520211
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:C567379	-0.414712399
+TCMsymptom::Wei Guan Cao Za	Symptom::Disease	Disease::MESH:C567379	-0.112852246
+TCMsymptom::Tuo Xie	Symptom::Disease	Disease::MESH:C567379	-0.221451148
+TCMsymptom::Yan Gan Hou Tong	Symptom::Disease	Disease::MESH:C567379	-0.335410476
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C566384	-0.149321467
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C566340	-0.081770636
+TCMsymptom::Da Bian Gan Jie Nan Xia	Symptom::Disease	Disease::MESH:C565834	-0.143352628
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:C565655	-0.277847797
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.041199964
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.138091683
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.101332821
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.044414498
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.099572495
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.00064511
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.000302077
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:C565390	-3.69E-06
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.01380632
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.247223929
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.084953673
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.19681932
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.055651378
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.050092541
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:C565390	-4.15E-05
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.03329071
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.15233852
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.00614042
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:C565390	-0.006690613
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	Symptom::Disease	Disease::MESH:C564650	-0.3126854
+TCMsymptom::Chao Re	Symptom::Disease	Disease::MESH:C564650	-0.055523224
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C564650	-0.078428179
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Disease::MESH:C564650	-0.143173575
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C564365	-0.267707527
+TCMsymptom::She Hong	Syndrome::Symptom	Disease::MESH:C563789	-0.116931878
+TCMsymptom::She Mi Lan	Symptom::Disease	Disease::MESH:C563789	-0.140579104
+TCMsymptom::Xie Re Tu Niu	Symptom::Disease	Disease::MESH:C563789	-0.181819424
+TCMsymptom::Ye Liang	Syndrome::Symptom	Disease::MESH:C563789	-0.017255668
+TCMsymptom::Ye Ti	Syndrome::Symptom	Disease::MESH:C563789	-0.085433722
+TCMsymptom::Dai Xia Se Huang	Syndrome::Symptom	Disease::MESH:C563789	-0.408966124
+TCMsymptom::Er Dao Liu Nong	Syndrome::Symptom	Disease::MESH:C563789	-0.143416107
+TCMsymptom::Nian Ye Bian	Syndrome::Symptom	Disease::MESH:C563789	-0.070949048
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C563789	-0.267115861
+TCMsymptom::Pi Man	Syndrome::Symptom	Disease::MESH:C563789	-0.220940486
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C563789	-0.040983614
+TCMsymptom::Shi Lin Se Tong	Syndrome::Symptom	Disease::MESH:C563789	-0.115641817
+TCMsymptom::Wai Yin Hong Zhong	Syndrome::Symptom	Disease::MESH:C563789	-0.118259482
+TCMsymptom::Xiao Bian Di Li Bu Jing	Symptom::Disease	Disease::MESH:C563789	-0.299165666
+TCMsymptom::Xiao Bian Lin Zhuo	Syndrome::Symptom	Disease::MESH:C563789	-0.250555933
+TCMsymptom::Xie Xie Ji Po	Syndrome::Symptom	Disease::MESH:C563789	-0.338957757
+TCMsymptom::Xiong Pi	Syndrome::Symptom	Disease::MESH:C563789	-0.163660645
+TCMsymptom::Xiong Guan Man Men	Symptom::Disease	Disease::MESH:C563789	-0.179705113
+TCMsymptom::Xiong Zhong Man Men	Syndrome::Symptom	Disease::MESH:C563789	-0.233396873
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:C563789	-0.076028451
+TCMsymptom::Xie Niao	Syndrome::Symptom	Disease::MESH:C563789	-0.201677665
+TCMsymptom::Zu Xi Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C563789	-0.134587169
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:C563789	-0.075329401
+TCMsymptom::Xiao Er Liang Xian	Syndrome::Symptom	Disease::MESH:C563789	-0.104053155
+TCMsymptom::Xiao Er Liang Feng	Syndrome::Symptom	Disease::MESH:C563789	-0.205907851
+TCMsymptom::Re Bi	Symptom::Disease	Disease::MESH:C563789	-0.382166266
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:C563789	-0.087889813
+TCMsymptom::Xie Li	Syndrome::Symptom	Disease::MESH:C563789	-0.247806132
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:C563789	-0.064233996
+TCMsymptom::Chang Ming	Symptom::Disease	Disease::MESH:C563789	-0.148383871
+TCMsymptom::Gang Men Zhuo Re	Syndrome::Symptom	Disease::MESH:C563789	-0.219354466
+TCMsymptom::Ru Fang Zhong Kuai	Syndrome::Symptom	Disease::MESH:C563789	-0.096008092
+TCMsymptom::Ru Fang Zhong Kuai	Symptom::Disease	Disease::MESH:C563789	-0.108133636
+TCMsymptom::Ru Pi	Symptom::Disease	Disease::MESH:C563789	-0.200102851
+TCMsymptom::Ru Pi	Syndrome::Symptom	Disease::MESH:C563789	-0.293719918
+TCMsymptom::Wei Guan Cao Za	Syndrome::Symptom	Disease::MESH:C563789	-0.04177082
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:C563789	-0.30731082
+TCMsymptom::Bian Xie	Symptom::Disease	Disease::MESH:C563789	-0.071080923
+TCMsymptom::Fei Zhen Xian Hong	Syndrome::Symptom	Disease::MESH:C563789	-0.208913669
+TCMsymptom::Fei Zhen Xian Hong	Symptom::Disease	Disease::MESH:C563789	-0.32098794
+TCMsymptom::Ge Xie	Symptom::Disease	Disease::MESH:C563789	-0.004964216
+TCMsymptom::Ke Xie	Syndrome::Symptom	Disease::MESH:C563789	-0.115979172
+TCMsymptom::Liang Sai Zhong Tong	Symptom::Disease	Disease::MESH:C563789	-0.11777588
+TCMsymptom::Ren Shen Lou Xie	Syndrome::Symptom	Disease::MESH:C563789	-0.105443612
+TCMsymptom::Tian Xing Chi Yan	Syndrome::Symptom	Disease::MESH:C563789	-0.219958737
+TCMsymptom::Yong Ju Zhong Du	Syndrome::Symptom	Disease::MESH:C563789	-0.243561774
+TCMsymptom::Zhi Chuang Zhong Tong	Syndrome::Symptom	Disease::MESH:C563789	-0.146697506
+TCMsymptom::Shi Re Ji Zhi Bian Mi	Syndrome::Symptom	Disease::MESH:C563789	-0.520287812
+TCMsymptom::Chang Feng	Syndrome::Symptom	Disease::MESH:C563789	-0.197350889
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Syndrome::Symptom	Disease::MESH:C563789	-0.252163827
+TCMsymptom::Yan Hong Zhong Tong	Syndrome::Symptom	Disease::MESH:C563789	-0.137749165
+TCMsymptom::Yan Hou Bu Li	Symptom::Disease	Disease::MESH:C563789	-0.277862608
+TCMsymptom::Yang	Syndrome::Symptom	Disease::MESH:C563789	-0.081445627
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:C563789	-0.191243112
+TCMsymptom::Xie Re Tu Nv	Syndrome::Symptom	Disease::MESH:C563739	-0.368869334
+TCMsymptom::Niao Ji	Syndrome::Symptom	Disease::MESH:C563739	-0.338842541
+TCMsymptom::Shen Mu Fa Huang	Syndrome::Symptom	Disease::MESH:C563739	-0.06501238
+TCMsymptom::Zhuo Ti	Syndrome::Symptom	Disease::MESH:C563739	-0.532472372
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:C563273	-0.396012813
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:C563273	-0.377253264
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C563273	-0.375672758
+TCMsymptom::Zhuo Ti	Symptom::Disease	Disease::MESH:C563273	-0.466534704
+TCMsymptom::Er Nei Liu Nong	Syndrome::Symptom	Disease::MESH:C562799	-0.083393246
+TCMsymptom::Bu Mian	Symptom::Disease	Disease::MESH:C538258	-0.348180354
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C538258	-0.296580315
+TCMsymptom::Xia Xie	Symptom::Disease	Disease::MESH:C538258	-0.102198228
+TCMsymptom::Xiao Bian Tong	Symptom::Disease	Disease::MESH:C538258	-0.310159236
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:C538258	-0.170030296
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:C538258	-0.329147995
+TCMsymptom::Shi Bi Bing	Symptom::Disease	Disease::MESH:C538258	-0.518039703
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:C538258	-0.397761345
+TCMsymptom::Da Bian Gan Zao	Symptom::Disease	Disease::MESH:C538258	-0.512079
+TCMsymptom::Wei Guan Shao Zhuo Gan	Symptom::Disease	Disease::MESH:C538258	-0.316171646
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	Symptom::Disease	Disease::MESH:C538258	-0.249169067
+TCMsymptom::Fen La Ge Da	Symptom::Disease	Disease::MESH:C538258	-0.635803699
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:C538258	-0.078987174
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:C538258	-0.081247941
+TCMsymptom::Niao Xie Xie Se Xian Hong	Symptom::Disease	Disease::MESH:C538258	-0.056995828
+TCMsymptom::Yong Ju	Symptom::Disease	Disease::MESH:C538258	-0.330581516
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C538258	-0.379216313
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:C538258	-0.049408447
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Disease::MESH:C538258	-0.063982919
+TCMsymptom::Sao Yang Nan Ren	Symptom::Disease	Disease::MESH:C538258	-0.305811673
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C538258	-0.399162889
+TCMsymptom::Zhi Ti Xiong Tong	Syndrome::Symptom	Disease::MESH:C538178	-0.585564554
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C538178	-0.169396162
+TCMsymptom::Xiao Bian Huang	Syndrome::Symptom	Disease::MESH:C538178	-0.049371213
+TCMsymptom::Yin Yang	Syndrome::Symptom	Disease::MESH:C538178	-0.118297093
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:C538178	-0.247219339
+TCMsymptom::Gang Men Teng Tong	Syndrome::Symptom	Disease::MESH:C538178	-0.332960874
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:C538178	-0.15447244
+TCMsymptom::Chi Ken Zhong Tong	Symptom::Disease	Disease::MESH:C538178	-0.460128099
+TCMsymptom::Niao Xie	Symptom::Disease	Disease::MESH:C538178	-0.102711543
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C538178	-0.374028057
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C538178	-0.363437682
+TCMsymptom::Xiao Bian Lin Li	Syndrome::Symptom	Disease::MESH:C538157	-0.056356162
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C538157	-0.037640326
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:C538052	-0.037075873
+TCMsymptom::Mu Fa Huang	Symptom::Disease	Disease::MESH:C538052	-0.154207066
+TCMsymptom::Pi Fu Mi Lan	Symptom::Disease	Disease::MESH:C538052	-0.21906288
+TCMsymptom::Xiong Ge Pi Man	Syndrome::Symptom	Disease::MESH:C538052	-0.307833344
+TCMsymptom::Huang Ju	Syndrome::Symptom	Disease::MESH:C538052	-0.445229143
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:C538052	-0.068592161
+TCMsymptom::Xiao Bian Chi Se	Symptom::Disease	Disease::MESH:C537839	-0.162811488
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C537839	-0.115536548
+TCMsymptom::Niao Chi	Symptom::Disease	Disease::MESH:C537839	-0.272449285
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Disease::MESH:C537839	-0.165750355
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:C537839	-0.185833976
+TCMsymptom::Xiong Man Yu Men	Symptom::Disease	Disease::MESH:C537839	-0.380860388
+TCMsymptom::Zhi Ti Kun Zhong	Symptom::Disease	Disease::MESH:C537839	-0.169555098
+TCMsymptom::Re Lin	Symptom::Disease	Disease::MESH:C537839	-0.115201682
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C537839	-0.468331456
+TCMsymptom::Xie Li Hou Zhong	Symptom::Disease	Disease::MESH:C537839	-0.310444683
+TCMsymptom::Da Bian Gan	Symptom::Disease	Disease::MESH:C537839	-0.47856921
+TCMsymptom::E Ni	Symptom::Disease	Disease::MESH:C537839	-0.124784335
+TCMsymptom::Wu Xin Fan Re	Symptom::Disease	Disease::MESH:C537839	-0.022053925
+TCMsymptom::Bao Zhu Xia Xie	Symptom::Disease	Disease::MESH:C537839	-0.067833275
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C537839	-0.059823044
+TCMsymptom::Sai Zhong	Symptom::Disease	Disease::MESH:C537839	-0.402872622
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C537839	-0.164144769
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C537839	-0.159263104
+TCMsymptom::Yong Zhong Ding Chuang	Symptom::Disease	Disease::MESH:C537839	-0.134767175
+TCMsymptom::Chang Yong Zhong Tong	Symptom::Disease	Disease::MESH:C537839	-0.175726071
+TCMsymptom::Mu Hun	Symptom::Disease	Disease::MESH:C537839	-0.298462331
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	Symptom::Disease	Disease::MESH:C537839	-0.218547329
+TCMsymptom::Yan Nian Mo Chong Xie	Symptom::Disease	Disease::MESH:C537839	-0.321238786
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C537839	-0.436614662
+TCMsymptom::Feng Re Yu Fei Yan Tong	Symptom::Disease	Disease::MESH:C537839	-0.133746818
+TCMsymptom::Bu Mian	Symptom::Disease	Disease::MESH:C537475	-0.319495022
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C537475	-0.240883961
+TCMsymptom::Ge Xie	Symptom::Disease	Disease::MESH:C537475	-0.002019289
+TCMsymptom::Dai Xia Se Huang	Symptom::Disease	Disease::MESH:C537302	-0.406939089
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C537302	-0.189215377
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C537302	-0.13482897
+TCMsymptom::Shu Xie Fa Re	Symptom::Disease	Disease::MESH:C537302	-0.16522257
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:C537302	-0.218123093
+TCMsymptom::Xiao Er Liang Feng	Symptom::Disease	Disease::MESH:C537302	-0.333877742
+TCMsymptom::Wei Guan Cao Za Bu Shi	Symptom::Disease	Disease::MESH:C537302	-0.231508628
+TCMsymptom::Bao Jue	Symptom::Disease	Disease::MESH:C537302	-0.632167518
+TCMsymptom::Chi Lv Hong Ban	Symptom::Disease	Disease::MESH:C537302	-0.089333341
+TCMsymptom::Pi Fu Feng Tuan Se Hong	Symptom::Disease	Disease::MESH:C537302	-0.18019639
+TCMsymptom::Xie Re Tu Nv	Symptom::Disease	Disease::MESH:C536849	-0.312090605
+TCMsymptom::Niao Re	Symptom::Disease	Disease::MESH:C536849	-0.137682334
+TCMsymptom::Re Li	Symptom::Disease	Disease::MESH:C536849	-0.202401862
+TCMsymptom::Xie Lei Bu Teng Tong	Symptom::Disease	Disease::MESH:C536849	-0.227674007
+TCMsymptom::Xiong Bu Men Tong	Symptom::Disease	Disease::MESH:C536849	-0.305062652
+TCMsymptom::Huang Shui Lin Li	Symptom::Disease	Disease::MESH:C536849	-0.566746175
+TCMsymptom::Ru Fang Jie Jie	Symptom::Disease	Disease::MESH:C536849	-0.03398598
+TCMsymptom::Ya Teng	Symptom::Disease	Disease::MESH:C536849	-0.244970575
+TCMsymptom::Fu Rou Bu Qu	Symptom::Disease	Disease::MESH:C536849	-0.089881666
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Disease::MESH:C536849	-0.087744027
+TCMsymptom::Tan Chou Nan Chu	Symptom::Disease	Disease::MESH:C536849	-0.126657844
+TCMsymptom::Niao Ji	Symptom::Disease	Disease::MESH:C536833	-0.177876174
+TCMsymptom::Nong Tan	Symptom::Disease	Disease::MESH:C536833	-0.181569576
+TCMsymptom::Ru E	Symptom::Disease	Disease::MESH:C536833	-0.590103388
+TCMsymptom::Wei Huo Ya Tong	Symptom::Disease	Disease::MESH:C536833	-0.18644172
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C536833	-0.160619855
+TCMsymptom::Feng Re Yu Fei Yan Tong	Symptom::Disease	Disease::MESH:C536833	-0.17024526
+TCMsymptom::Xiao Er Liang Feng	Symptom::Disease	Disease::MESH:C536778	-0.316378474
+TCMsymptom::Kou Gan	Symptom::Disease	Disease::MESH:C536631	-0.173135325
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:C536631	-0.357119054
+TCMsymptom::Xin Qi Tong	Symptom::Disease	Disease::MESH:C536631	-0.066429034
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:C536631	-0.12260282
+TCMsymptom::Ji Rou Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C536631	-0.427587241
+TCMsymptom::Jing Shui Lin Li Bu Jing	Symptom::Disease	Disease::MESH:C536631	-0.351095259
+TCMsymptom::Lin Li Teng Tong	Symptom::Disease	Disease::MESH:C536631	-0.344876349
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C536631	-0.057964727
+TCMsymptom::Liu Nong Ti	Symptom::Disease	Disease::MESH:C536631	-0.107976891
+TCMsymptom::Mu Huang	Syndrome::Symptom	Disease::MESH:C536631	-0.205074549
+TCMsymptom::Na Cha	Symptom::Disease	Disease::MESH:C536631	-0.130964354
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C536631	-0.287426174
+TCMsymptom::Shen Mu Fa Huang	Symptom::Disease	Disease::MESH:C536631	-0.245233804
+TCMsymptom::Guan Fu Pi Man	Symptom::Disease	Disease::MESH:C536631	-0.349173754
+TCMsymptom::Xia Zhi Chen Zhong	Symptom::Disease	Disease::MESH:C536631	-0.217587203
+TCMsymptom::Xiao Bian Hun Zhuo	Symptom::Disease	Disease::MESH:C536631	-0.184787855
+TCMsymptom::Xiao Er Ji Liang	Symptom::Disease	Disease::MESH:C536631	-0.305847436
+TCMsymptom::Xie Lin	Symptom::Disease	Disease::MESH:C536631	-0.116202228
+TCMsymptom::Zheng Jia Pi Kuai	Symptom::Disease	Disease::MESH:C536631	-0.19157967
+TCMsymptom::Zu Jing Hong Zhong Re Tong	Symptom::Disease	Disease::MESH:C536631	-0.192405209
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:C536631	-0.43812871
+TCMsymptom::Lao Re	Symptom::Disease	Disease::MESH:C536631	-0.030990189
+TCMsymptom::Xiao Er Ji Liang Feng	Symptom::Disease	Disease::MESH:C536631	-0.387451231
+TCMsymptom::Shi Bi	Symptom::Disease	Disease::MESH:C536631	-0.077696964
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C536631	-0.285642564
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C536631	-0.282584429
+TCMsymptom::Xie Lin Se Tong	Symptom::Disease	Disease::MESH:C536631	-0.197242141
+TCMsymptom::Cao Za	Symptom::Disease	Disease::MESH:C536631	-0.116921566
+TCMsymptom::Qi Fu Zhang Tong	Symptom::Disease	Disease::MESH:C536631	-0.226338848
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:C536631	-0.271903276
+TCMsymptom::Cao Za Si Ji	Symptom::Disease	Disease::MESH:C536631	-0.452134371
+TCMsymptom::E Ni	Symptom::Disease	Disease::MESH:C536631	-0.127667353
+TCMsymptom::Ru Fang Zhang Tong	Symptom::Disease	Disease::MESH:C536631	-0.091453694
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:C536631	-0.24957481
+TCMsymptom::Ya Ken Hong Zhong	Symptom::Disease	Disease::MESH:C536631	-0.235576317
+TCMsymptom::Yi Ji	Symptom::Disease	Disease::MESH:C536631	-0.152776212
+TCMsymptom::Kou Zao	Symptom::Disease	Disease::MESH:C536631	-0.199925169
+TCMsymptom::Xiao Er Gan Ji Fa Re	Symptom::Disease	Disease::MESH:C536631	-0.188058019
+TCMsymptom::Bian Bi	Symptom::Disease	Disease::MESH:C536631	-0.068657055
+TCMsymptom::Fei Zhen Xian Hong	Symptom::Disease	Disease::MESH:C536631	-0.280671746
+TCMsymptom::Feng Yan Lan Xian	Symptom::Disease	Disease::MESH:C536631	-0.05352943
+TCMsymptom::Hong Re	Symptom::Disease	Disease::MESH:C536631	-0.63380456
+TCMsymptom::Jian Xian Chi Lan	Symptom::Disease	Disease::MESH:C536631	-0.394006073
+TCMsymptom::Mian Chi	Symptom::Disease	Disease::MESH:C536631	-0.188435301
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C536631	-0.053529158
+TCMsymptom::Sai Zhong	Symptom::Disease	Disease::MESH:C536631	-0.146717548
+TCMsymptom::She An Hong	Symptom::Disease	Disease::MESH:C536631	-0.079299279
+TCMsymptom::Tai Lou	Symptom::Disease	Disease::MESH:C536631	-0.462511927
+TCMsymptom::Tian Xing Chi Yan	Symptom::Disease	Disease::MESH:C536631	-0.479377687
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:C536631	-0.166764885
+TCMsymptom::Yong Ju Chu Qi	Symptom::Disease	Disease::MESH:C536631	-0.148122042
+TCMsymptom::Lian Chuang	Symptom::Disease	Disease::MESH:C536631	-0.463640213
+TCMsymptom::Feng Zhen Sao Yang	Symptom::Disease	Disease::MESH:C536631	-0.085617721
+TCMsymptom::Liu Huang Ti	Symptom::Disease	Disease::MESH:C536631	-0.021134878
+TCMsymptom::Mu Hua	Symptom::Disease	Disease::MESH:C536631	-0.606589913
+TCMsymptom::Mu Hun Bu Ming	Symptom::Disease	Disease::MESH:C536631	-0.140844658
+TCMsymptom::Tan Chou	Symptom::Disease	Disease::MESH:C536631	-0.257964015
+TCMsymptom::Tuo Xie	Symptom::Disease	Disease::MESH:C536631	-0.334736586
+TCMsymptom::Tu Chuang	Symptom::Disease	Disease::MESH:C536631	-0.299160153
+TCMsymptom::Feng Shi Re Bi	Symptom::Disease	Disease::MESH:C536631	-0.17062974
+TCMsymptom::Feng Zhen	Symptom::Disease	Disease::MESH:C536631	-0.057179239
+TCMsymptom::Tou Yong	Syndrome::Symptom	Disease::MESH:C536253	-0.111733735
+TCMsymptom::Feng Re Gan Mao	Syndrome::Symptom	Disease::MESH:C536246	-0.044054396
+TCMsymptom::Ya Tong	Syndrome::Symptom	Disease::MESH:C536246	-0.044993643
+TCMsymptom::Da Bian Gan Jie	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.00036231
+TCMsymptom::Da Bian Nong Xie	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.005602833
+TCMsymptom::She Jian Hong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.030336659
+TCMsymptom::Bu Mian	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.02439275
+TCMsymptom::Kou Ku	Syndrome::TCMsymptom	Disease::MESH:C536227	-6.75E-05
+TCMsymptom::Nian Ye Bian	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.000991325
+TCMsymptom::Niao Huang	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.002734833
+TCMsymptom::She Pang	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.110965468
+TCMsymptom::She You Chi Hen	Syndrome::TCMsymptom	Disease::MESH:C536227	-2.49E-09
+TCMsymptom::Shen Kun Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.288448274
+TCMsymptom::Shi Bi Ju Luan	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.000525413
+TCMsymptom::Tu Nong	Syndrome::TCMsymptom	Disease::MESH:C536227	-6.67E-08
+TCMsymptom::Guan Fu Pi Men	Syndrome::TCMsymptom	Disease::MESH:C536227	-7.98E-12
+TCMsymptom::Xiao Bian Bai Zhuo	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.013822649
+TCMsymptom::Xiao Bian Huang Shao	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.235490173
+TCMsymptom::Xiong Fu Zhang Man	Syndrome::TCMsymptom	Disease::MESH:C536227	-4.90E-05
+TCMsymptom::Xiong Xie Zhang Tong	Syndrome::TCMsymptom	Disease::MESH:C536227	-4.24E-05
+TCMsymptom::Xie Niao	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.006728574
+TCMsymptom::Zhuo Tong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.054452758
+TCMsymptom::Shi Bi	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.003718709
+TCMsymptom::Xi Suan Ruan	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.018160369
+TCMsymptom::Bian Jie	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.100987069
+TCMsymptom::Kou Bi Sheng Chuang	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.001857601
+TCMsymptom::Ru Fang Zhong Tong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.013127288
+TCMsymptom::Xiao Er Gan Ji	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.271012425
+TCMsymptom::Fu Rou Bu Qu	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.250921607
+TCMsymptom::Yue Jing Guo Duo	Syndrome::TCMsymptom	Disease::MESH:C536227	-1.47E-05
+TCMsymptom::Zhi Chuang Chu Xie	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.00022797
+TCMsymptom::Zhi Chuang Tong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.046400271
+TCMsymptom::Zhi Chuang Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227	-1.22E-09
+TCMsymptom::Ting Zhong	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.004656142
+TCMsymptom::Yong Chuang Zhong Du	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.000182395
+TCMsymptom::Yong Zhong Ding Chuang	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.073969901
+TCMsymptom::Zhi Lv	Syndrome::TCMsymptom	Disease::MESH:C536227	-6.97E-07
+TCMsymptom::Bi Sai	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.039691437
+TCMsymptom::Feng Re	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.119178891
+TCMsymptom::Mu An Bu Ming	Syndrome::TCMsymptom	Disease::MESH:C536227	-3.83E-05
+TCMsymptom::Yan Hou Gan Tong	Syndrome::TCMsymptom	Disease::MESH:C536227	-2.66E-09
+TCMsymptom::Mu An	Syndrome::TCMsymptom	Disease::MESH:C536227	-0.006119154
+TCMsymptom::Xie Lei Bu Teng Tong	Syndrome::Symptom	Disease::MESH:C536196	-0.34713468
+TCMsymptom::Re Lin	Syndrome::Symptom	Disease::MESH:C536196	-0.354415894
+TCMsymptom::Duo Yin	Syndrome::Symptom	Disease::MESH:C536196	-0.280404121
+TCMsymptom::Niao Xie Xie Se Xian Hong	Syndrome::Symptom	Disease::MESH:C536196	-0.053031802
+TCMsymptom::Liu Nong	Symptom::Disease	Disease::MESH:C535748	-0.28109628
+TCMsymptom::Nong Shui	Syndrome::Symptom	Disease::MESH:C535748	-0.420894533
+TCMsymptom::Ou Tu	Symptom::Disease	Disease::MESH:C535748	-0.144222438
+TCMsymptom::Xia Li Nong Xie	Symptom::Disease	Disease::MESH:C535748	-0.322013885
+TCMsymptom::Xie Xia Pi Kuai	Symptom::Disease	Disease::MESH:C535748	-0.273328066
+TCMsymptom::Er Bian Bu Li	Symptom::Disease	Disease::MESH:C535748	-0.322966903
+TCMsymptom::Ru Fang Zhong Kuai	Symptom::Disease	Disease::MESH:C535748	-0.121183902
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	Symptom::Disease	Disease::MESH:C535748	-0.489078015
+TCMsymptom::Lian Chuang Mi Lan	Syndrome::Symptom	Disease::MESH:C535740	-0.146004587
+TCMsymptom::Kou Sheng Chuang	Syndrome::Symptom	Disease::MESH:C535460	-0.355837107
+TCMsymptom::Tu Xie	Symptom::Disease	Disease::MESH:C535460	-0.217510328
+TCMsymptom::Niao Se Pian Huang	Symptom::Disease	Disease::MESH:C535460	-0.125418767
+TCMsymptom::Xiong Xie Men Tong	Symptom::Disease	Disease::MESH:C535460	-0.054598812
+TCMsymptom::Jiao Qi Zhong Du	Symptom::Disease	Disease::MESH:C535460	-0.281991988
+TCMsymptom::Ting Shi	Symptom::Disease	Disease::MESH:C535460	-0.289337188
+TCMsymptom::Gang Men Teng Tong	Symptom::Disease	Disease::MESH:C535460	-0.2894454
+TCMsymptom::Wei Re	Syndrome::Symptom	Disease::MESH:C535460	-0.427511752
+TCMsymptom::Ya Ken Hong Zhong	Symptom::Disease	Disease::MESH:C535460	-0.265378505
+TCMsymptom::Niao Xie Xie Se Zi Hong	Symptom::Disease	Disease::MESH:C535460	-0.122424126
+TCMsymptom::Xiong Fu Zhang Tong	Symptom::Disease	Disease::MESH:C535442	-0.273843199
+TCMsymptom::Tan Chou	Syndrome::Symptom	Disease::MESH:C535442	-0.279660016
+TCMsymptom::Feng Re Yu Fei Yan Tong	Syndrome::Symptom	Disease::MESH:C535442	-0.13103877
+TCMsymptom::Bu Mei	Symptom::Disease	Disease::MESH:C535362	-0.410696298
+TCMsymptom::Kou She Sheng Chuang	Syndrome::Symptom	Disease::MESH:C535362	-0.490993708
+TCMsymptom::Xie Re Fa Ban	Symptom::Disease	Disease::MESH:C535362	-0.158196971
+TCMsymptom::Fa Re	Symptom::Disease	Disease::MESH:C535362	-0.084559456
+TCMsymptom::Nong Pao	Symptom::Disease	Disease::MESH:C535362	-0.146469742
+TCMsymptom::Re Bi Teng Tong	Symptom::Disease	Disease::MESH:C535362	-0.069909565
+TCMsymptom::She Ti Pang Da	Symptom::Disease	Disease::MESH:C535362	-0.136208907
+TCMsymptom::Xie Xie	Symptom::Disease	Disease::MESH:C535362	-0.18286626
+TCMsymptom::Re Bi	Symptom::Disease	Disease::MESH:C535362	-0.36873728
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	Symptom::Disease	Disease::MESH:C535362	-0.09060391
+TCMsymptom::Pin Er Liu Nong	Symptom::Disease	Disease::MESH:C535362	-0.513054192
+TCMsymptom::Cao Za Ou Tu	Symptom::Disease	Disease::MESH:C535362	-0.08235921
+TCMsymptom::Guan Xie Zhang Tong	Symptom::Disease	Disease::MESH:C535362	-0.089749627
+TCMsymptom::Ru Fang Teng Tong	Symptom::Disease	Disease::MESH:C535362	-0.177168489
+TCMsymptom::Ru Xian Zeng Sheng	Symptom::Disease	Disease::MESH:C535362	-0.149067119
+TCMsymptom::Ya Ken Chu Xie	Symptom::Disease	Disease::MESH:C535362	-0.161337718
+TCMsymptom::Huo Du Chuang Yang	Symptom::Disease	Disease::MESH:C535362	-0.178167641
+TCMsymptom::Zhi Zhong Chu Xie	Symptom::Disease	Disease::MESH:C535362	-0.498657912
+TCMsymptom::Bi Liu Zhuo Ti	Symptom::Disease	Disease::MESH:C535362	-0.214383051
+TCMsymptom::Yan Bian Ci Yang	Symptom::Disease	Disease::MESH:C535362	-0.355089128
+TCMsymptom::Mu Se Tong	Symptom::Disease	Disease::MESH:C535362	-0.219621718

@@ -1,0 +1,27 @@
+head	rel	tail	score
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:C567059	-2.85E-06
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:C567059	-9.48E-06
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:C563789	-2.61E-05
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D013700	-0.000204175
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:C563789	-0.000406547
+Syndrome::Shi Re	Syndrome::Symptom	Disease::MESH:D006973	-0.002204825
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Disease::MESH:D006973	-0.004101276
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D006502	-0.009460373
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D013700	-0.015594776
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Disease::MESH:D049932	-0.026337886
+Syndrome::Xie Re	Syndrome::Symptom	Disease::MESH:D049932	-0.030116247
+Syndrome::Feng Re	Syndrome::Symptom	Disease::MESH:D013700	-0.076103456
+Syndrome::Xu Re	Syndrome::Symptom	Disease::MESH:D009101	-0.083157517
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D013700	-0.084153675
+Syndrome::Wei Re	Syndrome::Symptom	Disease::MESH:C567059	-0.087032534
+Syndrome::Feng Re	Syndrome::Symptom	Disease::MESH:C567059	-0.113762043
+Syndrome::Xu Re	Symptom::Disease	Disease::MESH:D014071	-0.14997384
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:D049932	-0.161222607
+Syndrome::Re Xie	Syndrome::Symptom	Disease::MESH:C567059	-0.178606421
+Syndrome::Xin Huo Kang Sheng	Symptom::Disease	Disease::MESH:C536196	-0.184302956
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:D005693	-0.257483274
+Syndrome::Xie Re	Symptom::Disease	Disease::MESH:D028921	-0.282708198
+Syndrome::Xie Re	Symptom::Disease	Disease::MESH:D005693	-0.291637093
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:C564878	-0.332008183
+Syndrome::Re Xie	Symptom::Disease	Disease::MESH:C538178	-0.355872214
+Syndrome::Feng Re	Symptom::Disease	Disease::MESH:D005693	-0.360570759
