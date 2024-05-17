@@ -1,0 +1,519 @@
+TCMsymptom::Bao Fa Huo Yan	TCMsymptom::TCMlocus	TCMlocus::eye
+TCMsymptom::Bao Zhu Xia Xie	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Bi Sai	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Bian Huang Er Nian	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Bian Mi	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Bu Mei	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Bu Xi Re Yin	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Cao Za	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Cao Za Ou Tu	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Chi Bai Xia Li	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Chuang Jie Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Chuang Zhong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Da Bian Mi Jie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Da Bian Nong Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Du Xie Wei Jin	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Duo Shi	TCMsymptom::TCMlocus	TCMlocus::Gastrointestinal tract
+TCMsymptom::Er Dao Liu Nong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Er Lou	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Er Ming	TCMsymptom::TCMlocus	TCMlocus::Liver and kidney
+TCMsymptom::Er Nei Liu Nong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Fa Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Fan Tu Qing Shui	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Feng Re Gan Mao	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Gan Mao	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Gang Men Zhuo Re	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Gao Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Gao Re Bu Tui	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Gao Re Shen Hun	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Gao Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Gao Re Bu Tui	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Hou Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Huang Dan	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Ji Zao Yi Nu	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liang Kong	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Ke Sou	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Kou Chuang	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou She Sheng Chuang	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Lan Yan	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Li Ji Hou Zhong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Li Ji	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Liu Lei	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Liu Nong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liu Zhuo Ti	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Mai Xian Xi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mian Cha	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Mu Chi	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Chi Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Fa Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Xuan	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Na Dai	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Niao Chi	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Huang	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Huang Ru Cha	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Nu Rou Pan Jing	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Nv Xie	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ou Tu	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Ou Tu Qing Shui	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Ou Tu Ru Shi	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Ou Tu Tun Suan	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Pi Fu Huang Ran	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Fu Shi Lan	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Man	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Qu Chi Teng Tong	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Shan Ji	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Shao Jin	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Shao Mei	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::She Hong Tai Huang Ni	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Sheng Chuang	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Ti Pang Da	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Ti Zhong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Zhi Dan An	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Zhi Hong Shao Jin	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Shen Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Shen Mu Fa Huang	TCMsymptom::TCMlocus	TCMlocus::Heart and liver
+TCMsymptom::Shen Hun	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Shen Zhi Bu Qing	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Shen Zhi Hun Meng	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Shen Zhi Hun Mi	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Shen Zhi Hun Luan	TCMsymptom::TCMlocus	TCMlocus::Heart and brain
+TCMsymptom::Shi Chuang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Shi Re Xia Zhu	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Shi Zhen	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Shi Wu Hun An	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Shui Jiang Nan Xia	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Shui Wo Bu An	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Tong Kong San Da	TCMsymptom::TCMlocus	TCMlocus::Brain kidney
+TCMsymptom::Tou Bu Jie Zhong	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tou Tong	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tou Yun	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tou Yun Mu Xuan	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tu Nv	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Tu Xie	TCMsymptom::TCMlocus	TCMlocus::Gastrointestinal tract
+TCMsymptom::Tu Xie	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Tun Suan	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Wei Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Wei Guan Cao Za	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Wei Guan Cao Za Bu Shi	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Xiao Ke	TCMsymptom::TCMlocus	"TCMlocus::""Lung, spleen, and kidney"""
+TCMsymptom::Xiao Bian Duan Chi	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xie Li	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Xin Fan	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Fan Bu Mei	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Fan Bu Ning	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Huang	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Ji	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Ji Bu An	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Ji Bu Ning	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xing Ti Fei Pang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Xiong Bu Men Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Zhong Men Re	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Zhong Men Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiu Ming	TCMsymptom::TCMlocus	TCMlocus::order
+TCMsymptom::Xiu Ming Liu Lei	TCMsymptom::TCMlocus	TCMlocus::order
+TCMsymptom::Xie Re Tu Niu	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Xie Re Tu Nv	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Ya Tong	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Ya Ken Zhong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Ya Ken Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Yan Hong Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Zhong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Tong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Bian Ci Yang	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Yao Fu Teng Tong	TCMsymptom::TCMlocus	TCMlocus::Kidney bladder
+TCMsymptom::Ye Mei Bu An	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Ye Mian Bu An	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Ye Mian Bu Ning	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Yi Ji	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Yong Zhong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhuo Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhuo Ti	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Ding Chuang	TCMsymptom::TCMlocus	TCMlocus::Facial features
+TCMsymptom::Da Bian Gan Jie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Da Bian Gan Jie Nan Xia	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Da Bian Zao Jie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Kou Gan	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou Ke Xi Yin	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou She Gan Zao	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou Sheng Chuang	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Mian Hong	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::She Hong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Jian Hong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Mi Lan	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Pian Hong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Xiao Bian Chi Se	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xin Qi Tong	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xin Tong	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xie Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ye Liang	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Ye Ti	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Zhi Ti Xiong Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Bu Mian	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Fu Ren Zang Zao	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Xie Re Fa Ban	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xie Re Fa Zhen	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xie Re Tu Xie	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Dai Xia Se Huang	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Dai Xia Se Huang Zhi Chou	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::E Xin	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Er Long	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Er Xia Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Fa Shao	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Fu Zhang	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Fu Zhang Man	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Gan Qu Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Guan Jie Hong Zhong Re Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Ji Rou Hong Zhong Re Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Jie Zhong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Jing Shui Lin Li Bu Jing	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Kou Ku	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou She Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Liang Xie Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lin Li Teng Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lin Zheng Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lin Zhuo	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liu Huang Chou Ti	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Liu Nong Ti	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mao Fa You Ni	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Mian Mu Xi Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Na Cha	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Nian Ye Bian	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Niao Dao Zhuo Re	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Hun Zhuo	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Ji	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Re	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Se Chi Huang	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Se Pian Huang	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Tong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Nong Fu Jiang Jing	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Nong Pao	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Nong Shui	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Nong Tan	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Pi Fu Kui Yang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Fu Mi Lan	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Fu Nian Mo Po Kui	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Fu Shi Zhen	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Sun Cheng Hong Ban Shi Run	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Men	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Qian Biao Nong Pao	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Bi Teng Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Du Xie Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Du Xie Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Lin Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Lin Zheng	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::She Pang	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She You Chi Hen	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Shen Kun Zhong	TCMsymptom::TCMlocus	TCMlocus::Heart and liver
+TCMsymptom::Shen Re	TCMsymptom::TCMlocus	TCMlocus::Heart and liver
+TCMsymptom::Shi Bi Ju Luan	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Shi Chuang Nong Shui Jin Yin	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Shi Re Du Xie Ju Jie Ji Fu	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Shi Lin	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Shi Lin Se Tong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Shu Xie Fa Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Sou Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Sou Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Ting Shuai	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Tou Shen Kun Zhong	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tou Tong Ru Guo	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tou Zhong	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tu Nong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Wai Yin Hong Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Guan Fu Pi Man	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Guan Fu Pi Men	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Guan Pi	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Xi Suan Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Xia Fu Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Xia Li Chou Hui	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Xia Li Nong Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Xia Xie	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Xia Zhi Chen Zhong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Xiao Bian Bai Zhuo	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Di Li Bu Jing	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Huang	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Huang Shao	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Hun Zhuo	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Lin Zhuo	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Se Tong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Bian Tong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xiao Er Ji Liang	TCMsymptom::TCMlocus	TCMlocus::heart
+TCMsymptom::Xiao Fu Man	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Xiao Fu Zhang	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Xiao Fu Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Xie Lei Bu Teng Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xie Lei Teng Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xie Xia Pi Kuai	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xie Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Xie Xie Ji Po	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Xiong Fu Zhang Man	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Fu Zhang Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Fu Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Ge Pi Man	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Ge Pi Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Ge Pi Sai	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Man Yu Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Pi	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Guan Man Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Guan Pi Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Guan Zhang Man	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Guan Zhang Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Xie Men Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Xie Pi Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Xie Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Zhang Man	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Zhong Bie Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xiong Zhong Man Men	TCMsymptom::TCMlocus	TCMlocus::Cardiopulmonary
+TCMsymptom::Xie Lin	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Xie Niao	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Yin Nang Shi Yang	TCMsymptom::TCMlocus	TCMlocus::Liver and kidney
+TCMsymptom::Yin Yang	TCMsymptom::TCMlocus	TCMlocus::Liver and kidney
+TCMsymptom::Yue Jing Liang Duo £¬ Wei Chou	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zheng Jia Pi Kuai	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Zhi Ti Chen Zhong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Zhi Ti Kun Zhong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Zhi Ti Suan Zhong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Zhuo Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zu Jing Hong Zhong Re Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Zu Xi Hong Zhong Re Tong	TCMsymptom::TCMlocus	TCMlocus::limb
+TCMsymptom::Er Bian Bu Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lao Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ou Tu E Ni	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Wai Shang Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xiao Bian Lin Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xiao Er Ji Liang Feng	TCMsymptom::TCMlocus	TCMlocus::organism
+TCMsymptom::Xiao Er Liang Ti	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xiao Er Liang Xian	TCMsymptom::TCMlocus	TCMlocus::organism
+TCMsymptom::Xiao Er Liang Feng	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xiao Er Man Liang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Niao Re Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Niao Bi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Dai Xia Se Chi	TCMsymptom::TCMlocus	TCMlocus::vagina
+TCMsymptom::Dai Xia Yin Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lin Li Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Shi Re Lin Zheng	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Shi Re Chuang Man	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Shi Bi	TCMsymptom::TCMlocus	TCMlocus::limbs
+TCMsymptom::Shi Bi Bing	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Re Lin	TCMsymptom::TCMlocus	TCMlocus::Urinary tract
+TCMsymptom::Re Bi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Pi Fu Kui Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Pi Fu Wan Xian	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lei Feng Shi Xing Guan Jie Yan	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Pin Er Liu Nong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ting Er	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhi Ti Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Nong Shui Lin Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Guan Fu Pi Man Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Jiao Qi Zhong Du	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xi Suan Ruan	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xie Lin Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xie Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Chi Bai Dai Xia	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Huang Shui Lin Li	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Huang Shui Chuang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Huang Ju	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mian Huang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Qi Fu Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Ting Shi	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Guan Fu Zhang Men	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Guan Xie Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Xiao Bian Huang Chi	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Chang Ming	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Gang Men Teng Tong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Kou Ke	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Wan Gu Bu Hua	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Hou Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xie Li Hou Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Bian Gan	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Bian Jie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Cao Za Si Ji	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Da Bian Chu Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Da Bian Gan	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Da Bian Gan Zao	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Duo Yin	TCMsymptom::TCMlocus	TCMlocus::Gastrointestinal tract
+TCMsymptom::E Ni	TCMsymptom::TCMlocus	TCMlocus::stomach
+TCMsymptom::Kou Bi Sheng Chuang	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Kou Chou	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Ru Fang Jie Jie	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Fang Teng Tong	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Fang You Kuai	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Fang Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Fang Zhong Kuai	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Fang Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Pi	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Xian Zeng Sheng	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Yong	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Yong Chu Qi	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Ru Zhang Tong	TCMsymptom::TCMlocus	TCMlocus::Breasts
+TCMsymptom::Wei Chang Ji Re	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Wei Re	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Wei Suan Guo Duo	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Wei Guan Bu Shu	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Wei Guan Shao Zhuo Gan	TCMsymptom::TCMlocus	TCMlocus::Gastroenterology
+TCMsymptom::Ya Teng	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Ya Ken Chu Xie	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Ya Ken Hong Zhong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Yan Hou Zhuo Re	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Ru Yong Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ru E	TCMsymptom::TCMlocus	TCMlocus::Pharynx
+TCMsymptom::Ru Bi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ya Ken Zhong Tong Chu Xie	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Wei Huo Ya Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Chao Re	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Dao Han	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Kou Zao	TCMsymptom::TCMlocus	TCMlocus::Liver and spleen
+TCMsymptom::Wu Xin Fan Re	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Xiao Shou	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xiao Er Gan Ji Fa Re	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Xing Ti Xiao Shou	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Xiao Er Gan Ji	TCMsymptom::TCMlocus	TCMlocus::organism
+TCMsymptom::Bao Jue	TCMsymptom::TCMlocus	TCMlocus::brain
+TCMsymptom::Bian Bi	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Bian Xia Nong Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Bian Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Chang Feng Bian Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Chang Feng Xia Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Chi Bi Nv Xie	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Chi Tong	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Chi Ken Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Chi Lv Hong Ban	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Chong Yao Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Dong Zhe Han Chu	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::E Chuang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Fei Zhen Xian Hong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Fen Ci	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Fen La Ge Da	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Feng Yan Lan Xian	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Fu Rou Bu Qu	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ge Xie	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Hong Re	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ji Fu Hong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Jian Xian Chi Lan	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Ke Xie	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Lian Chuang Mi Lan	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Liang Sai Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liang Sai Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liang Sai Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mian Chi	TCMsymptom::TCMlocus	TCMlocus::kidney
+TCMsymptom::Niao Xie	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Xie Xie Se Xian Hong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Niao Xie Xie Se Zi Hong	TCMsymptom::TCMlocus	TCMlocus::bladder
+TCMsymptom::Re Bing Fa Shao	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ren Shen Lou Xie	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Ren Shen Tai Lou	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Sai Xian Yan Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Sai Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::She An	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::She An Hong	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::She Chi	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::She Jiang	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Tai Dong Bu An	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Tai Lou	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Tian Xing Chi Yan	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Tou Yong	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Yong Ju	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Bu Kui	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Ding Du	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Nan Kui	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Zhong Du	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Zhong Chuang Yang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Zhong Kui Lan	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yue Jing Guo Duo	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Yue Jing Liang Duo	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Yue Jing Ti Qian	TCMsymptom::TCMlocus	TCMlocus::uterus
+TCMsymptom::Zhi Chuang Chu Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhi Chuang Tong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhi Chuang Zhong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhi Chuang Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhi Xie	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhi Zhong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Zhong Du	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Er Bian Bu Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Tian Pao Chuang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Shi Re Ji Zhi Bian Mi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ting Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::E Lu Bu Jin	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::E Lu Bu Xing	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Huo Du Chuang Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Xin Zhong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liao Du	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Liao Chuang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Yong Chuang Zhong Du	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Yong Ju Chu Qi	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Ju Nong Cheng Bu Kui	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Zhong Ding Chuang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Yong Zhong Chuang Du	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhi Lv	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhi Zhong Chu Xie	TCMsymptom::TCMlocus	TCMlocus::anus
+TCMsymptom::Fei Zi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Hong Zhen	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Chang Yong	TCMsymptom::TCMlocus	TCMlocus::large intestine
+TCMsymptom::Chang Yong Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Chang Feng	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Lian Chuang	TCMsymptom::TCMlocus	TCMlocus::lower limbs
+TCMsymptom::Shi Chuang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Bi Liu Zhuo Ti	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Bi Yang	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Feng Re	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Feng Zhen Fa Hong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Feng Zhen Sao Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ge Tan Se Huang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Hou Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Jie Xian Sao Yang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Liu Huang Ti	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Liu Huang Zhuo Ti	TCMsymptom::TCMlocus	TCMlocus::nose
+TCMsymptom::Mu An Bu Ming	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu An Hun Hua	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Chi Hun Hua	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Hua	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Hun	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Hun Bu Ming	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Se	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Sheng Yi Mo	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Sheng Yun Yi	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Mu Yang	TCMsymptom::TCMlocus	TCMlocus::liver
+TCMsymptom::Pi Fu Feng Tuan Se Hong	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Fu Sao Yang	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Sao Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Sao Yang Ming Xian	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Sao Yang Nan Ren	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Tan Chou	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Tan Chou Huang	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Tan Chou Nan Chu	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Tou Pi Sao Yang	TCMsymptom::TCMlocus	TCMlocus::head
+TCMsymptom::Tuo Fa	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Tuo Xie	TCMsymptom::TCMlocus	TCMlocus::skin
+TCMsymptom::Wei E Feng Han	TCMsymptom::TCMlocus	TCMlocus::Spleen and stomach
+TCMsymptom::Ya Ken Tong	TCMsymptom::TCMlocus	TCMlocus::spleen
+TCMsymptom::Yan Bu Bu Shi	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Bu Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Gan Hou Tong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hong	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Bu Li	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Gan	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Gan Zao	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Yang	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Nian Mo Chong Xie	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Jing Tong Yang	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Yan Jing Zhong Tong	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Yan Sheng Yi Mo	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Yan Tong	TCMsymptom::TCMlocus	TCMlocus::Hepatic order
+TCMsymptom::Yang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Zhuo Ti Chou Qi	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Yan Hou Gan Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Ya Ken Teng Tong	TCMsymptom::TCMlocus	TCMlocus::Gingiva
+TCMsymptom::Tan Re Ke Sou	TCMsymptom::TCMlocus	TCMlocus::lung
+TCMsymptom::Mu An	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mu Se Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Mu Tong	TCMsymptom::TCMlocus	TCMlocus::eye
+TCMsymptom::Tu Chuang	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Feng Shi Re Bi	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Feng Re Yu Fei Yan Tong	TCMsymptom::TCMlocus	TCMlocus::None
+TCMsymptom::Feng Zhen	TCMsymptom::TCMlocus	TCMlocus::None

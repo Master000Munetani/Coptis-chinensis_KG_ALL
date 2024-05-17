@@ -1,0 +1,111 @@
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D002270
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00863
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00863
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00007
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00007
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D004403
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006396
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00267
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00578
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00578
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D004403
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D007565
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006484
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00455
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D007565
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D011537
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00455
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D053159
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D012640
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00934
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D012640
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00730
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00807
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D012409
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D003248
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D006396
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006470
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D007169
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00886
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D006069
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D002386
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D058447
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00793
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00711
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00795
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00884
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D010612
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00753
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D002386
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D014060
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D002386
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00691
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00936
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D006417
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D006417
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D014098
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D059373
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014555
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D004108
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D003248
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::D003248
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00847
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00698
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D007169
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00542
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00654
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014839
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D004108
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00052
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D005076
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::SMMS00889
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D008595
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::D014545
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00575
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00575
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00094
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00376
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00062
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D005128
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00246
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00246
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D015354
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00896
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00052
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00347
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D008883
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::SMMS00884
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00142
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D014098
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00725
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::D000505
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00724
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D010309
+Syndrome::Wei Re	Syndrome::Symptom	Symptom::SMMS00408
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D001064
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00841
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00071
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00503
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::D003560
+Syndrome::Xu Re	Syndrome::Symptom	Symptom::D004614
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS01104
+Syndrome::Feng Re	Syndrome::Symptom	Symptom::SMMS00330
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00062
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D014545
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D007169
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00094
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::D006069
+Syndrome::Shi Re	Syndrome::Symptom	Symptom::C0278034?
+Syndrome::Xie Re	Syndrome::Symptom	Symptom::SMMS00188
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D014987
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00153
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D007319
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00045
+Syndrome::Re Xie	Syndrome::Symptom	Symptom::D003967
+Syndrome::Shi Re Pi Man	Syndrome::Symptom	Symptom::SMMS00153
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::D014555
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00405
+Syndrome::Xin Huo Kang Sheng	Syndrome::Symptom	Symptom::SMMS00936
