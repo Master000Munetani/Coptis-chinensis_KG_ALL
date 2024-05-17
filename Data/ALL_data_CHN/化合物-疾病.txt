@@ -1,6 +1,0 @@
-化合物	关系	疾病
-propranolol	潜在联系	Prostate Cancer
-propranolol	潜在联系	Major Depressive Disorder
-propranolol	潜在联系	Alcoholic Intoxication, Chronic
-propranolol	潜在联系	Gastric Ulcer
-propranolol	潜在联系	Liver Carcinoma

@@ -1,8 +1,0 @@
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Xin Huo Kang Sheng
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Shi Re
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Shi Re Pi Man
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Re Xie
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Wei Re
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Xu Re
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Xie Re
-Herb::HuangLian	HuangLian::Syndrome	Syndrome::Feng Re
