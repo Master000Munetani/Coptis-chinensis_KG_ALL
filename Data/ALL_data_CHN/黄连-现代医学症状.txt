@@ -1,0 +1,32 @@
+中药	关系	现代医学症状
+黄连	相关现代医学症状	Hyperpyrexia
+黄连	相关现代医学症状	Hematemesis
+黄连	相关现代医学症状	Obnubilation
+黄连	相关现代医学症状	Jaundice
+黄连	相关现代医学症状	Emesis
+黄连	相关现代医学症状	Skin Ulcer(S)
+黄连	相关现代医学症状	Insomnia
+黄连	相关现代医学症状	Palpitation(S)
+黄连	相关现代医学症状	Lightheadedness
+黄连	相关现代医学症状	Dysentery
+黄连	相关现代医学症状	Pantothenate, Zinc
+黄连	相关现代医学症状	Dexol
+黄连	相关现代医学症状	Calcium Pantothenate
+黄连	相关现代医学症状	Diarrhea
+黄连	相关现代医学症状	Pantothenic Acid
+黄连	相关现代医学症状	Tongue Swelling
+黄连	相关现代医学症状	Gingival Swelling
+黄连	相关现代医学症状	Sarcoptic Red Mange
+黄连	相关现代医学症状	Chills And Fever
+黄连	相关现代医学症状	Scabies
+黄连	相关现代医学症状	Restlessness Aggravated
+黄连	相关现代医学症状	Colonic Inertia
+黄连	相关现代医学症状	Coryza
+黄连	相关现代医学症状	Defecation Pain
+黄连	相关现代医学症状	Stomach Discomfort
+黄连	相关现代医学症状	Fever
+黄连	相关现代医学症状	Discoloration Urine
+黄连	相关现代医学症状	Catarrh
+黄连	相关现代医学症状	Common Cold
+黄连	相关现代医学症状	Toothache
+黄连	相关现代医学症状	Chest Symptom Discomfort

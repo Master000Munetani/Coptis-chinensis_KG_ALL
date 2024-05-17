@@ -1,0 +1,454 @@
+ChinesePatentDrugs::Bing Lian Di Er Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-drying medicinal
+ChinesePatentDrugs::Dang Di Ling Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Geng Nian Xin Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Huang Lian Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Huang Lian Shuang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jiao Tong Xin Shen Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jie Du Huo Xue Shuan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jin Qi Jiang Tang Wan    Nong Suo Wan   	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Lian Bai Shao Shang Ruan Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Lian Shen Tong Lin Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Lian Fan Zhi Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Liao Xuan Ka Xi Fu San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Liao Xuan Ka Xi Fu Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Long Zao Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Ma Mu Ran Zhi Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Qing Gan Du Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Gan Fu Zheng Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Wei Zhi Tong Wei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shi Run Shao Shang Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shuang Hua Bai He Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wu Wei Huang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xi Yuan Hou Yao San	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Xie Li Xiao Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xie Li Xiao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xin Su Ning Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yi Qing Di Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yi Qing Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yi Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhen Yin Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-activating and stasis-resolving medicinal
+ChinesePatentDrugs::An Gong Niu Huang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Gong Niu Huang San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Gong Niu Huang Shuan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Gong Niu Huang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::An Nao Niu Huang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Bai Jie Xi Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ban Xia He Wei Ke Li	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Bi Ling Wei Tong Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Bing Huang Ruan Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Bo Yun Tui Yi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shen Bai Shu Yin Xi Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shen Bai Xi Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shen Hong Qu Yu San Jie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shen Jing Zhi Ke Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shen Long Ning Xin Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shen Song Yang Xin Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Cang Xin Qi Wu Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Chang Shu Zhi Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Chang Shu Zhi Xie Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Chu Shi Zhi Yang Ruan Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Chu Shi Zhi Yang Xi Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Dan Gui Xiang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Dan Gui Xiang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Dang Gui Long Hui Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Dao Chi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Dong Fang Wei Yao Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Er Tong Gan Re Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Kang Cha Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Qi Zhi Yang Xi Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Kang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Fu Bao Jin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Fu Ke Fen Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Fu Fang Hu Zhang Shao Shang You	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Fu Fang Ku Shen Chang Yan Kang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Fang Qing Dai Guan Zhu Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Fang Qing Dai San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Fang Xian He Cao Chang Yan Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Fang Xian He Cao Chang Yan Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Fang Zhi Zi Qi Wu Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Ming Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Fu Ming Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Gan Dan Qing Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gan Dan Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Gen Qin Lian Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Gen Qin Lian Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Gen Qin Lian Kou Fu Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Gen Qin Lian Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Gen Qin Lian Wan £¨ Ge Gen Qin Lian Wei Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gu Chang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Astringent medicinal
+ChinesePatentDrugs::Gu Chang Zhi Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Astringent medicinal
+ChinesePatentDrugs::Gu Chang Zhi Xie Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Astringent medicinal
+ChinesePatentDrugs::Guang Ling San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gui Lin Xi Gua Shuang Han Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gui Long Ke Chuan Ning Jiao Nang	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Gui Long Ke Chuan Ning Ke Li	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Gui Long Ke Chuan Ning Pian	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Ge Jie Ding Chuan Jiao Nang	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Ke Chuan Ning Jiao Nang	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Hai Gui Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::He Ling Zhi Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hu Huang Shao Shang Cha Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hu Po Huan Jing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Hua Du Dan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hua Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Ku Xi Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Shang Qing Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Shang Qing Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Yang Gan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Pu Jie Fu Xi Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jian Pi Xiao Gan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jian Pi Zhi Xie Ning Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jiang Tang Tong Mai Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jie Kang Ning Pen Wu Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jie Du Li Yan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jin Hua Die Da Ding	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-activating and stasis-resolving medicinal
+ChinesePatentDrugs::Jin Hua Xiao Cuo Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jin Hua Xiao Cuo Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jin Li You Ruan Jiao Nang	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Jin Qi Jiang Tang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Qi Jiang Tang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Qi Jiang Tang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Qi Jiang Tang Wan £¨ Nong Suo Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Wei Tai Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Zhi Yan Hou Dai Pao Cha	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jin Li Da Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jin Li Da Kou Fu Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Jing Wan Hong Ruan Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jing Xin Kou Fu Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Jiu Wei Zhi Chuang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jiu Li Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Ke Huang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ke Xie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Kou Gan Chui Yao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Kuai Wei Shu Gan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Kui De Kang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Kun Tai Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Le Zhu Hua Si Wei Tang San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Li Dan Ba Wei San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Li Er Mian Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Li Er Mian Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Li Fu Kang Xi Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Liao Zhi Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Long Ze Xiong Dan Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Long Ze Xiong Dan Jiao Nang £¨ Xiong Dan Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Long Qing Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Long Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Mai Luo Tong Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Mu Xiang Bin Lang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Digestant medicinal
+ChinesePatentDrugs::Ning Xin An Shen Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Niu Huang Qian Jin San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Qing Nao Kai Qiao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Niu Huang Shang Qing Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Shang Qing Ruan Jiao Nang £¨ Ren Gong Niu Huang Fang £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Shang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Zhi Qing Shuan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ping Gan Shu Luo Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Qian Lie Bi Er Tong Shuan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Qin Huang Hou Zheng Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qin Lian Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qin Lian Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qin Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qin Gui Huo Luo Kou Fu Ye	ChinesePatentDrugs::PatentDrugsType	"PatentDrugsType::""Resolve phlegm, Suppress cough, Calm panting medicinal"""
+ChinesePatentDrugs::Qing Bai Jie Shen Xi Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Dao Zhi San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Hua Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Xing Nao Ling Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Wei Huang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Wei Huang Lian Wan £¨ Shui Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Wei Xiao Ke Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ren Shen Zai Zao Wan £¨ Nong Suo Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind-dispelling medicinal
+ChinesePatentDrugs::San Huang Qing Jie Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::San Huang Qing Jie Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Sha Lian He Wei Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Interior-warming medicinal
+ChinesePatentDrugs::Shao Shang Zhi Tong Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shen Shuai Ning Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Shen Shuai Ning Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Shi Yang Qi Wu Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shi Hu Ye Guang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shi Hu Ye Guang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shuang Hu Qing Gan Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shuang Huang Qu Feng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Shuang Liao Hou Feng Han Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Tang Mai Kang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Tang Mai Kang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Tang Mai Kang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Tang Wei Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Tian Long Ba Du Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Tian Qi Jiang Tang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Tong Da Di Bi Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Tong Ren An Shen Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Wan £¨ Nong Suo Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wan Ying Ding	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wan Ying Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wan Ying Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind-dispelling medicinal
+ChinesePatentDrugs::Wei Bing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Wei Fu Shu Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Wei Li Kang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Wu Fu Hua Du Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wu Fu Hua Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wu Huang Yang Yin Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Wu Ji Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xi Ling Dan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xi Ling Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Ke An Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Xiao Ke Ling Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Ke Ling Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Ke Ling Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Ke Ping Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Ke Qing Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Eliminate stasis medicinal
+ChinesePatentDrugs::Xiao Tan Yi Kang £¨ Tang Jiang £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Tang Ling Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Tang Ling Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Tang Ling Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Er He Wei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Xiao Er Hua Du San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xing Nao An Shen Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Xue Dan Jie Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yan Shen Jian Wei Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Yan Ke Ning Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yan Ke Ning Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yang Xian Feng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Yang Gan Huan Jing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Yang Yin Qing Wei Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yi Qing Ruan Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yi Gan Yi Qi Jie Yu Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Yi Shen Hua Shi Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-dispelling medicinal
+ChinesePatentDrugs::Yu San Xiao Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Yun Fu Jin Hua Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind-dispelling medicinal
+ChinesePatentDrugs::Zang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhi Zi Jin Hua Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhi Li Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Zhi Xie Bao Tong Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Zhi Kang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Hemostatic medicinal
+ChinesePatentDrugs::Zhu Huang Chui Hou San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zi Sheng Wan £¨ Nong Suo Wan £©	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Reinforce the healthy qi medicinal
+ChinesePatentDrugs::Zuo Jin Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Zuo Jin Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Zuo Jin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::An Gong Jiang Ya Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::An Gong Niu Huang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Nao Niu Huang Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Nao Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::An Nao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Bai Feng Yin	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Bai Yi Zhen Jing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Bao Tong Hua Tan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Bao Ying Duo Ming San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Bu Yi Zi Sheng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Shen She Huo Luo Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Can Jian Yan Yao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Chun Xue An Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Dang Gui Long Hui Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Dang Di Ling	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Die Da Wan Hua You	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Ding Chu Hua Feng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal/Phlegm-expelling medicinal
+ChinesePatentDrugs::E Mao Guan Yan Yao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Er Tong Hua Du San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Er Tong Hui Chun Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Er Tong Hui Chun Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Er Long Tong Qiao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fang Shuai Yi Shou Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Feng Huo Yan Yao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Fo Shan Ren Shen Zai Zao Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Fo Shan Ren Shen Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Fu Bao Jin Wan (Fu Bao Jin Dan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Fu Ke Bai Feng Kou Fu Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Fu Ke Bai Feng Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Fu Fang Niu Huang Qing Wei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Fu Ming Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Gan Lu Xiao Ke Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Gao Li Qing Xin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gao Xue Ya Su Jiang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gu Zhi Ning Cha Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Gu Chang Zhi Xie Wan (Jie Chang Yan Wan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Guang Ling San (Xi Ling San )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gui Jia San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::Gui Lin Xi Gua Shuang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Gui Lin Xi Gua Shuang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ge Jie Ding Chuan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Hou Yan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hou Yao San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hu Po Huan Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Hu Po Li Qi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Hu Po Zhi Tong Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Hua Du Dan (Wan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hua Du San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hua Zhi Ling Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::Huang Lian Qing Wei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Shang Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Shang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Huang Lian Yang Gan Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Hui Sheng Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Hui Tian Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Huo Luo Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Ji Sheng Wan Ying Ding	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Jia Wei Xiang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Jia Wei Zuo Jin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Jian Pi Kang Er Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Jian Pi Zi Sheng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Jian Shen Sheng Fa Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Jin Bu Huan Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Jin Hua Xiao Cuo Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jing Wan Hong	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jing Wan Hong Zhi Chuang Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::Jing Zhi Niu Huang Jie Du Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Jiu Li Wan (Jiu Li Dan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Jiu Ji San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-interior-releasing medicinal
+ChinesePatentDrugs::Jun Li Ping Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Kai Guang Fu Ming Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Kai Wei Jian Pi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Kang Ji Xiao Ke Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Lang Chuang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ling Huang Bao Er Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Ling Zhu San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Liu Yu Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Lv Pao San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Mai Luo Tong	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Ming Mu Bo Yun San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ming Mu Ji Li Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ming Mu Shang Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Ming Mu Shang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Nang Chong Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Worm-expelling medicinal
+ChinesePatentDrugs::Ning Xin An Shen Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Niu Huang An Xin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Niu Huang Ba Bao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Jing Nao Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Niu Huang Ning Gong Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Qin Hua Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Qing Nao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Niu Huang Qing Re Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Qing Re San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Niu Huang Shang Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Xi Ling Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Niu Huang Xing Nao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Ping Gan Shu Luo Wan (Ping Gan Shu Luo Dan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Pu Ji Hui Chun Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Qian Jin San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Qin Lian Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Dai San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Ge Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Huo Jie Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re An Gong Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Ding Jing San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Qing Re Jie Du Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Qing Re Shen Xiong Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Xing Nao Ling Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Qing Re Yang Yin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Re Yi Zhi San (Yi Li Jin )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Qing Re Zhen Jing San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Qing Wei He Zhong Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Wei Huang Lian Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Xin Ming Mu Shang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Qing Xuan Zhi Tan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Qing Yu Bi Wen Dan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Summer-heat expelling medicinal
+ChinesePatentDrugs::Ren Shen Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Sai Jin Hua Du San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::San Hao She Dan Chuan Bei Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::San Huang Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::San Huang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shang Ke Wan Hua You	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Shao Shang Fu Kang Ye	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::Shao Shang Pen Wu Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::She Dan Bei Mu Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::She Dan Bei Mu San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::She Lian Chuan Bei San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::She Shang Jie Du Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::She Xiang Niu Huang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::She Xiang San Miao Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Sore and ulcer-expelling medicinal
+ChinesePatentDrugs::Shen Shuai Ning Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Sheng Hua Hong Hei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Sheng Jiang Xie Xin Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Harmonizing medicinal
+ChinesePatentDrugs::Shi Hu Ming Mu Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Shuang Liao Hou Feng San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Shui Niu Jiao Jie Du Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Si Fang Wei Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Si Fang Wei Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Su Xiao Niu Huang Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Tong Luo Huo Xue Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Tong Ren An Shen Wan (Zhu Sha An Shen Wan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Tong Ren Da Huo Luo Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Tou Biao Hui Chun Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Wai Yong Wu Di Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Wind dispelling medicinal
+ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Wang Shi Bao Chi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Wei Bing Wan (Wei Bing Dan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Qi-regulating medicinal
+ChinesePatentDrugs::Wei Yan Kang Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Interior-warming medicinal
+ChinesePatentDrugs::Wei Yang An Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Wen Pi Zhi Xie Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Astringent medicinal
+ChinesePatentDrugs::Wu Ji Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Wu Mei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Interior-warming medicinal
+ChinesePatentDrugs::Wu Gong Zhui Feng Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Wu Geng Tai Ping Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Wu Li Hui Chun Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Wu Lin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Wu Wei Xiang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xi Ling Dan (Wan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xi Ling Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xi Jiao Hua Du Wan (Xi Jiao Hua Du Dan )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xian He Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xian Zheng Zhen Xin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Orifice-opening medicinal
+ChinesePatentDrugs::Xiang Lian Hua Zhi Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xiang Lian Hua Zhi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xiang Lian Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xiang Lian Zhi Xie Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xiao Ke Ling Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Xiao Ke Ping Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Xiao Pi A Wei Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xiao Tang Ling Jiao Nang (Xiao Ke Ping Jiao Nang )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Xiao Er Bao An Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Xiao Er Fei Re Ping Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Fei Yan San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Jian Shen Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Xiao Er Jing An Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xiao Er Jing Feng Qi Li San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Xiao Er Ling Yang San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Ming Mu Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Niu Huang Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Niu Huang Qing Xin San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xiao Er Niu Huang San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xiao Er Qi Ying Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xiao Er Qing Re Ling	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Qing Re Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Qing Re Zhen Jing San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xiao Er Shu Gan Ning Tang Jiang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Summer-heat expelling medicinal
+ChinesePatentDrugs::Xiao Er Xie Li Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xiao Er Zhu Huang San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xie Du San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xie Li Bao Tong Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Xie Li Xiao Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Xing Nao An Shen Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Xing Nao Jiang Ya Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Xing Nao Zai Zao Jiao Nang	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Xing Nao Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Xiong Ju Shang Qing Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Xiong Ju Shang Qing Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Xiong Ju Shang Qing Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Exterior-releasing medicinal
+ChinesePatentDrugs::Xiong Dan Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yan Ke Ning Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yang Xian Feng Wan (Yang Xian Feng Yao )	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Yang Xin Shi Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Yi Qing Ke Li	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yu Lian Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yu Ye Jin Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Interior-warming medicinal
+ChinesePatentDrugs::Yu Ying Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Yun Fu Jin Hua Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Yun Fu Jin Hua Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Chang Chun Tang Shang Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhen Zhu Xiao Ji Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Phlegm-expelling medicinal
+ChinesePatentDrugs::Zhen Xin An Shen Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tonifying and replenishing medicinal
+ChinesePatentDrugs::Zhi Hong Chang Bi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhi Li Chong Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Zhi Xie Bao Tong Chong Ji	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Zhi Shi Xiao Pi Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Zhi Chuang Wai Xi Yao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhong Feng Zai Zao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Blood-regulating medicinal
+ChinesePatentDrugs::Zhong Man Fen Xiao Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal
+ChinesePatentDrugs::Zhu Sha An Shen Pian	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Zhu Sha An Shen Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Tranquillizing medicinal
+ChinesePatentDrugs::Zhu Huang Xiao Gan San	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhu Che Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Heat-clearing medicinal
+ChinesePatentDrugs::Zhui Feng Zhuang Gu Gao	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Dampness-resolving medicinal
+ChinesePatentDrugs::Zi Sheng Wan	ChinesePatentDrugs::PatentDrugsType	PatentDrugsType::Food stagnation-expelling medicinal

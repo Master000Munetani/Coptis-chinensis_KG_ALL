@@ -1,0 +1,452 @@
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Niu Huang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Niu Huang San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Niu Huang Shuan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Niu Huang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Nao Niu Huang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bai Jie Xi Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ban Xia He Wei Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bi Ling Wei Tong Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bing Huang Ruan Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bing Lian Di Er Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bo Yun Tui Yi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Bai Shu Yin Xi Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Bai Xi Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Hong Qu Yu San Jie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Jing Zhi Ke Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Long Ning Xin Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Song Yang Xin Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Cang Xin Qi Wu Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chang Shu Zhi Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chang Shu Zhi Xie Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chu Shi Zhi Yang Ruan Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chu Shi Zhi Yang Xi Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dan Gui Xiang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dan Gui Xiang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dang Gui Long Hui Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dang Di Ling Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dao Chi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dong Fang Wei Yao Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Er Tong Gan Re Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Kang Cha Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Qi Zhi Yang Xi Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Kang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Bao Jin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ke Fen Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Hu Zhang Shao Shang You
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Ku Shen Chang Yan Kang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Qing Dai Guan Zhu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Qing Dai San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Xian He Cao Chang Yan Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Xian He Cao Chang Yan Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Zhi Zi Qi Wu Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ming Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ming Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gan Dan Qing Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gan Dan Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Gen Qin Lian Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Gen Qin Lian Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Gen Qin Lian Kou Fu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Gen Qin Lian Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Gen Qin Lian Wan £¨ Ge Gen Qin Lian Wei Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Geng Nian Xin Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gu Chang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gu Chang Zhi Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gu Chang Zhi Xie Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Guang Ling San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Lin Xi Gua Shuang Han Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Long Ke Chuan Ning Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Long Ke Chuan Ning Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Long Ke Chuan Ning Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Jie Ding Chuan Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ke Chuan Ning Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hai Gui Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::He Ling Zhi Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hu Huang Shao Shang Cha Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hu Po Huan Jing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hua Du Dan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hua Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Ku Xi Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Shang Qing Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Shang Qing Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Shuang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Yang Gan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Pu Jie Fu Xi Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jian Pi Xiao Gan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jian Pi Zhi Xie Ning Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiang Tang Tong Mai Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiao Tong Xin Shen Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jie Kang Ning Pen Wu Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jie Du Huo Xue Shuan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jie Du Li Yan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Hua Die Da Ding
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Hua Xiao Cuo Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Hua Xiao Cuo Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Li You Ruan Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Qi Jiang Tang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Qi Jiang Tang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Qi Jiang Tang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Qi Jiang Tang Wan £¨ Nong Suo Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Wei Tai Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Zhi Yan Hou Dai Pao Cha
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Li Da Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Li Da Kou Fu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jing Wan Hong Ruan Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jing Xin Kou Fu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiu Wei Zhi Chuang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiu Li Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ke Huang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ke Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kou Gan Chui Yao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kuai Wei Shu Gan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kui De Kang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kun Tai Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Le Zhu Hua Si Wei Tang San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Li Dan Ba Wei San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Li Er Mian Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Li Er Mian Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Li Fu Kang Xi Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Lian Bai Shao Shang Ruan Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Lian Shen Tong Lin Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Lian Fan Zhi Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Liao Xuan Ka Xi Fu San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Liao Xuan Ka Xi Fu Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Liao Zhi Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Long Zao Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Long Ze Xiong Dan Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Long Ze Xiong Dan Jiao Nang £¨ Xiong Dan Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Long Qing Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Long Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ma Mu Ran Zhi Xie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Mai Luo Tong Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Mu Xiang Bin Lang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ning Xin An Shen Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qian Jin San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qing Nao Kai Qiao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Shang Qing Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Shang Qing Ruan Jiao Nang £¨ Ren Gong Niu Huang Fang £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Shang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Zhi Qing Shuan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ping Gan Shu Luo Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qian Lie Bi Er Tong Shuan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Huang Hou Zheng Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Lian Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Lian Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Gui Huo Luo Kou Fu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Bai Jie Shen Xi Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Gan Du Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Gan Fu Zheng Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Dao Zhi San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Hua Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Xing Nao Ling Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei Huang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei Huang Lian Wan £¨ Shui Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei Xiao Ke Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei Zhi Tong Wei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ren Shen Zai Zao Wan £¨ Nong Suo Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::San Huang Qing Jie Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::San Huang Qing Jie Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Sha Lian He Wei Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shao Shang Zhi Tong Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Shuai Ning Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Shuai Ning Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shi Run Shao Shang Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shi Yang Qi Wu Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shi Hu Ye Guang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shi Hu Ye Guang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shuang Hu Qing Gan Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shuang Hua Bai He Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shuang Huang Qu Feng Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shuang Liao Hou Feng Han Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tang Mai Kang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tang Mai Kang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tang Mai Kang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tang Wei Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tian Long Ba Du Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tian Qi Jiang Tang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tong Da Di Bi Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tong Ren An Shen Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Wan £¨ Nong Suo Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Ying Ding
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Ying Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Ying Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Bing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Fu Shu Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Li Kang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Fu Hua Du Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Fu Hua Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Huang Yang Yin Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Wei Huang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Ji Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Ling Dan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Ling Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Yuan Hou Yao San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke An Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ling Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ling Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ling Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ping Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Qing Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Tan Yi Kang £¨ Tang Jiang £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Tang Ling Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Tang Ling Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Tang Ling Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er He Wei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Hua Du San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xie Li Xiao Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xie Li Xiao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xin Su Ning Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xing Nao An Shen Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xue Dan Jie Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yan Shen Jian Wei Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yan Ke Ning Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yan Ke Ning Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yang Xian Feng Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yang Gan Huan Jing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yang Yin Qing Wei Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Qing Di Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Qing Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Qing Ruan Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Gan Yi Qi Jie Yu Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Shen Hua Shi Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yu San Xiao Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yun Fu Jin Hua Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhen Yin Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Zi Jin Hua Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Li Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Xie Bao Tong Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Kang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhu Huang Chui Hou San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zi Sheng Wan £¨ Nong Suo Wan £©
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zuo Jin Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zuo Jin Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zuo Jin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Jiang Ya Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Gong Niu Huang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Nao Niu Huang Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Nao Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::An Nao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bai Feng Yin
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bai Yi Zhen Jing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bao Tong Hua Tan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bao Ying Duo Ming San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Bu Yi Zi Sheng Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen She Huo Luo Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Can Jian Yan Yao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chun Xue An Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dang Gui Long Hui Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Dang Di Ling
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Die Da Wan Hua You
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ding Chu Hua Feng Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::E Mao Guan Yan Yao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Er Tong Hua Du San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Er Tong Hui Chun Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Er Tong Hui Chun Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Er Long Tong Qiao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fang Shuai Yi Shou Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Feng Huo Yan Yao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fo Shan Ren Shen Zai Zao Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fo Shan Ren Shen Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Bao Jin Wan (Fu Bao Jin Dan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ke Bai Feng Kou Fu Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ke Bai Feng Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Fang Niu Huang Qing Wei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Fu Ming Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gan Lu Xiao Ke Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gao Li Qing Xin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gao Xue Ya Su Jiang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gu Zhi Ning Cha Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gu Chang Zhi Xie Wan (Jie Chang Yan Wan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Guang Ling San (Xi Ling San )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Jia San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Lin Xi Gua Shuang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Gui Lin Xi Gua Shuang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ge Jie Ding Chuan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hou Yan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hou Yao San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hu Po Huan Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hu Po Li Qi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hu Po Zhi Tong Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hua Du Dan (Wan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hua Du San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hua Zhi Ling Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Qing Wei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Shang Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Shang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huang Lian Yang Gan Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hui Sheng Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Hui Tian Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Huo Luo Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ji Sheng Wan Ying Ding
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jia Wei Xiang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jia Wei Zuo Jin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jian Pi Kang Er Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jian Pi Zi Sheng Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jian Shen Sheng Fa Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Bu Huan Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jin Hua Xiao Cuo Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jing Wan Hong
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jing Wan Hong Zhi Chuang Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jing Zhi Niu Huang Jie Du Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiu Li Wan (Jiu Li Dan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jiu Ji San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Jun Li Ping Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kai Guang Fu Ming Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kai Wei Jian Pi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Kang Ji Xiao Ke Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Lang Chuang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ling Huang Bao Er Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ling Zhu San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Liu Yu Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Lv Pao San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Mai Luo Tong
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ming Mu Bo Yun San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ming Mu Ji Li Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ming Mu Shang Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ming Mu Shang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Nang Chong Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ning Xin An Shen Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang An Xin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Ba Bao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Jing Nao Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Ning Gong Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qin Hua Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qing Nao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qing Re Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Qing Re San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Shang Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Xi Ling Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Niu Huang Xing Nao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ping Gan Shu Luo Wan (Ping Gan Shu Luo Dan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Pu Ji Hui Chun Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qian Jin San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qin Lian Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Dai San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Ge Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Huo Jie Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re An Gong Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Ding Jing San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Jie Du Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Shen Xiong Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Xing Nao Ling Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Yang Yin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Yi Zhi San (Yi Li Jin )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Re Zhen Jing San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei He Zhong Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Wei Huang Lian Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Xin Ming Mu Shang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Xuan Zhi Tan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Qing Yu Bi Wen Dan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Ren Shen Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Sai Jin Hua Du San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::San Hao She Dan Chuan Bei Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::San Huang Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::San Huang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shang Ke Wan Hua You
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shao Shang Fu Kang Ye
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shao Shang Pen Wu Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Dan Bei Mu Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Dan Bei Mu San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Lian Chuan Bei San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Shang Jie Du Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Xiang Niu Huang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::She Xiang San Miao Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shen Shuai Ning Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Sheng Hua Hong Hei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Sheng Jiang Xie Xin Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shi Hu Ming Mu Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shuang Liao Hou Feng San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Shui Niu Jiao Jie Du Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Si Fang Wei Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Si Fang Wei Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Su Xiao Niu Huang Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tong Luo Huo Xue Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tong Ren An Shen Wan (Zhu Sha An Shen Wan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tong Ren Da Huo Luo Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Tou Biao Hui Chun Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wai Yong Wu Di Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wan Shi Niu Huang Qing Xin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wang Shi Bao Chi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Bing Wan (Wei Bing Dan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Yan Kang Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wei Yang An Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wen Pi Zhi Xie Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Mei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Gong Zhui Feng Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Geng Tai Ping Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Li Hui Chun Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Lin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Wu Wei Xiang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Ling Dan (Wan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Ling Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xi Jiao Hua Du Wan (Xi Jiao Hua Du Dan )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xian He Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xian Zheng Zhen Xin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiang Lian Hua Zhi Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiang Lian Hua Zhi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiang Lian Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiang Lian Zhi Xie Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ling Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Ke Ping Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Pi A Wei Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Tang Ling Jiao Nang (Xiao Ke Ping Jiao Nang )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Bao An Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Fei Re Ping Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Fei Yan San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Jian Shen Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Jing An Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Jing Feng Qi Li San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Ling Yang San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Ming Mu Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Niu Huang Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Niu Huang Qing Xin San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Niu Huang San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Qi Ying Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Qing Re Ling
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Qing Re Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Qing Re Zhen Jing San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Shu Gan Ning Tang Jiang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Xie Li Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiao Er Zhu Huang San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xie Du San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xie Li Bao Tong Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xie Li Xiao Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xing Nao An Shen Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xing Nao Jiang Ya Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xing Nao Zai Zao Jiao Nang
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xing Nao Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiong Ju Shang Qing Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiong Ju Shang Qing Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiong Ju Shang Qing Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Xiong Dan Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yan Ke Ning Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yang Xian Feng Wan (Yang Xian Feng Yao )
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yang Xin Shi Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yi Qing Ke Li
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yu Lian Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yu Ye Jin Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yu Ying Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yun Fu Jin Hua Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Yun Fu Jin Hua Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Chang Chun Tang Shang Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhen Zhu Xiao Ji Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhen Xin An Shen Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Hong Chang Bi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Li Chong Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Xie Bao Tong Chong Ji
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Shi Xiao Pi Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhi Chuang Wai Xi Yao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhong Feng Zai Zao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhong Man Fen Xiao Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhu Sha An Shen Pian
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhu Sha An Shen Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhu Huang Xiao Gan San
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhu Che Wan
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zhui Feng Zhuang Gu Gao
+Herb::HuangLian	HuangLian::ChinesePatentDrugs	ChinesePatentDrugs::Zi Sheng Wan
