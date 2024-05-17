@@ -1,0 +1,3197 @@
+154447-36-6	DB02656
+L-Tryptophan	DB00150
+Tryptophan	DB00150
+Morphine	DB00295
+VALPROIC ACID	DB00313
+Codeine	DB00318
+Avandia	DB00412
+05V02F2KDG	DB00412
+Nemerol	DB00454
+01K63SUP8D	DB00472
+fluoxetine	DB00472
+haloperidol	DB00502
+DIVALPROEX SODIUM	DB00510
+l-Methorphan	DB00514
+nortriptyline	DB00540
+9Y8NXQ24VQ	DB00571
+propranolol	DB00571
+Testosteron	DB00624
+Testosterone	DB00624
+estrone	DB00655
+Galanthamine	DB00674
+apomorphine	DB00714
+Apomorphine hydrochloride	DB00714
+Hydrocortisone	DB00741
+17beta-Oestradiol	DB00783
+B-Estradiol	DB00783
+Vasodil	DB00797
+Propofol	DB00818
+(1S,2S)-pseudoephedrine	DB00852
+d-pseudoephedrine	DB00852
+tacrolimus	DB00864
+Cocaine	DB00907
+ethinyl estradiol	DB00977
+Eserine	DB00981
+Femara	DB01006
+6490C9U457	DB01058
+melatonin	DB01065
+3',5,7-trihydroxy-4'-methoxyflavanone	DB01094
+hesperitin	DB01094
+Papaverine	DB01113
+tolbutamide	DB01124
+X4OV71U42S	DB01132
+doxepin	DB01142
+(S)-Citalopram	DB01175
+Podophyllotoxin	DB01179
+metoclopramide	DB01233
+Maxolon	DB01233
+(-)-ephedrine	DB01364
+Eciphin	DB01364
+Ephedrine	DB01364
+Yohimbine	DB01392
+Bufotenine	DB01445
+N,N-Dimethyltryptamine	DB01488
+Hydroxychloroquine	DB01611
+dehydroepiandrosterone	DB01708
+Selagine	DB01928
+Huperzine A	DB01928
+N-butylbenzenesulphonamide	DB02055
+TES	DB02371
+quinaldic acid	DB02428
+Resveratrol	DB02709
+PLO	DB02789
+4-methoxybenzoic acid	DB02795
+Etiocholanone	DB02854
+DEXPROPRANOLOL	DB03322
+naringenine	DB03467
+(S)-naringenin	DB03467
+4',7-Dihydroxyflavanone	DB03601
+phenacetin	DB03783
+4-Heptylphenol	DB03941
+hydroxycinnamic acid	DB04066
+p-Coumaric acid	DB04066
+Berberine	DB04115
+Matairesinol	DB04200
+isoformononetin	DB04202
+NSC 122421	DB04452
+Estriol	DB04573
+aldosterone	DB04630
+Corticosterone	DB04652
+tetrabenazine	DB04844
+Fordine	DB04864
+Onglyza	DB06335
+Saxagliptin	DB06335
+17-methyltestosterone	DB06710
+3-Hydroxy-4-methoxycinnamic acid	DB07109
+(E)-ferulic acid	DB07767
+4-Hydroxy-3-methoxycinnamic acid	DB07767
+Indole-3-acetic acid	DB07950
+L20	DB08073
+Colchicine	DB08117
+Sakuranetin	DB08517
+4-Hydroxy-3,5-dimethoxycinnamic acid	DB08587
+Sinapic acid	DB08587
+Methyl syringate	DB08589
+Tryptamine	DB08653
+Methyl vanillate	DB08711
+N-Methylmescaline	CHEBI:7319
+Pinosylvin	CHEBI:17323
+(-)-Medicarpin	CHEBI:100
+Warburganal	CHEBI:10032
+Wogonin	CHEBI:10043
+Xanthoxylin	CHEBI:10070
+Xylopine	CHEBI:10083
+Xylopinine	CHEBI:10084
+Yangonin	CHEBI:10089
+alpha-Peltatin	CHEBI:10324
+alpha-Pyrufuran	CHEBI:10328
+Hinokitiol	CHEBI:10447
+Phaseollinisoflavan	CHEBI:109
+Salsoline	CHEBI:112
+Sativin	CHEBI:115
+Corydaline	CHEBI:14027
+(E)-methyl isoeugenol	CHEBI:14469
+Abrine	CHEBI:15334
+Acacetin	CHEBI:15335
+Sterol	CHEBI:15889
+columbamine	CHEBI:15920
+Coclaurine	CHEBI:15950
+palmatine	CHEBI:16096
+Heriguard	CHEBI:16112
+Questin	CHEBI:16200
+limonin	CHEBI:16226
+(R)-N-Methylcoclaurine	CHEBI:16387
+Glyceollin	CHEBI:16470
+glyceollin i	CHEBI:16470
+(-)-Tetrahydroberberine	CHEBI:16592
+Reticuline	CHEBI:16718
+Vestitone	CHEBI:16786
+4'-Demethylpodophyllotoxin	CHEBI:1730
+Allocryptopine	CHEBI:17390
+N-Methyltyramine	CHEBI:17458
+6-Methoxy-7-hydroxycoumarin	CHEBI:17488
+(-)-Phaseollidin	CHEBI:17556
+Coniferol	CHEBI:17745
+Isocorypalmine	CHEBI:17772
+tetrahydrocolumbamine	CHEBI:17772
+(S)-isocorypalmine	CHEBI:17772
+tryptophol	CHEBI:17890
+iso-eugenol	CHEBI:18224
+L-tetrahydrocoptisine	CHEBI:18285
+Stylopine	CHEBI:18285
+Morelensin	CHEBI:1959
+5-O-Methylalloptaeroxylin	CHEBI:2108
+Achillin	CHEBI:2425
+Acronycidine	CHEBI:2436
+Actinodaphnine	CHEBI:2444
+Ajmalicine	CHEBI:2524
+1-hydroxy-2-methoxyanthracene-9,10-dione	CHEBI:2575
+Ambelline	CHEBI:2626
+Amurensine	CHEBI:2688
+Ankorine	CHEBI:2740
+Anolobine	CHEBI:2742
+Cinchonine	CHEBI:27509
+Isosakuranetin	CHEBI:27552
+6-Prenylnaringenin	CHEBI:27566
+Garbanzol	CHEBI:27587
+5-Hydroxyindole-3-acetic acid	CHEBI:27823
+Harmalol	CHEBI:27943
+pinobaksin	CHEBI:28103
+Pinocembrin	CHEBI:28157
+Daidzein	CHEBI:28197
+Rotenone	CHEBI:28201
+Aricine	CHEBI:2821
+Armepavine	CHEBI:2826
+Capsidiol	CHEBI:28283
+Reserpinine 1	CHEBI:28572
+flavanone	CHEBI:28863
+Anabasine	CHEBI:28986
+Abietic acid	CHEBI:28987
+DEXTRORPHAN	CHEBI:29133
+Aucuparin	CHEBI:2920
+(+)-Dehydroabietic acid	CHEBI:29571
+Dehydroabietic acid	CHEBI:29571
+Neoabietic acid	CHEBI:29653
+Baicalin	CHEBI:2981
+Baptifoline	CHEBI:2990
+Berbamine	CHEBI:3063
+Berberastine	CHEBI:3065
+Bicuculline	CHEBI:3092
+Scoulerine	CHEBI:31033
+Cherylline	CHEBI:31391
+Bufotenidine	CHEBI:31879
+Bulbocapnine	CHEBI:3211
+Burseran	CHEBI:3222
+bjacangelicin	CHEBI:3250
+Byakangelicin	CHEBI:3250
+Byak-angelicin	CHEBI:3250
+Calligonine	CHEBI:3323
+Caranine	CHEBI:3383
+9-Dehydromethyltestosterone	CHEBI:34182
+tetramethyl-O-scutellarin	CHEBI:34357
+4-(2-Butyl)phenol	CHEBI:34442
+7-hydroxyflavanone	CHEBI:34483
+Cassyfiline	CHEBI:3458
+Diazinon	CHEBI:34682
+Miltirone	CHEBI:34851
+Xanthomicrol	CHEBI:35047
+4-Tert-amylphenol	CHEBI:35096
+Celabenzine	CHEBI:3518
+Cinchonidine	CHEBI:3703
+Quinizarin	CHEBI:37487
+Confertifolin	CHEBI:3855
+Coronaridine	CHEBI:3887
+Cristacarpin	CHEBI:3917
+Cularicine	CHEBI:3955
+Pinoresinol	CHEBI:40
+2-methoxybenzoic acid	CHEBI:421840
+Dalbergin	CHEBI:4308
+Daucol	CHEBI:4329
+Debneyol	CHEBI:4343
+Colchamine	CHEBI:4393
+Dendrobine	CHEBI:4400
+Deoxypodophyllotoxin	CHEBI:4429
+Dihydroconiferyl alcohol	CHEBI:4559
+Diphyllin	CHEBI:4645
+Encecalin	CHEBI:4789
+Eremophilenolide	CHEBI:4818
+Lysergamide	CHEBI:4819
+N-Methylserotonin	CHEBI:48294
+Erysotrine	CHEBI:4838
+Erythratidine	CHEBI:4839
+Eseramine	CHEBI:4854
+(E)-4-methoxycinnamic acid	CHEBI:48541
+Eseridine	CHEBI:4855
+lirioresinol A	CHEBI:49211
+Eupatilin	CHEBI:4932
+Eupatoriochromene	CHEBI:4936
+2-(2-Phenylethyl) chromone	CHEBI:5092
+Funtumine	CHEBI:5193
+Geraldone	CHEBI:5326
+Glabranin	CHEBI:5368
+Glabridin	CHEBI:5369
+Glaucine	CHEBI:5373
+Glechomanolide	CHEBI:5379
+Dihydrocubebin	CHEBI:543841
+4-methoxyphenylacetic acid	CHEBI:55501
+(-)-Hinokinin	CHEBI:5722
+(+)-Hinokinin	CHEBI:5722
+Cubebinolide	CHEBI:5722
+Hispaglabridin A	CHEBI:5730
+Homoferreirin	CHEBI:5754
+Hordenine	CHEBI:5764
+Hydroquinidine	CHEBI:5792
+Ibogaine	CHEBI:5852
+Ipomeamarone	CHEBI:5955
+Irolone	CHEBI:5970
+Irisolidone	CHEBI:5972
+Isoajmaline	CHEBI:5979
+Isoboldine	CHEBI:5986
+Isocorydine	CHEBI:6000
+Isopimaric acid	CHEBI:6039
+2-propylpentanoate	CHEBI:60654
+Isothebaine	CHEBI:6066
+Isovelleral	CHEBI:6070
+Juvabione	CHEBI:6095
+TACROLIMUS MONOHYDRATE	CHEBI:61057
+Khellin	CHEBI:6133
+Kokusaginine	CHEBI:6142
+Lactucin	CHEBI:6358
+lamprolobine	CHEBI:6369
+Laudanosine	CHEBI:6389
+Lobelanidine	CHEBI:6507
+Lobelanine	CHEBI:6508
+Corymbolone	CHEBI:65659
+Lunularic acid	CHEBI:6567
+Lunularin	CHEBI:6568
+(-)-Cubebin	CHEBI:65684
+Cubebin	CHEBI:65684
+Luvangetin	CHEBI:6586
+Erylatissin B	CHEBI:65864
+Futokadsurin A	CHEBI:65936
+Futokadsurin B	CHEBI:65937
+graminone B	CHEBI:65979
+Lycorine	CHEBI:6601
+Narcissine	CHEBI:6601
+(5R)-7-(4-hydroxy-3-methoxyphenyl)-5-methoxy-1-phenylheptan-3-one	CHEBI:66032
+isotanshinone IIB	CHEBI:66098
+Hypodiolide A	CHEBI:66275
+maculosidin	CHEBI:6630
+Magnolol	CHEBI:6643
+L-sesamin	CHEBI:66470
+Sesamin	CHEBI:66470
+Pisiferanol	CHEBI:66549
+Laurolitsine	CHEBI:66557
+Mansonone C	CHEBI:6689
+Marrubiin	CHEBI:6696
+(-)-lariciresinol	CHEBI:67244
+(+)-Pinoresinol	CHEBI:67245
+Melanettin	CHEBI:6728
+Eugenin	CHEBI:67374
+Thalifoline	CHEBI:67409
+N-Methylcorydaldine	CHEBI:67411
+Eugenitin	CHEBI:67491
+Coptisine	CHEBI:67862
+Farrerol	CHEBI:67897
+acetoisovanillone	CHEBI:67899
+12a-Hydroxyrotenone	CHEBI:68051
+Obovatin	CHEBI:68376
+p-Hydroxybenzalacetone	CHEBI:68636
+Totarol	CHEBI:69241
+Vitexicarpin	CHEBI:69355
+Rubianthraquinone	CHEBI:69531
+1-(2-hydroxy-4-methoxyphenyl)ethanone	CHEBI:69581
+Alpinumisoflavone	CHEBI:69746
+Corylin	CHEBI:69749
+hydrastine	CHEBI:69919
+Xanthoxyletin	CHEBI:69929
+Pachypodol	CHEBI:70007
+Mucronulatol	CHEBI:7014
+Dehydrocorydalmine	CHEBI:70645
+8-Methylpinocembrin	CHEBI:70663
+Demethoxymatteucinol	CHEBI:70664
+n-acetyltryptophan	CHEBI:70976
+Phytocassane A	CHEBI:72664
+Phytocassane C	CHEBI:72668
+Phytocassane D	CHEBI:72669
+Phytocassane E	CHEBI:72675
+Narcotoline	CHEBI:7482
+Narwedine	CHEBI:7487
+Neopine	CHEBI:7509
+Eupatin	CHEBI:75162
+Picropodophyllin	CHEBI:75251
+Picropodophyllotoxin	CHEBI:75251
+Anonaine	CHEBI:76
+2-Butyl-4-hydroxyanisole	CHEBI:76358
+Cissamine	CHEBI:76923
+manool	CHEBI:76945
+Obamegine	CHEBI:7714
+16alpha-Hydroxyestrone	CHEBI:776
+Ferruginol	CHEBI:78274
+Oxyacanthine	CHEBI:7853
+Argemonine	CHEBI:80
+(-)-Argemonine	CHEBI:80
+Cyperolone	CHEBI:80814
+Deoxyschizandrin	CHEBI:80818
+dimethylgomisin J	CHEBI:80818
+Fargesin	CHEBI:80822
+ISOELEMICIN	CHEBI:80837
+Norboldine	CHEBI:80843
+Michelalbine	CHEBI:80850
+Obtusifolin	CHEBI:80880
+Tuduranine	CHEBI:80910
+Worenine	CHEBI:80913
+L-dicentrine	CHEBI:81079
+Lotusine	CHEBI:81190
+Chrysanthemol	CHEBI:81217
+Dehydrozingerone	CHEBI:81361
+Physovenine	CHEBI:8188
+Plenolin	CHEBI:8268
+Plumbagin	CHEBI:8273
+Polygodial	CHEBI:8305
+Tadeonal	CHEBI:8305
+Pratensein	CHEBI:8359
+(-)-Caaverine	CHEBI:84
+cis-Sesquisabinene hydrate	CHEBI:85087
+Prunetin	CHEBI:8600
+Pseudobaptigenin	CHEBI:8602
+Pterostilbene	CHEBI:8630
+Randainol	CHEBI:8775
+Rhombifoline	CHEBI:8837
+Robustadial A	CHEBI:8880
+Corlumine	CHEBI:9
+Santin	CHEBI:9024
+Sesamolinol	CHEBI:9127
+Sesartemin	CHEBI:9128
+Sirenin	CHEBI:9164
+Skimmianine	CHEBI:9172
+Sophoramine	CHEBI:9198
+Sumatrol	CHEBI:9358
+Tabernanthine	CHEBI:9386
+Tectorigenin	CHEBI:9429
+Tenulin	CHEBI:9441
+Tephrosin	CHEBI:9442
+Tetrahydroalstonine	CHEBI:9479
+Tetrahydroharmine	CHEBI:9485
+Thebaine	CHEBI:9519
+Dimethoxyphenol	CHEBI:955
+alpha-Toxicarol	CHEBI:9643
+(-)-Trachelogenin	CHEBI:9647
+Trachelogenin	CHEBI:9647
+Triptolide	CHEBI:9747
+Sodium valproate	CHEBI:9925
+Vestitol	CHEBI:9971
+Vignafuran	CHEBI:9980
+7,8-dihydroxyflavanone	CHEMBL104565
+4-(4'-hydroxyphenyl)-2-butanone	CHEMBL105912
+Darutigenol	CHEMBL1076911
+anemarcoumarin A	CHEMBL1077595
+Kamolonol	CHEMBL1077965
+2-(4-hydroxyphenyl)ethyl 4-methoxybenzoate	CHEMBL1078244
+3-Demethylcolchicine	CHEMBL1081
+3,4,8-trimethoxyphenanthrene-2,5-diol	CHEMBL1085553
+3'-O-Methylviolanone	CHEMBL1086619
+Rhododendrol	CHEMBL1086681
+Tetrahydrodemethoxycurcumin	CHEMBL1087639
+5,7,4'-Trimethoxyflavone	CHEMBL1087720
+Sinapinic acid	CHEMBL109341
+4-(2-Methoxyethyl)phenol	CHEMBL1094369
+ophiopogonanone E	CHEMBL1094630
+2,6-dimethoxyphenol	CHEMBL109652
+methylophiopogonanone B	CHEMBL1098293
+2,4-diphenylcyclobutane-1,3-dicarboxylic acid	CHEMBL1098368
+Isorhapontigenin	CHEMBL110370
+Rhapontigenin	CHEMBL113029
+Oxyberberine	CHEMBL11531
+Acanthol	CHEMBL115590
+Coreximine	CHEMBL1164087
+Isoacoramone	CHEMBL1164266
+N-Nornuciferine	CHEMBL1164391
+Sanjoinine Ia	CHEMBL1164391
+(Z)-methylisoeugenol	CHEMBL1164609
+cis-Methyl isoeugenol	CHEMBL1164609
+Acoronene	CHEMBL1164941
+chrysin	CHEMBL117
+glycitein-7-O-methyl ether	CHEMBL1170819
+Heraclenol	CHEMBL1173444
+menisperine	CHEMBL1186240
+(S)-Armepavine	CHEMBL1186477
+Metaphanine	CHEMBL1187163
+Hernangerine	CHEMBL1190170
+epiberberine	CHEMBL1197637
+CHEBI:8604	CHEMBL1200724
+Dextromethorphan hydrobromide	CHEMBL1201004
+FLUOXETINE HYDROCHLORIDE	CHEMBL1201082
+Camphoric acid	CHEMBL1205405
+3-Methoxy-4-Hydroxybenzoic acid	CHEMBL120568
+Berberine hydrochloride	CHEMBL12089
+Cheilanthifoline	CHEMBL1209678
+berberrubine	CHEMBL1223099
+Javanicin	CHEMBL1224810
+2-Benzylphenol	CHEMBL122649
+(S)-Scoulerine	CHEMBL1235966
+Gomisin R	CHEMBL1237139
+Isobonducellin	CHEMBL1253830
+N-Nornantenine	CHEMBL1254951
+Metoclopramide hydrochloride	CHEMBL1256771
+Gingerenone-C	CHEMBL1270357
+alpha-Thujaplicin	CHEMBL1275969
+5,7-Dimethoxyluteolin	CHEMBL1278226
+1,5-Bis(4-hydroxy-3-methoxyphenyl)-1,4-pentadien-3-one	CHEMBL128729
+7,8-dihydroxy-4'-methoxyisoflavone	CHEMBL1290231
+4-ACETYLBENZOIC ACID	CHEMBL130010
+3,4,5-trimethoxyphenol	CHEMBL1319047
+Columbianadin	CHEMBL1324067
+Zosimin	CHEMBL1324067
+Oxypeucedanin methanolate	CHEMBL1347823
+4-Ethoxy-3-methoxybenzoic acid	CHEMBL1363623
+Isoeugenitol	CHEMBL1371435
+6-Methoxyflavone	CHEMBL137586
+thaliporphine	CHEMBL1397308
+Beta-Narcotine	CHEMBL1403892
+N-Methylhomoveratrylamine	CHEMBL1404381
+tetrahydropalmatine hydrochloride	CHEMBL1412574
+3,5-dimethoxy-4-hydroxybenzoic acid	CHEMBL1414
+Tauremisin	CHEMBL1422618
+dl-Laudanidine	CHEMBL1425007
+Colchiceine	CHEMBL142588
+Machilin D	CHEMBL1437438
+Uzarigenin	CHEMBL1453
+Butyl hydroxy toluene	CHEMBL146
+Lithocholic acid	CHEMBL1478
+N-(4-methoxyphenethyl)benzamide	CHEMBL1497400
+Alloyohimbine	CHEMBL1526082
+WLN: QVR BM1	CHEMBL1528955
+Nonyl phenol	CHEMBL153062
+5alpha-Pregnane-3beta,20beta-diol	CHEMBL1532787
+Olivetol	CHEMBL154533
+Bavachinin A	CHEMBL1551302
+2-Epigalanthamine	CHEMBL1565544
+Microminutin	CHEMBL156967
+(-)-asarinin	CHEMBL1572261
+asarinin	CHEMBL1572261
+C09367	CHEMBL157912
+Ethylparaben	CHEMBL15841
+2,5-ditert-butyl-4-methoxyphenol	CHEMBL1600347
+1,3,5-Trimethoxybenzene	CHEMBL1605492
+Hydrocotarnine	CHEMBL1606295
+Apomorphine HCl	CHEMBL1616
+Micheline A	CHEMBL1617041
+2-HYDROXYESTRONE	CHEMBL1627343
+3,7-dimethylquercetin	CHEMBL164861
+5,7,4'-trihydroxy-3-methoxyflavone	CHEMBL165064
+Methyl tri-O-methylgallate	CHEMBL1651039
+5,4'-Dihydroxy-3,6,7-trimethoxyflavone	CHEMBL165509
+5-Methoxyflavone	CHEMBL16685
+1,2,4-trimethoxybenzene	CHEMBL1668605
+Pratol	CHEMBL16751
+7-O-methyltectorigenin	CHEMBL1689286
+quercetin-3',4',7-trimethyl ether	CHEMBL1689343
+Lacerol	CHEMBL1697
+Isomerazin	CHEMBL1718459
+pabularinone	CHEMBL1725773
+Pterosin B	CHEMBL1728959
+Isoanthricin	CHEMBL1736070
+p-Methoxyhydrocinnamic acid	CHEMBL1738950
+Hydroquinine	CHEMBL1740727
+Nantenin	CHEMBL179440
+nantenine	CHEMBL179440
+Densiflorol A	CHEMBL1796012
+Sinapyl alcohol	CHEMBL1800816
+Domesticine	CHEMBL1808240
+Chrysin-5-methylether	CHEMBL181896
+7-Hydroxy-3,5-dimethoxyflavone	CHEMBL183723
+Tetrahydrohelenalin	CHEMBL1879947
+3,5-Dimethoxystilbene	CHEMBL188181
+myricetin 3,3',4',5'-tetramethyl ether	CHEMBL189626
+Quinidine sulfate	CHEMBL197253
+dihydroguaiaretic acid	CHEMBL1976696
+3-(3-Hydroxy-4-methoxybenzyl)-5,7-dihydroxychroman-4-one	CHEMBL1979084
+CREBANINE	CHEMBL1989287
+cyclo(Tyr-Tyr)	CHEMBL2002640
+3-(4-Hydroxybenzyl)-5,7-dihydroxy-6-methoxychroman-4-one	CHEMBL2004107
+5,7-Dimethoxy-3-(4-methoxybenzyl)chroman-4-one	CHEMBL2005881
+Phoyunbene A	CHEMBL2012416
+Phoyunbene B	CHEMBL2012417
+Phoyunbene C	CHEMBL2012418
+Phoyunbene D	CHEMBL2012419
+3-oxoanticopalic acid	CHEMBL2036467
+Blumeatin	CHEMBL2037158
+Imbricatolic acid	CHEMBL2048004
+1-methyl-5-vinyl-9,10-dihydrophenanthrene-2,7-diol	CHEMBL205119
+Triptonide	CHEMBL205190
+2,6-Dimethoxy-4-methylphenol	CHEMBL205268
+moracin O	CHEMBL205924
+Sesamolin	CHEMBL2059646
+Palmatine chloride	CHEMBL206106
+Matricarin	CHEMBL2087220
+Ladanein	CHEMBL209257
+alpha-bisabolol	CHEMBL2104360
+4',5-dihydroxy-7-methoxyflavone	CHEMBL210635
+ELTANOLONE	CHEMBL210952
+Damnacanthal	CHEMBL212948
+2-Methoxy-4-propenyl phenol	CHEMBL2135887
+3'-Methoxy-4',5,7-trihydroxyflavone	CHEMBL214321
+4',7-di-O-methylnaringenin	CHEMBL2164944
+ISOCORYDINE HYDROCHLORIDE	CHEMBL2165400
+4,10-aromadendranediol	CHEMBL2171208
+Isopolygodial	CHEMBL218100
+chrysotoxine	CHEMBL219352
+3'-O-Methylbrazilin	CHEMBL2207721
+3,4,9-Trimethoxyphenanthrene-2,7-diol	CHEMBL2208383
+3,4'-dihydroxyflavone	CHEMBL222556
+lenticin	CHEMBL2235164
+L-hypaphorine	CHEMBL2235164
+Scutevulin	CHEMBL2235250
+magnolone	CHEMBL2236570
+3-methoxybenzoic acid	CHEMBL22425
+methyl 3-hydroxy-4-methoxybenzoate	CHEMBL2252125
+5-(4-Hydroxybut-1-ynyl)-2,2'-bithiophene	CHEMBL2252907
+3,5-Di-tert-butyl-4-hydroxybenzaldehyde	CHEMBL225623
+phillygenin	CHEMBL2260010
+5-Hydroxy-3',4',6,7-tetramethoxyflavone	CHEMBL226508
+Hmp-hmpep	CHEMBL226588
+N-trans-Feruloylmethoxytyramine	CHEMBL226588
+Aristolactam FII	CHEMBL226655
+Methyl indole-3-carboxylate	CHEMBL2270066
+Dihydrotanshinone  	CHEMBL227075
+dihydroisotanshinone II	CHEMBL227128
+Tagalsin H	CHEMBL2272137
+Cucurbic acid	CHEMBL2272539
+1,3-dihydroxy-2-methoxyanthraquinone	CHEMBL227588
+alpha-elemol	CHEMBL2287241
+elemol	CHEMBL2287241
+5-Deoxyabyssinin II	CHEMBL229670
+N-Methylasimilobine	CHEMBL2316499
+Koenimbine	CHEMBL2323768
+Talcarpine	CHEMBL2332140
+(+)-corypalmine	CHEMBL2334885
+Corypalmine	CHEMBL2334885
+intricatinol	CHEMBL233805
+Laurifoline	CHEMBL235429
+3,4,5,6-tetradehydrospartein-2-one	CHEMBL2373362
+Calliterpenone	CHEMBL2374014
+Alismoxide 1	CHEMBL2386511
+Zedoalactone A	CHEMBL2386516
+6,4'-dihydroxy-7-methoxyflavanone	CHEMBL2397754
+(1E,4E)-1-(4-Hydroxy-3-methoxyphenyl)-5-(4-hydroxyphenyl)-1,4-pentadien-3-one	CHEMBL2398585
+Grandifloric acid	CHEMBL2402444
+Erycibenin D	CHEMBL241571
+2'-Hydroxy-4-methoxychalcone	CHEMBL241862
+Obtustyrene	CHEMBL243670
+Licoagrocarpin	CHEMBL2437361
+5,7,4'-Trihydroxy-8-methoxyflavone	CHEMBL245712
+Hydrangeic acid	CHEMBL248347
+Tylophorinidine	CHEMBL250854
+stepharanine	CHEMBL251229
+Codamine	CHEMBL251624
+Gomisin J	CHEMBL251864
+Lemairamin	CHEMBL252000
+3,7,4'-O-trimethylquercetin	CHEMBL252252
+(2R,3R)-3,7-dihydroxyflavanone	CHEMBL252667
+episesamin	CHEMBL252915
+gamma-Fagarine	CHEMBL252925
+Schisandrin	CHEMBL253688
+Schisandrol A	CHEMBL253688
+Loureirin A	CHEMBL253779
+Deoxyschisandrin	CHEMBL253908
+3,4'-O-dimethylquercetin	CHEMBL253946
+Bulbophyllanthrin	CHEMBL253981
+3,4-dimethoxyphenanthrene-2,7-diol	CHEMBL253983
+Glabranine	CHEMBL253998
+5,6-Dehydrokawain	CHEMBL254218
+Gramine	CHEMBL254348
+2,8-dihydroxy-3,4,7-trimethoxyphenanthrene	CHEMBL254598
+(-)-pinostrobin	CHEMBL254613
+Pinostrobin	CHEMBL254613
+5-O-Methylnaringenin	CHEMBL255035
+dictamdiol B	CHEMBL256353
+Machilin A	CHEMBL261367
+bakuchiol	CHEMBL262344
+intricatin	CHEMBL265869
+4'-hydroxy-4-methoxychalcone	CHEMBL268559
+Indalpine	CHEMBL276520
+3,9-Dimethoxypterocarpan	CHEMBL277682
+6-methoxy-1-methyl-9H-pyrido(3,4-b)indole	CHEMBL278193
+6-hydroxy-2-naphthoic acid	CHEMBL278950
+edaravone	CHEMBL290916
+3,5-Dihydroxy-4'-methoxystilbene	CHEMBL291501
+4'-Methoxyresveratrol	CHEMBL291501
+sclareol	CHEMBL294740
+5,6-dihydroxy-7-methoxyflavone	CHEMBL296800
+Isopaeonol	CHEMBL3039008
+Menthyl benzoate	CHEMBL3039111
+Chrysotobibenzyl	CHEMBL307158
+Betuletol	CHEMBL311155
+Corynanthine	CHEMBL31410
+Isobutylparaben	CHEMBL3182006
+2-methoxy-4-propylphenol	CHEMBL3186884
+4'-Demethylepipodophyllotoxin	CHEMBL31929
+Salsolidine	CHEMBL320193
+3-(3,4-dimethoxyphenyl)acrylic acid	CHEMBL320295
+3,4-dimethoxycinnamicacid	CHEMBL320295
+Caffeic acid dimethyl ether	CHEMBL320295
+Sternbin	CHEMBL3233849
+4-Ethoxy benzoic acid	CHEMBL324769
+4',5,7-trihydroxyflavanone	CHEMBL32571
+3',4',5,7-tetramethoxyflavone	CHEMBL327340
+Przewaquinone E	CHEMBL3287734
+5,7-Dimethoxy-4'-hydroxyflavone	CHEMBL3288426
+sanggenone H	CHEMBL3288838
+1,7-bis(4-hydroxyphenyl)-4-hepten-3-one	CHEMBL330645
+chrysosplenetin B	CHEMBL33256
+Alpha-Asarone	CHEMBL333306
+dihydroandrosterone	CHEMBL335062
+4-hydroxy-4'-methoxychalcone	CHEMBL337821
+4-acetyl-2-methoxyphenol	CHEMBL346919
+Rheumin	CHEMBL348000
+kumatakenin	CHEMBL349724
+4',7-dimethoxy-5-hydroxyflavone	CHEMBL350958
+6-hydroxy-2-(2-phenylethyl)chromone	CHEMBL358544
+dl-Syringaresinol	CHEMBL361362
+alpha-Narcotine	CHEMBL364713
+dendrophenol	CHEMBL374047
+NERIDIENONE A	CHEMBL375572
+(-)-Dihydroguaiaretic acid	CHEMBL375927
+(-)-medioresinol	CHEMBL376507
+(+)-medioresinol	CHEMBL376507
+40957-99-1	CHEMBL376507
+Psathyrotin	CHEMBL376644
+2,4,6-Tri-tert-butylphenol	CHEMBL387905
+boldine	CHEMBL388342
+6-HYDROXY-7-METHOXYCOUMARIN	CHEMBL390320
+WV	CHEMBL39159
+lasiodiplodin	CHEMBL393258
+homopterocarpin	CHEMBL396671
+Tylophorinine	CHEMBL398325
+Lysergol	CHEMBL39947
+austrobailignan-5	CHEMBL400319
+(+)-reticuline	CHEMBL401501
+(-)-syringaresinol	CHEMBL402653
+dictamdiol	CHEMBL403868
+Neolitsine	CHEMBL404684
+dictamdiol A	CHEMBL404868
+4'-methoxyflavonol	CHEMBL406834
+Kaemperide	CHEMBL40919
+14-deoxyandrographolide	CHEMBL415768
+Deoxyandrographolide	CHEMBL415768
+11-Hydroxytephrosin	CHEMBL419669
+67884-30-4	CHEMBL426871
+meso-dihydroguaiaretic acid	CHEMBL430464
+Valproate sodium	CHEMBL433
+(+)-arctigenin	CHEMBL435734
+3,3',5,5'-Tetramethoxy-trans-stilbene	CHEMBL441035
+tetrahydrobisdemethoxycurcumin	CHEMBL443146
+(Z)-lanceol	CHEMBL443875
+Blumenol B	CHEMBL444659
+Tybraine	CHEMBL445001
+4'-hydroxy-2'-methoxychalcone	CHEMBL445232
+Methyl 3,4-dimethoxybenzoate	CHEMBL446736
+alizarin-1-methyl ether	CHEMBL446748
+Oxyphyllol C	CHEMBL447862
+Phaseolin	CHEMBL448350
+Phaseollin	CHEMBL448350
+Corydalmine	CHEMBL448891
+precocene II	CHEMBL448964
+(-)-Jasmonic acid	CHEMBL449572
+4-Methoxybenzamide	CHEMBL449635
+3'-Methoxydaidzein	CHEMBL450602
+7,4'-dihydroxy-3'-methoxyisoflavone	CHEMBL450602
+bonducellin	CHEMBL450675
+3,3'-dihydroxy-5-methoxybibenzyl	CHEMBL450788
+4-methylcinnamic acid	CHEMBL450836
+p-Methylcinnamic acid	CHEMBL450836
+butin	CHEMBL451168
+Benzyl 2-hydroxy-6-methoxybenzoate	CHEMBL451295
+d,l-armepavine	CHEMBL451722
+casticin	CHEMBL452767
+Norarmepavine	CHEMBL453038
+1-O-methylemodin	CHEMBL453316
+Cavidine	CHEMBL453544
+(2S)-5,7-Dimethoxy-8-formylflavanone	CHEMBL454070
+Candidone	CHEMBL454844
+Abyssinone I	CHEMBL455626
+(2S)-7,4'-Dihydroxy-3'-prenylflavan	CHEMBL456062
+(+)-alismoxide	CHEMBL456292
+Ilicol	CHEMBL456866
+(-)-oblongine	CHEMBL457373
+oblongine	CHEMBL457373
+Licoflavanone	CHEMBL457680
+Tupipregnenolone	CHEMBL457754
+Bavachinin	CHEMBL458053
+Miltrione	CHEMBL45830
+dihydrokaempferide	CHEMBL458480
+Colartin	CHEMBL459399
+Benzyl salicylate	CHEMBL460124
+Lucidenic acid A	CHEMBL460969
+Kobusin	CHEMBL462822
+stemofuran C	CHEMBL462853
+ligucyperonol	CHEMBL462897
+7,4'-Dihydroxyflavan	CHEMBL463168
+4'-methylpinosylvin	CHEMBL463252
+guaidiol A	CHEMBL463902
+3'-Methoxyglabridin	CHEMBL463948
+Laurotetanine	CHEMBL464098
+Litsoeine	CHEMBL464098
+7-hydroxy-4',6-dimethoxyisoflavone	CHEMBL464404
+Sanjoinine E	CHEMBL464529
+Hispaglabridin B	CHEMBL464582
+Oroxindin	CHEMBL464732
+O-methylbulbocapnine	CHEMBL464955
+Izalpinin	CHEMBL464966
+Pinusolidic acid	CHEMBL465159
+Norisocorydine	CHEMBL465212
+oplodiol	CHEMBL465432
+5,2'-dihydroxy-6,7,8,6'-tetramethoxy flavone	CHEMBL465561
+7,3'-dihydroxy-8,4'-dimethoxyisoflavone	CHEMBL465572
+Atalantoflavone	CHEMBL465808
+Asimilobine	CHEMBL469423
+Bavachin	CHEMBL469444
+2,6-Dihydroxy-1,5,7-trimethoxyphenanthrene	CHEMBL469491
+2',4',5-trihydroxy-7-methoxyisoflavone	CHEMBL469630
+3',7-Dihydroxy-4',6-dimethoxyisoflavone	CHEMBL469824
+Huperzinine	CHEMBL470349
+demethoxyegonol	CHEMBL470982
+machilin G	CHEMBL471177
+clusin	CHEMBL476708
+7-hydroxy-8,4'-dimethoxyisoflavone	CHEMBL477720
+Islandicin 4-methyl ether	CHEMBL478711
+(-)-Dicentrine	CHEMBL478754
+4-ketopinoresinol	CHEMBL479035
+3,5,3'-Trihydroxybibenzyl	CHEMBL479325
+5-hydroxy-3,3',4',7,8-pentamethoxyflavone	CHEMBL479326
+5-hydroxy-2-(2-phenylethyl)chromone	CHEMBL479683
+(-)-Clusin	CHEMBL479701
+Schizandrin A	CHEMBL479898
+Paulownin	CHEMBL479911
+Epiaschantin	CHEMBL480876
+Crychine	CHEMBL481839
+colchinine	CHEMBL482108
+(8R,8'R,9'S)-5-Methoxyclusin	CHEMBL482233
+3',5-Dihydroxy-4',7-dimethoxyflavone	CHEMBL483424
+Naringenin trimethyl ether	CHEMBL483550
+saucerneol I	CHEMBL483652
+Remerin	CHEMBL483825
+Roemerine	CHEMBL483825
+Tripterifordin	CHEMBL484043
+4',5-Dihydroxyflavone	CHEMBL484662
+Carnosic acid	CHEMBL484853
+Neokadsuranin	CHEMBL485477
+5,7-Dihydroxy-2-propylchromone	CHEMBL485814
+Pseudoprotopine	CHEMBL486179
+5,7-Dihydroxy-3',4',5'-trimethoxyflavon	CHEMBL486590
+gibberodione	CHEMBL486794
+Rauniticine	CHEMBL486933
+Vitedoamine A	CHEMBL487008
+L-tetrahydropalmatine	CHEMBL487182
+laurolistine	CHEMBL487388
+Dehydroxycubebin	CHEMBL487394
+5,3'-Dihydroxy-6,7,4'-trimethoxyflavone	CHEMBL487402
+jaceosidin	CHEMBL487601
+epipinoresinol	CHEMBL487611
+1,7-diphenyl-5-hydroxy-3-heptanone	CHEMBL488124
+2,6-Dimethoxy benzoic acid	CHEMBL488609
+3,5 dimethoxybenzoic acid	CHEMBL488610
+5,7,2'-trihydroxy-6,8-dimethoxyflavone	CHEMBL488994
+7-Hydroxy-2-methyl isoflavone	CHEMBL489340
+Corydine	CHEMBL489524
+Schisanhenol	CHEMBL490125
+dihydrochalcone	CHEMBL490512
+l-canadine	CHEMBL490533
+Isobavachin	CHEMBL491534
+7-O-Methylaromadendrin	CHEMBL491541
+Thalifendine	CHEMBL491544
+Benzyl 2,6-dimethoxybenzoate	CHEMBL491794
+Methyl-4-O-methylgallate	CHEMBL491990
+Stephanthrine	CHEMBL492418
+Isoxanthohumol	CHEMBL492828
+Gancaonin G	CHEMBL494253
+2',4'-Dihydroxy-4,6'-dimethoxychalcone	CHEMBL494264
+5,7-dihydroxy-6,8-dimethoxyflavone	CHEMBL495722
+magnoflorine chloride	CHEMBL496685
+COPTISINE CHLORIDE	CHEMBL498722
+3,4,5-Trimethoxycinnamic acid	CHEMBL501235
+Jatamansinol	CHEMBL503137
+Aphanamol II	CHEMBL504100
+5,7-dihydroxy-6,8,3',4'-tetramethoxyflavone	CHEMBL504325
+1-Methyl-L-tryptophan	CHEMBL504816
+Licoflavanone A	CHEMBL506929
+2-Hydroxy-4-methoxybenzoic acid	CHEMBL507095
+velutin	CHEMBL508292
+Caruilignan C	CHEMBL508457
+3,5-dimethoxy-2,7-phenanthrenediol	CHEMBL509668
+stemofuran B	CHEMBL511197
+3,3'-Dimethylquercetin	CHEMBL511363
+1,7-Dihydroxy-2,3,8-trimethoxy-6-methylanthracene-9,10-dione	CHEMBL511524
+obtusin	CHEMBL511524
+Hernovine	CHEMBL512052
+sauristolactam	CHEMBL512443
+Acanthoic acid	CHEMBL512490
+4',7-dihydroxy-6-methoxyisoflavone	CHEMBL513024
+axinysone D	CHEMBL513107
+sandaracopimaric acid	CHEMBL513197
+sucutinirane A	CHEMBL514119
+(-)-Phanostenine	CHEMBL515639
+Acerogenin A	CHEMBL516665
+Launobine	CHEMBL516862
+Obaculactone	CHEMBL517449
+Vitexilactone	CHEMBL517619
+Erysovine	CHEMBL517778
+Andrograpanin	CHEMBL518137
+Erythraline	CHEMBL518262
+lariciresinol	CHEMBL518421
+Binankadsurin A	CHEMBL518555
+Bisnorargemonine	CHEMBL518908
+Magnolin	CHEMBL519926
+5,6,7,4'-tetramethoxyflavanone	CHEMBL520193
+Piperamine	CHEMBL520400
+Teucvin	CHEMBL521585
+4'-methylpenduletin	CHEMBL521934
+Epigomisin O	CHEMBL521975
+Gomisin O	CHEMBL522973
+2'-Hydroxy-4,4',6'-trimethoxydihydrochalcone	CHEMBL523190
+Eudesmin	CHEMBL523743
+EUDESMINE	CHEMBL523743
+kaurenoic acid	CHEMBL523791
+5-Hydroxy-6,7-dimethoxyflavone	CHEMBL52676
+8-hydroxycannabinol	CHEMBL550897
+meso-monomethyldihydroguaiaretic acid	CHEMBL551810
+4',5,7,8-Tetramethoxyflavone	CHEMBL556454
+ailanthamide	CHEMBL556469
+(-)-Machilusin	CHEMBL559937
+(-)-Galbelgin	CHEMBL56917
+(+)-Galbelgin	CHEMBL56917
+PIPERONYLIC ACID	CHEMBL573781
+Przewaquinone A	CHEMBL578036
+Norpluviine	CHEMBL584172
+5-Methoxy-N-methyltryptamine	CHEMBL58579
+shinpterocarpin	CHEMBL591773
+Corypalline	CHEMBL593001
+(5R)-5-hydroxy-1,7-diphenylheptan-3-one	CHEMBL594066
+(4E)-7-(4-hydroxy-3-methoxyphenyl)-1-phenylhept-4-en-3-one	CHEMBL594765
+(5R)-5-hydroxy-7-(4-hydroxy-3-methoxyphenyl)-1-phenylheptan-3-one	CHEMBL595314
+5,7-dimethoxy-8-hydroxycoumarin	CHEMBL595334
+5,7,8-Trimethoxycoumarin	CHEMBL596221
+2-(4-methoxyphenyl)-7-methyl-chromone	CHEMBL598311
+Glabrone	CHEMBL600457
+Stephanine	CHEMBL601020
+Alstonerine	CHEMBL606749
+5,6,7-Trimethoxycoumarin	CHEMBL607537
+6-hydroxy-5,7-dimethoxycoumarin	CHEMBL611349
+Anthricin	CHEMBL63970
+5,7-Dihydroxyflavanone	CHEMBL70518
+N,N-Dimethyl-5-methoxy tryptamine	CHEMBL7257
+2,3,4,7-tetramethoxyphenanthrene	CHEMBL73252
+4'-Hydroxy-5,6,7-trimethoxyflavone	CHEMBL74490
+4',7-dimethoxy-3,3',5-trihydroxyflavone	CHEMBL75589
+Kampferol-3,4'-dimethyl ether	CHEMBL76426
+5-hydroxy-3,3',4',7-tetramethoxyflavone	CHEMBL77966
+Rosiglitazone maleate	CHEMBL843
+3-hydroxy-4,5-dimethoxybenzoic acid	CHEMBL85234
+N-Formyl-N-deacetylcolchicine	CHEMBL85710
+5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	CHEMBL88169
+3-Hydroxy-4-methoxy benzoic acid	CHEMBL88700
+4-methoxyhonokiol	CHEMBL89700
+4'-Demethyldeoxypodophyllotoxin	CHEMBL89905
+N-phenyl phthalimide	CHEMBL9020
+Diosmetin	CHEMBL90568
+2-Methoxycinnamic Acid	CHEMBL95203
+trans-2-methoxycinnamic acid	CHEMBL95203
+Xenognosin A	Compound0001
+Taiwaniaquinone G	Compound0002
+Berlambine	Compound0003
+Cumic acid	Compound0004
+(-)-N-formylanonaine	Compound0005
+N-Formylanonaine	Compound0006
+xanthoplanine	Compound0007
+candicine	Compound0008
+magnocurarine	Compound0009
+VERATRIC ACID	Compound0010
+isosalsoline	Compound0011
+Saxagliptin hydrochloride	Compound0012
+7-O-methyldihydrowogonin	Compound0013
+Dextromethorphan hydrobromide monohydrate	Compound0014
+1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)-(4E)-4-hepten-3-one	Compound0015
+(+)-Bicuculline	Compound0016
+DL-Laudanine	Compound0017
+  -Toxicarol	Compound0018
+DIHYDROOROXYLIN	Compound0019
+beta-Toxicarol	Compound0020
+homovanillic acid	Compound0021
+glyasperin D	Compound0022
+7-Methoxy-4'-hydroxyflavone	Compound0023
+Deacetylmatricarin	Compound0024
+Glyasperin C	Compound0025
+pioglitazone hydrochloride	Compound0026
+Daphneolone	Compound0027
+1-Methoxyphaseollidin	Compound0028
+voacangine	Compound0029
+dl-tetrahydropalmatine	Compound0030
+cyclo(Phe-Tyr)	Compound0031
+trans-isoeugenol	Compound0032
+govadine	Compound0033
+(-)-sesamin	Compound0034
+isoflavanone	Compound0035
+feruloyl tyramine	Compound0036
+Acanthokoreoic acid A	Compound0037
+Fadolmidine hydrochloride	Compound0038
+lucidone A	Compound0039
+Persicogenin	Compound0040
+Toddalolactone	Compound0041
+Isoamyl benzoate	Compound0042
+5-hydroxy-6,7,8,4'-tetramethoxyflavone	Compound0043
+Sibiriquinone B	Compound0044
+Dihydrotanshinone I	Compound0045
+boldine dimethyl ether	Compound0046
+Sigmoidin C	Compound0047
+Nandinine	Compound0048
+Magnesium valproate	Compound0049
+D-tetrahydropalmatine	Compound0050
+Cinchonamine	Compound0051
+alismoxide	Compound0052
+12-alpha-Hydroxyrotenone	Compound0053
+4-Epidehydroabietic acid	Compound0054
+d-Sesamin	Compound0055
+2'-hydroxyformononetin	Compound0056
+Anwuligan	Compound0057
+D-Coclaurine	Compound0058
+4-(3,7-Dimethyl-3-vinylocta-1,6-dien-1-yl)phenol	Compound0059
+7,3',4'-Trimethoxyisoflavone	Compound0060
+2,6-Di-tert-butylphenol	Compound0061
+5-methoxypodophyllotoxin	Compound0062
+3-HYDROXYFLAVONE	Compound0063
+Oxyphyllenodiol A	Compound0064
+Ermanin	Compound0065
+6-Methoxysalicylic acid	Compound0066
+8-Prenyldaidzein	Compound0067
+Tetrahydromagnolol	Compound0068
+Tanshindiol B	Compound0069
+Tanshindiol C	Compound0070
+Asarone	Compound0071
+indirubin	Compound0072
+3,4,5-trimethoxybenzoic acid	Compound0073
+Derrone	Compound0074
+Ilicic acid	Compound0075
+1,8-dihydroxy-3-methoxy-6-methylanthracene-9,10-dione	Compound0076
+4-(4-ethylphenyl)benzoic acid	Compound0077
+methylephedrine	Compound0078
+L-Tetrandrine	Compound0079
+Oxypeucedanin hydrate	Compound0080
+Pongapinone B	Compound0081
+anthraquinone-2-carboxylic acid	Compound0082
+(-)-alismoxide	Compound0083
+(2S)-Abyssinone II	Compound0084
+(2S)-Euchrenone A7	Compound0085
+norbracteoline	Compound0086
+2,2'-Methylenebis(6-tert-butyl-4-methylphenol)	Compound0087
+Hippuric acid	Compound0088
+Acerogenin B	Compound0089
+Tupichinol C	Compound0090
+4'-Hydroxy-5,6-dehydrokawain	Compound0091
+Broussonin E	Compound0092
+NEOBAICALEIN	Compound0093
+Broussonin F	Compound0094
+corylifolin	Compound0095
+egonol	Compound0096
+5,7-Dimethoxycoumarin	Compound0097
+Chrysosplenol G	Compound0098
+Chrysosplenol E	Compound0099
+poriol	Compound0100
+Atractylenolide II	Compound0101
+5-Hydroxy-6,7,3',4',5'-pentamethoxyflavone	Compound0102
+6,7-dihydroxy-2-methoxy-1,4-phenanthrenedione	Compound0103
+iristectorigenin	Compound0104
+L-SPD	Compound0105
+Stepholidine	Compound0106
+(S)-Canadine	Compound0107
+5,7,2'-Trihydroxy-6-methoxyflavone	Compound0108
+3,4,5-Trimethoxy cinnamic acid	Compound0109
+Annosquamosin D	Compound0110
+Adlumine	Compound0111
+3,3'-Dimethoxyquercetin	Compound0112
+N-methylcoclaurine	Compound0113
+Cryptopimaric acid	Compound0114
+3-O-methylgigantol	Compound0115
+Tsugafolin	Compound0116
+chushizisin G	Compound0117
+Epiquinidine	Compound0118
+Gomisin H	Compound0119
+shinflavanone	Compound0120
+15alpha-Hydroxy-ent-kaur-16-en-19-oic acid	Compound0121
+Quercetin tetramethyl(3',4',5,7) ether	Compound0122
+5-hydroxy-3',4',6,7,8-pentamethoxyflavone	Compound0123
+5,7-dihydroxy-6,4'-dimethoxyflavone	Compound0124
+Eupatoretin	Compound0125
+m-Methoxycinnamic acid	Compound0126
+beta-Peltatin	Compound0127
+4'-methoxy flavone	Compound0128
+7,4  -dihydroxyflavone	Compound0129
+(-)-16,17-Dihydroxy-16-beta-kauran-19-oic acid	Compound0130
+(-)-16-beta,17-Epoxykauran-19-oic acid	Compound0131
+(-)-17-Hydroxy-16beta-kauran-19-oic acid	Compound0132
+(-)-17-Hydroxy-16B-kauran-19-oic acid	Compound0133
+(-)-6-beta-Hydroxy-5-beta,8-beta,9-beta,10-alpha-cleroda-3,13-dien-16,15-olid-18-oic acid	Compound0134
+(-)-angelicoidenol-2-O-  -D-glucopyranoside deglycosylation	Compound0135
+(-)-Epihernandulcin	Compound0136
+(-)-guaia-l(10),11-dien-15,2-olide	Compound0137
+(-)-isolongifolol	Compound0138
+(+)-3,13-Clerodadien-16,15-olid-18-oic acid	Compound0139
+(+)-Hernandulcin	Compound0140
+(+)-methyl 9-hydroxyselina-4,11-dien-14-oate	Compound0141
+(3S,5R,6S,9R)-megastigman-3,9-diol	Compound0142
+(3S,5R,6S,9R)-megastigmane-3,9-diol	Compound0143
+(4aR,5S,8R,8aR)-8-hydroxy-5-isopropyl-3,8-dimethyl-1,4a,5,6,7,8a-hexahydronaphthalen-2-one	Compound0144
+(4R,5S,8R,9R,10S,13S)-ent-17-Hydroxy-16-oxobeyeran-19-al	Compound0145
+(5a,8a)-2-Oxo-1(10),3,7(11)-guaiatrien-12,8-olide	Compound0146
+(6R,9S)-9,10-dihydroxy-4-megastigmen-3-one	Compound0147
+(8R)-8-Hydroxypatchoulol	Compound0148
+(8S)-8-Hydroxypatchoulol	Compound0149
+(E)-4'-demethyl-6-methyleucomin	Compound0150
+(E)-5,7-dihydroxy-3-(4'-hydroxybenzylidene) chroman-4-one	Compound0151
+(E)-5,7-dihydroxy-6,8-dimethyl-3-(4'-hydroxybenzylidene)chroman-4-one	Compound0152
+(S)-9-Hydroxymegastigm-5-en-4-one	Compound0153
+1 beta,4 beta,7 alpha-trihydroxyeudcsmane	Compound0154
+1 beta,4 beta,7 beta-trihydroxyeudcsmane	Compound0155
+10,12-Dihydroxypicrotoxane	Compound0156
+10-alpha-Hydroxycadin-4-en-15-al	Compound0157
+11-oxo-13-noralismol	Compound0158
+12-hydroxy-hydromethylabi etate	Compound0159
+15-Nor-10-hydroxy-oplopan-4-oic acid	Compound0160
+16,17-Dihydrorostronol F	Compound0161
+16aH-17,19-ent-Kauranediol	Compound0162
+16-alpha,17-Dihydroxy-ent-9(11)-kauren-19-al	Compound0163
+16-alpha,17-Dihydroxy-ent-kauran-19-oic acid	Compound0164
+16alpha,17-dihydroxyl-ent-kauran-19-oic acid	Compound0165
+16-alpha-Hydro-19-al-ent-kauran-17-oic acid	Compound0166
+16-alpha-Hydro-ent-kauran-17,19-dioic acid	Compound0167
+16beta,17-dihydroxy-(-)-kauran-19-ate-beta-D-glucose ester deglycosylation	Compound0168
+16-beta,17-Dihydroxy-ent-kauran-19-al	Compound0169
+16-beta,17-Dihydroxy-ent-kauran-19-oic acid	Compound0170
+17-hydroxy-16alpha-ent-kauran-19-oic acid	Compound0171
+17-hydroxy-16alpha-ent-kauran-19-oic,acid	Compound0172
+17-Hydroxy-16-beta-ent-kauran-19-al	Compound0173
+17-Hydroxy-16-beta-ent-kauran-19-oic acid	Compound0174
+17-nor-ent-kaur-16-one	Compound0175
+17  -Methyltestosterone	Compound0176
+17  -Hydroxy-5  -androstane-3,11-dione	Compound0177
+18-Hydroxy-kauran-16-en-19-oic acid	Compound0178
+1-alpha-Hydroxyisodauc-4-en-15-al	Compound0179
+21-O-Methyl-5,14-pregndiene-3-beta,14-beta,17-beta,21-tetrol	Compound0180
+21-O-Methyl-5,14-pregndiene-3beta,14beta,17beta,21-tetrol-20-one	Compound0181
+21-O-Methyl-5,14-pregndiene-3  ,14  ,17  ,21-tetrol-20-one	Compound0182
+2-hydroxycyclopentadecanone	Compound0183
+2'-methoxybonducellin	Compound0184
+3-(4-Hydroxybenzylidene)-5,7-dihydroxy-6-methoxychroman-4-one	Compound0185
+3-(4-Hydroxybenzylidene)-5-hydroxy-7-methoxychroman-4-one	Compound0186
+3(S)-3-Butyl-3,5-dihydrophthalide	Compound0187
+3,4-Dihydroxydihydgaroaroiuran	Compound0188
+3-alpha,15-Dihydroxy cedrane	Compound0189
+3alpha,17alpha-Dihydroxy-5beta-androstane	Compound0190
+3-Hydroxymegastigm-5-en-9-one	Compound0191
+3-Oxoisocostic acid	Compound0192
+3  ,19-Dihydroxy-8(9),15-isopimaradien-7-one	Compound0193
+4-alpha-Hydroxy-19-nor-ent-kauran-17-oic acid	Compound0194
+4'-hydroxy-2-methoxychalcone	Compound0195
+4  -Hydroxy-19-nor-ent-kauran-17-oic acid	Compound0196
+5-beta-Hydroxyilicic acid	Compound0197
+7  ,15  - dihydroxypregn-4-ene-3,16-dione	Compound0198
+8-methylandrograpanin	Compound0199
+8-Oxo-6,7,9,10-tetrahydrohumulen-1,12-olide	Compound0200
+9-Nor-ent-kaurane-4  ,16  ,17-triol	Compound0201
+9  -hydroxyanhydrooplopanone	Compound0202
+9  -hydroxyoplopanone	Compound0203
+9  -hydroxyanhydrooplopanone	Compound0204
+9  -hydroxyoplopanone	Compound0205
+abitol	Compound0206
+Agallochin D	Compound0207
+Annosquamosin C	Compound0208
+anomallenodiol	Compound0209
+beta-elemol	Compound0210
+bullatantriol	Compound0211
+Cadinane-4-beta,5-alpha,10-beta-triol	Compound0212
+Clovan-2  ,9  -diol	Compound0213
+clovandiol	Compound0214
+commiferin	Compound0215
+Crocusatin G	Compound0216
+Cryptomeridiol-11-a-L-rhamnoside	Compound0217
+crytomeridiol	Compound0218
+cubeben camphor	Compound0219
+cubebol	Compound0220
+Curcarabranol A	Compound0221
+Curcarabranol B	Compound0222
+Curcumenolactone A	Compound0223
+Curcumenolactone B	Compound0224
+curdionolide B	Compound0225
+cylindrictone E	Compound0226
+D-(+)-camphoric acid	Compound0227
+Dendronobilin I	Compound0228
+Dimethyl camphorate	Compound0229
+ent-15  ,16-Epoxy-kauran-17-ol	Compound0230
+ent-16-alpha,17-Dihydroxyatisan-3-one	Compound0231
+ent-16alpha,17-dihydroxykauran-19-oic acid	Compound0232
+ent-16alphaH-kauran-17,19-dioic acid	Compound0233
+Ent-16  ,17-dihydroxykauran-19-oic acid	Compound0234
+ent-16  ,17-dihydroxykaur-an-3-one	Compound0235
+Ent-16  -17-dihydroxy-Kaur-19-oic acid	Compound0236
+Ent-16  ,17-dihydroxykauran-19-oic acid	Compound0237
+Estan	Compound0238
+Eudesmol	Compound0239
+eupatorin deglycosylation	Compound0240
+Excoecarin V2	Compound0241
+Excoecarin V3	Compound0242
+Floridiolide A	Compound0243
+Fukujusonorone	Compound0244
+Fumotoshidin A	Compound0245
+Fumotoshidin B	Compound0246
+Galanal A	Compound0247
+Galanal B	Compound0248
+Glutinosin A	Compound0249
+Glypallichalcone	Compound0250
+guggulsterol-VI	Compound0251
+Inflexarabdonin J	Compound0252
+Iridodiol	Compound0253
+Isotadeonal	Compound0254
+kanshone F	Compound0255
+Ketosantalic acid	Compound0256
+Leoheteronin A	Compound0257
+Leoheteronin B	Compound0258
+L-Kaur-16-en-19-oic acid	Compound0259
+Neoaristolacton	Compound0260
+Nigakilactone K	Compound0261
+Nortricycloekasantalic acid	Compound0262
+Oplopanone	Compound0263
+oriediterpenol	Compound0264
+Palustric acid	Compound0265
+Patchoulan-1,12-diol	Compound0266
+Phytocassane B	Compound0267
+pregnelotone	Compound0268
+sarmentol A	Compound0269
+sarmentol B	Compound0270
+sarmentol C	Compound0271
+sarmentol D	Compound0272
+S-I	Compound0273
+Siegesbeckic acid	Compound0274
+Siegesbeckiol	Compound0275
+Siegesesteric acid II	Compound0276
+1,2,3-trimethoxybenzene	Compound0277
+1,2-dihydrodanshinone I	Compound0278
+2,3-dimethoxy-naphthalene	Compound0279
+2,4,7-Trimethoxyphenanthrene	Compound0280
+2,4-Dimethoxyphenanthrene-3,7-diol	Compound0281
+2-Hydroxy-3,7-dimethoxyphenanthrene	Compound0282
+2-hydroxy-4,7-dimethoxyphenanthrene	Compound0283
+3,3-dimethylquercetin	Compound0284
+3,4-DIMETHOXYPHENOL	Compound0285
+3,5,3'-trimethoxyquercetin	Compound0286
+3,5,4'-trihydroxy-7-methoxy flavonoids	Compound0287
+3,5-dihydroxy-6,7,4'-trimethoxyflavone	Compound0288
+3,5-dihydroxy-7-dihydroxy,4'-dimethoxy flavonoids	Compound0289
+3,6-Dihydroxy-2,4-dimethoxyphenanthrene	Compound0290
+3,7-dihydroxy-4'-methoxyflavone	Compound0291
+3alpha-Hydroxytanshinone IIA	Compound0292
+3--beta-Hydroxymethylenetanshiquinone	Compound0293
+3-beta-Hydroxymethyllenetanshiquinone	Compound0294
+3beta-Hydroxytanshinone IIA	Compound0295
+3-beta-Hydroxytanshinone IIA	Compound0296
+3-hydroxy-5,7,3',4',5'-pentamethoxyflavone	Compound0297
+3-Hydroxy-5,7,4  -trimethoxyflavone	Compound0298
+3-hydroxytanshinone IIA	Compound0299
+3-hydroxytanshinone IIB	Compound0300
+3  -Hydroxytanshinone   A	Compound0301
+4,9-Dimethoxyphenanthrene-2,5-diol	Compound0302
+4-Hydroxy-2,7-dimethoxyphenanthrene	Compound0303
+5-Hydroxy-3',4',6,7-tetramethoxy flavonol	Compound0304
+5-Methyl kaempferol	Compound0305
+6-hydroxy-2,4,7-trimetho-xyphenanthrene	Compound0306
+7,3',4'-trimthylquercetin	Compound0307
+7-hydroxy-2,4,6-trimethoxyphenanthrene	Compound0308
+7-hydroxy-3,5,6,3',4'-pentamethoxyflavone	Compound0309
+7-Methoxy-4'-hydroxyflavonol	Compound0310
+Aixiangsu	Compound0311
+Chrysotoxene	Compound0312
+Eupalitin	Compound0313
+hydroxytanshinone IIA	Compound0314
+Methylene tanshinquinone	Compound0315
+morelosin	Compound0316
+przewaquinone c	Compound0317
+Przewaquinone F	Compound0318
+quercetagetin-3,5,6,3'-tetramethylether	Compound0319
+tanshinaldehyde	Compound0320
+Tanshinol A	Compound0321
+Tanshinol B	Compound0322
+tanshinone IIB	Compound0323
+Tanshinone  B	Compound0324
+ZINC03847089	Compound0325
+(+)-Cyperadione	Compound0326
+(1R,5S,6S,7S,10R)-1-beta,6-alpha-Dihydroxyeudesman-4-one	Compound0327
+(1S,4aS,4bR,7R,10aS)-1,4a,7-trimethyl-7-vinyl-3,4,4b,5,6,9,10,10a-octahydro-2H-phenanthrene-1-carboxylic acid	Compound0328
+14,15,16-Trisnor-8(17)-labdene-13,19-dioic acid	Compound0329
+16beta,17-dihydroxykauran-18-oic acid	Compound0330
+16-beta-Hydro-ent-kauran-17,19-dioic acid	Compound0331
+16  -Hydro-19-al-ent-kauran-l7-oic acid	Compound0332
+16-  -Hydroxy-(-)-Kaur-19-oic acid	Compound0333
+16  -hydroxyl-17-nor-ent-kaur-19-oic acid	Compound0334
+16  ,17-Dihydroxy-ent-kauran-19-al	Compound0335
+17alpha,20R-Dihydroxypregnan-3,16-dione	Compound0336
+17-alpha,20R-Dihydroxypregnan-3,16-dione	Compound0337
+18-Acetyl siege acid	Compound0338
+2,2,3,6-tetramethyl-alpha-propyl-cyclohexane	Compound0339
+2,2-Dimethyl-3-(4-methyl-4-pentenyl)-cyclopropanecarboxylic acid	Compound0340
+2-methyl-2-(3-oxo-butyl)-cyclohexanone	Compound0341
+4-Epi-sandaracopimaric acid	Compound0342
+7-alpha,14-beta-Dihydroxykaur-16-en-15-one	Compound0343
+7-epi-amiteol	Compound0344
+8  -hydroxyanhydrooplopanone	Compound0345
+Acorone	Compound0346
+Annuionone E	Compound0347
+Artemisinol	Compound0348
+baimuxinal	Compound0349
+Cadinane-4  ,5  ,10  -triol	Compound0350
+cadinanetriol	Compound0351
+calamenone	Compound0352
+Canusesnol H	Compound0353
+chromolaevanedione	Compound0354
+ent-11-alpha-Hydroxy-16-kauren-15-one	Compound0355
+ent-16,18-Dihydroxy-8(14)-pimaren-15-one	Compound0356
+ent-17,18-dihydroxy-16beta H-kauran-19-oicacid	Compound0357
+ent-17-hydroxy-16alphaH-kauran-19-oic acid	Compound0358
+Ent-17-hydroxy-16  H-kaureane-19-carboxylic acid	Compound0359
+ent-19-methyl-17-hydroxy-16alphaH-kauran-19-oic acid	Compound0360
+ent-3-alpha-Hydroxy-16-kauren-15-one	Compound0361
+ent-3-beta,(13S)-Dihydroxyatis-16-en-14-one	Compound0362
+ent-3  ,(13S)-Dihydroxyatis-16-en-14-one	Compound0363
+ent-Atisane-3-beta,16-alpha,17-triol	Compound0364
+ent-Kauran-16  ,17-diol	Compound0365
+ent-Kauran-16  ,17,18-triol	Compound0366
+ent-Kauran-16  -ol-3-one	Compound0367
+ent-kaurane-3-oxo-16  -17-diol	Compound0368
+ent-oplopanone	Compound0369
+Ent-trachyloban-17-oic acid	Compound0370
+Glycoside K deglycosylation	Compound0371
+isodonsesquitin A	Compound0372
+isodonsesquitin,a	Compound0373
+isokhusenic acid	Compound0374
+Methyl 16a,17-dihydroxy-ent-kauran-19-oate	Compound0375
+Methyl 16-alpha,17-dihydroxy-ent-kauran-19-oate	Compound0376
+norannuic acid	Compound0377
+oxo-agarospirol	Compound0378
+pimaricacid	Compound0379
+Tuberonic acid	Compound0380
+(-)-17-Hydroxy-kaur-15-en-19-oic acid	Compound0381
+(16R)-ent-3-alpha-Hydroxykauran-15-one	Compound0382
+dihydroartemisinic acid	Compound0383
+dihydroartemisinic,acid	Compound0384
+sarmentol G	Compound0385
+sarmentol I	Compound0386
+Valeriananoid A	Compound0387
+(-)-12,16-Dihydroxy-cis-cleroda-3,13-dien-15-oic acid-15,16-olide	Compound0388
+(-)-cadin-4,10(15)-dien-11-oic acid	Compound0389
+(-)-dehydrojinkoh-eremol	Compound0390
+(-)-guaia-l(10),11-diene-15-carboxylic acid	Compound0391
+(-)-methyl,selina-3,11-dien-14-oate	Compound0392
+(-)-pinocembrin	Compound0393
+(+)-(4->2)-Abeo-kolavelool-3-oic acid	Compound0394
+(+)-15-Hydroxy-cis-cleroda-3,13-dien-18-oic acid	Compound0395
+(+)-8,11,13-Abietatrien-12-ol	Compound0396
+(+)-8,11,13-Totaratriene-12,13-diol	Compound0397
+(16R)-ent-11-alpha-Hydroxykauran-15-one	Compound0398
+(16R)-ent-7-beta-Hydroxykauran-15-one	Compound0399
+(1R,2R)-5'-Hydroxyjasmonic acid	Compound0400
+(2R)-5,7-dihydroxy-2-(4-hydroxyphenyl)chroman-4-one	Compound0401
+(2R)-flavanone	Compound0402
+(2S)-5,2'-Dihydroxy-7,5'-dimethoxyflavanone	Compound0403
+(2S)-5,7-dihydroxy-6,4'-dimethoxyflavone	Compound0404
+(2s)-5-hydroxy-7,8-dimethoxyflavanone	Compound0405
+11-Hydroxy-12-hydroisodaucenal	Compound0406
+11  ,17  -dihydroxy-17-methylandrost-4-en-3-one	Compound0407
+17-Hydroxy-11-desoxy-corticosterone	Compound0408
+26-hydroxy-maskisterone B	Compound0409
+3',5-Dihydroxy-7,4'-trimethoxyflavonoid	Compound0410
+3,5-di-O-methyl-kaempferol	Compound0411
+3,7,4'-trimethoxy kaempferol	Compound0412
+3,9-Dihydroxy-megastigma-5-ene	Compound0413
+4-(3-hydroxybutyl)-3,5,5-trimethylcyclohex-2-en-1-one	Compound0414
+4,4'-Dihydroxydiphenyl methane	Compound0415
+4',5,7-trihydroxy-6-methoxyflavanone	Compound0416
+4',7-Dihydroxy-2',5-dimethoxyflavonol	Compound0417
+5,3'-Dihydroxy-6,7,4'-trimethoxyflavanone	Compound0418
+5,3'-Dihydroxy-6,7,4'-trimethoxyflava-none	Compound0419
+5,4'-Dihydroxy-6,7-dimethoxyflavone	Compound0420
+5,4'-Dihydroxy-7-methoxydihydroflavonoid	Compound0421
+5,6,7,4'-tetramethoxy flavanone	Compound0422
+5,6,7-trihydroxy-4'-methoxydihydroflavone	Compound0423
+5,6-dihydroxy-3,7-dimethoxy-2-(4-methoxyphenyl)chromone	Compound0424
+5,7,2''-trimethoxyflavone	Compound0425
+6,4'-dihydroxy-7-methoxy-flavanone	Compound0426
+6,7,4-trihydroxyflavanone	Compound0427
+6-C-Methylnaringenin	Compound0428
+7,2'6'-Trihydroxy-5-methoxyflavanone	Compound0429
+7,4'-Dihydroxy-3'-methoxyflavanone	Compound0430
+7,4'-Dihydroxy-5-methoxy flavanones	Compound0431
+7,4'-dihydroxy-5-methoxyflavanone	Compound0432
+7-methoxychrysin	Compound0433
+7-O-methyl derivatives 2	Compound0434
+7-O-Methyleriodictyol	Compound0435
+7-oxo-13a-ethoxyabiet-8(14)-en-18-oic acid	Compound0436
+7-oxo-13beta-hydroxyabiet-8(14)-en-18-oic acid	Compound0437
+Abrectorin	Compound0438
+Alfalfaside	Compound0439
+Bisabolenol-A	Compound0440
+cadina-4,11-dien-14-oic acid	Compound0441
+Caesalpinin ML	Compound0442
+callicapene M4	Compound0443
+callicapene M5	Compound0444
+chrysanthediol A	Compound0445
+Corotoxigenin	Compound0446
+Darutigel	Compound0447
+darutoside deglycosylation	Compound0448
+Dehydrojinkoheremol	Compound0449
+deoxy-andrographolide	Compound0450
+didymin	Compound0451
+Dihydrobaicalin deglycosylation	Compound0452
+dihydroechioidinin	Compound0453
+dihydrooxylin A	Compound0454
+dihydroskullcapflavone,i	Compound0455
+dimethylflavanones	Compound0456
+echiodinin	Compound0457
+Eucalyptin	Compound0458
+Flavanonol	Compound0459
+frehmaglutin E	Compound0460
+Haplopappic acid	Compound0461
+Homoerinacein	Compound0462
+Hydroabietyl alcohol	Compound0463
+Hypolide methyl ether	Compound0464
+Isodaucenoic acid	Compound0465
+Isokhusinodiol	Compound0466
+Isoneotriptophenolide	Compound0467
+Isopolygonal	Compound0468
+kanshone A	Compound0469
+khusilic acid	Compound0470
+Khusinodiol	Compound0471
+Leoheteronin	Compound0472
+Lindenanolide E	Compound0473
+liquiritigcnin	Compound0474
+L-Pimara-8(14),15-dien-19-oic acid	Compound0475
+L-Pimara-8-(14),15-dien-19-ol	Compound0476
+Matteucin	Compound0477
+Matteucinol	Compound0478
+Megastigm-5-ene-3,9-diol	Compound0479
+methoxymatteucin	Compound0480
+Methyl 12-oxo-8-alpha-hydroxyabiet-13-en-19-oate	Compound0481
+mono-O-methylechioidin	Compound0482
+mosloflvone	Compound0483
+mucrolidin	Compound0484
+Muurolan-3-en-9-beta-ol-2-one	Compound0485
+nardoeudesmol A	Compound0486
+nardosinone diol	Compound0487
+naringenin-5-O-methyl ether	Compound0488
+neohesperidin deglycosylation	Compound0489
+Neotriptophenolide	Compound0490
+Nephalbidol	Compound0491
+orientalol L	Compound0492
+Oryzalexin F	Compound0493
+Petasitolone	Compound0494
+sarmentol H	Compound0495
+Scuteamoenin	Compound0496
+rulepidadiol	Compound0497
+Salviol	Compound0498
+Sandaracopimarinol	Compound0499
+tussfarfarin A	Compound0500
+1-(4-hydroxy-3,5-dimethoxyphenyl)-ethanone	Compound0501
+1,7-dimethyl-5-vinyl-9,10-dihydrophenanthrene-2,3-diol	Compound0502
+1,7-dimethyl-5-vinyl-9,10-dihydrophenanthrene-2,6-diol	Compound0503
+1,8-dimethyl-4-vinyl-9,10-dihydrophenanthrene-2,7-diol	Compound0504
+11-O-(3',4')-Dimethylgalloylbergenin	Compound0505
+1-hydroxyethyl)-2,6-dihydroxy-1,7-dimethyl-9,10-dihydrophenanthrene	Compound0506
+2,4-dihydroxy-5-methoxybenzophenone	Compound0507
+2,8-dihydroxy-1,6-dimethyl-5-ethenyl-9,10-dihydrophenanthrene	Compound0508
+2-hydroxy-3-methoxyanthraquinone	Compound0509
+2-hydroxy-7-carboxy-1-methyl-5-ethenyl-9,10-dihydrophenanthrene	Compound0510
+2-hydroxy-7-methoxy-1,8-dimethyl-5-ethenyl-9,10-dihydrophenanthrene	Compound0511
+4,4'-Dihydroxy-3,3'-dimethoxybenzophenone	Compound0512
+5-(1-Hydroxyethyl)-2,6-dihydroxy-1,7-dimethyl-9,10-dihydro-phenanthrene	Compound0513
+5-(1-Methoxyethyl)2,6-dihydroxy-1,7-dimethyl-9,10-dihydrophenanthrene	Compound0514
+5-(1-methoxyethyl)-2,6-dihydroxy-1,7-dimethyl-9,10-dihydrophenanthrene	Compound0515
+7-hydroxy-8-methyl-4-vinyl-9,10-dihydrophenanthrene-1-carboxylic acid	Compound0516
+8-hydroxy-2-methoxy-1,6-dimethyl-5-ethenyl-9,10-dihydrophenanthrene	Compound0517
+Juncunol	Compound0518
+15,16-Bisnor-13-oxo-8(17),11E-labdadien-19-oic acid	Compound0519
+2beta-hydroxy-8(14),15-isopimaradien-18-oic acid	Compound0520
+2b-hydroxy-8(14),15-pimaradien-18-oic acid	Compound0521
+8-Oxo-  -humula-6E,9E-dien-12-oic acid	Compound0522
+ethylbenzoic acid	Compound0523
+or 2b-hydroxy-pimaric acid	Compound0524
+(2R)-Abyssinone	Compound0525
+(2R,3R)-(+)-4',5,7-Trimethoxydihydroflavonol	Compound0526
+(2R,3R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-7-methoxychroman-4-one	Compound0527
+(2R,3R)-4,7-Dihydroxy-2',5-dimethoxy-dihydroflavonol	Compound0528
+(2R,3R)-4',7-Dihydroxy-2',5-dimethoxydihydroflavonol	Compound0529
+(2R,3S)-(+)-3',5-Dihydroxy-4 ,7-dimethoxydihydroflavonol	Compound0530
+(2R,3S)-(+)-3',5-Dihydroxy-4',7-dimethoxydihydroflavonol	Compound0531
+(2S)-5,7-Dimethoxy-8-(2R-hydroxy-3-methyl-3-butenyl)-flavanone	Compound0532
+(2S)-5,7-Dimethoxy-8-(2S-hydroxy-3-methyl-3-butenyl)-flavanone	Compound0533
+(2S)-7,4'-dihydroxy-5-methoxy-8-(gamma,gamma-di-methylallyl)-flavanone	Compound0534
+(2S)-7-hydroxy-6-methoxyflavanone	Compound0535
+(2S)-Dimethoxy-8-formylflavanone	Compound0536
+11  -hydroxy-acetylfawcettine	Compound0537
+2'-methoxydihydrobonducellin	Compound0538
+3-(4'-hydroxybenzyl)-5,7-dihydroxy-6,8-dimethyl-chroman-4-one	Compound0539
+3-(4'-hydroxybenzyl)-5,7-dihydroxy-6-methyl-chroman-4-one	Compound0540
+3,4'-dihydroxy-5,6,7,8-tetramethoxyflavone	Compound0541
+3-hydroxy-6,7,4'-trimethoxyflavone	Compound0542
+3'-Methyl eriodictyol	Compound0543
+4',5,7-trihydroxy-3-methoxyflavanone	Compound0544
+4',5,7-trihydroxy-6,8-dimethyl-homoisoflavanone	Compound0545
+4',5,7-trihydroxy-6-methyl-homoisoflavanone	Compound0546
+4,7-Dihydroxy-5-methoxyl-6-methyl-8-formyl-flavan	Compound0547
+4'-Hydroxy-7,3'-Dimethoxy-dihydroflavonoid	Compound0548
+4'-methoxy-5,7-dihydroxy-6,8-dimethyl-homoisflavanone	Compound0549
+5, 7-dihydroxy-3, 6-dimethoxy flavonoids	Compound0550
+5,4'-Dihydroxy-7,3'-dimethoxydihydroflavonoids	Compound0551
+5,7-Dimethoxy-3-(4-hydroxybenzyl)chroman-4-one	Compound0552
+5-Hydroxy-4',7-dimethoxydihydroflavone	Compound0553
+5-Hydroxy-7,3',4'-trimethoxydihydroflavonoid	Compound0554
+5-Hydroxy-7,4'-dimethoxyflavanon	Compound0555
+5-Hydroxy-7   3  ,4'-trimethoxyflavanone	Compound0556
+5-Hydroxyflavanone	Compound0557
+5-methoxy-7-hydroxydihydroflavone	Compound0558
+6-methoxynaringenin	Compound0559
+6-Methylcodeine	Compound0560
+7,3',4'-Trimethoxy sacred erodcyol	Compound0561
+7,3',4'-tri-O-methyleriodictyol	Compound0562
+7,4'-Dihydroxy-5,3'-Dimethoxy-Dihydroxyflavone	Compound0563
+7,4'-dihydroxy-5-methoxy-8-(gamma,gamma-dimethylallyl)-flavanone	Compound0564
+7,4'-dihydroxyhomoisoflavanone	Compound0565
+7,4'-dimethoxy sacred erodcyol	Compound0566
+7,4'-di-O-methyleriodictyol	Compound0567
+7-Hydroxy-4'-methoxy-dihydroflavonoid	Compound0568
+7-Hydroxy-5,8-dimethoxyflavane	Compound0569
+7-Hydroxy-5-methoxy-6,8-dimethylflavanone	Compound0570
+7-methoxy-5,4'-dihydroxyflavanonol	Compound0571
+7-O-methyl derivatives 1	Compound0572
+8,3',4'-Trihydroxy-7-methoxy flavanoe	Compound0573
+8-Demethylfarrerol	Compound0574
+8-formyl ophiopogonanone B	Compound0575
+8-formyl-5-O-methyl ophiopogonanone B	Compound0576
+acetylfawcettiine	Compound0577
+Acetyllycoclavine	Compound0578
+Adlumidine	Compound0579
+Agestricin D	Compound0580
+Anticancer Flavonoid PMV70P691-82	Compound0581
+aromadendrin-4'-methylether	Compound0582
+Aromadendrin-5,7-dimethyl ether	Compound0583
+Bacachinin	Compound0584
+bakuflavanone	Compound0585
+Citromitin	Compound0586
+Complanatine	Compound0587
+Consume close grain	Compound0588
+deacetylfawcettiine	Compound0589
+Deacetyllycoclavine	Compound0590
+dihydrobonducellin	Compound0591
+disporopsin	Compound0592
+EGENINE	Compound0593
+Fawcettiine	Compound0594
+Hyfrastine	Compound0595
+Kosamol S	Compound0596
+kushenol J deglycosylation	Compound0597
+Lycoclavine	Compound0598
+lycofawcine	Compound0599
+Nonanoicacid	Compound0600
+Phellamuretin	Compound0601
+Rhododendron	Compound0602
+Thermopsamine	Compound0603
+trans-10-ethyl-8-methyl-lobelidiol	Compound0604
+trans-N-methyl-2,6-bis(2-hydroxybutyl)-  3-piperideine	Compound0605
+Vertia flavone	Compound0606
+  -lofoline	Compound0607
+  -Narcotine	Compound0608
+cyclo(L-Pro-L-Phe)	Compound0609
+GRO	Compound0610
+(1S,3aS,4S,7R,8aS)-7-isopropenyl-1,4-dimethyl-2,3,3a,5,6,7,8,8a-octahydroazulene-1,4-diol	Compound0611
+(3R)-3-hydroxy-5-phenyl-valeric acid	Compound0612
+(3S,4aS,4bS,8R,8aS,10aR)-3-hydroxy-1,1,4a,8-tetramethyl-7-vinyl-3,4,4b,8,8a,9,10,10a-octahydrophenanthrene-2,5-dione	Compound0613
+(3S,6S)-3-(benzyl)-6-(4-hydroxybenzyl)piperazine-2,5-quinone	Compound0614
+(4S)-dihydrocurcumenone	Compound0615
+1,7-diphenyl-5-methoxy-3-heptanone	Compound0616
+10  ,12,14-Trihydroxyalloaromadendrane	Compound0617
+15,16-Bisnor-13-oxo-8(17)-labden-19-oic acid	Compound0618
+15alpha,20beta-Dihydroxy-delta4-pregnen-3-one	Compound0619
+15-alpha,20-beta-Dihydroxy-  4-pregnen-3-one	Compound0620
+15-demetyl-12,13-dihydro-13-ketobakuchiol	Compound0621
+15-Isopimaren-3  ,8  -diol	Compound0622
+15  ,20  -Dihydroxy-  4-pregnen-3-one	Compound0623
+16alpha-hydroxy-17-acetoxy-ent- kauran-19-oic acid	Compound0624
+16alpha-hydroxy-17-acetoxy-ent-,kauran-19-oic,acid	Compound0625
+16-beta-Hydroxy-17-acetoxy-ent-kauran-19-oic acid	Compound0626
+16-ent-Kaurene-13,19-diol	Compound0627
+3,12,19-trihydroxy-13,14,15,16-tetranorent-labd-8(17)-ene	Compound0628
+3,6-Di(4-hydroxy) benzyl-2,5-dioxopiperazine	Compound0629
+4(15)-Eudesmene-1-beta,7-alpha-diol	Compound0630
+4-(3-Methoxy-4-hydroxy)pheny-3-methyl-3-buten-2-one	Compound0631
+4-(4'-hydroxy-3',5'-dimethoxyphenyl)-3-buten-2-one	Compound0632
+4  5-Dihydroblumenol A	Compound0633
+4-alpha-Hydroxy-4-beta-methyldihydrocostol	Compound0634
+4-Ethenyl-2,2,4-trimethyl-3-(1-methylethenyl)-cyclohexane-methanol	Compound0635
+4-Ethenyl-2,2,4-trimethyl-3-(1-methylethenyl)-cyclo-hexane-methanol	Compound0636
+4S-Dihydrocurcumenone	Compound0637
+4  -Hydroxy-4  -methyldihy-drocostol	Compound0638
+5,6-Dihydrovomifoliol	Compound0639
+5-Gingerol	Compound0640
+5-hydroxy-1,7-bis (4-hydroxyphenyl)-heptan-3-one	Compound0641
+5-hydroxy-7-(4''-hydroxy-3''- methoxyphenyl)-1-phenyl-3-heptanone	Compound0642
+5-hydroxy-7-(4'-hydroxyphenyl)-1-phenyl-3-heptanone	Compound0643
+5-Methoxy-7-(4-hydroxyphenyl)-1-phenyl-3-heptanone	Compound0644
+5-methoxy-7-(4'-hydroxyphenyl)-1-phenyl-3-heptanone	Compound0645
+7alpha-Hydroxy-l-pimara-8(14),15-dien-19-oic acid	Compound0646
+7-beta-Hydroxy-L-pimara-8(14),15-dien-19-oic acid	Compound0647
+7beta-hydroxypodocarpen-8(14)-en-13-on-18-oic acid	Compound0648
+7bhydroxypodocarpen-8(14)-en-13-on-18-oic acid	Compound0649
+7-Keto-L-pimara-8(14),15-dien-19-oic acid	Compound0650
+8(14)-podocarpen-13-on-18-oic acid	Compound0651
+acetylbullatantriol	Compound0652
+Baimuxinic acid	Compound0653
+calliphyllin	Compound0654
+Calliterpenone monoacetate	Compound0655
+Clavolonine	Compound0656
+Costol	Compound0657
+cyclo-(val-tyr)	Compound0658
+Dendrobiumane A	Compound0659
+Dendronobilin H	Compound0660
+Dextromethorphan hydrochloride	Compound0661
+dihydroxy-  -ionone	Compound0662
+Dihydroyashabushiketol	Compound0663
+ent-(16S)-18-Acetoxy-7-beta-hydroxykauran-15-one	Compound0664
+ent-15-alpha,18-Dihydroxy-16-kaurene	Compound0665
+ent-15-oxo-2beta,16,19-trihydroxypimar-8(14)-ene	Compound0666
+ent-18-Acetoxy-17-hydroxy-16betaH-kauran-19-oic acid	Compound0667
+epi-guaidiol,a	Compound0668
+Fritillebeinol	Compound0669
+Fritillebic acid	Compound0670
+gammaeudesmane	Compound0671
+guaidiol,a	Compound0672
+isoambreinolide	Compound0673
+Isoanomallotusin	Compound0674
+Leucothol A	Compound0675
+L-Prolyl-L-valine anhydride	Compound0676
+Lubiminol	Compound0677
+Lungshengenin D	Compound0678
+Methyl p-hydroxycinnamoyl ketone	Compound0679
+oplopanone acetate	Compound0680
+Opposit-4(15)-ene-1  ,11-diol	Compound0681
+Polygonal	Compound0682
+Pseudolaric acid D	Compound0683
+Pseudolaric acid E	Compound0684
+Pterocarpol	Compound0685
+ramarin A	Compound0686
+ramarin B	Compound0687
+Rehmapicrogenin	Compound0688
+trans-2-phenyl-1-cyclopropanecarboxylic acid	Compound0689
+Tripterfordin	Compound0690
+Valeriananoid C	Compound0691
+Vitexifolin	Compound0692
+vitexifolin A	Compound0693
+Wilforonide	Compound0694
+(-)-Istanbulin A	Compound0695
+1,2-didehydromiltirone	Compound0696
+10(E)-beta-Santalic acid	Compound0697
+12s,16s(r)-dihydroxy-ent-labda-7,13-dien-15,16-olide	Compound0698
+17-acetoxy-16  -hydroxy-3-oxo-ent-kaurane	Compound0699
+1-hydroxyacoronene	Compound0700
+2-isopropyl-8-methylphenanthrene-3,4-dione	Compound0701
+3,4-phenanthrenedione	Compound0702
+3-Chloroplumbagin	Compound0703
+3-Keto-4-hydroxysaprorthoquinone	Compound0704
+3-Oxosaprorthoquinone	Compound0705
+3  -hydroxy-8(17),13E-labdadien-15-oic acid	Compound0706
+4-Hydroxysaprorthoquinone	Compound0707
+6-acetoxy-9-hydroxy-13(14)-labden-16,15-olide	Compound0708
+6-Hydroxyeremophilenolide	Compound0709
+6-methoxyplumbagin	Compound0710
+7-hydroxy-2,6-dimethoxy-1,4-phenanthrenedione	Compound0711
+7-Hydroxy-2-methoxy-1,4-phenanthrenequinone	Compound0712
+8-beta,10-beta-Dihydroxy-6-beta-methoxyeremophil-7(11)-en-12,8-alpha-olide	Compound0713
+8  ,10  -Dihydroxy-6  -methoxyeremophil-7(11)-en-12,8  -olide	Compound0714
+alpha-santalenoic acid	Compound0715
+Cadalenequinone	Compound0716
+callicapoic acid M4	Compound0717
+Dicyclohexyl methyl phosphate	Compound0718
+Istanbulin-A	Compound0719
+Lejeuneapinguisenone	Compound0720
+Madolin X	Compound0721
+Santalic acid	Compound0722
+Sibiricinone B	Compound0723
+Strychnistenolide	Compound0724
+Valdiviolide	Compound0725
+Valeriananoid B	Compound0726
+ZINC04081584	Compound0727
+12-Hydroxydehydroabietinol	Compound0728
+1-beta,13-Dihydroxy-8,11,13-podocarpatriene	Compound0729
+1-beta-Hydroxy-4(15),5-eudesmadiene	Compound0730
+1  -Hydroxy-4(15),5-eudesmadiene	Compound0731
+3-beta,12-Dihydroxy-13-methyl-8,10,13-podocarpanetriene	Compound0732
+8,11,13-Abietatriene-12-ol	Compound0733
+bornyl isovalerate	Compound0734
+Bornyl isovalerianate	Compound0735
+Lejeuneapinguisanolide	Compound0736
+(-)-sativan	Compound0737
+(-)-Variabillin	Compound0738
+(+)-Dihydrooroselol	Compound0739
+(11E)-14,15-Bisnor-8  -hydroxy-11-labden-13-one	Compound0740
+(1S,6R,7R)-4-isopropylidene-1-methyl-7-(3-oxobutyl)norcaran-3-one,Curcumenone	Compound0741
+(2R)-Abyssinone I	Compound0742
+(2S)-5-Methoxy flavan-7-ol	Compound0743
+(3R)-3-(2-hydroxy-3,4-dimethoxyphenyl)chroman-7-ol	Compound0744
+(3R)-Vestitol	Compound0745
+(S)-Sakuranetin	Compound0746
+(Z)-1beta,4alpha-dihydroxy-5alpha,8beta(H)-eudesm-7(11)-en-12,8-olide	Compound0747
+12-Hydroxy-5  (H),7  (H)-eudesm-4(14),11(13)-diene-9-one	Compound0748
+13,14,15,16-tetranor-ent-labd-8(17)-ene-3,12,19-triol	Compound0749
+18,19-dihydroxy-5alpha,10beta-neo-cleroda-diene-butenylhydroxyoate	Compound0750
+1-beta,4-alpha-Dihydroxyeudesman-11-ene	Compound0751
+1beta,6alpha-dihydroxyeudesm-4(15)ene	Compound0752
+1-Cyclohexene-1-propanol,a,2,6,6-tetramethyl	Compound0753
+1-Methoxy-phaseollidin	Compound0754
+1  ,4  -Dihydroxyeudesman-11-ene	Compound0755
+1  ,6  -Dihydroxy-4(15)-eduesmen	Compound0756
+2-(1,5-Dimethyl-4-hexenyl)-4-methyl-3-cyclohexen-1-ol	Compound0757
+2-(4a,8-Dimethyl-1,2,3,4,4a,5,6,7-octahydro-naphthalen-2-yl)-prop-2-en-1-ol	Compound0758
+2',3',4',5',6'-Pentahydroxychalcone	Compound0759
+2,3-Dihydro-5,7-dihydroxy-2,6-dimethyl-8-(3-methyl-2-butenyl)-4H-1-benzopyran-4-one	Compound0760
+2,3-Dihydro-5,7-dihydroxy-2,8-dimethyl-6-(3-methyl-2-butenyl)-4H-1-benzopyran-4-one	Compound0761
+2,5,7-trihydroxy-6,8-dimethyl-3-(4  - methoxybenzyl)chroman-4-one	Compound0762
+2,5,7-Trihydroxy-6,8-dimethyl-3-(4'-methoxybenzyl)chroman-4-one	Compound0763
+2'-Hydroxy-7,3',4-trimethoxyisoflavone	Compound0764
+2-Methoxyanofinic acid	Compound0765
+2-Methoxytetrahydrohelenalin	Compound0766
+3,3  -Bis(6-methoxychroman)	Compound0767
+3,7,4'-trihydroxy-3'-prenylflavanone	Compound0768
+3  -hydroxy-4  -O-methylglabridin	Compound0769
+3alpha-hydroxy-T-cadinol	Compound0770
+3beta-hydroxy-8(14),15-pimaradien-18-ol	Compound0771
+3-dihydroxy-9-methoxypterocarpan	Compound0772
+3'-hydroxy-3',4'-dihydroseselin	Compound0773
+3'-Hydroxy-4'-O-Methylglabridin	Compound0774
+3-hydroxy-9-methoxy pterocarpan	Compound0775
+3'-keto-4'-hydroxy-3',4'-dihydroseselin	Compound0776
+3  - Hydroxy-T-cadinol	Compound0777
+3  ,12,19-trihydroxy-13,14,15,16-tetranor-ent-labd-8(17)-ene	Compound0778
+4(14)-eudesmene-6,11-diol	Compound0779
+4-epi-alismoxide	Compound0780
+4  ,10  -dihyroxy-5  -H-guaj-6-en	Compound0781
+5,2',6'-trihydroxy-2'',2''-dimethylpyrano flavanone	Compound0782
+5,6-Dimethoxy-7-hydroxycoumarin	Compound0783
+5,7,4'-trihydroxy-6-methoxyflavone	Compound0784
+5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone	Compound0785
+5,7-Dihydroxy-3',4-Dimethoxy-dihydroflavonoids	Compound0786
+5,7-dihydroxy-3',4'-dimethoxyflavanone	Compound0787
+5,7-dihydroxy-4'-methoxy-6-prenylisoflavone	Compound0788
+5-7-dimethoxy-3-(4-hydroxybenzyl)chroman	Compound0789
+5-Epi-eudesm-4(15)-ene-1-beta,6-beta-diol	Compound0790
+5'-formyl glabrin	Compound0791
+5-hydroxy-6,7-dimethoxycoumarin	Compound0792
+5-Hydroxy-7,2',6'-trimethoxyflavone	Compound0793
+6,7-dimethylescaletin	Compound0794
+6aR,11aR-1-hydroxy-4-isoprenyl-maackiain	Compound0795
+7,2',3'-trihydroxy-4'-methoxyisoflavan	Compound0796
+7,2  -dihydroxy-4  -methoxy-8-(3-methyl-2-butenyl)-isoflavanone	Compound0797
+7,2-dihydroxy-3',4'-dimethoxyisoflavan	Compound0798
+7-Epieudesm-4(15)-ene-1-alpha,6-alpha-diol	Compound0799
+7-Epi-eudesm-4(15)-ene-1-beta,6-beta-diol	Compound0800
+7-Methoxy-8-(2'-ethoxy-3'-hydroxy-3'-methybutyl)coumarin	Compound0801
+7-Methoxy-8-(2'-hydroxy-3'-ethoxy-3'-methylbutyl)coumarin	Compound0802
+7-Methoxy-8-(2'-Methoxy-3'-hydroxy-3  -methylbutyl)coumarin	Compound0803
+7-Methoxy-8-(2'-Methoxy-3'-hydroxy-3'3methylbutyl)coumarin	Compound0804
+7-O-Methyl isomucronulatol	Compound0805
+8(14),15-Isopimaradien-3  ,19-diol	Compound0806
+8-Cedren-13-ol	Compound0807
+8-isoprene-3,7,4'-trihydroxy-5-methoxyflavone	Compound0808
+8-prenyl-phaseollinisoflavan	Compound0809
+Anticancer Flavonoid PMV70P691-015	Compound0810
+Baimuxinfuranic acid	Compound0811
+Bisabolol	Compound0812
+Cadin-10(14)-ene-4-beta,5-alpha-diol	Compound0813
+Campherenol	Compound0814
+Canusesnol I	Compound0815
+cedr-8-en-13-ol	Compound0816
+Cedren-13-ol	Compound0817
+Celebixanthone	Compound0818
+chromenoflavanone	Compound0819
+chuanxiongnolide   2	Compound0820
+Cochinchinone C	Compound0821
+Cochinchinone D	Compound0822
+curcolactone	Compound0823
+curcumadiol	Compound0824
+curcumenone	Compound0825
+Damsinic acid	Compound0826
+Demethoxy-cochinchinone D	Compound0827
+ent-18-Hydroxykaur-16-ene	Compound0828
+ent-beyer-15-en-18-ol	Compound0829
+ent-Isopimara-15-en-  ,  -diol	Compound0830
+Epimedin C deglycosylation	Compound0831
+Erylatissin A	Compound0832
+Erylatissin C	Compound0833
+eudesm-4(15)-ene-7  ,11-diol	Compound0834
+eudesma-4(14)-ene-1  ,6  -diol	Compound0835
+eudesm-ll-en-2,4alpha-diol	Compound0836
+FERULIC ACID (CIS)	Compound0837
+Gancaonin A	Compound0838
+Gancaonin X	Compound0839
+Gancaonin Z	Compound0840
+Gancaonol C	Compound0841
+Glutinosin	Compound0842
+Glutinosin B	Compound0843
+Glyasperin B	Compound0844
+glyasperin F	Compound0845
+Glyasperin K	Compound0846
+glyasperins D	Compound0847
+Glyasperins M	Compound0848
+Glyceollin IV	Compound0849
+Heramandiol	Compound0850
+homalomenol	Compound0851
+Hydroxyphaseolin	Compound0852
+Hydroxyphaseollin	Compound0853
+Isomucronulatol	Compound0854
+Jatamansinlo	Compound0855
+Junosmarin	Compound0856
+kanzonol O	Compound0857
+kanzonol P	Compound0858
+kanzonol R	Compound0859
+Kanzonol Z	Compound0860
+Kosamol V	Compound0861
+Kosamol W	Compound0862
+Lactarorufin A	Compound0863
+licoagropin	Compound0864
+licoisoflavanone	Compound0865
+Madolin Y	Compound0866
+m-Methyl-p-hydroxy-cinnamic acid	Compound0867
+N-benzoyl-L-phenylalanine crystalline	Compound0868
+Octahydro-4-hydroxy-3  -methyl-7-methylene-  -(1-methylethyl)-1H-indene-1-methanol	Compound0869
+Polygonic acid	Compound0870
+rubiasin A	Compound0871
+rubiasin B	Compound0872
+Sagittariol	Compound0873
+sanggenone F	Compound0874
+senkyunolide,j	Compound0875
+Sigmoidin B-3'-methyl ether,5'-Prenylhomoeriodictyol	Compound0876
+Sodium ferulate	Compound0877
+Sophoraisoflavanone A	Compound0878
+Tetrahydrohelenalin tiglate	Compound0879
+Torilenol	Compound0880
+Tuberosin	Compound0881
+Vitrifolin B	Compound0882
+Yuehgesin-C	Compound0883
+(13R,14S)-ent-8-alpha,13,14,15-Diepoxy-13-epi-labdan-3-one	Compound0884
+(3R,5R)-1-(4-hydroxyphenyl)-7-phenyl-3,5-heptanediol	Compound0885
+(4E)-7-(4-hydroxyphenyl)-1-phenylhept-4-en-3-one	Compound0886
+1-(3-Hydroxyphenyl)-hexane-2,5-diol	Compound0887
+1-(4-Hydroxy-3-methoxyphenyl)-3,5-octane-diol	Compound0888
+1-(4-hydroxyphenyl)-7-(4-hydroxy-3-methoxyphenyl)-4E-en-3-heptanone	Compound0889
+1,7-bis(4-hydroxyphenyl)-4(E)-hepten-3-one	Compound0890
+4-ethyl-paeoniflorin deglycosylation	Compound0891
+4-O-methylpaeoniflorin deglycosylation	Compound0892
+4-o-methyl-paeoniflorin deglycosylation	Compound0893
+7-(4''-Hydroxy-3''-methoxyphenyl)-1-phenyl-hept-4-en-3-one	Compound0894
+chuanxiongnolide   1	Compound0895
+Dendrobiumane B	Compound0896
+galloylpaeoniflorine_qt 2	Compound0897
+Nigakilactone J	Compound0898
+Oxyphyllacinol	Compound0899
+paeoniflorin deglycosylation	Compound0900
+tomocin G	Compound0901
+(-)-1(R)-N-methylcoclaurine	Compound0902
+(+)-1(R)-Coclaurine	Compound0903
+(  )-tembetarine	Compound0904
+(2S)-5,7-Dimethoxy-3',4'-methylenedioxyflavanone	Compound0905
+1-hydroxy-3,7-diformylanth raquinone	Compound0906
+2-(3,4-dimethoxyphenyl)-5-hydroxy-7-methoxy-chromone	Compound0907
+2,3-Dihydro-5,7-dihydroxy-2,6,8-trimethyl-4H-1-benzopyran-4-one	Compound0908
+2,4-dihydroxy-2  ,6-diacetoxy-3  -methoxy-5  -methyldiphenyl ether	Compound0909
+2,4-trans-7,4'-dihydroxy-4-methoxyflavane	Compound0910
+2,5-dihydroxy-6,7-dimethoxyflavone	Compound0911
+3-(2,4-Dihydroxybenzyl)-5-hydroxy-7,8-dimethoxy-6-methylchroman-4-one	Compound0912
+3-(3,4-Dimethoxybenzyl)-5,7-dihydroxychroman-4-one	Compound0913
+3-(4-Hydroxy-3-methoxybenzyl)-5-hydroxy-6,7-dimethoxy-chroman-4-one	Compound0914
+3-(4-Hydroxy-3-methoxybenzyl)-5-hydroxy-7-methoxy-chroman-4-one	Compound0915
+3-(4-Hydroxybenzyl)-5,6,7-trimethoxychroman-4-one	Compound0916
+3-(4'-hydroxybenzyl)-5,7-dihydroxy-6-methyl-8-methoxy-chroman-4-one	Compound0917
+3-(4'-methoxybenzyl)-5,7-dihydroxy-6-methyl-8-methoxychroman-4-one	Compound0918
+3',4'-Dihydroxywogonin	Compound0919
+3',4'-Methylenedioxy-6,7-dimethoxyflavone	Compound0920
+3',4'-Methylenedioxy-7-methoxyflavone	Compound0921
+3,7-dihydroxy-6-methoxy-dihydroflavonol	Compound0922
+3,7-Dimethoxyglycoslavin	Compound0923
+3'-Hydroxy-4',5',6,7,8-pentamethoxyflavone	Compound0924
+3'-hydroxy-5,7,4'-trimethoxyflavone	Compound0925
+3'-Hydroxy-5,7,8,4'-tetramethoxyflavone	Compound0926
+3'-Methoxy thripanthin	Compound0927
+4'-Methyl-N-methylcoclaurine	Compound0928
+5,2'-dihydroxy-7,8-dimethoxyflavanone	Compound0929
+5,3'-Dihydroxy-6,7,4',5'-tetramethoxyflavone	Compound0930
+5,3'-Dihydroxy-7,8,2'-Trimethoxyflavone	Compound0931
+5,3'-Dihydroxy-7,8,4'-Trimethoxyflavone	Compound0932
+5,4'-dihydroxy-6,7,3',5'-tetramethoxy flavone	Compound0933
+5,4'-dihydroxy-6,7,8,3'-tetramethoxy flavone	Compound0934
+5,4'-Dihydroxy-7,8,2',3'-tetramethoxyflavone	Compound0935
+5,5'-Dihydroxy-7,8,2'-Trimethoxyflavone	Compound0936
+5,5'-dimethoxy-7-oxo-larch alcohol	Compound0937
+5,6-Dihydroxy-7,3',4'-trimethoxyflavone	Compound0938
+5,7,2'3'-tetramethoxyflavanone	Compound0939
+5,7,2'-Trihydroxy-8,6'-dimethoxyflavone	Compound0940
+5,7,4'-trihydroxy-8-methoxyflavanone	Compound0941
+5,7,8-Trimethoxydihydroflavonoids	Compound0942
+5,7-dihydroxy-6-methyl-3(R)-(2,4-dihydroxybenzyl)chroman-4-one	Compound0943
+5,7-dihydroxy-8-methoxy-2-(2-methoxyphenyl)chromone	Compound0944
+5,7-dihydroxyl-6,8,4  -trimethoxylflavone	Compound0945
+5,8,4'-trimethoxy-6-methyl-7,2'-dihydroxy-3-benzylchroman-4-one	Compound0946
+5,8-Dihydroxy-6,7-dimethoxyflavone	Compound0947
+5-hydroxy-2',7,8-trimethoxyflavone	Compound0948
+5-hydroxy-7,8,2',3'-tetramethoxyflavone	Compound0949
+5-hydroxy-7,8,2',5'-tetramethoxyflavone	Compound0950
+5-hydroxy-7,8,2',5'-tetramethoxy-flavone	Compound0951
+5-hydroxy-7,8-dimethoxy flavanone	Compound0952
+5-hydroxy-7,8-dimethoxy-2-(4-methoxyphenyl)chromone	Compound0953
+5-Hydroxy-7,8-dimethoxy-6-methyl-3-(3',4'-dihydroxybenzyl) chroman-4-one	Compound0954
+5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone	Compound0955
+5-Hydroxy-7-methoxy-3-(3-hydroxy-4-methoxybenzyl)-chroman-4-one	Compound0956
+5-Hydroxy-7-methoxy-3  ,4  -methylenedioxy isoflavone	Compound0957
+7-Hydroxy-4',5,6,8-tetramethoxyfoavone	Compound0958
+7-hydroxy-5,8-dimethoxy-2-phenyl-chromone	Compound0959
+7-Hydroxy-5,8-dimethoxyflavone	Compound0960
+7-Hydroxy-5-methylflavone	Compound0961
+arteanoflavone	Compound0962
+Magnococline	Compound0963
+Munjistin methyl ether	Compound0964
+noryuziphine	Compound0965
+Ophiopogonanone B	Compound0966
+ophiopogonanone F	Compound0967
+phellodendrine	Compound0968
+protosinomenine	Compound0969
+Rubiawallin C	Compound0970
+Sagittin	Compound0971
+tembetarine	Compound0972
+yuziphine	Compound0973
+(2R,3R)-5,3' ,4'-trimethoxyl-7-hydroxyl-flavanonol	Compound0974
+(3R),(4S)-4-Hydroxylasiodiplodin	Compound0975
+(3R)-des-O-methyl-lasiodiplodin	Compound0976
+1,4-Dihydroxy-2-methylanthraquinone	Compound0977
+1,6-Dihydroxy-2-methoxyanthraquinone	Compound0978
+1-hydroxy-2,3-dimethoxyanthraquinone	Compound0979
+1-Hydroxy-3-methoxyanthraquinone	Compound0980
+2,4',6-trihydroxy-4-methoxyben- zophenone	Compound0981
+2,4'-dihydroxy-4-methoxybenzophenone	Compound0982
+3-(3',4'-Dihydroxybenzyl)-7-hydroxychroman-4-one	Compound0983
+3-Deoxysappanone B	Compound0984
+3-deoxysappanone,b	Compound0985
+3-Methoxy-1,8-dihydroxy quinone	Compound0986
+5,4'-Dihydroxy-7,3'-dimethoxy flavanoe	Compound0987
+5,7-dihydroxy-6,8-dimethyl-3(R)-(3'-hydroxy-4'-methoxybenzyl)chroman-4-one	Compound0988
+5,7-dihydroxy-6,8-dimethyl-3(S)-(3'-hydroxy-4'-methoxybenzyl)chroman-4-one	Compound0989
+Biondinin C	Compound0990
+Biondinin D	Compound0991
+Des-O-methyllasiodiplodin	Compound0992
+Hibicutaiwanin	Compound0993
+Rubiawallin A	Compound0994
+1-(1-Oxo-3-phenyl-2E-propenyl)piperidine	Compound0995
+Cornigerine	Compound0996
+Cyclic (L-phenylpropan-L-bright) dipeptide	Compound0997
+Cyclic (L-pro-L-tyrosine) dipeptide	Compound0998
+cyclo-(leu-tyr)	Compound0999
+Cyclo-(Phe-Ala)	Compound1000
+Cyclo-(Phe-Phe)	Compound1001
+Cyclo-(Phe-Val)	Compound1002
+Dimethylalpinumisoflavone	Compound1003
+Erythrinin A	Compound1004
+isoglabrone	Compound1005
+  -D-glucose4-1  -D-galactose	Compound1006
+5,7-dihydroxy-6-methoxyflavane	Compound1007
+(e)-2-methoxy-5-(1-propenyl)-phenol	Compound1008
+(E)-3-(3',5'-dimethoxy-4'-hydroxybenzylidence)-2-indolinone	Compound1009
+(E)-3-(3',5'-Dimethoxy-4'-hydroxybenzylidene)-2-indolinone	Compound1010
+(E)-3-(3'-methyl-2'butenylidene)-2-indolinone	Compound1011
+(E)-3,3  -dimethoxy-4,4  -dihydroxystilbene	Compound1012
+(E)-4-(4-hydroxy-3,5-dimethoxyphenyl)but-3-en-2-one	Compound1013
+(Z)-3-(3'-methyl-2'butenylidene)-2-indolinone	Compound1014
+1-(4-hydroxy-3-methoxyphenyl)-5-(4-hydroxy-phenyl)-1,4-pentadiene-3-one	Compound1015
+3,3'-dimethoxy-cis-stilbene-4,4'-diol	Compound1016
+4-Ethoxymethylphenyl-4'-hydroxybenzylether	Compound1017
+5,7-Dihydroxy-6,8,2',3'-tetramethoxyflavone	Compound1018
+7-Hydroxy-3-(4'-hydroxybenzylidene)-chroman-4-one	Compound1019
+Cis-N-(4-hydroxycinnamyl)tyrosine	Compound1020
+Isoindigo	Compound1021
+Piceatannol-4  -O-  -D-glucopyranoside	Compound1022
+trans-3,5,4'-trihydroxystilbene	Compound1023
+trans-3-Acetoxy-5,7-dihydroxyflavanone	Compound1024
+(+),n-methylcorydine	Compound1025
+(+)-Cassythicine	Compound1026
+(+)-N-Methyl laurotetanine	Compound1027
+(+)-N-methyllaurotetanine	Compound1028
+(S)-N-methylbulbocapnine	Compound1029
+5,8-Dihydroxy-2-(2-phenylethyl) chromone	Compound1030
+5,8-dihydroxy-2-(2-p-methoxyphenylethyl)chromone	Compound1031
+5-hydroxy-6-methoxy-2-(2-phenylethyl)chromone	Compound1032
+6,7-Dimethoxy-2-(2-phenylethyl) chromone	Compound1033
+6,8-Dihydroxy-2-(2-phenylethyl)chromone	Compound1034
+6-Hydroxy-7-methoxy-2-(2-phenylethyl)chromone	Compound1035
+6-Methoxy-2-(2-phenylethyl) chromone	Compound1036
+7-Hydroxy-2-(2-phenylethyl)chromone	Compound1037
+isomer-of-magnofl,orine	Compound1038
+lirioferine	Compound1039
+L-Mecambroline	Compound1040
+Metoclopramide dihydrochloride	Compound1041
+N-Methyl hernangerine	Compound1042
+N-Methylhernangerine	Compound1043
+n-methylphoebine	Compound1044
+O-Methybulbocapnine	Compound1045
+stesakine	Compound1046
+THALPHENINE	Compound1047
+(-)-corydine	Compound1048
+(-)-N-acetylanonaine	Compound1049
+(+) N-methylcorydine	Compound1050
+(+)-boldine	Compound1051
+(+)-corydine	Compound1052
+(+)-magnoflorine	Compound1053
+(2S)-N,N,N-trimethyl tryptophane betabine	Compound1054
+(R)-(+)-Propranolol hydrochloride	Compound1055
+2-Methyl-6-methoxy-1,2,3,4-tetrahydro--beta-carboline	Compound1056
+3,4,5-trimethoxy benzeneethanamine	Compound1057
+3,4-Methylenedioxy-3'-methoxybibenzil	Compound1058
+4,4'-Dihydroxy-3,5-dimethoxybibenzyl	Compound1059
+5,6,6a,7-tetrahydro-2,10-dimethoxy-6-methyl-	Compound1060
+6,7-dimethoxy-2-(2-p-methoxyphenylethyl)chromone	Compound1061
+Alstomicine	Compound1062
+anaxagoreine	Compound1063
+anthirine	Compound1064
+Apoglaziovine	Compound1065
+Caaverine	Compound1066
+Cassythidine	Compound1067
+corynantheol	Compound1068
+Costaclavine	Compound1069
+crepidatin	Compound1070
+Diangoutengjian	Compound1071
+dihydrocorynantheol	Compound1072
+Dihydrositsirikine	Compound1073
+dl-Nuciferine	Compound1074
+erythro-austrobailignan-6	Compound1075
+Hernandine	Compound1076
+Lindechunine B	Compound1077
+Lirinidine	Compound1078
+lysegrol	Compound1079
+magnofl,orinea	Compound1080
+magnoflorin	Compound1081
+Magnolflorine	Compound1082
+Magnosprengerine	Compound1083
+N(4)-Methyl-N(4),21-seco-talpinin	Compound1084
+N,N-Dimethyl-L-tryptophan	Compound1085
+N,N-Dimethyltryptamine-methohydroxide	Compound1086
+N-Acetylxylopine	Compound1087
+Nb-Methyltetrahydroharman	Compound1088
+Nb-Methyltetrahydroharmol	Compound1089
+norglaucine	Compound1090
+norglaucing	Compound1091
+norisoboldine	Compound1092
+N-trans-feruloyl-3-methoxytyramine-4'-O-  -D-glucose	Compound1093
+Ocokryptine	Compound1094
+O-Nornuciferine,N-Methylasimilobine	Compound1095
+Peraksine	Compound1096
+Romucosine H	Compound1097
+ST057701	Compound1098
+Thalicmine	Compound1099
+Violyedoenamide	Compound1100
+1-(5,7,8-trimethoxy-2,2-dimethylchromen-6-yl)ethanone	Compound1101
+12a-Epimillettosin	Compound1102
+3-O-Methylpaeonisuffral	Compound1103
+4'-hydroxypaeoniflorigenone	Compound1104
+5-(2-hydroxyphenoxymethyl) furfura	Compound1105
+5,7-dihydroxy-6,8-dimethyl-3-(4'-hydroxy-3'5'-dimethoxybenzyl)chroman-4-one	Compound1106
+5-Hydroxy-6-isobutyryl-7-methoxy-2,2-dimethylbenzopyran	Compound1107
+6-Isobutyryl-5,7-dimethoxy-2,2-dimethylbenzopyran	Compound1108
+6-o-vanillyoxypaeoniflorin_qt 2	Compound1109
+7,30-dihydroxy-5,40,50-trimethoxyisoflavone	Compound1110
+7-Hydroxy-6-isobutyryl-5-methoxy-2,2-dimethylbenzopyran	Compound1111
+Cryptoquinone	Compound1112
+Desmethylagrimonolide	Compound1113
+galloyl-oxypaeoniflorin_qt 2	Compound1114
+Glabroisoflavanone A	Compound1115
+Glabroisoflavanone B	Compound1116
+mudanpioside-h_qt 2	Compound1117
+oxypaeoniflorin deglycosylation	Compound1118
+polygalatenosides D	Compound1119
+1-epi-nambinone B	Compound1120
+2,5-Methanocyclopenta-1,3-dioxin-7-ol	Compound1121
+Canusesnol C	Compound1122
+indicumenone	Compound1123
+Isodalbergin	Compound1124
+lucidone B	Compound1125
+nambinone B	Compound1126
+O-Methyldalbergin	Compound1127
+sedanoic-acid	Compound1128
+Sedanonic acid	Compound1129
+Stevein	Compound1130
+(2S)-4',7-Dihydroxy-3'-methoxyflavan	Compound1131
+(2s)-6,7,4-trihydroxyflavan	Compound1132
+(2S,3R)-2-(3,4-dimethoxyphenyl)-5,7-dimethoxychroman-3-ol	Compound1133
+2-(2,4-dimethoxyphenyl)-3-hydroxy-7-methoxy-chromone	Compound1134
+3',7-Dihydroxy-4'-methoxy-8-methylflavan	Compound1135
+3',7-Dihydroxy-4'-methoxyflavan	Compound1136
+3-hydroxy-5,7-dimethoxy-3  ,4  -methylenedioxyflavan	Compound1137
+4',7-Dihydroxy-3'-methoxyflavan	Compound1138
+5,2'-dihydroxy-7,8,6'-trimethoxyflavone	Compound1139
+5-Hydroxy-7,2',3'-trimethoxyflavone	Compound1140
+5-hydroxy-7,8,2',6'-tetramethoxyflavonoid	Compound1141
+5-hydroxy-7,8,2'-trimethoxyflavone	Compound1142
+6,7,8-trimethoxy-5,2'-dihydroxyflavone	Compound1143
+7,3'-Dihydroxy-4'-methoxy-8-methylflavan	Compound1144
+8-Hydroxy-5,7,4'-trimethoxyflavone	Compound1145
+Arachidoside	Compound1146
+Tupichinol A	Compound1147
+Tupichinol B	Compound1148
+1,2-dimethoxy-3-hydroxyanthraquinone	Compound1149
+1,3-Dihydroxy-6-metboxy-7-methyl-anthraquinone	Compound1150
+1,4-dihydroxy-2-methoxy-7-methylanthracenequinone	Compound1151
+1,4-Dimethoxy-2-hydroxyanthraquinone	Compound1152
+1,5,7-trihydroxy-6-methoxy-2-methoxymethylanthracenequinone	Compound1153
+1,5-Dihydroxy-3-metboxy-7-methyl-anthraquinone	Compound1154
+1,6-Dihydroxy-2,4-dimethoxyanthranquinone V	Compound1155
+10-Amino-2,4-dimethoxyphenanthrene-1-carboxylic acid lactam	Compound1156
+1-Hydroxy-3-methoxy-2-methylanthraquinone	Compound1157
+1-Hydroxy-5-methoxy-2-methylanthraquinone	Compound1158
+1-hydroxy-7-methoxy-3-methyl-anthraquinon	Compound1159
+1-hydroxy-8-methoxy-3-methylanthraquinone	Compound1160
+1-O-methyl-2-methoxychrysophanol	Compound1161
+2,3-dimethoxy-6-methyanthraquinone	Compound1162
+2,4-dihydroxy-3,5,6-trimethylmethylbenzoate	Compound1163
+2,5-Dimethyl-7-hydroxy chromone	Compound1164
+2,6-dihydroxy-1-methoxy-3-methylanthraquinone	Compound1165
+2-hydroxy-1,6,7,8-tetramethoxy-3-methyl-anthraquinone	Compound1166
+2-hydroxy-1-methoxy-3-methylanthraquinone	Compound1167
+4,6,7-trimethoxy-5-methylcoumarin	Compound1168
+4,7-dimethoxy-5-methylcoumarin	Compound1169
+4-hydroxymethyl-1,3-dimethoxyanthracenequinone	Compound1170
+6,8-dihydroxy-1,2,7-trimethoxy-3-methylanthraquinone	Compound1171
+6-Hydroxy-anthragallol-1,3-dimethylether	Compound1172
+6-Methoxy-aristololactam	Compound1173
+7-Hydroxy-4-methoxy-5-methylcoumarin	Compound1174
+8-Methoxylchrysophanol	Compound1175
+9-methoxychrysophanol	Compound1176
+Anthragallol-1,3-dimethylether	Compound1177
+aristolactam B	Compound1178
+Aristolactam B II	Compound1179
+Benzyl-2  -O-D-glucopyranosyl-3,6-dimethoxybenzoate	Compound1180
+ethyl orsellinate	Compound1181
+Gonioffithine	Compound1182
+Juzunal	Compound1183
+Morindone-5-methylether	Compound1184
+N-Demethyldoryphornine	Compound1185
+Physcion-9-O-beta-D-glucopyranoside deglycosylation	Compound1186
+Piperolactam B	Compound1187
+Piperolactam C	Compound1188
+Piperolactam D	Compound1189
+Rhynchotechol V	Compound1190
+Robustaquinone A	Compound1191
+Robustaquinone C	Compound1192
+Robustaquinone D	Compound1193
+Robustaquinone E	Compound1194
+Robustaquinone H	Compound1195
+rubiadin 1-methyl ether	Compound1196
+Rubiawallin B	Compound1197
+2'-Hydroxy-5,7,8-Trimethoxyflavone	Compound1198
+5,2',6'-Trihydroxy-7,8-dimethoxyflavone	Compound1199
+5,2'-dihydroxy-7,8-dimethoxyflavone	Compound1200
+5,7,8,2'-Tetramethoxyflavonoids	Compound1201
+7,2'-dihydroxy-5,8-dimethoxyflavone	Compound1202
+Rexigen	Compound1203
+(-)-Caryachine	Compound1204
+(-)-Munitagine	Compound1205
+(+)-Corybulbine	Compound1206
+(+)-Corydaline	Compound1207
+(+)-Isocaryachin	Compound1208
+(1R)-6,7-dimethoxy-1-(4-methoxybenzyl)-2-methyl-3,4-dihydro-1H-isoquinoline	Compound1209
+(1S)-1-(4-hydroxybenzyl)-2-methyl-3,4-dihydro-1H-isoquinoline-6,7-diol	Compound1210
+(S)-trans-Cyclanoline	Compound1211
+(S)-trans-N-Methyltetrahydrocolumbamine	Compound1212
+Allopseudococain	Compound1213
+Berbithine	Compound1214
+Capauridine	Compound1215
+Capaurimine	Compound1216
+caseanidine	Compound1217
+Clarkeanidine	Compound1218
+corybulbine	Compound1219
+Cupreine	Compound1220
+Cyclanoline	Compound1221
+d-(+)-THP	Compound1222
+demethylcorydalmatine	Compound1223
+Dihydrotaxilamine	Compound1224
+dl-Caryachine	Compound1225
+Epiqunine	Compound1226
+isocorybulbine	Compound1227
+Juzirine	Compound1228
+Kikemanine	Compound1229
+l-(-)-THP	Compound1230
+N-Demethylphyllocryptine	Compound1231
+Ormosanine	Compound1232
+Palaudine	Compound1233
+Pectenine	Compound1234
+Quinidine sulfate dihydrate	Compound1235
+QUININE HEMISULFATE	Compound1236
+rac-tetrahydropalmatine	Compound1237
+Rericuline	Compound1238
+Steponine	Compound1239
+S-trans-N-methyltetrahydrocolumbamine	Compound1240
+tetrahydrojatrorrhizine	Compound1241
+tetrahydroprotopapaverine	Compound1242
+Turcomanine	Compound1243
+Yuanhunine	Compound1244
+(  )-Anabasine	Compound1245
+Epipachysamine F	Compound1246
+Pachysamine A	Compound1247
+Turconidine	Compound1248
+(-)-anagyrine	Compound1249
+(-)-baptifoline	Compound1250
+(+)-sophoramine	Compound1251
+7,7a,8,9,10,11,13,14-octahydro-9-hydroxy-	Compound1252
+9alpha-Hydroxysophoramine	Compound1253
+9-alpha-Hydroxysophoramine	Compound1254
+Isolobelanine	Compound1255
+Neocauline A	Compound1256
+Neocauline B	Compound1257
+Stemona alkaloid	Compound1258
+(1-Oxo-3-phenyl-2E-propenyl)pyrrolidine	Compound1259
+13-methyldehydrocorydalmine	Compound1260
+13-methylpalmatrubine	Compound1261
+14--beta-Hydroxy-3-isorauniticine	Compound1262
+1-hydroxy-2,3,5-trimethoxyketone	Compound1263
+2,3,9,12-tetrame thoxyprotoberberine	Compound1264
+6-beta-Hydroxyhuperzine A	Compound1265
+6  ,8  -dihydroxylycopodine	Compound1266
+Apetalic acid	Compound1267
+Apetalic acid 5-O-acetate	Compound1268
+Apetalic acid methyl ester	Compound1269
+beta-Rotunol	Compound1270
+Corydamine	Compound1271
+crinumaquine	Compound1272
+dehydrocheilanthifoline	Compound1273
+dehydrocorybulbine	Compound1274
+dehydrodiscretamine	Compound1275
+eudesm-4(15),7-diene-11-ol-9-one	Compound1276
+Gramine methohydroxide	Compound1277
+Illudins I	Compound1278
+Inophynone	Compound1279
+Isoinophynone	Compound1280
+JATRORRHIZINE HCL(RG)	Compound1281
+Lycoposerramine L	Compound1282
+nardochinone A	Compound1283
+nardochinone B	Compound1284
+Oxyborberine	Compound1285
+Palmatine hydroxide	Compound1286
+Pseudopalmatine methyl nitrate	Compound1287
+Rauvanine	Compound1288
+Sanggenon F	Compound1289
+sarmentol F	Compound1290
+toxicarol isoflavone	Compound1291
+yatrorizine	Compound1292
+Zingiberenol	Compound1293
+zingiberol	Compound1294
+  -copaene-8-ol	Compound1295
+  -costol	Compound1296
+  -Rotunol	Compound1297
+1,2-diethyl-3-methylcyclohexylamine	Compound1298
+1,5-diethyl-2,3-dimethylcyclohexylamine	Compound1299
+1-isobutyl-2,5-dimethylcyclohexylamine	Compound1300
+20-Epi-19,20-dihydro-decarbomethoxy vobasine	Compound1301
+Cnidium lactone	Compound1302
+Cyclic (L-phenylpropan-L-tyrosine)-dipeptide	Compound1303
+Cyclo-(Phe-Tyr)	Compound1304
+N-oxide matrine	Compound1305
+(-)-alpha-N-methylcanadine	Compound1306
+(-)-N-Demethylcrychine	Compound1307
+(1R)-6-methoxy-1,2-dimethyl-3,4-dihydro-1H-isoquinolin-7-ol	Compound1308
+(S)-cis-N-methylstylopine	Compound1309
+1-Methyl-corypalline	Compound1310
+3-Epifortuneine	Compound1311
+6-methoxy-kynurenic acid	Compound1312
+Bemumicine	Compound1313
+Bemumidine	Compound1314
+Bernumine	Compound1315
+caulophylluminesB	Compound1316
+Cheryline	Compound1317
+d-(+)-THB	Compound1318
+Datumetine	Compound1319
+ephedralone	Compound1320
+Erysopine	Compound1321
+Fortuneine	Compound1322
+Intebrimine	Compound1323
+l-tetrahyrocoptisine	Compound1324
+Neocaryachine	Compound1325
+N-Methyl-corypalline	Compound1326
+tetrahydrocoptisine	Compound1327
+Tetrahydrocorysamine	Compound1328
+Tetrahyrocoptisine	Compound1329
+Turcamine	Compound1330
+  -Bisabolol	Compound1331
+3'-methylorobol	Compound1332
+4',7,8-Trimethoxyisoflavone	Compound1333
+4,7'-dimethoxyisoflavone	Compound1334
+4'-Hydroxy-7-Methoxy Isoflavone	Compound1335
+5,7,3'-trihydroxy-5'-methoxylisoflavone	Compound1336
+5,7-dihydrox-4'-methoxyisoflavone	Compound1337
+5,7-dihydroxy-3-(4-hydroxy-3-methoxyphenyl)-6-methoxy-4H-chromen-4-one	Compound1338
+5-hydroxy-6,7-dimethoxy-3-(4-methoxyphenyl)-4h-chromen-4-one	Compound1339
+5-O-methylgenistein	Compound1340
+6-hydroxy-3-(4-hydroxyphenyl)-5,7-dimethoxy-chromone	Compound1341
+7,3'-dihydroxy-5'-methoxyisoflavone	Compound1342
+7,4  -Dihydroxy-8-methoxy Isoflavone	Compound1343
+7-hydroxy-3',4'-dimethoxyisoflavone	Compound1344
+8,4'-dihydroxy-7-methoxyisoflavone	Compound1345
+8-hydroxy-7,4'-dimethoxyisoflavone	Compound1346
+Anticancer Flavonoid PMV70P691-94	Compound1347
+belamcandin	Compound1348
+calycosin isoflavone	Compound1349
+cladrastin	Compound1350
+ergonorine	Compound1351
+formonoetin	Compound1352
+gliricidin	Compound1353
+Isopenniclavine	Compound1354
+Pallidiflorin	Compound1355
+Penniclavine	Compound1356
+(2R,3R)-3,4  ,7-trihydroxy-3  -prenylflavane	Compound1357
+6,7-Defydroartemisinic acid	Compound1358
+phellodensin-A	Compound1359
+(-)-(7R,7'R,8S,8'S)-4,4'-dihydroxy-3-methoxy-7,9'-9,7'-diepoxylignan	Compound1360
+(-)-Amarbellisine	Compound1361
+(-)-aptosimon	Compound1362
+(-)-Chicanine	Compound1363
+(-)-dihydrosesamin	Compound1364
+(-)-epipinoresinol	Compound1365
+(-)-Fargesol	Compound1366
+(-)-methylpiperitol	Compound1367
+(-)-Phillygenin	Compound1368
+(+)-1-hydroxy-6-epipinoresinol	Compound1369
+(+)-1-hydroxylpinoresinol	Compound1370
+(+)-1-Hydroxypinoresinol	Compound1371
+(+)-1-hydroxysyringaresinol	Compound1372
+(+)-5'-Demethoxyepiexcelsin	Compound1373
+(+)-Epiexcelsin	Compound1374
+(+)-Epipinoresinol	Compound1375
+(+)-Fraxiresinol	Compound1376
+(+)-Galbacin	Compound1377
+(+)-Lirioresinol A	Compound1378
+(+)-Medioresinol di-O-beta-D-glucopyranoside deglycosylation	Compound1379
+(+)-pinoresinol monomethyl ether	Compound1380
+(+)-pinoresinol monomethyl ether-4-D-beta-glucoside deglycosylation	Compound1381
+(+)-Pionresinol	Compound1382
+(+)-piperitol	Compound1383
+(+)-saururinone	Compound1384
+(+)-syringare sinol	Compound1385
+(  )-Galgravin	Compound1386
+(  )-Syringaresinol	Compound1387
+(7,8-cis-8,8'-trans)-2,4-dihydroxy-3,5-dimethoxy-lariciresinol	Compound1388
+(8R)-8-Acetoxypatchoulol	Compound1389
+1-(2,4-dihydroxy-6-methoxyphenyl)ethanone	Compound1390
+1,2,3,7-tetramethoxy xanthone	Compound1391
+1,3,6,7-tetramethoxyxanthone	Compound1392
+1,4-Dimethoxy-2,3-dimethylbenzene	Compound1393
+10-hydroxycroomine	Compound1394
+1-10 asarinin	Compound1395
+1-4methylbenzene	Compound1396
+1-Bromo-2-methoxynaphthalene	Compound1397
+1-Syringaresinol	Compound1398
+2,3,5-Trimethoxytoluene	Compound1399
+2,3-Dihydroxymethyl-4-(3',4'-dimethoxyphenyl)-gamma-butyrolactone	Compound1400
+2',4'-dihydroxy-4-methoxydihydrochalcone	Compound1401
+2,4-Dihydroxy-6-methoxy-3-methylacetophenone	Compound1402
+2-Methoxy-4-vinylphenol deglycosylation	Compound1403
+3-(alpha,4-Dihydroxy-3-methoxybenzyl)-4-(hydroxy-3-methoxybenzyl) tetrahydrofuran	Compound1404
+3,4,5-Trimethoxy-benzyl alcohol	Compound1405
+3',4'-methylenedioxy-3,4,5,5'-tetramethoxy-7,7'-epoxylignan	Compound1406
+3,4-methylenedioxyphenylpropiophenone	Compound1407
+3,5,6,7-Tetrahydro-3,3,4,5,5,8-hexamethyl-s-indacen-1(2H)-one	Compound1408
+3',6-Dihydroxy-2,4,4'-trimethoxybenzophenone	Compound1409
+4,2',4'-Trihydroxy-6'-methoxydihydrochalcone	Compound1410
+4,4'-((2R,3R,4S,5S)-tetrahydro-3,4-dimethyl-2,5-furandiyl)bis(2-methoxy-	Compound1411
+4'-Hydroxy-2,6-dimethoxydihydrochalcone	Compound1412
+4-Hydroxy-2',6'-dimethoxydihydrochalcone	Compound1413
+4'-hydroxyl-3,3',4,5,5'-pen-tamethoxy-7,7'-epoxylignan	Compound1414
+4-ketopinol ester	Compound1415
+4-ketopinores	Compound1416
+4-methoxy-1H-quinolin-2-one	Compound1417
+4-O-demethylforsythenin	Compound1418
+4  ,8  -dihydroxylycopodine	Compound1419
+5,6,7,8-Tetramethoxycoumarin	Compound1420
+5-hydroxy-6,8-dimethoxycoumarin	Compound1421
+5'-medioresinol	Compound1422
+5-Methoxy-6,7-methylene-dioxy coumarin	Compound1423
+5-methoxydictamnine	Compound1424
+6,3'-Dihydroxy-2,4-dimethoxybenzophenone	Compound1425
+6,7,8-Trimethoxy-2H-1-benzopyran-2-one	Compound1426
+6,8-dihydroxy-1,2,3-trimethyoxyxanthone	Compound1427
+6-Hydroxy-1,2,3,7-tetramethoxyxanthone	Compound1428
+6-Methoxy dictamnine	Compound1429
+7,8-dimethoxycoumarin	Compound1430
+7'-epi-8-hydroxypinoresinol	Compound1431
+7-Hydroxy-8-methoxyecoumarin	Compound1432
+7-Hydroxyhinokinin	Compound1433
+7-Hydroxyyatein	Compound1434
+8-hydroxy pinoresinol	Compound1435
+8-Hydroxy-5,6,7-trimethoxycoumarin	Compound1436
+8-hydroxy-medioresinol	Compound1437
+8-hydroxypinoresinal	Compound1438
+8-methoxy-medioresinol	Compound1439
+8-oxypalmatine	Compound1440
+8  -hydroxylycodoline	Compound1441
+9a-Hydroxy-d-sesamin	Compound1442
+9  -hydroxy pinoresinol	Compound1443
+9  -Hydroxypinoresinol	Compound1444
+Annocherine A	Compound1445
+Annocherine B	Compound1446
+Anticancer Flavonoid PMV70P691-101	Compound1447
+Anticancer Lignan PMV70P691-124	Compound1448
+Arnebianoid	Compound1449
+Aschantin	Compound1450
+austrobailignan 7	Compound1451
+balanophonin B	Compound1452
+beta-Obscurine	Compound1453
+Biondinin B	Compound1454
+Caruilignan B	Compound1455
+Caruilignan D	Compound1456
+Clavatine	Compound1457
+Clemaphenol A	Compound1458
+Desaspidinol-A	Compound1459
+Diepoxy forsythia lactone	Compound1460
+Di-O-methyltetrahydrofuriguaiacin B	Compound1461
+d-Pinoresinol	Compound1462
+engelheptanoxide A	Compound1463
+engelheptanoxide C	Compound1464
+Epipineol	Compound1465
+erysotine	Compound1466
+Evodiamide	Compound1467
+Forsythenside B	Compound1468
+FORSYTHINOL	Compound1469
+fragransin A2	Compound1470
+fragransin B1	Compound1471
+fragransin B2	Compound1472
+fragransin B3	Compound1473
+fragransin C1	Compound1474
+fragransin C2	Compound1475
+fragransin C3A	Compound1476
+fragransin C3B	Compound1477
+fragransin D1	Compound1478
+fragransin D2	Compound1479
+fragransin D3	Compound1480
+galbacin	Compound1481
+Genkdaphin	Compound1482
+graminone A	Compound1483
+homoegonol	Compound1484
+Hydroxyforsythiaside	Compound1485
+iso-Nectandrin B	Compound1486
+Isopaulownin	Compound1487
+Jatamansic acid	Compound1488
+Lilifatin A	Compound1489
+Lilifatin B	Compound1490
+L-Planinin	Compound1491
+Lycodoline	Compound1492
+machilin,g	Compound1493
+mayuenolide	Compound1494
+myrrhanolides B	Compound1495
+myrrhanolides C	Compound1496
+N-(2-Methylaminobenzoyl)tryptamine	Compound1497
+nectandrin A	Compound1498
+Neosesamin	Compound1499
+Neo-sesamin	Compound1500
+N-Methyl huperzine B	Compound1501
+n-oxytuberostemonine	Compound1502
+O-ethylnor-  -fagarine	Compound1503
+Onjixanthone I	Compound1504
+parvistemonine	Compound1505
+Peganol	Compound1506
+Phenylpropyl acetate	Compound1507
+pinoresinol diMethyl ether	Compound1508
+Plillygenin	Compound1509
+Pluviine	Compound1510
+Pseudoselagine	Compound1511
+Pterosin N	Compound1512
+Pterosin Z	Compound1513
+rel-( 8R,8  R)-dimethyl-( 7S,7  R)-bis( 3,4-methylenedioxy-phenyl) tetrahydro-furan	Compound1514
+salicifoliol	Compound1515
+saucerneol K	Compound1516
+saucernetindiol	Compound1517
+Sesaminone	Compound1518
+sessilistemonamine D	Compound1519
+Stemonine	Compound1520
+stemospironine	Compound1521
+styraxin	Compound1522
+syringaresinol	Compound1523
+tetrahydroreticuline	Compound1524
+tuberospironine	Compound1525
+Urinaligran	Compound1526
+Uvangoletin	Compound1527
+verrucosin	Compound1528
+Zhebeiresinol	Compound1529
+Zheberiesinol	Compound1530
+  -Herbertenol	Compound1531
+  -Obscurine	Compound1532
+1-(4-Hydroxybenzoyl)-7-hydroxy-6-methoxyisoquinoline	Compound1533
+Tanshinone  A	Compound1534
+(-)-Guaia-1(10),11-dien-15-ol	Compound1535
+(-)-Guaia-1(11),11-dien-15-al	Compound1536
+(-)-guaia-l(10),11-dien-15-ol	Compound1537
+(+)  -Cadinen-12,14-diol	Compound1538
+(3R)-5,7- dihydroxy-3-(4-hydroxybenzyl)-6-methylchroman-4-one	Compound1539
+(3R)-5,7-dihydroxy-3-(4-hydroxybenzyl)-6,8-dimethylchroman-4-one	Compound1540
+(E)-3',4'-Dimethoxycinnamyl alcohol	Compound1541
+(Z)-1,2,4-trimethoxy-5-(1-propenyl)-benzene	Compound1542
+(Z)-1beta-hydroxy-2-hydrolanceol	Compound1543
+14  ,18-dihydroxy-7,15-isopimaradiene	Compound1544
+2,5-dihydroxy-l-methoxyanthraquinone	Compound1545
+2,6-dimethoxy-4-prop-1-enylphenol	Compound1546
+2  -O-Methylabronisoflavone	Compound1547
+2-hydroxy-1-methoxyan-thraquinone	Compound1548
+3,3',4'-Trimethoxyquercetin	Compound1549
+4-(3,4-Dimethoxyphenyl)-but-1,3-diene	Compound1550
+4,8,13-duvatriene-1,3-diol	Compound1551
+4-vinylsyringol	Compound1552
+5,7-dihydroxy-3-(2-hydroxy-4-methoxybenzyl)-6,8-dimethylchroman-4-one	Compound1553
+5,7-dihydroxy-3-(4-hydroxybenzyl)chroman-4-one	Compound1554
+5,7-dihydroxy-6,8-dimethyl-3-(2'-hydroxy-4'-methoxybenzyl)chroman-4-one	Compound1555
+5,7-Dihydroxy-6,8-dimethyl-3-(4'-hydroxy-3'-methoxybenzyl)chroman-4-one	Compound1556
+5,7-dihydroxy-6-methyl-3-(2',4'-dihydroxybenzyl)chroman-4-one	Compound1557
+5E,10(14)-Germacradien-1-beta,4-beta-diol	Compound1558
+5-Hydroxyalizarin-1-methylether	Compound1559
+6-(P-Tolyl)-2-methyl-2-heptenol,trans-	Compound1560
+7-hydroxy-3-(2-hydroxy-3,4-dimethoxy-phenyl)chromone	Compound1561
+7-Methoxy-2-methyl isoflavone	Compound1562
+Acetonylevodiamine	Compound1563
+Agathodienediol	Compound1564
+alpha-iso-cubebenol	Compound1565
+beta-4,8,13-Duvatriene-1,3-diol	Compound1566
+-beta-4,8,13-Duvatriene-1,3-diol	Compound1567
+Candidin	Compound1568
+combretastain A4	Compound1569
+corylinal methyl ether	Compound1570
+eudesm-4(15),7-diene-9  ,11-diol	Compound1571
+Germacra-1(10),4,11(13)-trien-12-ol	Compound1572
+Goshuyuamide-I	Compound1573
+Isodaucenol	Compound1574
+Labda-8(17),13E-diene-3  ,15-diol	Compound1575
+Labdadiene	Compound1576
+lanceol	Compound1577
+Lanceol,cis	Compound1578
+macrophypene B	Compound1579
+PD 98059	Compound1580
+Sarcophytol T	Compound1581
+Shizuka-acoradienol	Compound1582
+  -Cembrenediol	Compound1583
+3-isopropyl-6-isobutyl-2,5-dioxopiperazine	Compound1584
+3-isopropyl-6-isobutyl-2,5-piperazinedione	Compound1585
+3-Oxoisotaxodione	Compound1586
+Chilenamine	Compound1587
+Cyclo-(Ile-Val)	Compound1588
+Cyclo-(Leu-Ile)	Compound1589
+Cyclo-(Leu-Val)	Compound1590
+cyclo(Pro-Leu)	Compound1591
+L-isobutyl-Lvaline anhydride	Compound1592
+sinactine	Compound1593
+tetrahydroepalmatine	Compound1594
+Thalictrifoline	Compound1595
+ZINC04023242	Compound1596
+  -Santalic acid	Compound1597
+(-)-3,4-dimethoxy-3,4-desmethylenedioxycubebin	Compound1598
+(-)Arctigenin	Compound1599
+(2S,3S)-2-(4-Hydroxy-3,5-dimethoxybenzyl)-3-(3,4-methylene-dioxybenzyl)butyrolactone	Compound1600
+(2S,3S)-2-(4-Hydroxy-3,5-dimethoxybenzyl)-3-(5-methoxy-3,4-methylenedioxybenzyl)butyrolactone	Compound1601
+(2S,3S)-2-(4-Hydroxy-3-methoxybenzyl)-3-(5-methoxy-3,4-me-thylenedioxybenzyl)butyrolactone	Compound1602
+(2S,3S)-2-(5-Methoxy-3,4-methylenedioxybenzyl)-3-(3,4-methyl-enedioxybenzyl)butane-1,4-diol	Compound1603
+(8R,8'R)-4-Hydroxycubebinone	Compound1604
+1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)-3-heptanone	Compound1605
+1  ,2  -dehydrocyclokievitone	Compound1606
+1-Gingerol	Compound1607
+2,2'-dimethoxy-4,4'-(tetrahydro-furan-3,4-diyldimethyl)-bis-phenol	Compound1608
+2-butanone,4-(4-hydroxy-3-methoxyphenyl)-	Compound1609
+2-Gingerol	Compound1610
+3,4-Dimethoxy-3',4'-methylenedioxy-7,9'-epoxylignan-9-ol	Compound1611
+3-Gingerol	Compound1612
+4    Demethyldeoxypodophyllotoxin	Compound1613
+5-(4'-hydroxy-3'-methoxyphenyl)-3-hydroxy-1-pentanal	Compound1614
+5-hydroxy-1-(4'-hydroxy-3'-methoxyphenyl)-4-hexa-decen-3-one	Compound1615
+5-methoxy-7-(4-hydroxy-33methoxy phenyl)-1-phenyl-3-heptanone	Compound1616
+5-methoxy-7-(4-hydroxy-3-methoxy phenyl)-1-phenyl-3-heptanone	Compound1617
+5-methoxy-7-(4-hydroxy-3-methoxyphenyl)-1-phenyl-3-heptanone	Compound1618
+7-hydroxyaustrobailignan 5	Compound1619
+8,11,13-Icetexantrien-10,11,12-triol	Compound1620
+alpinoid B	Compound1621
+a-O-Methylcubebin	Compound1622
+aristolactone	Compound1623
+Asteriscunolide A	Compound1624
+Asteriscunolide C	Compound1625
+Asteriscunolide D	Compound1626
+buplerol	Compound1627
+Bursehemin	Compound1628
+bursehernin	Compound1629
+deangeloylgomisin B	Compound1630
+deangeloylgomisin F	Compound1631
+descurainolide A	Compound1632
+Dextrobursehernin	Compound1633
+Diarylheptanoid CPB-51-262-4	Compound1634
+Eclipta prostrata Lignans A	Compound1635
+hemiariensin	Compound1636
+Isoarctigenin	Compound1637
+isohinokinin	Compound1638
+kusunokinin	Compound1639
+Matairesil	Compound1640
+matairesino	Compound1641
+MAX	Compound1642
+Meridinol	Compound1643
+Millettocalyxin A	Compound1644
+Neonootkatol	Compound1645
+picropolygamain	Compound1646
+Pisiferal	Compound1647
+Pisiferic acid	Compound1648
+polygamain	Compound1649
+prestegane B	Compound1650
+Pyramidatin F	Compound1651
+Pyramidatin G	Compound1652
+Pyramidatin H	Compound1653
+saucerneol J	Compound1654
+semiaquilegoside A deglycosylation	Compound1655
+Sikkimotoxin	Compound1656
+Tetrahydropiperic acid	Compound1657
+trans-1(3'-methoxy-4'-hydroxyphenyl)-7-phenyl-5-ol-4,6-dien-3-heptanone	Compound1658
+Versicolactone A	Compound1659
+Yakuchinone A	Compound1660
+  -O-Methylcubebi	Compound1661
+  -O-Methylcubebin	Compound1662
+11-Methoxy-nor-yangonin	Compound1663
+12,13-dihydro-13-hydroxybakuchiol	Compound1664
+15,17-Dihydrotanshinone I	Compound1665
+2,5-dimethyl-7-methoxychromone	Compound1666
+4  -Hydroxy-5,6-dehydrokawain	Compound1667
+8,17-epoxy-14-deoxyandrographolide	Compound1668
+Backuchiol	Compound1669
+Cyclopiloselloidone	Compound1670
+Dehydrobaimuxinol	Compound1671
+dihydrotanshinone IIA	Compound1672
+evobioside deglycosylation	Compound1673
+favesone	Compound1674
+Isoeugenitin	Compound1675
+Isotanshinone  B	Compound1676
+Leoheteronin E	Compound1677
+Przewaquinone B	Compound1678
+Quinquqngulin	Compound1679
+saikochromone,a	Compound1680
+Tylophoridicine D	Compound1681
+Tylophoridine	Compound1682
+(7e)-2beta,3alpha-dihydroxy-megastigm-7-en-9-one	Compound1683
+14-Deoxy-11-oxoandrographolide	Compound1684
+19-hydroxy-8(17),13-ent-Iabdadien-15,16-olid	Compound1685
+19-hydroxy-ent-labda-8(17),13-dien-15,16-olide	Compound1686
+3,14-di-deoxyandrographolide	Compound1687
+3-dehydrodeoxy andrographolide	Compound1688
+3-oxo-14-deoxyandrographolide	Compound1689
+7(R)-hydroxy-14-deoxyandrographolide	Compound1690
+aractylenolide   	Compound1691
+callicapene M3	Compound1692
+Charminarone	Compound1693
+Crolaunine B	Compound1694
+Labda-8(17),13(14)-dien-15,16-olide	Compound1695
+Launine C	Compound1696
+sucutinirane B	Compound1697
+sugeonyl acetate	Compound1698
+7-Methyl juglone	Compound1699
+agatholic acid	Compound1700
+Alepterolic acid	Compound1701
+japonin D	Compound1702
+(E)-3-(3-hydroxy-4,5-dimethoxy-phenyl)acrylic acid	Compound1703
+3-(4-hydroxy-3-ethoxyphenyl)-2-acrylic acid	Compound1704
+Sodium Sinapate	Compound1705
+TMCA (2,4,5-Trimethoxy-cinnamic Acid)	Compound1706
+(  )-Murpaniculol	Compound1707
+(2-hydroxyphenyl)methyl benzoate	Compound1708
+(2R)-4'-Hydroxy-3'-methoxyphenyl-2-butanol	Compound1709
+(E)-p-coumaryl alcohol gamma-O-methyl ether	Compound1710
+(Z)-3-(3,4,5-trimethoxyphenyl)acrylic acid	Compound1711
+(Z)-4-methoxycinnamic acid	Compound1712
+(Z)-p-Methoxycinnamic acid	Compound1713
+1,4-dimethoxy-naphthalene	Compound1714
+1,5,6-trimethoxyphenanthrene-2,7-diol	Compound1715
+1,5-Dimethoxy-3-hydroxybenzoic acid	Compound1716
+1,7-Dimethoxynaphthalene	Compound1717
+2,3,4,7-tetramethoxyxanthone	Compound1718
+2,4,5-Trimethoxybenzoic acid	Compound1719
+2,4'-Dihydroxy-5-carboxy-dibenyl ether	Compound1720
+2,4-dimethoxy-3-hydroxybenzoic acid	Compound1721
+2,6-Dihydroxy-4-methoxybenzoic acid ethyl ester	Compound1722
+2-hydroxy-6-methoxybenzyl-2-methoxybenzoate	Compound1723
+2-hydroxyl-5-methoxybenzoic acid	Compound1724
+2-Methoxy-4-(3-methoxy-1-propenyl)-phenol	Compound1725
+3-(4-Methoxyphenyl)-2-methyl-2-acrylic acid	Compound1726
+3,4,6-trimethoxyphenanthrene-2,7-diol	Compound1727
+3,4,7-trimethoxycoumarin	Compound1728
+3,5-Dimethoxy-4-hydroxybenzaldehyde	Compound1729
+3-Ethoxy-4-hydroxybenzoic acid	Compound1730
+3-hydroxy-5-methoxy-benzoic acid	Compound1731
+4-(3-(benzoyloxy)-1-propenyl)-2-methoxy-	Compound1732
+4-alpha,10-alpha-Aromadendranediol	Compound1733
+4-beta,10-alpha-Dihydroxyaromadendrane	Compound1734
+4-hydroxy-2-methoxybenzoic acid	Compound1735
+4-METHOXY-1-NAPHTHOL	Compound1736
+5,8-Dimethoxyxanthyletin	Compound1737
+5-Methoxy-7-hydroxymethyl coumarin	Compound1738
+6-hydroxymethyl-7-methoxycoumarin	Compound1739
+6-Methoxy-7,8-methylenedioxy coumarin	Compound1740
+7-hydroxy-6-(2-hydroxyethyl)coumarin	Compound1741
+8-(3-hydroxy-isovaleryl)-5,7-Dimethoxycoumarin	Compound1742
+8-Isopentenyllimettin	Compound1743
+alloaromadendrane-7alpha,11alpha-diol	Compound1744
+Angelitriol	Compound1745
+Aromadendrane-4-beta,10-beta-diol	Compound1746
+Aromadendrane-4  ,10  -diol	Compound1747
+aromadendrane-7alpha,11alpha-diol	Compound1748
+aromadendrane-7beta,11alpha-diol	Compound1749
+coniferyl alcohol	Compound1750
+Coniferyl benzoate	Compound1751
+Daphnetin-7-methyl ether	Compound1752
+DemethylaristofolinE	Compound1753
+Dendrobane A	Compound1754
+Diarylheptanoid CPB-51-262-2	Compound1755
+dimethyl 2-hydroxyterephthalate	Compound1756
+Ethyl vanillate	Compound1757
+ethyl-5-ethoxy-2-hydroxybenzoate	Compound1758
+Hemipic acid	Compound1759
+Isooxypeucedanin	Compound1760
+methyl (3-hydroxy-2-oxo-2,3-dihydroindol-3-yl)acetate	Compound1761
+Methyl 2-hydroxy-3,4-dimethoxy benzoate	Compound1762
+m-Hemipic acid	Compound1763
+Muurolane-4-beta,5-beta,10-beta-triol	Compound1764
+Myristargenol B	Compound1765
+oxypeucedanin hydrate 3-butyl ether	Compound1766
+oxypeucedanin,hydrate,3-butyl,ether	Compound1767
+Pabulenol	Compound1768
+Paniculin	Compound1769
+peucedanol	Compound1770
+Pranferol	Compound1771
+Samarcandin	Compound1772
+Schinicoumarin	Compound1773
+ST5407144	Compound1774
+swietenol	Compound1775
+Syringic alcohol	Compound1776
+zingerol	Compound1777
+Corylinal	Compound1778
+(-)-isaindigotone	Compound1779
+(3R)-5'-Methoxyvestitol	Compound1780
+1,7-bis(4-hydroxyphenyl)-1,5-epoxy-3-hydroxyheptane	Compound1781
+18-Hydroxy-13-methoxy-8,12-podocarpadiene-11,14-dione	Compound1782
+2-(4-cyclohexylphenoxy)ethanol	Compound1783
+2  -hydroxy dihydroguaiaretic acid	Compound1784
+3-(4'-hydroxy-3'-methoxyphenyl)-1-propanal	Compound1785
+3-beta-Hydroxy-13-methoxy-8,12-podocarpadiene-11,14-dione	Compound1786
+3  -Hydroxy-13-methoxy-8,12-podocarpadiene-11,14-dione	Compound1787
+4-(3',4',5'-trimethoxyphenyl)-2-butanone	Compound1788
+4-(3',4'-dihydroxy-5'-methoxyphenyl)-2-butanone	Compound1789
+4-(3'-hydroxy-4',5'-dimethoxyphenyl)-2-butanone	Compound1790
+4-(4'-hydroxy-3',5'-dimethoxyphenyl)-2-butanone	Compound1791
+4(4'-hydroxybenzyloxy)benzyl methyl ether	Compound1792
+4,5-phenanthrenediol, 9,10-dihydro-2,3,6-trimethoxy-	Compound1793
+4-Methoxy-2-pentyl-phenol	Compound1794
+5-(4-hydroxy-3-methoxy-phenyl)-1-piperidino-penta-2,4-dien-1-one	Compound1795
+7,2'-dihydroxy-3',4',6'-trimethoxyisoflavan	Compound1796
+7-dihydroxy-3',4'-dimethoxyisoflavane	Compound1797
+Bulbophyllidin	Compound1798
+cannabispiradienone	Compound1799
+Duartin	Compound1800
+gomisin K1	Compound1801
+gomisin K2	Compound1802
+gomisin K3	Compound1803
+Gomisin T	Compound1804
+Homokiol	Compound1805
+isochisandrin	Compound1806
+isodiphyllin	Compound1807
+Isoschizandrin	Compound1808
+ligballinol	Compound1809
+Melilotocarpan C	Compound1810
+Schisandrol	Compound1811
+1,2-Dimethoxyanthraquinone	Compound1812
+2-(4-hydroxyphenyl)ethyl acetate	Compound1813
+3'-O-Methyl brazilin	Compound1814
+4-(2-hydroxypropyl)phenol	Compound1815
+5,7-Dihydroxy-3-(4-methoxy-phenyl)-4-oxo-4H-chromen-2-carbonsaeure-aethyleste	Compound1816
+Lemairamide	Compound1817
+N-cis-feruloyl tyramine	Compound1818
+N-p-Feruloyltyramine	Compound1819
+N-trans-4-O-Methylferuloyl 3',4'-O-dimethyldopamine	Compound1820
+N-trans-4-O-Methylferuloyl 4'-O-methyldopamine	Compound1821
+N-trans-feruloyl-3-methoxytyramine	Compound1822
+N-trans-Feruloyl-4'-O-methyldopamine	Compound1823
+1-(Phenylsulfonyl)pyrrole	Compound1824
+15-cinnamoyloxy-oplopanone	Compound1825
+2-(1,1-dimethylethyl)-1,4-dimethoxy-benzene	Compound1826
+2,4-bis (1,1-dimethylethyl)-phenol	Compound1827
+2,6-Bis(1,1-dimethylethyl)-4-methyl phenol	Compound1828
+2,6-DIETHYL-4-METHYLPHENOL	Compound1829
+2,6-Ditertbutyl-4methyl phenol	Compound1830
+2-tert-butyl-4-hydroxyanisole	Compound1831
+3,5-Dimethyl-4-methoxybenzoic acid	Compound1832
+3,5-Di-t-butylphenol	Compound1833
+Butylated hydroxyanisole	Compound1834
+cinnamophilin	Compound1835
+cis-2-methoxycinnamic acid	Compound1836
+Hibicuslide C	Compound1837
+Thymol hydroquinone dimethyl ether	Compound1838
+Vitamin B1.mol2	Compound1839
+Waitziacuminone	Compound1840
+4-coumaroyltyramine (CT)	Compound1841
+4-methoxymachilin D	Compound1842
+9'-O-Methylamericanol A	Compound1843
+coumaroyltyramine	Compound1844
+eythro-1-(4-hydroxy-3-methoxyphenyl)-2-(2-meth-oxy-4(E)-propenylphenoxy)-propan-1-ol	Compound1845
+N-(trans-p-Coumaroyl) tyramine	Compound1846
+neolignan	Compound1847
+.alpha.-T COOH deriv.	Compound1848
+5-(2-thienyl)-	Compound1849
+5-(3-hydroxy-4-acetoxybutyn-1)-bithiophene	Compound1850
+alpha-Terthienyl methanol	Compound1851
+arctinol A	Compound1852
+N-(2,6-Dioxo-1-phenethyl-piperidin-3-yl)-2-methyl-butyramide	Compound1853
+(R)-heraclenol	Compound1854
+16-Hydroxytriptonide	Compound1855
+17-Hydroxytriptonide	Compound1856
+5-(2-hydroxy-3-methoxy-3-methylbutoxy)psoralen	Compound1857
+Anhydrobyankangelicin	Compound1858
+evodine	Compound1859
+Haploperine	Compound1860
+hydrate oxypeucedanin	Compound1861
+isobyakangelicin	Compound1862
+iso-tert-o-methylbyakangelicin	Compound1863
+Oxypeucedanin ethanolate	Compound1864
+(2Z)-2-(2-oxoindolin-3-ylidene)indolin-3-one	Compound1865
+compound 10	Compound1866
+12(S)-Hydroxy-15,16-epoxy-8(17),13(16),14-ent-labdatrien-20,19-olide	Compound1867
+6-Acetylfuranofukinol	Compound1868
+AIDS446185	Compound1869
+caesaldekarin K	Compound1870
+dictamdiol,b	Compound1871
+diosbuilbin M	Compound1872
+Diosbulbin A	Compound1873
+Diosbulbin B	Compound1874
+Diosbulbin C	Compound1875
+diosbulbin D	Compound1876
+diosbulbin E	Compound1877
+diosbulbin G	Compound1878
+diosbulbin M	Compound1879
+diosbulbin N	Compound1880
+Galeopsin	Compound1881
+isodictamdiol	Compound1882
+N-Candicine	Compound1883
+neodiosbulbin	Compound1884
+Pyramidatin A	Compound1885
+Pyramidatin B	Compound1886
+Pyramidatin C	Compound1887
+Pyramidatin D	Compound1888
+Pyramidatin E	Compound1889
+Venenatine	Compound1890
+Hernandine A	Compound1891
+Hernandine B	Compound1892
+Oxoepistephamiersine	Compound1893
+Oxostephamiersine	Compound1894
+Stephamiersine	Compound1895
+Stephasunoline	Compound1896
+(1R,3R)-1-methyl-2,3,4,9-tetrahydro-1H-$b-carboline-3-carboxylic acid	Compound1897
+(1S,3S)-1-methyl-1,2,3,4-tetrahydro-  -carboline-3-carboxylic acid	Compound1898
+1-methyl-1,2,3,4-tetrahydro-  -carboline-3-carboxylic acid	Compound1899
+dehydrocavidine	Compound1900
+Dihydropalmatine	Compound1901
+koenidine	Compound1902
+Koenigine	Compound1903
+Mahanimbinine	Compound1904
+mukonicine	Compound1905
+Murrayacine	Compound1906
+Murrayamine-I	Compound1907
+(3S,4R)-3-Carboxy-2-methylene-heptan-4-olide	Compound1908
+(+)-Acuminatin	Compound1909
+(+)-trans-1,2-dihydrodehydroguaiar	Compound1910
+(3,4-Dimethoxyphenyl)acetic acid	Compound1911
+1,2,7-trimethoxy-3-hydroxyxanthone	Compound1912
+1,3,7-trimethoxyxanthone	Compound1913
+1,6-Dihydroxy-3,5,7-trimethoxyxanthone	Compound1914
+1,6-Dihydroxy-3,7-dimethoxyxanthone	Compound1915
+1,7-dihydroxy-2,3-dimethoxyxanthone	Compound1916
+1,7-Dihydroxyl-3,8-dimethoxyxanthone	Compound1917
+1,8-dihydroxy-3,7-dimethoxy-xanthone	Compound1918
+1-hydroxy-2,3,5,7-tetramethoxyxanthone	Compound1919
+1-hydroxy-2,3,5-trimethoxy-xanthone	Compound1920
+1-Hydroxy-3,6,7-trimethoxy xanthone	Compound1921
+1-Hydroxy-3,7-dimethoxyxanthone	Compound1922
+2,2-dimethyl-6-acetylchromanone	Compound1923
+2,3,8-trimethoxyxanthone	Compound1924
+3,6-Dihydroxy-1,7-dimethoxyxanthone	Compound1925
+3-hydroxy-2,8-dimethoxyxanthone	Compound1926
+4,8-dihydroxy-2,7-dimethoxy-xanthone	Compound1927
+5a-Hydroxytriptonide	Compound1928
+5-alpha-Hydroxytriptonide	Compound1929
+5-hydroxy-7-methoxychromone	Compound1930
+5-methoxy-dehydrodiisoeugenol	Compound1931
+6,8-dihydroxy-1,2,4-trimethyoxyxanthone	Compound1932
+6-hydroxy-2,3,6,7-tetramethoxyxanthone	Compound1933
+threo-austrobailignan-5	Compound1934
+Garcibiphenyl A	Compound1935
+(-)-8-oxoisocorypalmine	Compound1936
+3-Isopropyl-6-tert-butyl-2,5-piperazinedione	Compound1937
+8-oxotetrahydropalmatine	Compound1938
+N-Methyltetrahydroharmol	Compound1939
+  -Rotunol	Compound1940
+(-)-8-oxotetrahydrothalifendine	Compound1941
+Amurensinine	Compound1942
+Canadaline	Compound1943
+Lennoxamine	Compound1944
+Thalictircine	Compound1945
+10  ,13,14-Trihydroxyalloaromadendrane	Compound1946
+4-Demethyl-picropodophyllotoxin	Compound1947
+(+)-Eschscholtzidine	Compound1948
+Mecambridine	Compound1949
+Northalifoline (tautomeric structure 1)	Compound1950
+(3S)-7-hydroxy-3-(2,3,4-trimethoxyphenyl)chroman-4-one	Compound1951
+12alpha-Hudroxyrotenone	Compound1952
+(+)-methylpseudoephedrine	Compound1953
+(1R,2S)-N-methylephedrine	Compound1954
+(1S,2S)-N-methylpseudoephedrine	Compound1955
+d-methylpseudoephedrine	Compound1956
+ephedrine hydrochloridum	Compound1957
+N-Methylephedrine	Compound1958
+Hamanasic acid A	Compound1959
+Thujopsan-7  -ol	Compound1960
+(Z)-2alpha-hydroxy-albumol	Compound1961
+(Z)-2beta-hydroxy-14-hydro-beta-santalol	Compound1962
+(Z)-campherene-2beta,13-diol	Compound1963
+1-(2,4-Dihydroxyphenyl)-3-(4-hydroxyphenyl)propane	Compound1964
+1,7-bis(4-hydroxyphenyl)-3-heptanone	Compound1965
+10(Z)-neo-sandalnol	Compound1966
+10(Z)-sandalnol	Compound1967
+16-Carboxytotarol	Compound1968
+1  -hydroxy-  -cyperone	Compound1969
+2alpha,12-dihydroxy-10(Z)-campherene	Compound1970
+2beta,12-dihydroxy-10(Z)-campherene	Compound1971
+2R-(Z)-campherene-2,13-diol	Compound1972
+4-(3-hydroxypropyl)phenol	Compound1973
+a-Conidendrin	Compound1974
+Aphanamol I	Compound1975
+Arnebia naphthalenol	Compound1976
+benuol	Compound1977
+Bolusanthin IV	Compound1978
+ent-kaur-15-en-17-ol	Compound1979
+Ent-kaur-15-en-3  ,17-diol	Compound1980
+Labd-13-ene-8  ,15-diol	Compound1981
+Normiltioane	Compound1982
+Oryzalexin E	Compound1983
+Phadodendrol	Compound1984
+Phenol,2-(1,1-dimethylethyl)-4-(1,1,3,3-tetramethylbutyl)	Compound1985
+Pisiferin	Compound1986
+Sugikurojin A	Compound1987
+  -cannabispiranol	Compound1988
+(-)-Guaia-1(10),11-dien-15-carboxylic acid	Compound1989
+alisguaiaone	Compound1990
+ent-kaur-15-en-17,19-dioic acid	Compound1991
+ent-labda-8(17),13Z-dien-15,19-dioic acid	Compound1992
+Epilippidulcine A	Compound1993
+Labda-7,12(E),14-triene-17-oic acid	Compound1994
+Lippidulcine A	Compound1995
+Methyl 12-oxo-8-alpha,15-dihydroxyabiet-13-en-19-oate	Compound1996
+11  -methoxy saikosaponin F	Compound1997
+17-Hydroxyhomodaphniphyllic acid	Compound1998
+2-(2-Phenyl cyclohexyloxy) ethenol	Compound1999
+4-n-propyl-3-hydroxycoumarin	Compound2000
+6-(4-hydroxyphenyl)-4-hydroxyhexan-2-one	Compound2001
+Spirafine   a	Compound2002
+Spirafine VA	Compound2003
+Spirafine VIA	Compound2004
+(+)-8-Hydroxycalamenone	Compound2005
+(2S)-2',4'-Dihydroxy-7-methoxy-8-prenylflavan	Compound2006
+1,3-dimethoxy-5-(2-phenylethyl)benzene	Compound2007
+10-Deoxoxanthoperol	Compound2008
+13-Methoxy-8,12-podocarpadiene-2,11,14-trione	Compound2009
+16-Hydroxy-19,20-epoxy-kaurane	Compound2010
+1  ,11-dihydroxy-  -cyperone	Compound2011
+2,3-dihydroirigenin	Compound2012
+2',7-Dihydroxy-4'-methoxy-8-prenylflavan	Compound2013
+2',7-di-O-B-D-glucopyranoside	Compound2014
+3,4'-dihydroxy-5,5'-dimethoxydihydrostilbene	Compound2015
+3-hydroxy-5-methoxy bibenzyl	Compound2016
+3-methoxy-2,6,6-trimethylcyclohex-1-enecarboxylic acid	Compound2017
+3'-O-Methylbatatasin   	Compound2018
+4-(3-ethyl-2-butenyl)-4-cyclohexene-1,3,dione	Compound2019
+7-methoxy-3',4',5-trihydroxy isoflavone	Compound2020
+8-propoxycedrane	Compound2021
+Anticancer Flavonoid PMV70P691-013	Compound2022
+Batatasin V	Compound2023
+bolusanthin	Compound2024
+Canusesnol A	Compound2025
+cichorioside B deglycosylation	Compound2026
+Deacetylmatricrin	Compound2027
+ent-15,16-Epoxy-3-beta-hydroxy-kauran-2-one	Compound2028
+Holadysine	Compound2029
+Kanshone E	Compound2030
+macrophypene A	Compound2031
+macrophypene C	Compound2032
+marioside deglycosylation	Compound2033
+Mononorvalerenone	Compound2034
+nardosinanone B	Compound2035
+nardosinanone C	Compound2036
+orientalol M	Compound2037
+Sativanone	Compound2038
+Triptonoterpene	Compound2039
+  -Epoxy-dihydroartemisinic acid	Compound2040
+119736-65-1	Compound2041
+12-hydroxyabietic acid	Compound2042
+1-Carboethoxy-beta-carboline	Compound2043
+2-hydroxyphenylpropanol	Compound2044
+(1R,7R)-1,12-dihyroxybisabola-3,10-diene	Compound2045
+4,5-dihydroxybisabola-2,10-diene	Compound2046
+4  ,12-dihydroxyguaian-6,10-diene	Compound2047
+4  ,1,2-dihydroxyguaian-6,10-dien	Compound2048
+Calamendiol	Compound2049
+nardosinanone A	Compound2050
+3,4- dihydroxydihydroagarofuran	Compound2051
+4-alpha,5-alpha-Epoxy-6-alpha-hydroxy amorphan-12-ol	Compound2052
+4-hydroxydihydroagarofuran	Compound2053
+4  ,7  -epoxyguaiane-10  ,11-diol	Compound2054
+6,15-alpha-Epoxy-1-beta,4-beta-dihydroxyeudesmane	Compound2055
+Baimuxiniol	Compound2056
+Baimuxinol	Compound2057
+darutigenol B	Compound2058
+Isobaimuxinol	Compound2059
+Isodoglutinosin B	Compound2060
+Isopropyl idenekirenol	Compound2061
+Isopropylidenkirenol	Compound2062
+Liguloxido	Compound2063
+Liguloxidol	Compound2064
+2',3,5-trihydroxybibenzyl	Compound2065
+2-methyl-5-(2-phenylethyl)resorcinol	Compound2066
+3-(2-hydroxy-4-methoxyphenyl)-2H-chromen-7-ol	Compound2067
+3,4',5-Trihydroxy-3'-methoxybibenzyl	Compound2068
+3,4-didehydroglabridin	Compound2069
+3,5,2'-trihydroxy-4-methyl bibenzyl	Compound2070
+3,5-dihydroxy bibenzyl	Compound2071
+7-Hydroxycadalenal	Compound2072
+dehydroglyasperin C	Compound2073
+dehydroglyasperin D	Compound2074
+glycybridin E	Compound2075
+Indicanine E	Compound2076
+Moracin A	Compound2077
+Moracin B	Compound2078
+Moracin F	Compound2079
+phenethyl vanillate	Compound2080
+p-hydroxyphenethyl-p-hydroxybenzoate	Compound2081
+2,3,4-Trihydroxy-benzenepropanoic acid	Compound2082
+2,4,6-trinitrobenzenesulfonate	Compound2083
+2,4,6-Trinitrobenzenesulfonic acid	Compound2084
+2-Carboxymethyl-3-prenyl-2,3-epoxy-1,4-naphthoquinone	Compound2085
+3,4-Dihydroxyphenylethyl alcohol glucoside	Compound2086
+3-caffeoylquinic,acid	Compound2087
+3-Carboxy-4-hydroxy-phenoxy glucoside	Compound2088
+3-o-caffeoylquinic,acid	Compound2089
+6-O-E-Feruloylajugol	Compound2090
+6-O-E-Feruloylajugol deglycosylation	Compound2091
+Calcium valproate	Compound2092
+chlorogenetic,acid	Compound2093
+coptision	Compound2094
+Corchoroside A	Compound2095
+Corchoroside A deglycosylation	Compound2096
+Corydaldine (tautomeric structure 1)	Compound2097
+Groenlandicine	Compound2098
+Magnograndiolide	Compound2099
+neo-chlorogenic,acid	Compound2100
+Palmidin A	Compound2101
+Trihydroxybufosterocholanic acid	Compound2102
+3beta-Hydroxysandara copimaric acid	Compound2103
+abiesanordine E	Compound2104
+(+)-ferruginol	Compound2105
+(+)-methyl,selina-4,11-dien-14-oate	Compound2106
+(2S)-5,2'-Dihydroxy-7,4',5'-trimethoxyflavanone	Compound2107
+Suaveolic acid	Compound2108
+Vitexifolin B	Compound2109
+19-hydroxy-ent-labda-8(17),13E-dien-15-oic acid	Compound2110
+Antriptolactone	Compound2111
+n-pentanoic acid, bornyl ester	Compound2112
+n-pentanoic,acid,,bornyl,ester	Compound2113
+(+)-4-Epi--alpha-bisabolol	Compound2114
+(+)-4-Epi-  -bisabolol	Compound2115
+(  )-Vestitol	Compound2116
+(7R*)-Opposit-4(15)-ene-1  ,7-diol	Compound2117
+1  H,5  H-guaia-6-ene-4  ,10  -diol	Compound2118
+2-(4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydro-napthalen-2-yl)-prop-2en-1-ol	Compound2119
+8-hydroxy-4,7-dimethoxy-furanoquinoline	Compound2120
+Ajugalide D	Compound2121
+3-  -D-glucopyranosyl-3-epi-2-isocucurbic acid deglycosylation	Compound2122
+(-)-guaia-l(10),11-diene-15-carboxylic,acid	Compound2123
+(2S)-5,2'-dihydroxy-7,8-dimethoxyflavanone	Compound2124
+(-)-16B,17-Epoxykauran-19-oic acid	Compound2125
+(rel 5S,6R,8R,9R,10S)-6-acetoxy-9-hydroxy-13(14)-labden-16,15-olid Agnusid	Compound2126
+13-Carboxy-blumenol C	Compound2127
+16-Oxo-8(17),13-labdadiene-15,19-dioic acid	Compound2128
+4-Methylene miltirone	Compound2129
+Santlic acid	Compound2130
+Zingibertriol	Compound2131
+(-)-elema-1,3-11(13)-trien-12-ol	Compound2132
+(-)-Kaur-l6-en-19-o1	Compound2133
+(2S)-abyssinone I	Compound2134
+11  ,17-dihydroxy-beyer-15-ene	Compound2135
+12,17-Dihydroxylabda-7,13(E)-diene	Compound2136
+1-hydroxy-2-methoxy-6-methyl-9,10-anthraquinone	Compound2137
+2,5-dihydroxybisabola-3,10-diene	Compound2138
+Dictysine	Compound2139
+Suberogorgin	Compound2140
+11-Deoxy Corticosterone-d7	Compound2141
+Siegesmethyletheric acid	Compound2142
+O-ethylmenthol	Compound2143
+(10S)-11-hydroxy-  -cyperone	Compound2144
+(16R)-ent-11  -Hydroxykauran-15-one	Compound2145
+(1S,4aS,10aR)-7-isopropyl-1,4a-dimethyl-5,8-dioxo-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylic acid	Compound2146
+(2S)-5,7,2'-trihydroxy-6-methoxydihydroflavone	Compound2147
+3,7-dihydroxy-6-methoxyflavone	Compound2148
+5,3'-dihydroxy-7,4'-dimethoxyflavanone	Compound2149
+5,4'-Dihydroxy-6-methyl-7-methoxyflavanone	Compound2150
+7,3',5'-trihydroxyflavanone	Compound2151
+cyperenoic acid	Compound2152
+Glutinic acid	Compound2153
+Lucidenic acid F	Compound2154
+Nardosinonediol	Compound2155
+7-hydroxyflavonone	Compound2156
+Platyphyllonol	Compound2157
+Madolin U	Compound2158
+3''-prenyldaidzein	Compound2159
+Angelidiol	Compound2160
+Senkyunolide J	Compound2161
+senkyunolide-J	Compound2162
+5,2'-dihydroxy-6,7,8,3'-tetramethoxy flavone	Compound2163
+14-Formyldihydrorutaecarpine	Compound2164
+3',4-Dihydroxy-3,5'-dimethoxystilbene	Compound2165
+N-methylcalycinine	Compound2166
+lucidone C	Compound2167
+nambinone A	Compound2168
+rulepidatriol	Compound2169
+4',7-Dihydroxy-3'-methoxy-8-methylflavan	Compound2170
+Leoheteronin D	Compound2171
+5,7-dihydroxy-4'-methoxy-8-prenylisoflavone	Compound2172
+5,7-dimethoxy-2'-hydroxyflavone	Compound2173
+5-Epi-eudesm-4(15)-ene-1  ,6  -diol	Compound2174
+5-Hydroxy-7-methoxy-chromen-2-one	Compound2175
+5'-methoxydonkey herbivore	Compound2176
+5  -Hydroxy-eudesman-7(11)-en-8  (12)-olide	Compound2177
+5  -Hydroxy-eudesman-7(11)-en-8  (12)-olide	Compound2178
+eudesm-4(15)-ene-1beta,6a-diol	Compound2179
+glyceollin,i	Compound2180
+glycybridin J	Compound2181
+Hespertitinic acid	Compound2182
+isolonchocarpin	Compound2183
+(7S,8S,9S,10R,13S,14S,17R)-17-ethyl-7-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,17-decahydro-1H-cyclopenta[a]phenanthrene-3,16-dione	Compound2184
+(8R,9S,10R,11R,13S,14S,15S,17E)-17-ethylidene-11,15-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthrene-3,16-dione	Compound2185
+(9aS,9bR)-3,6,9-trimethyl-5,7,9a,9b-tetrahydro-4H-azuleno[5,4-d]furan-2-one	Compound2186
+(Z)-6-(2,3-Dimethyltricyclo[2.2.1.02,6]hept-3-yl)-3-methylhexadecane-3-en-2-one	Compound2187
+1-[(5R,8R,9S,10S,12R,13S,14S,17S)-12-hydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone	Compound2188
+1-alpha-Aldehyde-2-beta-[3-butanone]-3-alpha-methyl-6-beta-[2-propanoic acid]-cyclohexane	Compound2189
+1-Oxo-2  -[3-butanone]-3  -methyl-6  -[2-propanoic acid]-cyclohexane	Compound2190
+(6S)-6-hydroxy-1-methyl-6-methylol-8,9-dihydro-7H-naphtho[8,7-g]benzofuran-10,11-quinone	Compound2191
+1-methyl-8,9-dihydro-7H-naphtho[5,6-g]benzofuran-6,10,11-trione	Compound2192
+6-Methyl-7-(3-oxobutyl)-bicyclo[4.1.0]heptan-3-one	Compound2193
+Spiro[2.5]octane,5,5-dimethyl-4-(3-oxobutyl)-	Compound2194
+(2S)-2-[(1R,4R,4aS,8aS)-4,7-dimethyl-1,2,3,4,4a,5,6,8a-octahydronaphthalen-1-yl]propionic acid	Compound2195
+(1R)-1-[(2S,4aR,4bS,7R,8aS)-7-hydroxy-2,4b,8,8-tetramethyl-4,4a,5,6,7,8a,9,10-octahydro-3H-phenanthren-2-yl]ethane-1,2-diol	Compound2196
+(4R)-4-[(3R)-3-hydroxybutyl]-3,5,5-trimethylcyclohex-2-en-1-one	Compound2197
+(4R)-4-[(5R,10S,13R,14R,17R)-3,7,11,15-tetraketo-4,4,10,13,14-pentamethyl-2,5,6,12,16,17-hexahydro-1H-cyclopenta[a]phenanthren-17-yl]valeric acid	Compound2198
+(1R)-2-[(2S)-1-methyl-2-piperidyl]-1-phenyl-ethanol	Compound2199
+(2R)-7-hydroxy-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]chroman-4-one	Compound2200
+(2S)-2',4'-Dihydroxy-2''-(1-hydroxy-l-methylethyl)-dihydrofuro[2,3-h]-flavanone	Compound2201
+8-(5,6,7,8-Tetrahydro-6-methyl-1,3-dioxolo[4,5-g]isoquinolin-5-yl)furo[3,4-e]-1,3-benzodioxol-6(8H)-one	Compound2202
+(1R,3aR,5R,5aS,8aR,9S,9aS)-9-hydroxy-1,5,8a-trimethyl-3a,4,5,5a,6,7,9,9a-octahydro-1H-azuleno[7,6-d]furan-2,8-dione	Compound2203
+(4S)-4-hydroxy-4-[(3R)-3-hydroxybutyl]-3,5,5-trimethylcyclohex-2-en-1-one	Compound2204
+(4S,5R)-4-Hydroxy-4-[(1E,3R)-3-hydroxy-1-buten-1-yl]-3,3,5-trimet hylcyclohexanone	Compound2205
+4-Phenylbicyclo[2,2,2]octan-1-ol	Compound2206
+4-Phenylbicyclo[2.2.2]octan-1-ol	Compound2207
+demethoxy-[6]-gingerol	Compound2208
+methyl,[4]-gingerol	Compound2209
+[(1R,3R,4R,4aS,8aS)-3,4a,8,8-tetramethyl-5'-oxo-spiro[decalin-4,2'-tetrahydrofuran]-1-yl] acetate	Compound2210
+[(1R,3R,4R,4aS,8aS)-3,4a,8,8-tetramethyl-6'-oxo-spiro[decalin-4,2'-tetrahydropyran]-1-yl] acetate	Compound2211
+[(2S,4aS,5R,6R,8aS)-1,1,4a,6-tetramethyl-5'-oxo-spiro[decalin-5,2'-tetrahydrofuran]-2-yl] acetate	Compound2212
+(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one	Compound2213
+(2S)-5-Hydroxy-7-methoxy-8-[(E)-3-oxo-1-butenyl] flavanone	Compound2214
+(2S)-5-Hydroxy-7-methoxy-8-[(E)-3-oxo-1-butenyl]flavanone	Compound2215
+(8S,9R)-9-hydroxy-8-(2-hydroxypropan-2-yl)-8,9-dihydrofuro[2,3-h]chromen-2-one	Compound2216
+2-[(1R,3S,4S)-3-isopropenyl-4-methyl-4-vinylcyclohexyl]propan-2-ol	Compound2217
+2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol	Compound2218
+4,7-dimethyl-7-(4-methylpent-3-enyl)bicyclo[2.2.1]heptan-3-ol	Compound2219
+(e)-[4]-shogaol	Compound2220
+(e)-[5]-shogaol	Compound2221
+[4]-gingerdiol	Compound2222
+methyl (E)-[4]-shogaol	Compound2223
+1-[1-Oxo-3(3,4-methylenedioxyphenyl)-2E-propenyl]piperidine	Compound2224
+1-[1-Oxo-3(3,4-methylenedioxyphenyl)-2E-propenyl]pyrrolidine	Compound2225
+{4-[(4-Methylbenzyl)oxy]phenyl}methanol	Compound2226
+2-methoxy-5-[(Z)-prop-1-enyl]phenol	Compound2227
+5-[(Z)-2-(3-hydroxy-4-methoxy-phenyl)vinyl]resorcinol	Compound2228
+5-[(Z)-2-(4-hydroxy-3-methoxy-phenyl)vinyl]resorcinol	Compound2229
+2-[2-(4'-Methoxyphenyl)ethyl] chromone	Compound2230
+5-hydroxy-2-[2-(2-hydroxyphenyl)ethyl] chromone	Compound2231
+6-Hydroxy-2-[2-(2-hydroxyphenyl) ethyl]chromone	Compound2232
+6-Hydroxy-2-[2-(4-hydroxyphenyl) ethyl]chromone	Compound2233
+6-hydroxy-2-[2-(4'-methoxylphenyl)rthyl]chromone	Compound2234
+4-[(2R,3S)-4-(1,3-benzodioxol-5-yl)-2,3-dimethylbutyl]-2-methoxyphenol	Compound2235
+6-methoxy-2[2-(3'-methoxyphenyl)ethyl]chromone	Compound2236
+6-methoxy-2-[2-(4'-methoxypheny1)-ethyl]-chromone	Compound2237
+9-hydroxy-6-(4-hydroxyphenyl)-8h-[1,3]dioxolo[4,5-g]chromen-8-one	Compound2238
+3-(4-hydroxy-3-methoxyphenyl)-N-[2-(4-hydroxyphenyl)ethyl]propanamide	Compound2239
+(13aS)-2,3,10-trimethoxy-6,8,13,13a-tetrahydro-5H-isoquinolino[2,1-b]isoquinolin-9-ol	Compound2240
+2,9,10-Trimethoxy-5,6-dihydroisoquinolino[2,1-b]isoquinolin-7-ium-3-ol	Compound2241
+(2R,3R,8R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-8-isopropenyl-2,3,8,9-tetrahydrofuro[2,3-h]chromen-4-one	Compound2242
+(2S)-2',4'-Dihydroxy-2-(1-hydroxy-1-methylethyl)dihydrofuro[2,3-h]flavanone	Compound2243
+(2S)-2',4'-Dihydroxy-2''-(1-hydroxy-1-methylethyl)dihydrofuro(2S)-2',4'-Dihydroxy-2''-(1-hydroxy-1-methylethyl)dihydrofuro [2,3-h]-flavanone	Compound2244
+2-[(4R,4aS)-4,7-dimethyl-2,3,4,4a,5,6-hexahydronaphthalen-1-yl]acrylic acid	Compound2245
+(1R,3aS,4R,6aS)-1,4-bis(3,4-dimethoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[4,3-c]furan	Compound2246
+(3S,3'R,4'R,9S,9aS)-4'-hydroxy-3'-methyl-3-[(2S,4S)-4-methyl-5-oxooxolan-2-yl]spiro[1,2,3,5,6,7,8,9a-octahydropyrrolo[1,2-a]azepine-9,5'-oxolane]-2'-one	Compound2247
+(3S,3'S,8S,9R,9aR)-8-methoxy-3'-methyl-3-[(2S,4S)-4-methyl-5-oxooxolan-2-yl]spiro[1,2,3,5,6,7,8,9a-octahydropyrrolo[1,2-a]azepine-9,5'-oxolane]-2'-one	Compound2248
+4,8-dimethoxyfuro[2,3-b]quinolin-7-ol	Compound2249
+4-[(1R,3aR,4R,6aR)-4-(4-hydroxy-3,5-dimethoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[4,3-c]furan-1-yl]-2,6-dimethoxyphenol	Compound2250
+4-[(2R,3S,4S,5S)-5-(1,3-benzodioxol-5-yl)-3,4-dimethyl-2-tetrahydrofuranyl]-2-methoxyphenol	Compound2251
+4-[(2S,3S,4R,5R)-5-(4-hydroxy-3-methoxyphenyl)-3,4-dimethyloxolan-2-yl]-2,6-dimethoxyphenol	Compound2252
+8-hydroxy-1,6-dimethyl-1,2-dihydrophenanthro[1,2-b]furan-10,11-dione	Compound2253
+(3R)-2,3-Dihydro-5,7-dihydroxy-3-[(4-methoxyphenyl)methyl]-6,8-dimethyl-4H-1-benzopyran-4-one	Compound2254
+1,2,3-trimethoxy-5-[(1E)-1-propenyl]benzene	Compound2255
+1-[(Z)-2-(3,5-dimethoxyphenyl)vinyl]-3,5-dimethoxybenzene	Compound2256
+4-[(Z)-3-hydroxyprop-1-enyl]-2,6-dimethoxyphenol	Compound2257
+(5aR,8aS,9R)-9-(3,4,5-trimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofurano[5,6-f][1,3]benzodioxol-8-one	Compound2258
+[1]-paradol	Compound2259
+[4]-gingerol	Compound2260
+[4]-isogingerol	Compound2261
+[5]-gingerol	Compound2262
+6-hydroxy-[6]-shogaol	Compound2263
+acetoxy-[4]-gingerol	Compound2264
+methoxy-[4]-gingerol	Compound2265
+methyl [4]-gingerol	Compound2266
+acetic acid [(1R,3R,4R,4aS,8aS)-4-hydroxy-3,4a,8,8-tetramethyl-4-[2-(2-oxo-5H-furan-3-yl)ethyl]-1-decalinyl] ester	Compound2267
+9-ethoxy-10-oxatricyclo[7.2.1.0(1,6)]dodecan-11-one	Compound2268
+1-[1-Oxo-3(3,4-methylenedioxy-5-methoxyphenyl)-2Z-propenyl]piperidine	Compound2269
+3-Chloro-10,11-dihydro-5H-dibenzo[b,f]azepine	Compound2270
+3-acetoxy-[4]-gingerdiol	Compound2271
+6-[(1S, 2R)-2, 3- dihydroxy-l-methoxy-3-methylbutyl]-7-methoxycoumarin	Compound2272
+6-[(1s,,2r)-2,,3-,dihydroxy-l-methoxy-3-methylbutyl]-7-methoxycoumarin	Compound2273
+methyl 5-acetoxy-[4]-gingerdiol	Compound2274
+methyl,5-acetoxy-[4]-gingerdiol	Compound2275
+1,5-Di-isobutyl-3,3-dimethyl[3,1,0]cyclohexadione	Compound2276
+3-methoxy-4-[(E)-3-phenylprop-2-enyl]phenol	Compound2277
+7H-Furo[3,2-g][1]benzopyran-7-one,9-methoxy-4-(3-methyl-2-oxobutoxy)	Compound2278
+(3R,5S,6R,8R,11R,12S,13S)-3-(FURAN-3-YL)-5-METHYL-2,9,14-TRIOXAPENTACYCLO[11.2.1.1,(1)(1).0(1),.0,(1)(2)]HEPTADECANE-10,15-DIONE	Compound2279
+(1S,6R,7R)-7-[(3S)-3-hydroxybutyl]-4-isopropylidene-1-methyl-3-norcaranone,(4S)-dihydrocurcumenone	Compound2280
+11-Dihydro-4-methoxy-dibenz[b,f]oxepin-2-ol	Compound2281
+11-Dihydro-dibenz[b,f]oxepin-2,4-diol	Compound2282
+2,6-dimethoxy-4-[(2S,3S)-7-methoxy-3-methyl-5-[(E)-prop-1-enyl]-2,3-dihydrobenzofuran-2-yl]phenol	Compound2283
+(1S,2R,4S,7R)-7-[(E)-5-hydroxy-4-methylpent-3-en-1-yl]-1,7-dimethylbicyclo[2.2.1]heptane- 2-alcohol	Compound2284
+1,3-dimethoxy-5-[2-(3-methoxyphenyl)ethyl]benzene	Compound2285
+Heriguard	CHEBI:16112
+limonin	CHEBI:16226
+Baicalin	CHEBI:2981
+Berbamine	CHEBI:3063
+2-propylpentanoate	CHEBI:60654
+TACROLIMUS MONOHYDRATE	CHEBI:61057
+Coptisine	CHEBI:67862
+Obamegine	CHEBI:7714
+Oxyacanthine	CHEBI:7853
+phellodendrine	CHEBI:80886
+Worenine	CHEBI:80913
+Valproate sodium	CHEBI:9925
+Sodium valproate	Compound2286

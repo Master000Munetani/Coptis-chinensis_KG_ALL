@@ -1,0 +1,231 @@
+Thyrotoxicosis	D013971
+Wiskott-Aldrich Syndrome	D014923
+Cholangiocarcinoma	D018281
+Beta-Thalassemia Major	D017086
+Bile Acid Synthesis Defect, Congenital, 3	C566340
+Alpha-1-Antitrypsin Deficiency	D019896
+Chronic Myeloid Leukemia	D015464
+Dpagt1-Cdg	C535748
+Tuberculosis	D014376
+Congenital Bile Acid Synthesis Defect Type 1	C535442
+Neonatal Ichthyosis-Sclerosing Cholangitis Syndrome	C564365
+Griscelli Syndrome, Type 2	C537302
+Sickle Cell Anemia	D000755
+Dominant Beta-Thalassemia	C565834
+Budd-Chiari Syndrome	D006502
+Cholesteryl Ester Storage Disease	D015217
+Wilson Disease	D006527
+Osteogenic Sarcoma	D012516
+Dubin-Johnson Syndrome	D007566
+Hyperbilirubinemia, Rotor Type	D006933
+Bile Acid Synthesis Defect, Congenital, 2	C535443
+Glycogen Storage Disease Vii	D006014
+Classic Galactosemia	D005693
+Epiphyseal Dysplasia, Multiple, With Early-Onset Diabetes Mellitus	C536739
+Cystic Fibrosis	D003550
+Chediak-Higashi Syndrome	D002609
+Autosomal Erythropoietic Protoporphyria	D046351
+Hereditary Coproporphyria	D046349
+Nephropathic Infantile Cystinosis	C565655
+Mevalonic Aciduria	D054078
+Alg8-Cdg	C535746
+Permanent Neonatal Diabetes Mellitus	C563425
+Dend Syndrome	C565253
+Propionic Acidemia	D056693
+Mpi-Cdg	C535740
+Congenital Disorder Of Glycosylation, Type Id	C535742
+Carnitine Palmitoyltransferase Ii Deficiency, Infantile	C563462
+Pituitary Adenoma, Prolactin-Secreting	D015175
+Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes	D017241
+Ornithine Transcarbamylase Deficiency	D020163
+Fabry Disease	D000795
+Cerebral Creatine Deficiency Syndrome 1	C535598
+Lysosomal Acid Lipase Deficiency	D015223
+Smith-Lemli-Opitz Syndrome	D019082
+Hyper-Igd Syndrome	D054078
+Papilloma Of Choroid Plexus	D020288
+Multiple Myeloma	D009101
+Holocarboxylase Synthetase Deficiency	D028922
+Biotinidase Deficiency	D028921
+Isolated Complex I Deficiency	C537475
+Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0	C565390
+Megacystis-Microcolon-Intestinal Hypoperistalsis Syndrome	C536138
+Chylomicron Retention Disease	C535460
+Isovaleric Acidemia	C538167
+Carbamoyl-Phosphate Synthetase 1 Deficiency	D020165
+Glutaryl-Coa Dehydrogenase Deficiency	C536833
+Familial Dysautonomia	D004402
+Carnitine Deficiency, Systemic Primary	C536778
+Argininosuccinic Aciduria	D056807
+Argininemia	D020162
+Alpers-Huttenlocher Syndrome	D002549
+Congenital Adrenal Hyperplasia Due To 11-Beta-Hydroxylase Deficiency	C535978
+Acute Intermittent Porphyria	D017118
+Peutz-Jeghers Syndrome	D010580
+Huntington Disease	D006816
+Periodic Fever, Familial, Autosomal Dominant	C536657
+Reticular Dysgenesis	C538361
+Adult Polyglucosan Body Disease	C564878
+Hereditary Sensory And Autonomic Neuropathy Type 4	D009477
+Juvenile Hyaline Fibromatosis	D057770
+Takayasu Arteritis	D013625
+Acrogeria	C538187
+Acrodermatitis Enteropathica	C538178
+Giant Cell Arteritis	D013700
+Blau Syndrome	C538157
+Prolidase Deficiency	D056732
+Enchondromatosis	D004687
+Familial Multiple Nevi Flammei	D019339
+Aplasia Cutis Congenita	D004476
+Adult Syndrome	C538052
+Perry Syndrome	C566822
+Insulinoma	D007340
+15Q24 Microdeletion Syndrome	C579849
+Williams-Beuren Syndrome	D018980
+Generalized Congenital Lipodystrophy With Myopathy	C567642
+Familial Neurocardiogenic Syncope	C536849
+Multiple Endocrine Neoplasia Type 4	C567059
+Mednik Syndrome	C563739
+Stevens-Johnson Syndrome	D013262
+Familial Gestational Hyperthyroidism	C566384
+X-Linked Lissencephaly With Abnormal Genitalia	C564563
+Polycythemia Vera	D011087
+Carnitine Palmitoyl Transferase 1A Deficiency	C535588
+Nijmegen Breakage Syndrome	D049932
+Thiamine-Responsive Megaloblastic Anemia Syndrome	C536510
+Folate Malabsorption, Hereditary	C562799
+Cerebrotendinous Xanthomatosis	D019294
+Bloom Syndrome	D001816
+Abetalipoproteinemia	D000012
+Multiple Endocrine Neoplasia Type 1	D018761
+Kanzaki Disease	C536631
+Alpha-N-Acetylgalactosaminidase Deficiency Type 1	C536631
+Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease	C563789
+Parathyroid Carcinoma	D010282
+1P36 Deletion Syndrome	C535362
+Carney-Stratakis Syndrome	C564650
+Gastrointestinal Stromal Tumor	D046152
+Neurodegeneration With Brain Iron Accumulation 3	C548080
+Maternally-Inherited Diabetes And Deafness	C536246
+Rett Syndrome	D015518
+Oculocerebrorenal Syndrome Of Lowe	D009800
+Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome	C538258
+Smith-Magenis Syndrome	D058496
+Septo-Optic Dysplasia Spectrum	D025962
+Liddle Syndrome	D056929
+Paroxysmal Extreme Pain Disorder	C563475
+Jacobsen Syndrome	D054868
+Hyperparathyroidism-Jaw Tumor Syndrome	C563273
+Malt Lymphoma	D018442
+Floating-Harbor Syndrome	C537062
+Epidermolysis Bullosa Simplex, Dowling-Meara Type	D016110
+Ehlers-Danlos Syndrome, Hypermobility Type	C536196
+Prune Belly Syndrome	D011535
+Cholangiocarcinoma	D001650
+Follicular Lymphoma	D008224
+Pyogenic Bacterial Infections Due To Myd88 Deficiency	C567379
+Malaria	D016779
+Majeed Syndrome	C537839
+Granulomatosis With Polyangiitis	D014890
+Cinca Syndrome	D056587
+Lymphangioleiomyomatosis	D018192
+Pyogenic Arthritis-Pyoderma Gangrenosum-Acne Syndrome	C536253
+Ectodermal Dysplasia 1, Hypohidrotic, X-Linked	D053358
+Muckle-Wells Syndrome	D056587
+Cyclic Neutropenia	C536227
+Caffey Disease	D006958
+Hartnup Disease	D006250
+Choreoacanthocytosis	D054546
+Diabetes Mellitus, Non-Insulin-Dependent	D003924
+Tooth Abnormalities	D014071
+Methemoglobinemia	D008708
+Dens In Dente	D003719
+Myocardial Ischemia	D017202
+Microstomia	D008865
+Tooth Mobility	D014086
+Coronary Arteriosclerosis	D003324
+Diabetes Mellitus, Insulin-Dependent	D003922
+Discoloration Tooth	D014075
+Mental Disorders	D001523
+Dental Enamel Hypoplasia	D003744
+Heart Failure	D006333
+Leukemia	D007938
+Myocardial Infarction	D009203
+Gingivitis	D005891
+Sinusitis	D012852
+Congestive Heart Failure	D006333
+Glaucomas	D005901
+Pancreatitis	D010195
+Asthma	D001249
+Anemia	D000740
+Hypertensive Disease	D006973
+Coronary Artery Disease	D003324
+Mental Depression	D003863
+Migraine Disorders	D008881
+Squamous Cell Carcinoma	D002294
+Periodontitis, Aggressive, 1	D010520
+Alcoholic Intoxication, Chronic	D000437
+Stroke	D020521
+Prostatic Neoplasms	D011471
+Prostatic Intraepithelial Neoplasias	D019048
+Prostate Cancer, Hereditary, 1	C537243
+Prostate Cancer	D011471
+Pharyngeal Neoplasms	D010610
+Pancreatic Neoplasm	D010190
+Pancreatic Cancer	C562463
+Osteoporosis, Postmenopausal	D015663
+Noninfiltrating Intraductal Carcinoma	D002285
+Nervous System Disorder	D009422
+Neoplastic Cell Transformation	D002471
+Neoplasm Recurrence, Local	D009364
+Mood Disorders	D019964
+Mitral Valve Prolapse Syndrome	D008945
+Marijuana Abuse	D002189
+Mammary Neoplasms	D002549
+Malignant Neoplasm Of Pancreas	D010190
+Malignant Neoplasm Of Breast	D001943
+Major Depressive Disorder	D003865
+Liver Neoplasms	D008113
+Liver Cirrhosis, Experimental	D008106
+Liver Carcinoma	D006528
+Kidney Diseases	D007674
+Intellectual Disability	D008607
+Inflammatory Bowel Diseases	D015212
+Inflammation	D007249
+Hypertension, Essential	C562386
+Hyperglycemia	D006943
+Glioblastoma Multiforme	D005909
+Glioblastoma	D005909
+Gastroesophageal Reflux Disease	D005764
+Gastric Ulcer	D013276
+Fibrosis	D005355
+Familial Alzheimer Disease (Fad)	D000544
+Esophageal Neoplasms	D004938
+Endometrial Neoplasms	D016889
+Endometrial Cancer	D016889
+Digestive System Neoplasms	D004067
+Diabetes Mellitus, Experimental	D003921
+Diabetes Mellitus	D003920
+Depressive Disorder	D003866
+Crohn Disease	D003424
+Congenital Heart Defects	D006330
+Colorectal Neoplasms	D015179
+Colonic Neoplasms	D003110
+Colitis	D003092
+Cognition Disorders	D003072
+Cns Disorder	D002493
+Chronic Obstructive Airway Disease	D029424
+Cerebrovascular Accident	D020521
+Cardiomyopathy, Dilated, 1A	D002311
+Cardiomyopathies	D009202
+Cardiac Arrhythmia	D001145
+Carcinoma, Endometrioid	D018269
+Bronchial Hyperreactivity	D016535
+Brain Ischemia	D002545
+Autoinflammation, Lipodystrophy, And Dermatosis Syndrome	C538334
+Autistic Disorder	D001321
+Atherosclerosis	D050197
+Asthma, Exercise-Induced	D001250
+Angioedema	D000799
+Adenoma	D000236
+Acute Kidney Injury	D058186

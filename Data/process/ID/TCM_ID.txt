@@ -1,0 +1,519 @@
+Bao Fa Huo Yan	暴发火眼
+Bao Zhu Xia Xie	暴注下泻
+Bi Sai	鼻塞
+Bian Huang Er Nian	便黄而黏
+Bian Mi	便秘
+Bu Mei	不寐
+Bu Xi Re Yin	不喜热饮
+Cao Za	嘈杂
+Cao Za Ou Tu	嘈杂呕吐
+Chi Bai Xia Li	赤白下痢
+Chuang Jie Zhong Tong	疮疖肿痛
+Chuang Zhong	疮肿
+Da Bian Mi Jie	大便秘结
+Da Bian Nong Xie	大便脓血
+Du Xie Wei Jin	毒邪未尽
+Duo Shi	多食
+Er Dao Liu Nong	耳道流脓
+Er Lou	耳漏
+Er Ming	耳鸣
+Er Nei Liu Nong	耳内流脓
+Fa Re	发热
+Fan Tu Qing Shui	泛吐清水
+Feng Re Gan Mao	风热感冒
+Gan Mao	感冒
+Gang Men Zhuo Re	肛门灼热
+Gao Re	高热
+Gao Re Bu Tui	高热不退
+Gao Re Shen Hun	高热神昏
+Gao Re	髙热
+Gao Re Bu Tui	髙热不退
+Hou Zhong	喉肿
+Huang Dan	黄疸
+Ji Zao Yi Nu	急躁易怒
+Liang Kong	惊恐
+Ke Sou	咳嗽
+Kou Chuang	口疮
+Kou She Sheng Chuang	口舌生疮
+Lan Yan	懒言
+Li Ji Hou Zhong	里急后重
+Li Ji	痢疾
+Liu Lei	流泪
+Liu Nong	流脓
+Liu Zhuo Ti	流浊涕
+Mai Xian Xi	脉弦细
+Mian Cha	眠差
+Mu Chi	目赤
+Mu Chi Zhong Tong	目赤肿痛
+Mu Fa Huang	目发黄
+Mu Xuan	目眩
+Na Dai	纳呆
+Niao Chi	尿赤
+Niao Huang	尿黄
+Niao Huang Ru Cha	尿黄如茶
+Nu Rou Pan Jing	胬肉攀睛
+Nv Xie	衄血
+Ou Tu	呕吐
+Ou Tu Qing Shui	呕吐清水
+Ou Tu Ru Shi	呕吐乳食
+Ou Tu Tun Suan	呕吐吞酸
+Pi Fu Huang Ran	皮肤黄染
+Pi Fu Shi Lan	皮肤湿烂
+Pi Man	痞满
+Qu Chi Teng Tong	龋齿疼痛
+Shan Ji	善饥
+Shao Jin	少津
+Shao Mei	少寐
+She Hong Tai Huang Ni	舌红苔黄腻
+She Sheng Chuang	舌生疮
+She Ti Pang Da	舌体胖大
+She Ti Zhong	舌体肿
+She Zhi Dan An	舌质淡暗
+She Zhi Hong Shao Jin	舌质红少津
+Shen Huang	身黄
+Shen Mu Fa Huang	身目发黄
+Shen Hun	神昏
+Shen Zhi Bu Qing	神志不清
+Shen Zhi Hun Meng	神志昏蒙
+Shen Zhi Hun Mi	神志昏迷
+Shen Zhi Hun Luan	神志混乱
+Shi Chuang	湿疮
+Shi Re Xia Zhu	湿热下注
+Shi Zhen	湿疹
+Shi Wu Hun An	视物昏暗
+Shui Jiang Nan Xia	水浆难下
+Shui Wo Bu An	睡卧不安
+Tong Kong San Da	瞳孔散大
+Tou Bu Jie Zhong	头部疖肿
+Tou Tong	头痛
+Tou Yun	头晕
+Tou Yun Mu Xuan	头晕目眩
+Tu Nv	吐衄
+Tu Xie	吐泻
+Tu Xie	吐血
+Tun Suan	吞酸
+Wei Re	畏热
+Wei Guan Cao Za	胃脘嘈杂
+Wei Guan Cao Za Bu Shi	胃脘嘈杂不适
+Xiao Ke	消渴
+Xiao Bian Duan Chi	小便短赤
+Xie Li	泻痢
+Xin Fan	心烦
+Xin Fan Bu Mei	心烦不寐
+Xin Fan Bu Ning	心烦不宁
+Xin Huang	心慌
+Xin Ji	心悸
+Xin Ji Bu An	心悸不安
+Xin Ji Bu Ning	心悸不宁
+Xing Ti Fei Pang	形体肥胖
+Xiong Bu Men Tong	胸部闷痛
+Xiong Zhong Men Re	胸中闷热
+Xiong Zhong Men Tong	胸中闷痛
+Xiu Ming	羞明
+Xiu Ming Liu Lei	羞明流泪
+Xie Re Tu Niu	血热吐紐
+Xie Re Tu Nv	血热吐衄
+Ya Tong	牙痛
+Ya Ken Zhong	牙龈肿
+Ya Ken Zhong Tong	牙龈肿痛
+Yan Hong Zhong Tong	咽红肿痛
+Yan Hou Zhong	咽喉肿
+Yan Hou Zhong Tong	咽喉肿痛
+Yan Tong	咽痛
+Yan Bian Ci Yang	眼边刺痒
+Yao Fu Teng Tong	腰腹疼痛
+Ye Mei Bu An	夜寐不安
+Ye Mian Bu An	夜眠不安
+Ye Mian Bu Ning	夜眠不宁
+Yi Ji	易饥
+Yong Zhong	痈肿
+Zhong Tong	肿痛
+Zhuo Re	灼热
+Zhuo Ti	浊涕
+Ding Chuang	疔疮
+Da Bian Gan Jie	大便干结
+Da Bian Gan Jie Nan Xia	大便干结难下
+Da Bian Zao Jie	大便燥结
+Kou Gan	口干
+Kou Ke Xi Yin	口渴喜饮
+Kou She Gan Zao	口舌干燥
+Kou Sheng Chuang	口生疮
+Mian Hong	面红
+She Hong	舌红
+She Jian Hong	舌尖红
+She Mi Lan	舌糜烂
+She Pian Hong	舌偏红
+Xiao Bian Chi Se	小便赤涩
+Xin Qi Tong	心气痛
+Xin Tong	心痛
+Xie Re	血热
+Ye Liang	夜惊
+Ye Ti	夜啼
+Zhi Ti Xiong Tong	肢体胸痛
+Bu Mian	不眠
+Fu Ren Zang Zao	妇人脏躁
+Xie Re Fa Ban	血热发斑
+Xie Re Fa Zhen	血热发疹
+Xie Re Tu Xie	血热吐血
+Dai Xia Se Huang	带下色黄
+Dai Xia Se Huang Zhi Chou	带下色黄质稠
+E Xin	恶心
+Er Long	耳聋
+Er Xia Zhong Tong	耳下肿痛
+Fa Shao	发烧
+Fu Zhang	腹胀
+Fu Zhang Man	腹胀满
+Gan Qu Zhang Tong	肝区胀痛
+Guan Jie Hong Zhong Re Tong	关节红肿热痛
+Ji Rou Hong Zhong Re Tong	肌肉红肿热痛
+Jie Zhong	疖肿
+Jing Shui Lin Li Bu Jing	经水淋漓不净
+Kou Ku	口苦
+Kou She Zhong Tong	口舌肿痛
+Liang Xie Zhang Tong	两胁胀痛
+Lin Li Teng Tong	淋沥疼痛
+Lin Zheng Se Tong	淋证涩痛
+Lin Zhuo	淋浊
+Liu Huang Chou Ti	流黄稠涕
+Liu Nong Ti	流脓涕
+Mao Fa You Ni	毛发油腻
+Mian Mu Xi Huang	面目悉黄
+Mu Huang	目黄
+Na Cha	纳差
+Nian Ye Bian	黏液便
+Niao Dao Zhuo Re	尿道灼热
+Niao Hun Zhuo	尿混浊
+Niao Ji	尿急
+Niao Re	尿热
+Niao Se Chi Huang	尿色赤黄
+Niao Se Pian Huang	尿色偏黄
+Niao Tong	尿痛
+Nong Fu Jiang Jing	脓腐将荆
+Nong Pao	脓疱
+Nong Shui	脓水
+Nong Tan	脓痰
+Pi Fu Kui Yang	皮肤潰疡
+Pi Fu Mi Lan	皮肤糜烂
+Pi Fu Nian Mo Po Kui	皮肤黏膜破溃
+Pi Fu Shi Zhen	皮肤湿疹
+Pi Sun Cheng Hong Ban Shi Run	皮损呈红斑湿润
+Pi Men	痞闷
+Qian Biao Nong Pao	浅表脓疱
+Re Bi Teng Tong	热痹疼痛
+Re Du Xie Li	热毒泻痢
+Re Du Xie Li	热毒血痢
+Re Li	热痢
+Re Lin Se Tong	热淋涩痛
+Re Lin Zheng	热淋证
+She Pang	舌胖
+She You Chi Hen	舌有齿痕
+Shen Kun Zhong	身困重
+Shen Re	身热
+Shi Bi Ju Luan	湿痹拘挛
+Shi Chuang Nong Shui Jin Yin	湿疮脓水浸淫
+Shi Re Du Xie Ju Jie Ji Fu	湿热毒邪聚结肌肤
+Shi Lin	石淋
+Shi Lin Se Tong	石淋涩痛
+Shu Xie Fa Re	暑邪发热
+Sou Tong	嗖痛
+Sou Huang	溲黄
+Ting Shuai	听衰
+Tou Shen Kun Zhong	头身困重
+Tou Tong Ru Guo	头痛如裹
+Tou Zhong	头重
+Tu Nong	吐脓
+Wai Yin Hong Zhong	外阴红肿
+Guan Fu Pi Man	脘腹痞满
+Guan Fu Pi Men	脘腹痞闷
+Guan Pi	脘痞
+Xi Suan Tong	膝酸痛
+Xia Fu Zhang Tong	下腹胀痛
+Xia Li Chou Hui	下痢臭秽
+Xia Li Nong Xie	下痢脓血
+Xia Xie	下血
+Xia Zhi Chen Zhong	下肢沉重
+Xiao Bian Bai Zhuo	小便白浊
+Xiao Bian Di Li Bu Jing	小便滴沥不净
+Xiao Bian Huang	小便黄
+Xiao Bian Huang Shao	小便黄少
+Xiao Bian Hun Zhuo	小便浑浊
+Xiao Bian Lin Zhuo	小便淋浊
+Xiao Bian Se Tong	小便涩痛
+Xiao Bian Tong	小便痛
+Xiao Er Ji Liang	小儿急惊
+Xiao Fu Man	小腹满
+Xiao Fu Zhang	小腹胀
+Xiao Fu Zhang Tong	小腹胀痛
+Xie Lei Bu Teng Tong	胁肋部疼痛
+Xie Lei Teng Tong	胁肋疼痛
+Xie Xia Pi Kuai	胁下痞块
+Xie Xie	泄泻
+Xie Xie Ji Po	泄泻急迫
+Xiong Fu Zhang Man	胸腹胀满
+Xiong Fu Zhang Men	胸腹胀闷
+Xiong Fu Zhang Tong	胸腹胀痛
+Xiong Ge Pi Man	胸膈痞满
+Xiong Ge Pi Men	胸膈痞闷
+Xiong Ge Pi Sai	胸膈痞塞
+Xiong Man Yu Men	胸满郁闷
+Xiong Pi	胸痞
+Xiong Guan Man Men	胸脘满闷
+Xiong Guan Pi Men	胸脘痞闷
+Xiong Guan Zhang Man	胸脘胀满
+Xiong Guan Zhang Men	胸脘胀闷
+Xiong Xie Men Tong	胸胁闷痛
+Xiong Xie Pi Men	胸胁痞闷
+Xiong Xie Zhang Tong	胸胁胀痛
+Xiong Zhang Man	胸胀满
+Xiong Zhong Bie Men	胸中憋闷
+Xiong Zhong Man Men	胸中满闷
+Xie Lin	血淋
+Xie Niao	血尿
+Yin Nang Shi Yang	阴囊湿痒
+Yin Yang	阴痒
+Yue Jing Liang Duo ， Wei Chou	月经量多，味臭
+Zhang Tong	胀痛
+Zheng Jia Pi Kuai	癥瘕痞块
+Zhi Ti Chen Zhong	肢体沉重
+Zhi Ti Kun Zhong	肢体困重
+Zhi Ti Suan Zhong	肢体酸重
+Zhuo Tong	灼痛
+Zu Jing Hong Zhong Re Tong	足胫红肿热痛
+Zu Xi Hong Zhong Re Tong	足膝红肿热痛
+Er Bian Bu Li	二便不利
+Lao Re	劳热
+Ou Tu E Ni	呕吐呃逆
+Wai Shang Zhong Tong	外伤肿痛
+Xiao Bian Lin Li	小便淋漓
+Xiao Er Ji Liang Feng	小儿急惊风
+Xiao Er Liang Ti	小儿惊啼
+Xiao Er Liang Xian	小儿惊痫
+Xiao Er Liang Feng	小儿惊风
+Xiao Er Man Liang	小儿慢惊
+Niao Re Se Tong	尿热涩痛
+Niao Bi	尿闭
+Dai Xia Se Chi	带下色赤
+Dai Xia Yin Yang	带下阴痒
+Lin Li Se Tong	淋沥涩痛
+Shi Re Lin Zheng	湿热淋证
+Shi Re Chuang Man	湿热疮满
+Shi Bi	湿痹
+Shi Bi Bing	湿痹病
+Re Lin	热淋
+Re Bi	热痹
+Pi Fu Kui Yang	皮肤溃疡
+Pi Fu Wan Xian	皮肤顽癣
+Lei Feng Shi Xing Guan Jie Yan	类风湿性关节炎
+Pin Er Liu Nong	聘耳流脓
+Ting Er	聤耳
+Zhi Ti Zhong	肢体重
+Nong Shui Lin Li	脓水淋漓
+Guan Fu Pi Man Zhang Tong	脘腹痞满胀痛
+Jiao Qi Zhong Du	脚气肿毒
+Xi Suan Ruan	膝酸软
+Xie Lin Se Tong	血淋涩痛
+Xie Li	血痢
+Chi Bai Dai Xia	赤白带下
+Huang Shui Lin Li	黄水淋漓
+Huang Shui Chuang	黄水疮
+Huang Ju	黄疽
+Mian Huang	面黄
+Qi Fu Zhang Tong	脐腹胀痛
+Ting Shi	停食
+Guan Fu Zhang Men	脘腹胀闷
+Guan Xie Zhang Tong	脘胁胀痛
+Xiao Bian Huang Chi	小便黄赤
+Chang Ming	肠鸣
+Gang Men Teng Tong	肛门疼痛
+Kou Ke	口渴
+Wan Gu Bu Hua	完谷不化
+Hou Zhong	后重
+Xie Li Hou Zhong	泻痢后重
+Bian Gan	便干
+Bian Jie	便结
+Cao Za Si Ji	嘈杂似饥
+Da Bian Chu Xie	大便出血
+Da Bian Gan	大便干
+Da Bian Gan Zao	大便干燥
+Duo Yin	多饮
+E Ni	呃逆
+Kou Bi Sheng Chuang	口鼻生疮
+Kou Chou	口臭
+Ru Fang Jie Jie	乳房结节
+Ru Fang Teng Tong	乳房疼痛
+Ru Fang You Kuai	乳房有块
+Ru Fang Zhang Tong	乳房胀痛
+Ru Fang Zhong Kuai	乳房肿块
+Ru Fang Zhong Tong	乳房肿痛
+Ru Pi	乳癖
+Ru Xian Zeng Sheng	乳腺增生
+Ru Yong	乳痈
+Ru Yong Chu Qi	乳痈初起
+Ru Zhang Tong	乳胀痛
+Wei Chang Ji Re	胃肠积热
+Wei Re	胃热
+Wei Suan Guo Duo	胃酸过多
+Wei Guan Bu Shu	胃脘不舒
+Wei Guan Shao Zhuo Gan	胃脘烧灼感
+Ya Teng	牙疼
+Ya Ken Chu Xie	牙龈出血
+Ya Ken Hong Zhong	牙龈红肿
+Yan Hou Zhuo Re	咽喉灼热
+Ru Yong Zhong Tong	乳痈肿痛
+Ru E	乳蛾
+Ru Bi	乳闭
+Ya Ken Zhong Tong Chu Xie	牙龈肿痛出血
+Wei Huo Ya Tong	胃火牙痛
+Chao Re	潮热
+Dao Han	盗汗
+Kou Zao	口燥
+Wu Xin Fan Re	五心烦热
+Xiao Shou	消瘦
+Xiao Er Gan Ji Fa Re	小儿疳积发热
+Xing Ti Xiao Shou	形体消瘦
+Xiao Er Gan Ji	小儿疳积
+Bao Jue	暴厥
+Bian Bi	便闭
+Bian Xia Nong Xie	便下脓血
+Bian Xie	便血
+Chang Feng Bian Xie	肠风便血
+Chang Feng Xia Xie	肠风下血
+Chi Bi Nv Xie	齿鼻衄血
+Chi Tong	齿痛
+Chi Ken Zhong Tong	齿龈肿痛
+Chi Lv Hong Ban	赤缕红斑
+Chong Yao Zhong Tong	虫咬肿痛
+Dong Zhe Han Chu	动辄汗出
+E Chuang	恶疮
+Fei Zhen Xian Hong	痱疹鲜红
+Fen Ci	粉刺
+Fen La Ge Da	粉剌疙瘩
+Feng Yan Lan Xian	风眼烂弦
+Fu Rou Bu Qu	腐肉不去
+Ge Xie	咯血
+Hong Re	烘热
+Ji Fu Hong	肌肤红
+Jian Xian Chi Lan	睑弦赤烂
+Ke Xie	咳血
+Lian Chuang Mi Lan	臁疮糜烂
+Liang Sai Tong	两腮痛
+Liang Sai Zhong	两腮肿
+Liang Sai Zhong Tong	两腮肿痛
+Mian Chi	面赤
+Niao Xie	尿血
+Niao Xie Xie Se Xian Hong	尿血血色鲜红
+Niao Xie Xie Se Zi Hong	尿血血色紫红
+Re Bing Fa Shao	热病发烧
+Ren Shen Lou Xie	妊娠漏血
+Ren Shen Tai Lou	妊娠胎漏
+Sai Xian Yan Zhong Tong	腮腺炎肿痛
+Sai Zhong	腮肿
+She An	舌暗
+She An Hong	舌暗红
+She Chi	舌赤
+She Jiang	舌绛
+Tai Dong Bu An	胎动不安
+Tai Lou	胎漏
+Tian Xing Chi Yan	天行赤眼
+Tou Yong	头痈
+Yong Ju	痈疽
+Yong Ju Bu Kui	痈疽不溃
+Yong Ju Ding Du	痈疽疔毒
+Yong Ju Nan Kui	痈疽难溃
+Yong Ju Zhong Du	痈疽肿毒
+Yong Ju Zhong Tong	痈疽肿痛
+Yong Zhong Chuang Yang	痈肿疮疡
+Yong Zhong Kui Lan	痈肿溃烂
+Yue Jing Guo Duo	月经过多
+Yue Jing Liang Duo	月经量多
+Yue Jing Ti Qian	月经提前
+Zhi Chuang Chu Xie	痔疮出血
+Zhi Chuang Tong	痔疮痛
+Zhi Chuang Zhong	痔疮肿
+Zhi Chuang Zhong Tong	痔疮肿痛
+Zhi Xie	痔血
+Zhi Zhong	痔肿
+Zhong Du	肿毒
+Er Bian Bu Tong	二便不通
+Tian Pao Chuang	天疱疮
+Shi Re Ji Zhi Bian Mi	实热积滞便秘
+Ting Zhong	庁肿
+E Lu Bu Jin	恶露不尽
+E Lu Bu Xing	恶露不行
+Huo Du Chuang Yang	火毒疮疡
+Xin Zhong	焮肿
+Liao Du	疗毒
+Liao Chuang	疗疮
+Yong Chuang Zhong Du	痈疮肿毒
+Yong Ju Chu Qi	痈疽初起
+Yong Ju Nong Cheng Bu Kui	痈疽脓成不溃
+Yong Zhong Ding Chuang	痈肿疔疮
+Yong Zhong Chuang Du	痈肿疮毒
+Zhi Lv	痔瘘
+Zhi Zhong Chu Xie	痔肿出血
+Fei Zi	痱子
+Hong Zhen	红疹
+Chang Yong	肠痈
+Chang Yong Zhong Tong	肠痈肿痛
+Chang Feng	肠风
+Lian Chuang	臁疮
+Shi Chuang	蚀疮
+Bi Liu Zhuo Ti	鼻流浊涕
+Bi Yang	鼻痒
+Feng Re	风热
+Feng Zhen Fa Hong	风疹发红
+Feng Zhen Sao Yang	风疹瘙痒
+Ge Tan Se Huang	咯痰色黄
+Hou Yang	喉痒
+Jie Xian Sao Yang	疥癣瘙痒
+Liu Huang Ti	流黄涕
+Liu Huang Zhuo Ti	流黄浊涕
+Mu An Bu Ming	目暗不明
+Mu An Hun Hua	目暗昏花
+Mu Chi Hun Hua	目赤昏花
+Mu Hua	目花
+Mu Hun	目昏
+Mu Hun Bu Ming	目昏不明
+Mu Se	目涩
+Mu Sheng Yi Mo	目生翳膜
+Mu Sheng Yun Yi	目生云翳
+Mu Yang	目痒
+Pi Fu Feng Tuan Se Hong	皮肤风团色红
+Pi Fu Sao Yang	皮肤瘙痒
+Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie	皮疹表面覆有较厚的银白色鳞屑
+Sao Yang	瘙痒
+Sao Yang Ming Xian	瘙痒明显
+Sao Yang Nan Ren	瘙痒难忍
+Tan Chou	痰稠
+Tan Chou Huang	痰稠黄
+Tan Chou Nan Chu	痰稠难出
+Tou Pi Sao Yang	头皮瘙痒
+Tuo Fa	脱发
+Tuo Xie	脱屑
+Wei E Feng Han	微恶风寒
+Ya Ken Tong	牙龈痛
+Yan Bu Bu Shi	咽部不适
+Yan Bu Zhong Tong	咽部肿痛
+Yan Gan Hou Tong	咽干喉痛
+Yan Hong	咽红
+Yan Hou Bu Li	咽喉不利
+Yan Hou Gan	咽喉干
+Yan Hou Gan Zao	咽喉干燥
+Yan Hou Yang	咽喉痒
+Yan Nian Mo Chong Xie	咽黏膜充血
+Yan Jing Tong Yang	眼睛痛痒
+Yan Jing Zhong Tong	眼睛肿痛
+Yan Sheng Yi Mo	眼生翳膜
+Yan Tong	眼痛
+Yang	痒
+Zhuo Ti Chou Qi	浊涕臭气
+Yan Hou Gan Tong	咽喉干痛
+Ya Ken Teng Tong	牙龈疼痛
+Tan Re Ke Sou	痰热咳嗽
+Mu An	目暗
+Mu Se Tong	目涩痛
+Mu Tong	目痛
+Tu Chuang	秃疮
+Feng Shi Re Bi	风湿热痹
+Feng Re Yu Fei Yan Tong	风热郁肺咽痛
+Feng Zhen	风疹

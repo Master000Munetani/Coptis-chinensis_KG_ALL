@@ -1,0 +1,105 @@
+Hyperpyrexia	SMMS00312
+Hematemesis	D006396
+Obnubilation	SMMS00786
+Jaundice	D007565
+Emesis	D014839
+Skin Ulcer(S)	D012883
+Insomnia	D007319
+Palpitation(S)	SMMS00282
+Lightheadedness	D004244
+Dysentery	D004403
+"Pantothenate, Zinc"	D010205
+Dexol	D010205
+Calcium Pantothenate	D010205
+Diarrhea	D003967
+Pantothenic Acid	D010205
+Tongue Swelling	SMMS00062
+Gingival Swelling	SMMS00330
+Sarcoptic Red Mange	D012532
+Chills And Fever	SMMS00867
+Scabies	D012532
+Restlessness Aggravated	SMMS00436
+Colonic Inertia	D003248
+Coryza	D003139
+Defecation Pain	D003248
+Stomach Discomfort	SMMS00724
+Fever	D005334
+Discoloration Urine	SMMS00455
+Catarrh	D003139
+Common Cold	D003139
+Toothache	D014098
+Chest Symptom Discomfort	SMMS00578
+Carbuncle	D002270
+Chest Symptom Heaviness	SMMS00863
+Abdomen Distention	SMMS00007
+Rhinorrhea	SMMS00267
+Micturition Disorder	D014555
+Hemorrhoids	D006484
+Skin Pruritus	D011537
+Dysuria	D053159
+Convulsions	D012640
+Sputum Purulent	SMMS00934
+Throat Tightness	SMMS00730
+Urine Abnormality	SMMS00807
+German Measles	D012409
+Hemorrhage	D006470
+Impetigo	D007169
+Menometrorrhagia	SMMS00886
+Gonorrhea	D006069
+Pseudoaphakia	D002386
+Eye Pain	D058447
+Hemorrhage Of Pregnancy	SMMS00793
+Urinary Tract Pain	SMMS00711
+Breast Swelling	SMMS00795
+Urine Rbc	SMMS00884
+Sore Throat	D010612
+Throat Dry	SMMS00753
+Cataract	D002386
+Tongue Disorder	D014060
+Lens Opacity	D002386
+Breast Tenderness	SMMS00691
+Abnormal Stools	SMMS00936
+Hematuria	D006417
+Breast Pain	D059373
+Dilation	D004108
+Constipation	D003248
+Breast Engorgement	SMMS00847
+Ear Drainage	SMMS00698
+Impetigo Contagiosa	D007169
+Micturition Burning	SMMS00542
+Sore Eye	SMMS00654
+Heavy Feeling	SMMS00052
+Rash	D005076
+Tenesmus	SMMS00889
+Menorrhagia	D008595
+Urinary Tract Stone	D014545
+Blood Urine Present	SMMS00575
+Heaviness Of Head	SMMS00094
+Pus Drainage	SMMS01104
+Bulimia Nervosa	SMMS01104
+Vaginal Discharge	SMMS00376
+Eye Disorder	D005128
+Gastrointestinal Discomfort	SMMS00246
+Behavior Drinking	SMMS00246
+Vision Dim	D015354
+Gingival Pain	SMMS00896
+Breast Mass	SMMS00347
+Miliaria	D008883
+Parotid Enlargement	SMMS00142
+Hemorrhoid Bleeding	SMMS00725
+Alopecia	D000505
+Parotitis	D010309
+Bloody Stool	SMMS00408
+Appendicitis	D001064
+Pharyngolaryngeal Pain	SMMS00841
+Gastric Disorder	SMMS00071
+Ocular Discomfort	SMMS00503
+Cyst	D003560
+Emaciation	D004614
+Urine Clouding	C0278034?
+Comedome	SMMS00188
+Xerostomia	D014987
+Epigastric Pain	SMMS00153
+Tongue Ulcer	SMMS00045
+Abdomen Bloating	SMMS00153
+Sleep Disturbances	SMMS00405
