@@ -1,0 +1,938 @@
+药物	关系	疾病
+DB00003	治疗	Cystic Fibrosis
+DB00005	治疗	Stevens-Johnson Syndrome
+DB00007	治疗	Malignant Neoplasm Of Breast
+DB00012	治疗	Anemia
+DB00014	治疗	Malignant Neoplasm Of Breast
+DB00015	治疗	Congestive Heart Failure
+DB00016	治疗	Anemia
+DB00026	治疗	Muckle-Wells Syndrome
+DB00028	治疗	Wiskott-Aldrich Syndrome
+DB00030	治疗	Diabetes Mellitus
+DB00030	治疗	Diabetes Mellitus, Insulin-Dependent
+DB00046	治疗	Diabetes Mellitus
+DB00046	治疗	Diabetes Mellitus, Insulin-Dependent
+DB00046	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00047	治疗	Diabetes Mellitus
+DB00047	治疗	Diabetes Mellitus, Insulin-Dependent
+DB00047	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00051	治疗	Crohn Disease
+DB00065	治疗	Crohn Disease
+DB00070	治疗	Follicular Lymphoma
+DB00071	治疗	Diabetes Mellitus, Insulin-Dependent
+DB00072	治疗	Malignant Neoplasm Of Breast
+DB00073	治疗	Granulomatosis With Polyangiitis
+DB00078	治疗	Follicular Lymphoma
+DB00089	治疗	Prostate Cancer
+DB00091	治疗	Familial Dysautonomia
+DB00103	治疗	Fabry Disease
+DB00140	治疗	Migraine Disorders
+DB00175	治疗	Coronary Artery Disease
+DB00175	治疗	Myocardial Infarction
+DB00175	治疗	Cerebrovascular Accident
+DB00176	治疗	Major Depressive Disorder
+DB00177	治疗	Hypertensive Disease
+DB00177	治疗	Congestive Heart Failure
+DB00178	治疗	Congestive Heart Failure
+DB00178	治疗	Hypertensive Disease
+DB00178	治疗	Myocardial Infarction
+DB00178	治疗	Cerebrovascular Accident
+DB00180	治疗	Asthma
+DB00188	治疗	Multiple Myeloma
+DB00195	治疗	Hypertensive Disease
+DB00201	治疗	Migraine Disorders
+DB00206	治疗	Hypertensive Disease
+DB00207	治疗	Sinusitis
+DB00208	治疗	Cerebrovascular Accident
+DB00213	治疗	Gastroesophageal Reflux Disease
+DB00214	治疗	Hypertensive Disease
+DB00215	治疗	Major Depressive Disorder
+DB00216	治疗	Migraine Disorders
+DB00218	治疗	Sinusitis
+DB00222	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00232	治疗	Hypertensive Disease
+DB00233	治疗	Tuberculosis
+DB00235	治疗	Congestive Heart Failure
+DB00244	治疗	Crohn Disease
+DB00262	治疗	Glioblastoma
+DB00264	治疗	Hypertensive Disease
+DB00264	治疗	Migraine Disorders
+DB00264	治疗	Myocardial Infarction
+DB00264	治疗	Congestive Heart Failure
+DB00270	治疗	Hypertensive Disease
+DB00273	治疗	Alcoholic Intoxication, Chronic
+DB00273	治疗	Migraine Disorders
+DB00273	治疗	Mood Disorders
+DB00275	治疗	Hypertensive Disease
+DB00276	治疗	Leukemia
+DB00283	治疗	Angioedema
+DB00284	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00285	治疗	Major Depressive Disorder
+DB00285	治疗	Migraine Disorders
+DB00288	治疗	Inflammation
+DB00291	治疗	Follicular Lymphoma
+DB00297	治疗	Leukemia
+DB00297	治疗	Crohn Disease
+DB00297	治疗	Stevens-Johnson Syndrome
+DB00297	治疗	Giant Cell Arteritis
+DB00305	治疗	Malignant Neoplasm Of Breast
+DB00313	治疗	Mental Depression
+DB00313	治疗	Migraine Disorders
+DB00314	治疗	Tuberculosis
+DB00315	治疗	Migraine Disorders
+DB00319	治疗	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+DB00320	治疗	Migraine Disorders
+DB00321	治疗	Mental Depression
+DB00321	治疗	Major Depressive Disorder
+DB00321	治疗	Migraine Disorders
+DB00325	治疗	Congestive Heart Failure
+DB00331	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00332	治疗	Asthma
+DB00332	治疗	Chronic Obstructive Airway Disease
+DB00334	治疗	Mental Depression
+DB00335	治疗	Congestive Heart Failure
+DB00335	治疗	Hypertensive Disease
+DB00335	治疗	Migraine Disorders
+DB00335	治疗	Myocardial Infarction
+DB00335	治疗	Thyrotoxicosis
+DB00338	治疗	Gastric Ulcer
+DB00338	治疗	Gastroesophageal Reflux Disease
+DB00339	治疗	Tuberculosis
+DB00343	治疗	Hypertensive Disease
+DB00343	治疗	Cardiomyopathy, Dilated, 1A
+DB00351	治疗	Malignant Neoplasm Of Breast
+DB00361	治疗	Esophageal Neoplasms
+DB00364	治疗	Gastric Ulcer
+DB00364	治疗	Gastroesophageal Reflux Disease
+DB00367	治疗	Endometrial Cancer
+DB00367	治疗	Osteoporosis, Postmenopausal
+DB00370	治疗	Depressive Disorder
+DB00370	治疗	Major Depressive Disorder
+DB00370	治疗	Nervous System Disorder
+DB00373	治疗	Migraine Disorders
+DB00380	治疗	Cardiomyopathies
+DB00381	治疗	Coronary Artery Disease
+DB00381	治疗	Hypertensive Disease
+DB00384	治疗	Hypertensive Disease
+DB00394	治疗	Asthma
+DB00394	治疗	Sinusitis
+DB00394	治疗	Chronic Obstructive Airway Disease
+DB00398	治疗	Gastrointestinal Stromal Tumor
+DB00401	治疗	Hypertensive Disease
+DB00412	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00421	治疗	Congestive Heart Failure
+DB00421	治疗	Hypertensive Disease
+DB00424	治疗	Pancreatitis
+DB00434	治疗	Muckle-Wells Syndrome
+DB00434	治疗	Migraine Disorders
+DB00436	治疗	Hypertensive Disease
+DB00443	治疗	Leukemia
+DB00443	治疗	Crohn Disease
+DB00443	治疗	Stevens-Johnson Syndrome
+DB00443	治疗	Giant Cell Arteritis
+DB00448	治疗	Gastroesophageal Reflux Disease
+DB00457	治疗	Hypertensive Disease
+DB00458	治疗	Major Depressive Disorder
+DB00465	治疗	Migraine Disorders
+DB00465	治疗	Inflammation
+DB00471	治疗	Asthma
+DB00471	治疗	Asthma, Exercise-Induced
+DB00472	治疗	Alcoholic Intoxication, Chronic
+DB00472	治疗	Major Depressive Disorder
+DB00476	治疗	Major Depressive Disorder
+DB00477	治疗	Acute Intermittent Porphyria
+DB00479	治疗	Tuberculosis
+DB00479	治疗	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+DB00480	治疗	Multiple Myeloma
+DB00491	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00492	治疗	Congestive Heart Failure
+DB00492	治疗	Hypertensive Disease
+DB00493	治疗	Sinusitis
+DB00501	治疗	Gastroesophageal Reflux Disease
+DB00502	治疗	Huntington Disease
+DB00515	治疗	Malignant Neoplasm Of Breast
+DB00515	治疗	Esophageal Neoplasms
+DB00515	治疗	Multiple Myeloma
+DB00515	治疗	Osteogenic Sarcoma
+DB00519	治疗	Congestive Heart Failure
+DB00519	治疗	Hypertensive Disease
+DB00526	治疗	Esophageal Neoplasms
+DB00531	治疗	Carcinoma, Endometrioid
+DB00531	治疗	Malignant Neoplasm Of Breast
+DB00531	治疗	Chronic Myeloid Leukemia
+DB00531	治疗	Granulomatosis With Polyangiitis
+DB00531	治疗	Multiple Myeloma
+DB00535	治疗	Sinusitis
+DB00540	治疗	Major Depressive Disorder
+DB00541	治疗	Multiple Myeloma
+DB00542	治疗	Congestive Heart Failure
+DB00542	治疗	Hypertensive Disease
+DB00543	治疗	Depressive Disorder
+DB00543	治疗	Mental Depression
+DB00544	治疗	Malignant Neoplasm Of Breast
+DB00544	治疗	Colonic Neoplasms
+DB00544	治疗	Malignant Neoplasm Of Pancreas
+DB00549	治疗	Asthma
+DB00563	治疗	Malignant Neoplasm Of Breast
+DB00563	治疗	Crohn Disease
+DB00563	治疗	Osteogenic Sarcoma
+DB00571	治疗	Coronary Artery Disease
+DB00571	治疗	Hypertensive Disease
+DB00571	治疗	Migraine Disorders
+DB00571	治疗	Thyrotoxicosis
+DB00575	治疗	Hypertensive Disease
+DB00584	治疗	Hypertensive Disease
+DB00585	治疗	Gastric Ulcer
+DB00585	治疗	Gastroesophageal Reflux Disease
+DB00586	治疗	Migraine Disorders
+DB00586	治疗	Inflammation
+DB00588	治疗	Asthma
+DB00588	治疗	Sinusitis
+DB00588	治疗	Chronic Obstructive Airway Disease
+DB00590	治疗	Hypertensive Disease
+DB00594	治疗	Congestive Heart Failure
+DB00594	治疗	Hypertensive Disease
+DB00598	治疗	Hypertensive Disease
+DB00603	治疗	Osteoporosis, Postmenopausal
+DB00609	治疗	Tuberculosis
+DB00612	治疗	Congestive Heart Failure
+DB00612	治疗	Hypertensive Disease
+DB00615	治疗	Tuberculosis
+DB00619	治疗	Chronic Myeloid Leukemia
+DB00620	治疗	Asthma
+DB00620	治疗	Crohn Disease
+DB00620	治疗	Leukemia
+DB00620	治疗	Giant Cell Arteritis
+DB00620	治疗	Tuberculosis
+DB00622	治疗	Hypertensive Disease
+DB00622	治疗	Migraine Disorders
+DB00627	治疗	Atherosclerosis
+DB00627	治疗	Myocardial Infarction
+DB00635	治疗	Chronic Obstructive Airway Disease
+DB00635	治疗	Asthma
+DB00635	治疗	Crohn Disease
+DB00635	治疗	Giant Cell Arteritis
+DB00635	治疗	Leukemia
+DB00635	治疗	Stevens-Johnson Syndrome
+DB00635	治疗	Takayasu Arteritis
+DB00635	治疗	Thyrotoxicosis
+DB00641	治疗	Diabetes Mellitus
+DB00656	治疗	Alcoholic Intoxication, Chronic
+DB00656	治疗	Familial Alzheimer Disease (Fad)
+DB00656	治疗	Major Depressive Disorder
+DB00659	治疗	Alcoholic Intoxication, Chronic
+DB00661	治疗	Hypertensive Disease
+DB00668	治疗	Angioedema
+DB00669	治疗	Migraine Disorders
+DB00671	治疗	Sinusitis
+DB00672	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00674	治疗	Familial Alzheimer Disease (Fad)
+DB00675	治疗	Malignant Neoplasm Of Breast
+DB00675	治疗	Endometrial Cancer
+DB00678	治疗	Congestive Heart Failure
+DB00678	治疗	Hypertensive Disease
+DB00678	治疗	Cerebrovascular Accident
+DB00682	治疗	Myocardial Infarction
+DB00682	治疗	Cerebrovascular Accident
+DB00691	治疗	Hypertensive Disease
+DB00695	治疗	Hypertensive Disease
+DB00696	治疗	Migraine Disorders
+DB00697	治疗	Migraine Disorders
+DB00700	治疗	Hypertensive Disease
+DB00700	治疗	Congestive Heart Failure
+DB00704	治疗	Alcoholic Intoxication, Chronic
+DB00707	治疗	Esophageal Neoplasms
+DB00715	治疗	Major Depressive Disorder
+DB00716	治疗	Asthma
+DB00717	治疗	Osteoporosis, Postmenopausal
+DB00722	治疗	Congestive Heart Failure
+DB00722	治疗	Hypertensive Disease
+DB00722	治疗	Migraine Disorders
+DB00727	治疗	Congestive Heart Failure
+DB00731	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00736	治疗	Gastroesophageal Reflux Disease
+DB00741	治疗	Asthma
+DB00741	治疗	Crohn Disease
+DB00741	治疗	Leukemia
+DB00741	治疗	Stevens-Johnson Syndrome
+DB00742	治疗	Acute Kidney Injury
+DB00744	治疗	Asthma
+DB00745	治疗	Major Depressive Disorder
+DB00748	治疗	Angioedema
+DB00752	治疗	Mental Depression
+DB00762	治疗	Esophageal Neoplasms
+DB00762	治疗	Glioblastoma
+DB00762	治疗	Malignant Neoplasm Of Pancreas
+DB00766	治疗	Sinusitis
+DB00773	治疗	Multiple Myeloma
+DB00773	治疗	Prostate Cancer
+DB00773	治疗	Osteogenic Sarcoma
+DB00774	治疗	Hypertensive Disease
+DB00780	治疗	Mental Depression
+DB00780	治疗	Depressive Disorder
+DB00783	治疗	Malignant Neoplasm Of Breast
+DB00783	治疗	Osteoporosis, Postmenopausal
+DB00783	治疗	Prostate Cancer
+DB00788	治疗	Migraine Disorders
+DB00790	治疗	Hypertensive Disease
+DB00790	治疗	Myocardial Infarction
+DB00790	治疗	Congestive Heart Failure
+DB00790	治疗	Cerebrovascular Accident
+DB00795	治疗	Crohn Disease
+DB00796	治疗	Hypertensive Disease
+DB00796	治疗	Migraine Disorders
+DB00796	治疗	Congestive Heart Failure
+DB00808	治疗	Hypertensive Disease
+DB00816	治疗	Asthma
+DB00822	治疗	Alcoholic Intoxication, Chronic
+DB00834	治疗	Hyperglycemia
+DB00839	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00841	治疗	Congestive Heart Failure
+DB00841	治疗	Coronary Artery Disease
+DB00843	治疗	Familial Alzheimer Disease (Fad)
+DB00853	治疗	Glioblastoma
+DB00855	治疗	Squamous Cell Carcinoma
+DB00859	治疗	Wilson Disease
+DB00860	治疗	Chronic Obstructive Airway Disease
+DB00860	治疗	Crohn Disease
+DB00860	治疗	Asthma
+DB00860	治疗	Leukemia
+DB00860	治疗	Stevens-Johnson Syndrome
+DB00860	治疗	Tuberculosis
+DB00863	治疗	Gastric Ulcer
+DB00863	治疗	Gastroesophageal Reflux Disease
+DB00873	治疗	Inflammation
+DB00876	治疗	Congestive Heart Failure
+DB00876	治疗	Hypertensive Disease
+DB00877	治疗	Lymphangioleiomyomatosis
+DB00878	治疗	Gingivitis
+DB00880	治疗	Hypertensive Disease
+DB00881	治疗	Congestive Heart Failure
+DB00881	治疗	Hypertensive Disease
+DB00883	治疗	Coronary Artery Disease
+DB00883	治疗	Congestive Heart Failure
+DB00883	治疗	Hypertensive Disease
+DB00888	治疗	Polycythemia Vera
+DB00903	治疗	Congenital Heart Defects
+DB00912	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00916	治疗	Sinusitis
+DB00918	治疗	Migraine Disorders
+DB00929	治疗	Gastric Ulcer
+DB00930	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB00934	治疗	Depressive Disorder
+DB00934	治疗	Major Depressive Disorder
+DB00938	治疗	Asthma
+DB00938	治疗	Chronic Obstructive Airway Disease
+DB00938	治疗	Asthma, Exercise-Induced
+DB00945	治疗	Colorectal Neoplasms
+DB00945	治疗	Inflammation
+DB00945	治疗	Migraine Disorders
+DB00945	治疗	Myocardial Infarction
+DB00945	治疗	Polycythemia Vera
+DB00945	治疗	Cerebrovascular Accident
+DB00951	治疗	Tuberculosis
+DB00957	治疗	Osteoporosis, Postmenopausal
+DB00959	治疗	Asthma
+DB00959	治疗	Inflammation
+DB00959	治疗	Leukemia
+DB00959	治疗	Crohn Disease
+DB00959	治疗	Stevens-Johnson Syndrome
+DB00959	治疗	Giant Cell Arteritis
+DB00959	治疗	Tuberculosis
+DB00960	治疗	Hypertensive Disease
+DB00965	治疗	Liver Carcinoma
+DB00966	治疗	Congestive Heart Failure
+DB00966	治疗	Hypertensive Disease
+DB00968	治疗	Hypertensive Disease
+DB00970	治疗	Osteogenic Sarcoma
+DB00975	治疗	Coronary Artery Disease
+DB00975	治疗	Cerebrovascular Accident
+DB00977	治疗	Osteoporosis, Postmenopausal
+DB00983	治疗	Asthma
+DB00983	治疗	Chronic Obstructive Airway Disease
+DB00983	治疗	Asthma, Exercise-Induced
+DB00986	治疗	Cardiac Arrhythmia
+DB00986	治疗	Chronic Obstructive Airway Disease
+DB00988	治疗	Cardiac Arrhythmia
+DB00993	治疗	Crohn Disease
+DB00997	治疗	Multiple Myeloma
+DB00998	治疗	Migraine Disorders
+DB00999	治疗	Congestive Heart Failure
+DB00999	治疗	Hypertensive Disease
+DB00999	治疗	Cerebrovascular Accident
+DB01001	治疗	Asthma, Exercise-Induced
+DB01003	治疗	Asthma
+DB01003	治疗	Asthma, Exercise-Induced
+DB01005	治疗	Polycythemia Vera
+DB01005	治疗	Sickle Cell Anemia
+DB01006	治疗	Malignant Neoplasm Of Breast
+DB01008	治疗	Polycythemia Vera
+DB01008	治疗	Chronic Myeloid Leukemia
+DB01009	治疗	Migraine Disorders
+DB01016	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01018	治疗	Hypertensive Disease
+DB01018	治疗	Migraine Disorders
+DB01023	治疗	Hypertensive Disease
+DB01029	治疗	Hypertensive Disease
+DB01033	治疗	Crohn Disease
+DB01037	治疗	Major Depressive Disorder
+DB01041	治疗	Multiple Myeloma
+DB01042	治疗	Multiple Myeloma
+DB01043	治疗	Familial Alzheimer Disease (Fad)
+DB01047	治疗	Inflammation
+DB01049	治疗	Intellectual Disability
+DB01050	治疗	Cystic Fibrosis
+DB01050	治疗	Gastric Ulcer
+DB01050	治疗	Migraine Disorders
+DB01060	治疗	Sinusitis
+DB01064	治疗	Congestive Heart Failure
+DB01067	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01075	治疗	Angioedema
+DB01076	治疗	Myocardial Infarction
+DB01076	治疗	Cerebrovascular Accident
+DB01082	治疗	Tuberculosis
+DB01095	治疗	Atherosclerosis
+DB01098	治疗	Atherosclerosis
+DB01101	治疗	Esophageal Neoplasms
+DB01104	治疗	Major Depressive Disorder
+DB01115	治疗	Hypertensive Disease
+DB01120	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01124	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01129	治疗	Gastric Ulcer
+DB01129	治疗	Gastroesophageal Reflux Disease
+DB01132	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01136	治疗	Hypertensive Disease
+DB01136	治疗	Congestive Heart Failure
+DB01142	治疗	Major Depressive Disorder
+DB01142	治疗	Depressive Disorder
+DB01156	治疗	Major Depressive Disorder
+DB01162	治疗	Hypertensive Disease
+DB01171	治疗	Major Depressive Disorder
+DB01175	治疗	Major Depressive Disorder
+DB01176	治疗	Migraine Disorders
+DB01181	治疗	Malignant Neoplasm Of Pancreas
+DB01181	治疗	Osteogenic Sarcoma
+DB01193	治疗	Hypertensive Disease
+DB01197	治疗	Congestive Heart Failure
+DB01197	治疗	Hypertensive Disease
+DB01200	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01201	治疗	Tuberculosis
+DB01203	治疗	Hypertensive Disease
+DB01203	治疗	Migraine Disorders
+DB01203	治疗	Thyrotoxicosis
+DB01212	治疗	Sinusitis
+DB01217	治疗	Malignant Neoplasm Of Breast
+DB01222	治疗	Asthma
+DB01222	治疗	Sinusitis
+DB01222	治疗	Chronic Obstructive Airway Disease
+DB01223	治疗	Asthma
+DB01224	治疗	Mental Depression
+DB01224	治疗	Major Depressive Disorder
+DB01229	治疗	Esophageal Neoplasms
+DB01233	治疗	Gastroesophageal Reflux Disease
+DB01233	治疗	Migraine Disorders
+DB01234	治疗	Asthma
+DB01234	治疗	Inflammation
+DB01234	治疗	Leukemia
+DB01234	治疗	Multiple Myeloma
+DB01234	治疗	Crohn Disease
+DB01234	治疗	Stevens-Johnson Syndrome
+DB01234	治疗	Tuberculosis
+DB01238	治疗	Major Depressive Disorder
+DB01238	治疗	Mental Depression
+DB01248	治疗	Esophageal Neoplasms
+DB01248	治疗	Malignant Neoplasm Of Breast
+DB01254	治疗	Chronic Myeloid Leukemia
+DB01261	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01274	治疗	Chronic Obstructive Airway Disease
+DB01275	治疗	Congestive Heart Failure
+DB01276	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01278	治疗	Diabetes Mellitus, Insulin-Dependent
+DB01278	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01285	治疗	Stevens-Johnson Syndrome
+DB01306	治疗	Diabetes Mellitus
+DB01307	治疗	Diabetes Mellitus, Insulin-Dependent
+DB01307	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB01309	治疗	Diabetes Mellitus
+DB01309	治疗	Diabetes Mellitus, Insulin-Dependent
+DB01324	治疗	Hypertensive Disease
+DB01340	治疗	Congestive Heart Failure
+DB01340	治疗	Hypertensive Disease
+DB01364	治疗	Asthma
+DB01380	治疗	Asthma
+DB01380	治疗	Inflammation
+DB01380	治疗	Leukemia
+DB01380	治疗	Crohn Disease
+DB01380	治疗	Stevens-Johnson Syndrome
+DB01380	治疗	Tuberculosis
+DB01403	治疗	Familial Alzheimer Disease (Fad)
+DB01409	治疗	Chronic Obstructive Airway Disease
+DB01409	治疗	Asthma
+DB01410	治疗	Asthma
+DB01432	治疗	Atherosclerosis
+DB01592	治疗	Anemia
+DB01593	治疗	Wilson Disease
+DB01606	治疗	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+DB01627	治疗	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+DB01656	治疗	Chronic Obstructive Airway Disease
+DB03247	治疗	Migraine Disorders
+DB03404	治疗	Hereditary Coproporphyria
+DB03404	治疗	Acute Intermittent Porphyria
+DB03852	治疗	Gingivitis
+DB04160	治疗	Myocardial Infarction
+DB04572	治疗	Carcinoma, Endometrioid
+DB04572	治疗	Malignant Neoplasm Of Breast
+DB04574	治疗	Osteoporosis, Postmenopausal
+DB04844	治疗	Huntington Disease
+DB04845	治疗	Malignant Neoplasm Of Breast
+DB04861	治疗	Hypertensive Disease
+DB04876	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB04899	治疗	Congestive Heart Failure
+DB04920	治疗	Hypertensive Disease
+DB05018	治疗	Fabry Disease
+DB05039	治疗	Chronic Obstructive Airway Disease
+DB05311	治疗	Angioedema
+DB05381	治疗	Migraine Disorders
+DB06153	治疗	Migraine Disorders
+DB06168	治疗	Muckle-Wells Syndrome
+DB06186	治疗	Liver Carcinoma
+DB06196	治疗	Angioedema
+DB06203	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB06228	治疗	Myocardial Infarction
+DB06228	治疗	Cerebrovascular Accident
+DB06230	治疗	Alcoholic Intoxication, Chronic
+DB06273	治疗	Giant Cell Arteritis
+DB06292	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB06335	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB06366	治疗	Malignant Neoplasm Of Breast
+DB06372	治疗	Muckle-Wells Syndrome
+DB06401	治疗	Osteoporosis, Postmenopausal
+DB06404	治疗	Angioedema
+DB06605	治疗	Cerebrovascular Accident
+DB06655	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB06684	治疗	Major Depressive Disorder
+DB06695	治疗	Cerebrovascular Accident
+DB06700	治疗	Major Depressive Disorder
+DB06709	治疗	Asthma
+DB06754	治疗	Cerebrovascular Accident
+DB06789	治疗	Carcinoma, Endometrioid
+DB06802	治疗	Inflammation
+DB06824	治疗	Wilson Disease
+DB08604	治疗	Gingivitis
+DB08813	治疗	Myocardial Infarction
+DB08815	治疗	Mental Depression
+DB08820	治疗	Cystic Fibrosis
+DB08822	治疗	Hypertensive Disease
+DB08882	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB08897	治疗	Chronic Obstructive Airway Disease
+DB08906	治疗	Asthma
+DB08906	治疗	Sinusitis
+DB08906	治疗	Chronic Obstructive Airway Disease
+DB08907	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB08918	治疗	Major Depressive Disorder
+DB08938	治疗	Gastroesophageal Reflux Disease
+DB09026	治疗	Hypertensive Disease
+DB09035	治疗	Liver Carcinoma
+DB09037	治疗	Colorectal Neoplasms
+DB09038	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB09043	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB09045	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB09068	治疗	Major Depressive Disorder
+DB09073	治疗	Malignant Neoplasm Of Breast
+DB09075	治疗	Cerebrovascular Accident
+DB09076	治疗	Chronic Obstructive Airway Disease
+DB09080	治疗	Chronic Obstructive Airway Disease
+DB09082	治疗	Asthma
+DB09082	治疗	Chronic Obstructive Airway Disease
+DB09107	治疗	Anemia
+DB09128	治疗	Major Depressive Disorder
+DB09133	治疗	Kidney Diseases
+DB09140	治疗	Anemia
+DB09140	治疗	Migraine Disorders
+DB09148	治疗	Familial Alzheimer Disease (Fad)
+DB09149	治疗	Familial Alzheimer Disease (Fad)
+DB09151	治疗	Familial Alzheimer Disease (Fad)
+DB09161	治疗	Coronary Artery Disease
+DB09163	治疗	Inflammatory Bowel Diseases
+DB09228	治疗	Angioedema
+DB09237	治疗	Hypertensive Disease
+DB09241	治疗	Methemoglobinemia
+DB09265	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB09266	治疗	Squamous Cell Carcinoma
+DB09270	治疗	Migraine Disorders
+DB09280	治疗	Cystic Fibrosis
+DB09302	治疗	Myocardial Infarction
+DB09302	治疗	Cerebrovascular Accident
+DB09303	治疗	Atherosclerosis
+DB09324	治疗	Sinusitis
+DB09326	治疗	Coronary Artery Disease
+DB09331	治疗	Multiple Myeloma
+DB09397	治疗	Malignant Neoplasm Of Breast
+DB09477	治疗	Congestive Heart Failure
+DB09477	治疗	Hypertensive Disease
+DB09479	治疗	Coronary Artery Disease
+DB09502	治疗	Coronary Artery Disease
+DB09517	治疗	Anemia
+DB09546	治疗	Congestive Heart Failure
+DB09555	治疗	Angioedema
+DB09564	治疗	Diabetes Mellitus
+DB09564	治疗	Diabetes Mellitus, Insulin-Dependent
+DB09564	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB09570	治疗	Multiple Myeloma
+DB10343	治疗	Tuberculosis
+DB11110	治疗	Migraine Disorders
+DB11164	治疗	Cerebrovascular Accident
+DB11563	治疗	Lysosomal Acid Lipase Deficiency
+DB11601	治疗	Tuberculosis
+DB11624	治疗	Anemia
+DB11644	治疗	Cardiomyopathies
+DB11652	治疗	Malignant Neoplasm Of Breast
+DB11712	治疗	Cystic Fibrosis
+DB11730	治疗	Malignant Neoplasm Of Breast
+DB11760	治疗	Malignant Neoplasm Of Breast
+DB11827	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB11828	治疗	Malignant Neoplasm Of Breast
+DB11855	治疗	Chronic Obstructive Airway Disease
+DB11936	治疗	Atherosclerosis
+DB12001	治疗	Malignant Neoplasm Of Breast
+DB12161	治疗	Huntington Disease
+DB12281	治疗	Anemia
+DB12532	治疗	Gastroesophageal Reflux Disease
+DB13146	治疗	Prostate Cancer
+DB13501	治疗	Inflammation
+DB13751	治疗	Hyperglycemia
+DB13928	治疗	Diabetes Mellitus, Non-Insulin-Dependent
+DB14039	治疗	Migraine Disorders
+DB14040	治疗	Migraine Disorders
+DB14041	治疗	Migraine Disorders
+DB14042	治疗	Migraine Disorders
+DB14512	治疗	Asthma
+DB14545	治疗	Inflammation
+DB14597	治疗	Angioedema
+DB14631	治疗	Giant Cell Arteritis
+DB14811	治疗	Multiple Myeloma
+DB14975	治疗	Sickle Cell Anemia
+DB15444	治疗	Cystic Fibrosis
+DB15566	治疗	Inflammation
+DB00026	潜在联系	Carcinoma, Endometrioid
+DB00028	潜在联系	Colonic Neoplasms
+DB00030	潜在联系	Diabetes Mellitus
+DB00030	潜在联系	Follicular Lymphoma
+DB00030	潜在联系	Fabry Disease
+DB00030	潜在联系	Coronary Artery Disease
+DB00030	潜在联系	Cerebrovascular Accident
+DB00030	潜在联系	Hypertensive Disease
+DB00030	潜在联系	Sinusitis
+DB00030	潜在联系	Inflammation
+DB00030	潜在联系	Thyrotoxicosis
+DB00030	潜在联系	Esophageal Neoplasms
+DB00030	潜在联系	Cardiomyopathies
+DB00030	潜在联系	Pancreatitis
+DB00030	潜在联系	Acute Intermittent Porphyria
+DB00030	潜在联系	Chronic Myeloid Leukemia
+DB00030	潜在联系	Colonic Neoplasms
+DB00030	潜在联系	Liver Carcinoma
+DB00030	潜在联系	Sickle Cell Anemia
+DB00030	潜在联系	Intellectual Disability
+DB00030	潜在联系	Inflammatory Bowel Diseases
+DB00030	潜在联系	Lysosomal Acid Lipase Deficiency
+DB00072	潜在联系	Kidney Diseases
+DB00091	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00103	潜在联系	Muckle-Wells Syndrome
+DB00103	潜在联系	Diabetes Mellitus
+DB00103	潜在联系	Migraine Disorders
+DB00103	潜在联系	Sinusitis
+DB00103	潜在联系	Chronic Obstructive Airway Disease
+DB00103	潜在联系	Depressive Disorder
+DB00103	潜在联系	Chronic Myeloid Leukemia
+DB00103	潜在联系	Colonic Neoplasms
+DB00103	潜在联系	Wilson Disease
+DB00103	潜在联系	Gingivitis
+DB00103	潜在联系	Polycythemia Vera
+DB00103	潜在联系	Colorectal Neoplasms
+DB00140	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00140	潜在联系	Squamous Cell Carcinoma
+DB00175	潜在联系	Muckle-Wells Syndrome
+DB00175	潜在联系	Wiskott-Aldrich Syndrome
+DB00175	潜在联系	Diabetes Mellitus
+DB00175	潜在联系	Follicular Lymphoma
+DB00175	潜在联系	Familial Dysautonomia
+DB00175	潜在联系	Fabry Disease
+DB00175	潜在联系	Migraine Disorders
+DB00175	潜在联系	Major Depressive Disorder
+DB00175	潜在联系	Hypertensive Disease
+DB00175	潜在联系	Sinusitis
+DB00175	潜在联系	Alcoholic Intoxication, Chronic
+DB00175	潜在联系	Inflammation
+DB00175	潜在联系	Mental Depression
+DB00175	潜在联系	Chronic Obstructive Airway Disease
+DB00175	潜在联系	Thyrotoxicosis
+DB00175	潜在联系	Esophageal Neoplasms
+DB00175	潜在联系	Osteoporosis, Postmenopausal
+DB00175	潜在联系	Cardiomyopathies
+DB00175	潜在联系	Pancreatitis
+DB00175	潜在联系	Asthma, Exercise-Induced
+DB00175	潜在联系	Acute Intermittent Porphyria
+DB00175	潜在联系	Osteogenic Sarcoma
+DB00175	潜在联系	Carcinoma, Endometrioid
+DB00175	潜在联系	Chronic Myeloid Leukemia
+DB00175	潜在联系	Colonic Neoplasms
+DB00175	潜在联系	Takayasu Arteritis
+DB00175	潜在联系	Familial Alzheimer Disease (Fad)
+DB00175	潜在联系	Squamous Cell Carcinoma
+DB00175	潜在联系	Wilson Disease
+DB00175	潜在联系	Lymphangioleiomyomatosis
+DB00175	潜在联系	Gingivitis
+DB00175	潜在联系	Colorectal Neoplasms
+DB00175	潜在联系	Liver Carcinoma
+DB00175	潜在联系	Inflammatory Bowel Diseases
+DB00175	潜在联系	Methemoglobinemia
+DB00175	潜在联系	Lysosomal Acid Lipase Deficiency
+DB00176	潜在联系	Diabetes Mellitus
+DB00176	潜在联系	Carcinoma, Endometrioid
+DB00180	潜在联系	Cystic Fibrosis
+DB00215	潜在联系	Cerebrovascular Accident
+DB00215	潜在联系	Cardiomyopathies
+DB00215	潜在联系	Osteogenic Sarcoma
+DB00215	潜在联系	Takayasu Arteritis
+DB00215	潜在联系	Familial Alzheimer Disease (Fad)
+DB00222	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00222	潜在联系	Depressive Disorder
+DB00222	潜在联系	Colorectal Neoplasms
+DB00222	潜在联系	Inflammatory Bowel Diseases
+DB00273	潜在联系	Alcoholic Intoxication, Chronic
+DB00273	潜在联系	Gingivitis
+DB00275	潜在联系	Cystic Fibrosis
+DB00285	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00288	潜在联系	Esophageal Neoplasms
+DB00288	潜在联系	Congenital Heart Defects
+DB00288	潜在联系	Hereditary Coproporphyria
+DB00291	潜在联系	Prostate Cancer
+DB00315	潜在联系	Muckle-Wells Syndrome
+DB00315	潜在联系	Lymphangioleiomyomatosis
+DB00332	潜在联系	Myocardial Infarction
+DB00332	潜在联系	Mental Depression
+DB00334	潜在联系	Congestive Heart Failure
+DB00334	潜在联系	Myocardial Infarction
+DB00339	潜在联系	Congestive Heart Failure
+DB00339	潜在联系	Coronary Artery Disease
+DB00339	潜在联系	Osteoporosis, Postmenopausal
+DB00339	潜在联系	Osteogenic Sarcoma
+DB00339	潜在联系	Familial Alzheimer Disease (Fad)
+DB00339	潜在联系	Congenital Heart Defects
+DB00364	潜在联系	Muckle-Wells Syndrome
+DB00364	潜在联系	Wiskott-Aldrich Syndrome
+DB00364	潜在联系	Follicular Lymphoma
+DB00364	潜在联系	Familial Dysautonomia
+DB00364	潜在联系	Migraine Disorders
+DB00364	潜在联系	Coronary Artery Disease
+DB00364	潜在联系	Major Depressive Disorder
+DB00364	潜在联系	Thyrotoxicosis
+DB00364	潜在联系	Osteoporosis, Postmenopausal
+DB00364	潜在联系	Depressive Disorder
+DB00364	潜在联系	Asthma, Exercise-Induced
+DB00364	潜在联系	Acute Intermittent Porphyria
+DB00364	潜在联系	Osteogenic Sarcoma
+DB00364	潜在联系	Carcinoma, Endometrioid
+DB00364	潜在联系	Colonic Neoplasms
+DB00364	潜在联系	Familial Alzheimer Disease (Fad)
+DB00364	潜在联系	Squamous Cell Carcinoma
+DB00364	潜在联系	Wilson Disease
+DB00364	潜在联系	Lymphangioleiomyomatosis
+DB00364	潜在联系	Colorectal Neoplasms
+DB00364	潜在联系	Methemoglobinemia
+DB00380	潜在联系	Malignant Neoplasm Of Breast
+DB00380	潜在联系	Congestive Heart Failure
+DB00381	潜在联系	Malignant Neoplasm Of Breast
+DB00394	潜在联系	Diabetes Mellitus
+DB00394	潜在联系	Cerebrovascular Accident
+DB00394	潜在联系	Chronic Obstructive Airway Disease
+DB00394	潜在联系	Colorectal Neoplasms
+DB00394	潜在联系	Sickle Cell Anemia
+DB00394	潜在联系	Intellectual Disability
+DB00394	潜在联系	Lysosomal Acid Lipase Deficiency
+DB00424	潜在联系	Wiskott-Aldrich Syndrome
+DB00424	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00424	潜在联系	Familial Dysautonomia
+DB00424	潜在联系	Coronary Artery Disease
+DB00424	潜在联系	Cardiomyopathies
+DB00424	潜在联系	Asthma, Exercise-Induced
+DB00424	潜在联系	Familial Alzheimer Disease (Fad)
+DB00424	潜在联系	Liver Carcinoma
+DB00424	潜在联系	Hereditary Coproporphyria
+DB00424	潜在联系	Methemoglobinemia
+DB00434	潜在联系	Cardiomyopathies
+DB00443	潜在联系	Fabry Disease
+DB00443	潜在联系	Polycythemia Vera
+DB00457	潜在联系	Malignant Neoplasm Of Breast
+DB00457	潜在联系	Carcinoma, Endometrioid
+DB00479	潜在联系	Familial Dysautonomia
+DB00479	潜在联系	Chronic Obstructive Airway Disease
+DB00479	潜在联系	Esophageal Neoplasms
+DB00479	潜在联系	Polycythemia Vera
+DB00501	潜在联系	Hypertensive Disease
+DB00501	潜在联系	Inflammation
+DB00501	潜在联系	Liver Carcinoma
+DB00501	潜在联系	Sickle Cell Anemia
+DB00544	潜在联系	Sinusitis
+DB00549	潜在联系	Carcinoma, Endometrioid
+DB00594	潜在联系	Polycythemia Vera
+DB00609	潜在联系	Myocardial Infarction
+DB00609	潜在联系	Polycythemia Vera
+DB00612	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB00615	潜在联系	Congestive Heart Failure
+DB00615	潜在联系	Cerebrovascular Accident
+DB00615	潜在联系	Gastric Ulcer
+DB00696	潜在联系	Mental Depression
+DB00696	潜在联系	Depressive Disorder
+DB00722	潜在联系	Myocardial Infarction
+DB00766	潜在联系	Muckle-Wells Syndrome
+DB00766	潜在联系	Wiskott-Aldrich Syndrome
+DB00766	潜在联系	Follicular Lymphoma
+DB00766	潜在联系	Prostate Cancer
+DB00766	潜在联系	Migraine Disorders
+DB00766	潜在联系	Coronary Artery Disease
+DB00766	潜在联系	Cerebrovascular Accident
+DB00766	潜在联系	Major Depressive Disorder
+DB00766	潜在联系	Hypertensive Disease
+DB00766	潜在联系	Alcoholic Intoxication, Chronic
+DB00766	潜在联系	Inflammation
+DB00766	潜在联系	Thyrotoxicosis
+DB00766	潜在联系	Esophageal Neoplasms
+DB00766	潜在联系	Osteoporosis, Postmenopausal
+DB00766	潜在联系	Depressive Disorder
+DB00766	潜在联系	Cardiomyopathies
+DB00766	潜在联系	Pancreatitis
+DB00766	潜在联系	Asthma, Exercise-Induced
+DB00766	潜在联系	Chronic Myeloid Leukemia
+DB00766	潜在联系	Colonic Neoplasms
+DB00766	潜在联系	Takayasu Arteritis
+DB00766	潜在联系	Familial Alzheimer Disease (Fad)
+DB00766	潜在联系	Wilson Disease
+DB00766	潜在联系	Gingivitis
+DB00766	潜在联系	Congenital Heart Defects
+DB00766	潜在联系	Liver Carcinoma
+DB00766	潜在联系	Sickle Cell Anemia
+DB00766	潜在联系	Hereditary Coproporphyria
+DB00766	潜在联系	Inflammatory Bowel Diseases
+DB00766	潜在联系	Lysosomal Acid Lipase Deficiency
+DB00788	潜在联系	Muckle-Wells Syndrome
+DB00788	潜在联系	Fabry Disease
+DB00788	潜在联系	Myocardial Infarction
+DB00788	潜在联系	Mental Depression
+DB00841	潜在联系	Congestive Heart Failure
+DB00841	潜在联系	Wiskott-Aldrich Syndrome
+DB00841	潜在联系	Mental Depression
+DB00841	潜在联系	Congenital Heart Defects
+DB00841	潜在联系	Intellectual Disability
+DB00855	潜在联系	Congestive Heart Failure
+DB00855	潜在联系	Osteogenic Sarcoma
+DB00855	潜在联系	Lymphangioleiomyomatosis
+DB00855	潜在联系	Lysosomal Acid Lipase Deficiency
+DB00876	潜在联系	Malignant Neoplasm Of Breast
+DB00918	潜在联系	Cystic Fibrosis
+DB00918	潜在联系	Prostate Cancer
+DB00918	潜在联系	Myocardial Infarction
+DB00951	潜在联系	Cerebrovascular Accident
+DB00966	潜在联系	Follicular Lymphoma
+DB00966	潜在联系	Myocardial Infarction
+DB00966	潜在联系	Mental Depression
+DB00966	潜在联系	Depressive Disorder
+DB00966	潜在联系	Wilson Disease
+DB00966	潜在联系	Methemoglobinemia
+DB00999	潜在联系	Malignant Neoplasm Of Breast
+DB00999	潜在联系	Congestive Heart Failure
+DB01005	潜在联系	Familial Dysautonomia
+DB01005	潜在联系	Inflammation
+DB01005	潜在联系	Chronic Obstructive Airway Disease
+DB01005	潜在联系	Osteoporosis, Postmenopausal
+DB01005	潜在联系	Asthma, Exercise-Induced
+DB01005	潜在联系	Acute Intermittent Porphyria
+DB01005	潜在联系	Chronic Myeloid Leukemia
+DB01005	潜在联系	Takayasu Arteritis
+DB01005	潜在联系	Squamous Cell Carcinoma
+DB01005	潜在联系	Gingivitis
+DB01005	潜在联系	Polycythemia Vera
+DB01005	潜在联系	Congenital Heart Defects
+DB01005	潜在联系	Intellectual Disability
+DB01018	潜在联系	Migraine Disorders
+DB01043	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB01043	潜在联系	Kidney Diseases
+DB01049	潜在联系	Kidney Diseases
+DB01098	潜在联系	Wiskott-Aldrich Syndrome
+DB01171	潜在联系	Coronary Artery Disease
+DB01171	潜在联系	Hypertensive Disease
+DB01171	潜在联系	Alcoholic Intoxication, Chronic
+DB01171	潜在联系	Thyrotoxicosis
+DB01171	潜在联系	Depressive Disorder
+DB01171	潜在联系	Pancreatitis
+DB01171	潜在联系	Acute Intermittent Porphyria
+DB01171	潜在联系	Osteogenic Sarcoma
+DB01171	潜在联系	Methemoglobinemia
+DB01223	潜在联系	Malignant Neoplasm Of Breast
+DB01223	潜在联系	Hypertensive Disease
+DB01223	潜在联系	Inflammation
+DB01223	潜在联系	Esophageal Neoplasms
+DB01223	潜在联系	Pancreatitis
+DB01223	潜在联系	Lymphangioleiomyomatosis
+DB01224	潜在联系	Cystic Fibrosis
+DB01238	潜在联系	Inflammatory Bowel Diseases
+DB03404	潜在联系	Cystic Fibrosis
+DB03404	潜在联系	Prostate Cancer
+DB03404	潜在联系	Kidney Diseases
+DB03852	潜在联系	Takayasu Arteritis
+DB06153	潜在联系	Diabetes Mellitus, Insulin-Dependent
+DB06153	潜在联系	Kidney Diseases
+DB06404	潜在联系	Wiskott-Aldrich Syndrome
+DB06404	潜在联系	Diabetes Mellitus
+DB06404	潜在联系	Follicular Lymphoma
+DB06404	潜在联系	Coronary Artery Disease
+DB06404	潜在联系	Cerebrovascular Accident
+DB06404	潜在联系	Sinusitis
+DB06404	潜在联系	Inflammation
+DB06404	潜在联系	Depressive Disorder
+DB06404	潜在联系	Pancreatitis
+DB06404	潜在联系	Asthma, Exercise-Induced
+DB06404	潜在联系	Osteogenic Sarcoma
+DB06404	潜在联系	Carcinoma, Endometrioid
+DB06404	潜在联系	Chronic Myeloid Leukemia
+DB06404	潜在联系	Familial Alzheimer Disease (Fad)
+DB06404	潜在联系	Squamous Cell Carcinoma
+DB06404	潜在联系	Wilson Disease
+DB06404	潜在联系	Lymphangioleiomyomatosis
+DB06404	潜在联系	Congenital Heart Defects
+DB06404	潜在联系	Colorectal Neoplasms
+DB06404	潜在联系	Sickle Cell Anemia
+DB06404	潜在联系	Intellectual Disability
+DB06404	潜在联系	Methemoglobinemia
+DB06404	潜在联系	Lysosomal Acid Lipase Deficiency
+DB08813	潜在联系	Muckle-Wells Syndrome
+DB08813	潜在联系	Migraine Disorders
+DB08813	潜在联系	Hypertensive Disease
+DB08813	潜在联系	Gastric Ulcer
+DB08813	潜在联系	Esophageal Neoplasms
+DB08813	潜在联系	Osteoporosis, Postmenopausal
+DB08813	潜在联系	Pancreatitis
+DB08813	潜在联系	Takayasu Arteritis
+DB08813	潜在联系	Squamous Cell Carcinoma
+DB08813	潜在联系	Gingivitis
+DB08813	潜在联系	Congenital Heart Defects
+DB08813	潜在联系	Sickle Cell Anemia
+DB08813	潜在联系	Intellectual Disability
+DB08918	潜在联系	Cystic Fibrosis
+DB08918	潜在联系	Prostate Cancer
+DB08938	潜在联系	Familial Dysautonomia
+DB08938	潜在联系	Coronary Artery Disease
+DB08938	潜在联系	Alcoholic Intoxication, Chronic
+DB08938	潜在联系	Thyrotoxicosis
+DB08938	潜在联系	Takayasu Arteritis
+DB08938	潜在联系	Congenital Heart Defects
+DB08938	潜在联系	Sickle Cell Anemia
+DB08938	潜在联系	Inflammatory Bowel Diseases
+DB09107	潜在联系	Kidney Diseases
+DB09148	潜在联系	Cystic Fibrosis
+DB09148	潜在联系	Kidney Diseases
+DB09265	潜在联系	Cystic Fibrosis
+DB09265	潜在联系	Kidney Diseases
+DB12532	潜在联系	Kidney Diseases
+DB13928	潜在联系	Lymphangioleiomyomatosis

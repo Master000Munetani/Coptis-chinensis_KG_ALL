@@ -1,0 +1,1137 @@
+中医学症状	关系	疾病
+淋沥疼痛	潜在联系	Juvenile Hyaline Fibromatosis
+暑邪发热	潜在联系	Juvenile Hyaline Fibromatosis
+头身困重	潜在联系	Juvenile Hyaline Fibromatosis
+癥瘕痞块	潜在联系	Juvenile Hyaline Fibromatosis
+脘胁胀痛	潜在联系	Juvenile Hyaline Fibromatosis
+潮热	潜在联系	Juvenile Hyaline Fibromatosis
+心气痛	潜在联系	Argininosuccinic Aciduria
+胸膈痞闷	潜在联系	Argininosuccinic Aciduria
+腐肉不去	潜在联系	Argininosuccinic Aciduria
+大便燥结	潜在联系	Propionic Acidemia
+舌尖红	潜在联系	Muckle-Wells Syndrome
+舌糜烂	潜在联系	Muckle-Wells Syndrome
+舌偏红	潜在联系	Muckle-Wells Syndrome
+舌生疮	潜在联系	Muckle-Wells Syndrome
+小便赤涩	潜在联系	Muckle-Wells Syndrome
+血热吐紐	潜在联系	Muckle-Wells Syndrome
+夜惊	潜在联系	Muckle-Wells Syndrome
+妇人脏躁	潜在联系	Muckle-Wells Syndrome
+不喜热饮	潜在联系	Muckle-Wells Syndrome
+肝区胀痛	潜在联系	Muckle-Wells Syndrome
+经水淋漓不净	潜在联系	Muckle-Wells Syndrome
+两胁胀痛	潜在联系	Muckle-Wells Syndrome
+淋沥疼痛	潜在联系	Muckle-Wells Syndrome
+淋浊	潜在联系	Muckle-Wells Syndrome
+面目悉黄	潜在联系	Muckle-Wells Syndrome
+尿黄	潜在联系	Muckle-Wells Syndrome
+尿色赤黄	潜在联系	Muckle-Wells Syndrome
+脓痰	潜在联系	Muckle-Wells Syndrome
+皮肤湿疹	潜在联系	Muckle-Wells Syndrome
+热毒血痢	潜在联系	Muckle-Wells Syndrome
+湿热下注	潜在联系	Muckle-Wells Syndrome
+石淋涩痛	潜在联系	Muckle-Wells Syndrome
+暑邪发热	潜在联系	Muckle-Wells Syndrome
+嗖痛	潜在联系	Muckle-Wells Syndrome
+小便黄少	潜在联系	Muckle-Wells Syndrome
+胁下痞块	潜在联系	Muckle-Wells Syndrome
+胸胀满	潜在联系	Muckle-Wells Syndrome
+胸中满闷	潜在联系	Muckle-Wells Syndrome
+胸中闷热	潜在联系	Muckle-Wells Syndrome
+灼痛	潜在联系	Muckle-Wells Syndrome
+足胫红肿热痛	潜在联系	Muckle-Wells Syndrome
+小儿急惊风	潜在联系	Muckle-Wells Syndrome
+小儿惊啼	潜在联系	Muckle-Wells Syndrome
+小儿惊痫	潜在联系	Muckle-Wells Syndrome
+小儿慢惊	潜在联系	Muckle-Wells Syndrome
+膝酸软	潜在联系	Muckle-Wells Syndrome
+血淋涩痛	潜在联系	Muckle-Wells Syndrome
+身黄	潜在联系	Muckle-Wells Syndrome
+肛门灼热	潜在联系	Muckle-Wells Syndrome
+后重	潜在联系	Muckle-Wells Syndrome
+大便出血	潜在联系	Muckle-Wells Syndrome
+呃逆	潜在联系	Muckle-Wells Syndrome
+乳房疼痛	潜在联系	Muckle-Wells Syndrome
+乳房有块	潜在联系	Muckle-Wells Syndrome
+乳癖	潜在联系	Muckle-Wells Syndrome
+乳痈	潜在联系	Muckle-Wells Syndrome
+牙龈红肿	潜在联系	Muckle-Wells Syndrome
+小儿疳积	潜在联系	Muckle-Wells Syndrome
+肠风便血	潜在联系	Muckle-Wells Syndrome
+肠风下血	潜在联系	Muckle-Wells Syndrome
+齿痛	潜在联系	Muckle-Wells Syndrome
+粉刺	潜在联系	Muckle-Wells Syndrome
+面赤	潜在联系	Muckle-Wells Syndrome
+舌绛	潜在联系	Muckle-Wells Syndrome
+痈疽不溃	潜在联系	Muckle-Wells Syndrome
+痈疽难溃	潜在联系	Muckle-Wells Syndrome
+月经过多	潜在联系	Muckle-Wells Syndrome
+痔疮痛	潜在联系	Muckle-Wells Syndrome
+天疱疮	潜在联系	Muckle-Wells Syndrome
+实热积滞便秘	潜在联系	Muckle-Wells Syndrome
+火毒疮疡	潜在联系	Muckle-Wells Syndrome
+痈疮肿毒	潜在联系	Muckle-Wells Syndrome
+痈肿疔疮	潜在联系	Muckle-Wells Syndrome
+痈肿疮毒	潜在联系	Muckle-Wells Syndrome
+痔瘘	潜在联系	Muckle-Wells Syndrome
+鼻流浊涕	潜在联系	Muckle-Wells Syndrome
+鼻痒	潜在联系	Muckle-Wells Syndrome
+目涩	潜在联系	Muckle-Wells Syndrome
+脱发	潜在联系	Muckle-Wells Syndrome
+咽红	潜在联系	Muckle-Wells Syndrome
+眼生翳膜	潜在联系	Muckle-Wells Syndrome
+目涩痛	潜在联系	Muckle-Wells Syndrome
+秃疮	潜在联系	Muckle-Wells Syndrome
+暑邪发热	潜在联系	Nijmegen Breakage Syndrome
+动辄汗出	潜在联系	Nijmegen Breakage Syndrome
+肝区胀痛	潜在联系	Autosomal Erythropoietic Protoporphyria
+小便涩痛	潜在联系	Autosomal Erythropoietic Protoporphyria
+癥瘕痞块	潜在联系	Autosomal Erythropoietic Protoporphyria
+脘胁胀痛	潜在联系	Autosomal Erythropoietic Protoporphyria
+口臭	潜在联系	Autosomal Erythropoietic Protoporphyria
+血热发斑	潜在联系	Hereditary Coproporphyria
+恶心	潜在联系	Hereditary Coproporphyria
+耳聋	潜在联系	Hereditary Coproporphyria
+热痢	潜在联系	Hereditary Coproporphyria
+血淋	潜在联系	Hereditary Coproporphyria
+胀痛	潜在联系	Hereditary Coproporphyria
+劳热	潜在联系	Hereditary Coproporphyria
+聤耳	潜在联系	Hereditary Coproporphyria
+肢体重	潜在联系	Hereditary Coproporphyria
+后重	潜在联系	Hereditary Coproporphyria
+乳痈肿痛	潜在联系	Hereditary Coproporphyria
+暴注下泻	潜在联系	Hereditary Coproporphyria
+便下脓血	潜在联系	Hereditary Coproporphyria
+便血	潜在联系	Hereditary Coproporphyria
+流黄涕	潜在联系	Hereditary Coproporphyria
+咽红	潜在联系	Hereditary Coproporphyria
+风湿热痹	潜在联系	Hereditary Coproporphyria
+妇人脏躁	潜在联系	Holocarboxylase Synthetase Deficiency
+恶心	潜在联系	Holocarboxylase Synthetase Deficiency
+发热	潜在联系	Holocarboxylase Synthetase Deficiency
+肝区胀痛	潜在联系	Holocarboxylase Synthetase Deficiency
+疖肿	潜在联系	Holocarboxylase Synthetase Deficiency
+流黄稠涕	潜在联系	Holocarboxylase Synthetase Deficiency
+尿色偏黄	潜在联系	Holocarboxylase Synthetase Deficiency
+嗖痛	潜在联系	Holocarboxylase Synthetase Deficiency
+下痢臭秽	潜在联系	Holocarboxylase Synthetase Deficiency
+小便涩痛	潜在联系	Holocarboxylase Synthetase Deficiency
+胁肋疼痛	潜在联系	Holocarboxylase Synthetase Deficiency
+胸腹胀痛	潜在联系	Holocarboxylase Synthetase Deficiency
+胸膈痞闷	潜在联系	Holocarboxylase Synthetase Deficiency
+胸胁闷痛	潜在联系	Holocarboxylase Synthetase Deficiency
+肢体沉重	潜在联系	Holocarboxylase Synthetase Deficiency
+肢体酸重	潜在联系	Holocarboxylase Synthetase Deficiency
+黄水淋漓	潜在联系	Holocarboxylase Synthetase Deficiency
+脘胁胀痛	潜在联系	Holocarboxylase Synthetase Deficiency
+后重	潜在联系	Holocarboxylase Synthetase Deficiency
+口鼻生疮	潜在联系	Holocarboxylase Synthetase Deficiency
+腐肉不去	潜在联系	Holocarboxylase Synthetase Deficiency
+月经提前	潜在联系	Holocarboxylase Synthetase Deficiency
+肿毒	潜在联系	Holocarboxylase Synthetase Deficiency
+肠痈肿痛	潜在联系	Holocarboxylase Synthetase Deficiency
+咽喉不利	潜在联系	Holocarboxylase Synthetase Deficiency
+咽黏膜充血	潜在联系	Holocarboxylase Synthetase Deficiency
+不寐	潜在联系	Biotinidase Deficiency
+大便干结难下	潜在联系	Biotinidase Deficiency
+大便脓血	潜在联系	Biotinidase Deficiency
+口干	潜在联系	Biotinidase Deficiency
+口舌干燥	潜在联系	Biotinidase Deficiency
+口生疮	潜在联系	Biotinidase Deficiency
+面红	潜在联系	Biotinidase Deficiency
+舌红	潜在联系	Biotinidase Deficiency
+吐血	潜在联系	Biotinidase Deficiency
+小便赤涩	潜在联系	Biotinidase Deficiency
+小便短赤	潜在联系	Biotinidase Deficiency
+心气痛	潜在联系	Biotinidase Deficiency
+血热	潜在联系	Biotinidase Deficiency
+血热吐紐	潜在联系	Biotinidase Deficiency
+夜惊	潜在联系	Biotinidase Deficiency
+不眠	潜在联系	Biotinidase Deficiency
+妇人脏躁	潜在联系	Biotinidase Deficiency
+血热发斑	潜在联系	Biotinidase Deficiency
+血热发疹	潜在联系	Biotinidase Deficiency
+便黄而黏	潜在联系	Biotinidase Deficiency
+耳道流脓	潜在联系	Biotinidase Deficiency
+耳内流脓	潜在联系	Biotinidase Deficiency
+发热	潜在联系	Biotinidase Deficiency
+发烧	潜在联系	Biotinidase Deficiency
+腹胀	潜在联系	Biotinidase Deficiency
+肝区胀痛	潜在联系	Biotinidase Deficiency
+关节红肿热痛	潜在联系	Biotinidase Deficiency
+黄疸	潜在联系	Biotinidase Deficiency
+疖肿	潜在联系	Biotinidase Deficiency
+口舌肿痛	潜在联系	Biotinidase Deficiency
+两胁胀痛	潜在联系	Biotinidase Deficiency
+流黄稠涕	潜在联系	Biotinidase Deficiency
+流脓	潜在联系	Biotinidase Deficiency
+纳差	潜在联系	Biotinidase Deficiency
+黏液便	潜在联系	Biotinidase Deficiency
+尿赤	潜在联系	Biotinidase Deficiency
+尿黄如茶	潜在联系	Biotinidase Deficiency
+尿混浊	潜在联系	Biotinidase Deficiency
+尿急	潜在联系	Biotinidase Deficiency
+呕吐	潜在联系	Biotinidase Deficiency
+痞满	潜在联系	Biotinidase Deficiency
+痞闷	潜在联系	Biotinidase Deficiency
+浅表脓疱	潜在联系	Biotinidase Deficiency
+热痹疼痛	潜在联系	Biotinidase Deficiency
+热淋证	潜在联系	Biotinidase Deficiency
+舌胖	潜在联系	Biotinidase Deficiency
+舌体胖大	潜在联系	Biotinidase Deficiency
+身热	潜在联系	Biotinidase Deficiency
+蚀疮	潜在联系	Biotinidase Deficiency
+湿疮脓水浸淫	潜在联系	Biotinidase Deficiency
+石淋	潜在联系	Biotinidase Deficiency
+石淋涩痛	潜在联系	Biotinidase Deficiency
+嗖痛	潜在联系	Biotinidase Deficiency
+头身困重	潜在联系	Biotinidase Deficiency
+外阴红肿	潜在联系	Biotinidase Deficiency
+膝酸痛	潜在联系	Biotinidase Deficiency
+下血	潜在联系	Biotinidase Deficiency
+小便滴沥不净	潜在联系	Biotinidase Deficiency
+小便黄少	潜在联系	Biotinidase Deficiency
+小便浑浊	潜在联系	Biotinidase Deficiency
+小便淋浊	潜在联系	Biotinidase Deficiency
+小便涩痛	潜在联系	Biotinidase Deficiency
+小便痛	潜在联系	Biotinidase Deficiency
+小腹满	潜在联系	Biotinidase Deficiency
+小腹胀痛	潜在联系	Biotinidase Deficiency
+胁肋部疼痛	潜在联系	Biotinidase Deficiency
+胁肋疼痛	潜在联系	Biotinidase Deficiency
+胁下痞块	潜在联系	Biotinidase Deficiency
+泄泻	潜在联系	Biotinidase Deficiency
+胸腹胀痛	潜在联系	Biotinidase Deficiency
+胸膈痞塞	潜在联系	Biotinidase Deficiency
+胸痞	潜在联系	Biotinidase Deficiency
+胸脘满闷	潜在联系	Biotinidase Deficiency
+胸脘痞闷	潜在联系	Biotinidase Deficiency
+胸胁痞闷	潜在联系	Biotinidase Deficiency
+胸胀满	潜在联系	Biotinidase Deficiency
+胸中憋闷	潜在联系	Biotinidase Deficiency
+胸中满闷	潜在联系	Biotinidase Deficiency
+胸中闷痛	潜在联系	Biotinidase Deficiency
+血淋	潜在联系	Biotinidase Deficiency
+阴囊湿痒	潜在联系	Biotinidase Deficiency
+阴痒	潜在联系	Biotinidase Deficiency
+	潜在联系	Biotinidase Deficiency
+癥瘕痞块	潜在联系	Biotinidase Deficiency
+肢体沉重	潜在联系	Biotinidase Deficiency
+肢体沉重	潜在联系	Biotinidase Deficiency
+肢体酸重	潜在联系	Biotinidase Deficiency
+灼痛	潜在联系	Biotinidase Deficiency
+足胫红肿热痛	潜在联系	Biotinidase Deficiency
+足膝红肿热痛	潜在联系	Biotinidase Deficiency
+小儿急惊风	潜在联系	Biotinidase Deficiency
+带下色赤	潜在联系	Biotinidase Deficiency
+带下阴痒	潜在联系	Biotinidase Deficiency
+湿痹	潜在联系	Biotinidase Deficiency
+热淋	潜在联系	Biotinidase Deficiency
+类风湿性关节炎	潜在联系	Biotinidase Deficiency
+聤耳	潜在联系	Biotinidase Deficiency
+肢体重	潜在联系	Biotinidase Deficiency
+血痢	潜在联系	Biotinidase Deficiency
+赤白带下	潜在联系	Biotinidase Deficiency
+嘈杂	潜在联系	Biotinidase Deficiency
+嘈杂呕吐	潜在联系	Biotinidase Deficiency
+脐腹胀痛	潜在联系	Biotinidase Deficiency
+身黄	潜在联系	Biotinidase Deficiency
+肠鸣	潜在联系	Biotinidase Deficiency
+肛门灼热	潜在联系	Biotinidase Deficiency
+里急后重	潜在联系	Biotinidase Deficiency
+便结	潜在联系	Biotinidase Deficiency
+大便出血	潜在联系	Biotinidase Deficiency
+大便干燥	潜在联系	Biotinidase Deficiency
+多饮	潜在联系	Biotinidase Deficiency
+呃逆	潜在联系	Biotinidase Deficiency
+龋齿疼痛	潜在联系	Biotinidase Deficiency
+乳房结节	潜在联系	Biotinidase Deficiency
+乳房疼痛	潜在联系	Biotinidase Deficiency
+乳房有块	潜在联系	Biotinidase Deficiency
+乳房胀痛	潜在联系	Biotinidase Deficiency
+乳癖	潜在联系	Biotinidase Deficiency
+乳腺增生	潜在联系	Biotinidase Deficiency
+乳痈	潜在联系	Biotinidase Deficiency
+乳胀痛	潜在联系	Biotinidase Deficiency
+胃热	潜在联系	Biotinidase Deficiency
+胃酸过多	潜在联系	Biotinidase Deficiency
+胃脘不舒	潜在联系	Biotinidase Deficiency
+胃脘嘈杂	潜在联系	Biotinidase Deficiency
+胃脘烧灼感	潜在联系	Biotinidase Deficiency
+牙疼	潜在联系	Biotinidase Deficiency
+牙龈出血	潜在联系	Biotinidase Deficiency
+牙龈红肿	潜在联系	Biotinidase Deficiency
+咽喉灼热	潜在联系	Biotinidase Deficiency
+易饥	潜在联系	Biotinidase Deficiency
+乳痈肿痛	潜在联系	Biotinidase Deficiency
+乳蛾	潜在联系	Biotinidase Deficiency
+胃火牙痛	潜在联系	Biotinidase Deficiency
+口燥	潜在联系	Biotinidase Deficiency
+五心烦热	潜在联系	Biotinidase Deficiency
+消瘦	潜在联系	Biotinidase Deficiency
+小儿疳积	潜在联系	Biotinidase Deficiency
+暴注下泻	潜在联系	Biotinidase Deficiency
+便血	潜在联系	Biotinidase Deficiency
+肠风便血	潜在联系	Biotinidase Deficiency
+齿鼻衄血	潜在联系	Biotinidase Deficiency
+齿痛	潜在联系	Biotinidase Deficiency
+赤缕红斑	潜在联系	Biotinidase Deficiency
+痱疹鲜红	潜在联系	Biotinidase Deficiency
+粉剌疙瘩	潜在联系	Biotinidase Deficiency
+风眼烂弦	潜在联系	Biotinidase Deficiency
+肌肤红	潜在联系	Biotinidase Deficiency
+睑弦赤烂	潜在联系	Biotinidase Deficiency
+咳血	潜在联系	Biotinidase Deficiency
+两腮肿痛	潜在联系	Biotinidase Deficiency
+面赤	潜在联系	Biotinidase Deficiency
+尿血	潜在联系	Biotinidase Deficiency
+尿血血色鲜红	潜在联系	Biotinidase Deficiency
+衄血	潜在联系	Biotinidase Deficiency
+妊娠胎漏	潜在联系	Biotinidase Deficiency
+腮腺炎肿痛	潜在联系	Biotinidase Deficiency
+腮肿	潜在联系	Biotinidase Deficiency
+舌赤	潜在联系	Biotinidase Deficiency
+舌绛	潜在联系	Biotinidase Deficiency
+胎漏	潜在联系	Biotinidase Deficiency
+吐衄	潜在联系	Biotinidase Deficiency
+痈疽	潜在联系	Biotinidase Deficiency
+痈疽疔毒	潜在联系	Biotinidase Deficiency
+痈疽难溃	潜在联系	Biotinidase Deficiency
+痈疽肿毒	潜在联系	Biotinidase Deficiency
+痈疽肿痛	潜在联系	Biotinidase Deficiency
+痈肿疮疡	潜在联系	Biotinidase Deficiency
+月经过多	潜在联系	Biotinidase Deficiency
+月经提前	潜在联系	Biotinidase Deficiency
+痔疮肿痛	潜在联系	Biotinidase Deficiency
+痔肿	潜在联系	Biotinidase Deficiency
+二便不通	潜在联系	Biotinidase Deficiency
+恶露不尽	潜在联系	Biotinidase Deficiency
+火毒疮疡	潜在联系	Biotinidase Deficiency
+焮肿	潜在联系	Biotinidase Deficiency
+疗疮	潜在联系	Biotinidase Deficiency
+痈疽初起	潜在联系	Biotinidase Deficiency
+痈肿疔疮	潜在联系	Biotinidase Deficiency
+肠痈	潜在联系	Biotinidase Deficiency
+肠风	潜在联系	Biotinidase Deficiency
+鼻塞	潜在联系	Biotinidase Deficiency
+风疹瘙痒	潜在联系	Biotinidase Deficiency
+咯痰色黄	潜在联系	Biotinidase Deficiency
+流黄涕	潜在联系	Biotinidase Deficiency
+流黄浊涕	潜在联系	Biotinidase Deficiency
+目赤昏花	潜在联系	Biotinidase Deficiency
+目昏不明	潜在联系	Biotinidase Deficiency
+目涩	潜在联系	Biotinidase Deficiency
+目生云翳	潜在联系	Biotinidase Deficiency
+皮疹表面覆有较厚的银白色鳞屑	潜在联系	Biotinidase Deficiency
+瘙痒	潜在联系	Biotinidase Deficiency
+瘙痒明显	潜在联系	Biotinidase Deficiency
+脱发	潜在联系	Biotinidase Deficiency
+脱屑	潜在联系	Biotinidase Deficiency
+微恶风寒	潜在联系	Biotinidase Deficiency
+牙龈痛	潜在联系	Biotinidase Deficiency
+咽干喉痛	潜在联系	Biotinidase Deficiency
+咽喉不利	潜在联系	Biotinidase Deficiency
+咽喉痒	潜在联系	Biotinidase Deficiency
+咽黏膜充血	潜在联系	Biotinidase Deficiency
+眼边刺痒	潜在联系	Biotinidase Deficiency
+眼睛痛痒	潜在联系	Biotinidase Deficiency
+痒	潜在联系	Biotinidase Deficiency
+浊涕臭气	潜在联系	Biotinidase Deficiency
+咽喉干痛	潜在联系	Biotinidase Deficiency
+目暗	潜在联系	Biotinidase Deficiency
+目痛	潜在联系	Biotinidase Deficiency
+秃疮	潜在联系	Biotinidase Deficiency
+风热郁肺咽痛	潜在联系	Biotinidase Deficiency
+口舌干燥	潜在联系	Septo-Optic Dysplasia Spectrum
+尿黄如茶	潜在联系	Septo-Optic Dysplasia Spectrum
+尿热	潜在联系	Septo-Optic Dysplasia Spectrum
+脓疱	潜在联系	Septo-Optic Dysplasia Spectrum
+头重	潜在联系	Septo-Optic Dysplasia Spectrum
+下血	潜在联系	Septo-Optic Dysplasia Spectrum
+小腹胀痛	潜在联系	Septo-Optic Dysplasia Spectrum
+脘胁胀痛	潜在联系	Septo-Optic Dysplasia Spectrum
+面赤	潜在联系	Septo-Optic Dysplasia Spectrum
+头重	潜在联系	Ornithine Transcarbamylase Deficiency
+小便浑浊	潜在联系	Ornithine Transcarbamylase Deficiency
+小便淋漓	潜在联系	Ornithine Transcarbamylase Deficiency
+目痒	潜在联系	Ornithine Transcarbamylase Deficiency
+乳房结节	潜在联系	Argininemia
+痞闷	潜在联系	Alpha-1-Antitrypsin Deficiency
+妊娠漏血	潜在联系	Alpha-1-Antitrypsin Deficiency
+流黄稠涕	潜在联系	Cerebrotendinous Xanthomatosis
+皮肤溃疡	潜在联系	Cerebrotendinous Xanthomatosis
+皮肤糜烂	潜在联系	Cerebrotendinous Xanthomatosis
+蚀疮	潜在联系	Cerebrotendinous Xanthomatosis
+湿疮脓水浸淫	潜在联系	Multiple Endocrine Neoplasia Type 1
+小腹胀痛	潜在联系	Multiple Endocrine Neoplasia Type 1
+胸脘满闷	潜在联系	Multiple Endocrine Neoplasia Type 1
+肛门灼热	潜在联系	Multiple Endocrine Neoplasia Type 1
+面赤	潜在联系	Multiple Endocrine Neoplasia Type 1
+血热发疹	潜在联系	Malt Lymphoma
+身热	潜在联系	Malt Lymphoma
+腐肉不去	潜在联系	Malt Lymphoma
+流黄浊涕	潜在联系	Malt Lymphoma
+大便干结难下	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+舌尖红	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+不喜热饮	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+流脓涕	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+目黄	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+尿色偏黄	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+石淋涩痛	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+头痛如裹	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+小便淋浊	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+小腹胀	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+胁下痞块	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+胸中闷痛	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+劳热	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+呕吐呃逆	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+肠鸣	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+乳癖	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+胃肠积热	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+胎动不安	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+焮肿	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+风热	潜在联系	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes
+不眠	潜在联系	Malaria
+关节红肿热痛	潜在联系	Malaria
+疖肿	潜在联系	Malaria
+尿痛	潜在联系	Malaria
+舌红苔黄腻	潜在联系	Malaria
+舌体肿	潜在联系	Malaria
+二便不利	潜在联系	Malaria
+后重	潜在联系	Malaria
+口臭	潜在联系	Malaria
+胃脘嘈杂	潜在联系	Malaria
+便血	潜在联系	Malaria
+痈肿疮疡	潜在联系	Malaria
+痔瘘	潜在联系	Malaria
+红疹	潜在联系	Malaria
+咽红肿痛	潜在联系	Malaria
+尿混浊	潜在联系	Epidermolysis Bullosa Simplex, Dowling-Meara Type
+蚀疮	潜在联系	Epidermolysis Bullosa Simplex, Dowling-Meara Type
+小便淋漓	潜在联系	Epidermolysis Bullosa Simplex, Dowling-Meara Type
+痰稠	潜在联系	Epidermolysis Bullosa Simplex, Dowling-Meara Type
+痞闷	潜在联系	Rett Syndrome
+癥瘕痞块	潜在联系	Rett Syndrome
+齿痛	潜在联系	Rett Syndrome
+咽喉不利	潜在联系	Rett Syndrome
+多食	潜在联系	Chronic Myeloid Leukemia
+大便燥结	潜在联系	Lysosomal Acid Lipase Deficiency
+身困重	潜在联系	Lysosomal Acid Lipase Deficiency
+火毒疮疡	潜在联系	Lysosomal Acid Lipase Deficiency
+鼻痒	潜在联系	Lysosomal Acid Lipase Deficiency
+面红	潜在联系	Wiskott-Aldrich Syndrome
+心气痛	潜在联系	Wiskott-Aldrich Syndrome
+妇人脏躁	潜在联系	Wiskott-Aldrich Syndrome
+血热发疹	潜在联系	Wiskott-Aldrich Syndrome
+疖肿	潜在联系	Wiskott-Aldrich Syndrome
+口苦	潜在联系	Wiskott-Aldrich Syndrome
+两胁胀痛	潜在联系	Wiskott-Aldrich Syndrome
+淋浊	潜在联系	Wiskott-Aldrich Syndrome
+流黄稠涕	潜在联系	Wiskott-Aldrich Syndrome
+流脓	潜在联系	Wiskott-Aldrich Syndrome
+面目悉黄	潜在联系	Wiskott-Aldrich Syndrome
+脓疱	潜在联系	Wiskott-Aldrich Syndrome
+皮肤溃疡	潜在联系	Wiskott-Aldrich Syndrome
+痞满	潜在联系	Wiskott-Aldrich Syndrome
+热淋证	潜在联系	Wiskott-Aldrich Syndrome
+舌红苔黄腻	潜在联系	Wiskott-Aldrich Syndrome
+舌胖	潜在联系	Wiskott-Aldrich Syndrome
+身目发黄	潜在联系	Wiskott-Aldrich Syndrome
+石淋	潜在联系	Wiskott-Aldrich Syndrome
+头重	潜在联系	Wiskott-Aldrich Syndrome
+外阴红肿	潜在联系	Wiskott-Aldrich Syndrome
+小便滴沥不净	潜在联系	Wiskott-Aldrich Syndrome
+小便滴沥不净	潜在联系	Wiskott-Aldrich Syndrome
+小便涩痛	潜在联系	Wiskott-Aldrich Syndrome
+胁下痞块	潜在联系	Wiskott-Aldrich Syndrome
+胸膈痞满	潜在联系	Wiskott-Aldrich Syndrome
+血尿	潜在联系	Wiskott-Aldrich Syndrome
+呕吐呃逆	潜在联系	Wiskott-Aldrich Syndrome
+带下阴痒	潜在联系	Wiskott-Aldrich Syndrome
+脓水淋漓	潜在联系	Wiskott-Aldrich Syndrome
+膝酸软	潜在联系	Wiskott-Aldrich Syndrome
+脐腹胀痛	潜在联系	Wiskott-Aldrich Syndrome
+停食	潜在联系	Wiskott-Aldrich Syndrome
+脘腹胀闷	潜在联系	Wiskott-Aldrich Syndrome
+肛门灼热	潜在联系	Wiskott-Aldrich Syndrome
+口渴	潜在联系	Wiskott-Aldrich Syndrome
+多食	潜在联系	Wiskott-Aldrich Syndrome
+乳房胀痛	潜在联系	Wiskott-Aldrich Syndrome
+乳痈	潜在联系	Wiskott-Aldrich Syndrome
+胃脘嘈杂	潜在联系	Wiskott-Aldrich Syndrome
+牙疼	潜在联系	Wiskott-Aldrich Syndrome
+胃火牙痛	潜在联系	Wiskott-Aldrich Syndrome
+便闭	潜在联系	Wiskott-Aldrich Syndrome
+肌肤红	潜在联系	Wiskott-Aldrich Syndrome
+热病发烧	潜在联系	Wiskott-Aldrich Syndrome
+妊娠漏血	潜在联系	Wiskott-Aldrich Syndrome
+腮腺炎肿痛	潜在联系	Wiskott-Aldrich Syndrome
+痔疮出血	潜在联系	Wiskott-Aldrich Syndrome
+火毒疮疡	潜在联系	Wiskott-Aldrich Syndrome
+痱子	潜在联系	Wiskott-Aldrich Syndrome
+鼻流浊涕	潜在联系	Wiskott-Aldrich Syndrome
+目暗不明	潜在联系	Wiskott-Aldrich Syndrome
+痰稠难出	潜在联系	Wiskott-Aldrich Syndrome
+咽红	潜在联系	Wiskott-Aldrich Syndrome
+眼睛痛痒	潜在联系	Wiskott-Aldrich Syndrome
+痒	潜在联系	Wiskott-Aldrich Syndrome
+浊涕臭气	潜在联系	Wiskott-Aldrich Syndrome
+痰热咳嗽	潜在联系	Wiskott-Aldrich Syndrome
+目痛	潜在联系	Wiskott-Aldrich Syndrome
+风热郁肺咽痛	潜在联系	Wiskott-Aldrich Syndrome
+舌红	潜在联系	Tuberculosis
+腹胀满	潜在联系	Tuberculosis
+流脓涕	潜在联系	Tuberculosis
+小便白浊	潜在联系	Tuberculosis
+胸腹胀闷	潜在联系	Tuberculosis
+小儿惊啼	潜在联系	Tuberculosis
+大便出血	潜在联系	Tuberculosis
+盗汗	潜在联系	Tuberculosis
+庁肿	潜在联系	Tuberculosis
+腹胀	潜在联系	Tooth Mobility
+身目发黄	潜在联系	Tooth Mobility
+胸胀满	潜在联系	Tooth Mobility
+后重	潜在联系	Tooth Mobility
+泻痢后重	潜在联系	Tooth Mobility
+胃热	潜在联系	Tooth Mobility
+小儿疳积	潜在联系	Tooth Mobility
+风眼烂弦	潜在联系	Tooth Mobility
+衄血	潜在联系	Tooth Mobility
+流浊涕	潜在联系	Tooth Mobility
+牙痛	潜在联系	Tooth Mobility
+浊涕臭气	潜在联系	Tooth Mobility
+耳内流脓	潜在联系	Giant Cell Arteritis
+头痈	潜在联系	Giant Cell Arteritis
+耳内流脓	潜在联系	Takayasu Arteritis
+黄疸	潜在联系	Takayasu Arteritis
+肿毒	潜在联系	Takayasu Arteritis
+大便干结	潜在联系	Sinusitis
+大便脓血	潜在联系	Sinusitis
+舌尖红	潜在联系	Sinusitis
+口苦	潜在联系	Sinusitis
+黏液便	潜在联系	Sinusitis
+尿黄	潜在联系	Sinusitis
+舌有齿痕	潜在联系	Sinusitis
+湿痹拘挛	潜在联系	Sinusitis
+吐脓	潜在联系	Sinusitis
+脘腹痞闷	潜在联系	Sinusitis
+小便白浊	潜在联系	Sinusitis
+胸腹胀满	潜在联系	Sinusitis
+胸胁胀痛	潜在联系	Sinusitis
+血尿	潜在联系	Sinusitis
+灼痛	潜在联系	Sinusitis
+湿痹	潜在联系	Sinusitis
+膝酸软	潜在联系	Sinusitis
+口鼻生疮	潜在联系	Sinusitis
+乳房肿痛	潜在联系	Sinusitis
+盗汗	潜在联系	Sinusitis
+月经过多	潜在联系	Sinusitis
+痔疮出血	潜在联系	Sinusitis
+痔疮肿	潜在联系	Sinusitis
+痈疮肿毒	潜在联系	Sinusitis
+鼻塞	潜在联系	Sinusitis
+风热	潜在联系	Sinusitis
+目暗不明	潜在联系	Sinusitis
+咽喉干痛	潜在联系	Sinusitis
+小儿惊风	潜在联系	Osteogenic Sarcoma
+脓水淋漓	潜在联系	Osteogenic Sarcoma
+乳房结节	潜在联系	Osteogenic Sarcoma
+咯痰色黄	潜在联系	Osteogenic Sarcoma
+眼睛痛痒	潜在联系	Osteogenic Sarcoma
+大便干结难下	潜在联系	Prune Belly Syndrome
+吐血	潜在联系	Prune Belly Syndrome
+头重	潜在联系	Prune Belly Syndrome
+胸胁闷痛	潜在联系	Prune Belly Syndrome
+肢体困重	潜在联系	Polycythemia Vera
+乳房结节	潜在联系	Polycythemia Vera
+潮热	潜在联系	Polycythemia Vera
+耳漏	潜在联系	Parathyroid Carcinoma
+小便痛	潜在联系	Parathyroid Carcinoma
+胸膈痞闷	潜在联系	Parathyroid Carcinoma
+胸胁闷痛	潜在联系	Parathyroid Carcinoma
+癥瘕痞块	潜在联系	Parathyroid Carcinoma
+头痈	潜在联系	Parathyroid Carcinoma
+咽红肿痛	潜在联系	Parathyroid Carcinoma
+口生疮	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+舌生疮	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+恶心	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+耳聋	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+身困重	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+头痛如裹	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+小便滴沥不净	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+小便黄	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+胸膈痞闷	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+胸胁痞闷	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+小儿慢惊	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+脓水淋漓	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+粉刺	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+尿血血色紫红	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+痈疽不溃	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+鼻塞	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+痰稠	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+眼生翳膜	潜在联系	Hereditary Sensory And Autonomic Neuropathy Type 4
+下血	潜在联系	Myocardial Infarction
+身黄	潜在联系	Myocardial Infarction
+尿血血色鲜红	潜在联系	Myocardial Infarction
+流黄涕	潜在联系	Myocardial Infarction
+痞闷	潜在联系	Multiple Myeloma
+热痢	潜在联系	Multiple Myeloma
+小便涩痛	潜在联系	Multiple Myeloma
+乳腺增生	潜在联系	Multiple Myeloma
+咽喉灼热	潜在联系	Multiple Myeloma
+脘胁胀痛	潜在联系	Migraine Disorders
+胃脘烧灼感	潜在联系	Migraine Disorders
+易饥	潜在联系	Migraine Disorders
+瘙痒明显	潜在联系	Migraine Disorders
+目涩痛	潜在联系	Migraine Disorders
+肢体沉重	潜在联系	Hypertensive Disease
+肢体酸重	潜在联系	Hypertensive Disease
+头痈	潜在联系	Hypertensive Disease
+舌生疮	潜在联系	Hyperbilirubinemia, Rotor Type
+恶心	潜在联系	Hyperbilirubinemia, Rotor Type
+肝区胀痛	潜在联系	Hyperbilirubinemia, Rotor Type
+尿色偏黄	潜在联系	Hyperbilirubinemia, Rotor Type
+胸膈痞闷	潜在联系	Hyperbilirubinemia, Rotor Type
+胸胁痞闷	潜在联系	Hyperbilirubinemia, Rotor Type
+盗汗	潜在联系	Hyperbilirubinemia, Rotor Type
+赤缕红斑	潜在联系	Hyperbilirubinemia, Rotor Type
+目赤昏花	潜在联系	Hyperbilirubinemia, Rotor Type
+淋浊	潜在联系	Budd-Chiari Syndrome
+流脓涕	潜在联系	Budd-Chiari Syndrome
+毛发油腻	潜在联系	Budd-Chiari Syndrome
+痞满	潜在联系	Budd-Chiari Syndrome
+浅表脓疱	潜在联系	Budd-Chiari Syndrome
+热痹疼痛	潜在联系	Budd-Chiari Syndrome
+热淋证	潜在联系	Budd-Chiari Syndrome
+舌胖	潜在联系	Budd-Chiari Syndrome
+身困重	潜在联系	Budd-Chiari Syndrome
+身热	潜在联系	Budd-Chiari Syndrome
+湿痹拘挛	潜在联系	Budd-Chiari Syndrome
+嗖痛	潜在联系	Budd-Chiari Syndrome
+小便淋浊	潜在联系	Budd-Chiari Syndrome
+泄泻	潜在联系	Budd-Chiari Syndrome
+胸中闷痛	潜在联系	Budd-Chiari Syndrome
+灼痛	潜在联系	Budd-Chiari Syndrome
+足膝红肿热痛	潜在联系	Budd-Chiari Syndrome
+小儿慢惊	潜在联系	Budd-Chiari Syndrome
+类风湿性关节炎	潜在联系	Budd-Chiari Syndrome
+肢体重	潜在联系	Budd-Chiari Syndrome
+脓水淋漓	潜在联系	Budd-Chiari Syndrome
+膝酸软	潜在联系	Budd-Chiari Syndrome
+赤白带下	潜在联系	Budd-Chiari Syndrome
+身黄	潜在联系	Budd-Chiari Syndrome
+便结	潜在联系	Budd-Chiari Syndrome
+口鼻生疮	潜在联系	Budd-Chiari Syndrome
+乳房肿块	潜在联系	Budd-Chiari Syndrome
+乳痈	潜在联系	Budd-Chiari Syndrome
+盗汗	潜在联系	Budd-Chiari Syndrome
+五心烦热	潜在联系	Budd-Chiari Syndrome
+便闭	潜在联系	Budd-Chiari Syndrome
+妊娠漏血	潜在联系	Budd-Chiari Syndrome
+腮腺炎肿痛	潜在联系	Budd-Chiari Syndrome
+痈疽肿毒	潜在联系	Budd-Chiari Syndrome
+痈疮肿毒	潜在联系	Budd-Chiari Syndrome
+目暗昏花	潜在联系	Budd-Chiari Syndrome
+咽部肿痛	潜在联系	Budd-Chiari Syndrome
+咽喉痒	潜在联系	Budd-Chiari Syndrome
+眼生翳膜	潜在联系	Budd-Chiari Syndrome
+痒	潜在联系	Budd-Chiari Syndrome
+浊涕臭气	潜在联系	Budd-Chiari Syndrome
+浊涕臭气	潜在联系	Budd-Chiari Syndrome
+咽喉干痛	潜在联系	Budd-Chiari Syndrome
+牙龈疼痛	潜在联系	Budd-Chiari Syndrome
+目暗	潜在联系	Budd-Chiari Syndrome
+血热吐紐	潜在联系	Congestive Heart Failure
+身目发黄	潜在联系	Congestive Heart Failure
+吐脓	潜在联系	Congestive Heart Failure
+鼻流浊涕	潜在联系	Congestive Heart Failure
+痔疮肿	潜在联系	Glycogen Storage Disease Vii
+类风湿性关节炎	潜在联系	Gingivitis
+舌红	潜在联系	Classic Galactosemia
+舌尖红	潜在联系	Classic Galactosemia
+小便赤涩	潜在联系	Classic Galactosemia
+夜惊	潜在联系	Classic Galactosemia
+妇人脏躁	潜在联系	Classic Galactosemia
+血热发斑	潜在联系	Classic Galactosemia
+血热发疹	潜在联系	Classic Galactosemia
+便黄而黏	潜在联系	Classic Galactosemia
+恶心	潜在联系	Classic Galactosemia
+耳下肿痛	潜在联系	Classic Galactosemia
+腹胀满	潜在联系	Classic Galactosemia
+口苦	潜在联系	Classic Galactosemia
+淋浊	潜在联系	Classic Galactosemia
+流黄稠涕	潜在联系	Classic Galactosemia
+流脓涕	潜在联系	Classic Galactosemia
+尿道灼热	潜在联系	Classic Galactosemia
+尿黄如茶	潜在联系	Classic Galactosemia
+尿混浊	潜在联系	Classic Galactosemia
+脓痰	潜在联系	Classic Galactosemia
+皮肤溃疡	潜在联系	Classic Galactosemia
+皮肤黏膜破溃	潜在联系	Classic Galactosemia
+浅表脓疱	潜在联系	Classic Galactosemia
+热痹疼痛	潜在联系	Classic Galactosemia
+舌红苔黄腻	潜在联系	Classic Galactosemia
+舌体胖大	潜在联系	Classic Galactosemia
+身热	潜在联系	Classic Galactosemia
+湿痹拘挛	潜在联系	Classic Galactosemia
+湿疮脓水浸淫	潜在联系	Classic Galactosemia
+石淋	潜在联系	Classic Galactosemia
+头痛如裹	潜在联系	Classic Galactosemia
+头重	潜在联系	Classic Galactosemia
+外阴红肿	潜在联系	Classic Galactosemia
+脘痞	潜在联系	Classic Galactosemia
+膝酸痛	潜在联系	Classic Galactosemia
+下痢臭秽	潜在联系	Classic Galactosemia
+下痢脓血	潜在联系	Classic Galactosemia
+下肢沉重	潜在联系	Classic Galactosemia
+小便白浊	潜在联系	Classic Galactosemia
+小便黄	潜在联系	Classic Galactosemia
+小腹满	潜在联系	Classic Galactosemia
+小腹胀痛	潜在联系	Classic Galactosemia
+胸脘满闷	潜在联系	Classic Galactosemia
+胸胁胀痛	潜在联系	Classic Galactosemia
+胸胀满	潜在联系	Classic Galactosemia
+胸中满闷	潜在联系	Classic Galactosemia
+胸中闷热	潜在联系	Classic Galactosemia
+血尿	潜在联系	Classic Galactosemia
+阴痒	潜在联系	Classic Galactosemia
+胀痛	潜在联系	Classic Galactosemia
+足膝红肿热痛	潜在联系	Classic Galactosemia
+小儿惊啼	潜在联系	Classic Galactosemia
+小儿惊痫	潜在联系	Classic Galactosemia
+小儿惊风	潜在联系	Classic Galactosemia
+小儿慢惊	潜在联系	Classic Galactosemia
+带下阴痒	潜在联系	Classic Galactosemia
+湿痹	潜在联系	Classic Galactosemia
+脓水淋漓	潜在联系	Classic Galactosemia
+血淋涩痛	潜在联系	Classic Galactosemia
+赤白带下	潜在联系	Classic Galactosemia
+嘈杂呕吐	潜在联系	Classic Galactosemia
+身黄	潜在联系	Classic Galactosemia
+里急后重	潜在联系	Classic Galactosemia
+便干	潜在联系	Classic Galactosemia
+便结	潜在联系	Classic Galactosemia
+大便出血	潜在联系	Classic Galactosemia
+多饮	潜在联系	Classic Galactosemia
+呃逆	潜在联系	Classic Galactosemia
+乳房肿块	潜在联系	Classic Galactosemia
+胃酸过多	潜在联系	Classic Galactosemia
+易饥	潜在联系	Classic Galactosemia
+胃火牙痛	潜在联系	Classic Galactosemia
+五心烦热	潜在联系	Classic Galactosemia
+形体消瘦	潜在联系	Classic Galactosemia
+便闭	潜在联系	Classic Galactosemia
+便血	潜在联系	Classic Galactosemia
+肠风下血	潜在联系	Classic Galactosemia
+赤缕红斑	潜在联系	Classic Galactosemia
+恶疮	潜在联系	Classic Galactosemia
+痱疹鲜红	潜在联系	Classic Galactosemia
+腐肉不去	潜在联系	Classic Galactosemia
+咳血	潜在联系	Classic Galactosemia
+两腮肿	潜在联系	Classic Galactosemia
+尿血	潜在联系	Classic Galactosemia
+尿血血色鲜红	潜在联系	Classic Galactosemia
+腮腺炎肿痛	潜在联系	Classic Galactosemia
+舌暗红	潜在联系	Classic Galactosemia
+舌赤	潜在联系	Classic Galactosemia
+痈疽肿毒	潜在联系	Classic Galactosemia
+痈肿	潜在联系	Classic Galactosemia
+月经提前	潜在联系	Classic Galactosemia
+痔疮出血	潜在联系	Classic Galactosemia
+痔疮痛	潜在联系	Classic Galactosemia
+痔疮肿痛	潜在联系	Classic Galactosemia
+恶露不尽	潜在联系	Classic Galactosemia
+焮肿	潜在联系	Classic Galactosemia
+痈肿疔疮	潜在联系	Classic Galactosemia
+痱子	潜在联系	Classic Galactosemia
+红疹	潜在联系	Classic Galactosemia
+肠痈	潜在联系	Classic Galactosemia
+鼻流浊涕	潜在联系	Classic Galactosemia
+咯痰色黄	潜在联系	Classic Galactosemia
+流黄浊涕	潜在联系	Classic Galactosemia
+流浊涕	潜在联系	Classic Galactosemia
+瘙痒	潜在联系	Classic Galactosemia
+脱屑	潜在联系	Classic Galactosemia
+咽部肿痛	潜在联系	Classic Galactosemia
+咽喉干	潜在联系	Classic Galactosemia
+咽喉痒	潜在联系	Classic Galactosemia
+眼边刺痒	潜在联系	Classic Galactosemia
+眼睛痛痒	潜在联系	Classic Galactosemia
+眼生翳膜	潜在联系	Classic Galactosemia
+痒	潜在联系	Classic Galactosemia
+痰热咳嗽	潜在联系	Classic Galactosemia
+目痛	潜在联系	Classic Galactosemia
+风热郁肺咽痛	潜在联系	Classic Galactosemia
+风疹	潜在联系	Classic Galactosemia
+皮肤溃疡	潜在联系	Diabetes Mellitus, Non-Insulin-Dependent
+尿热	潜在联系	Dental Enamel Hypoplasia
+肢体酸重	潜在联系	Dental Enamel Hypoplasia
+口渴喜饮	潜在联系	Dens In Dente
+胁肋疼痛	潜在联系	Dens In Dente
+泄泻	潜在联系	Dens In Dente
+臁疮糜烂	潜在联系	Cystic Fibrosis
+大便脓血	潜在联系	Coronary Artery Disease
+心痛	潜在联系	Coronary Artery Disease
+脘痞	潜在联系	Coronary Artery Disease
+小便淋漓	潜在联系	Coronary Artery Disease
+舌生疮	潜在联系	Chediak-Higashi Syndrome
+血热吐紐	潜在联系	Chediak-Higashi Syndrome
+妇人脏躁	潜在联系	Chediak-Higashi Syndrome
+肝区胀痛	潜在联系	Chediak-Higashi Syndrome
+尿赤	潜在联系	Chediak-Higashi Syndrome
+尿黄如茶	潜在联系	Chediak-Higashi Syndrome
+热痢	潜在联系	Chediak-Higashi Syndrome
+小便涩痛	潜在联系	Chediak-Higashi Syndrome
+胸腹胀痛	潜在联系	Chediak-Higashi Syndrome
+胸膈痞闷	潜在联系	Chediak-Higashi Syndrome
+肢体酸重	潜在联系	Chediak-Higashi Syndrome
+赤白带下	潜在联系	Chediak-Higashi Syndrome
+黄水淋漓	潜在联系	Chediak-Higashi Syndrome
+嘈杂呕吐	潜在联系	Chediak-Higashi Syndrome
+乳腺增生	潜在联系	Chediak-Higashi Syndrome
+咳血	潜在联系	Chediak-Higashi Syndrome
+两腮肿痛	潜在联系	Chediak-Higashi Syndrome
+衄血	潜在联系	Chediak-Higashi Syndrome
+痈肿	潜在联系	Chediak-Higashi Syndrome
+肿毒	潜在联系	Chediak-Higashi Syndrome
+红疹	潜在联系	Chediak-Higashi Syndrome
+肠痈肿痛	潜在联系	Chediak-Higashi Syndrome
+目涩	潜在联系	Chediak-Higashi Syndrome
+瘙痒明显	潜在联系	Chediak-Higashi Syndrome
+咽黏膜充血	潜在联系	Chediak-Higashi Syndrome
+尿黄	潜在联系	Bloom Syndrome
+舌有齿痕	潜在联系	Bloom Syndrome
+吐脓	潜在联系	Bloom Syndrome
+脘腹痞闷	潜在联系	Bloom Syndrome
+胸腹胀满	潜在联系	Bloom Syndrome
+胸胁胀痛	潜在联系	Bloom Syndrome
+痔疮肿	潜在联系	Bloom Syndrome
+鼻塞	潜在联系	Bloom Syndrome
+目暗不明	潜在联系	Bloom Syndrome
+两胁胀痛	潜在联系	Asthma
+舌红苔黄腻	潜在联系	Asthma
+头身困重	潜在联系	Asthma
+小腹胀痛	潜在联系	Asthma
+口渴喜饮	潜在联系	Fabry Disease
+口舌干燥	潜在联系	Fabry Disease
+吐血	潜在联系	Fabry Disease
+脓痰	潜在联系	Fabry Disease
+皮肤黏膜破溃	潜在联系	Fabry Disease
+头痛如裹	潜在联系	Fabry Disease
+下血	潜在联系	Fabry Disease
+盗汗	潜在联系	Fabry Disease
+风眼烂弦	潜在联系	Fabry Disease
+尿血血色鲜红	潜在联系	Fabry Disease
+痱子	潜在联系	Fabry Disease
+疥癣瘙痒	潜在联系	Fabry Disease
+流黄浊涕	潜在联系	Fabry Disease
+舌生疮	潜在联系	Sickle Cell Anemia
+疖肿	潜在联系	Sickle Cell Anemia
+尿色偏黄	潜在联系	Sickle Cell Anemia
+石淋	潜在联系	Sickle Cell Anemia
+膝酸痛	潜在联系	Sickle Cell Anemia
+下痢臭秽	潜在联系	Sickle Cell Anemia
+胁肋疼痛	潜在联系	Sickle Cell Anemia
+乳房疼痛	潜在联系	Sickle Cell Anemia
+潮热	潜在联系	Sickle Cell Anemia
+赤缕红斑	潜在联系	Sickle Cell Anemia
+肿毒	潜在联系	Sickle Cell Anemia
+牙痛	潜在联系	Sickle Cell Anemia
+血热吐衄	潜在联系	Anemia
+关节红肿热痛	潜在联系	Anemia
+肌肉红肿热痛	潜在联系	Anemia
+下肢沉重	潜在联系	Anemia
+小便淋漓	潜在联系	Anemia
+血淋涩痛	潜在联系	Anemia
+乳腺增生	潜在联系	Anemia
+牙龈出血	潜在联系	Anemia
+口燥	潜在联系	Anemia
+小儿疳积发热	潜在联系	Anemia
+尿血血色紫红	潜在联系	Anemia
+头痈	潜在联系	Anemia
+痈疽难溃	潜在联系	Anemia
+痔疮肿痛	潜在联系	Anemia
+鼻流浊涕	潜在联系	Anemia
+目痒	潜在联系	Anemia
+风疹	潜在联系	Anemia
+湿痹病	潜在联系	Abetalipoproteinemia
+牙痛	潜在联系	Abetalipoproteinemia
+妇人脏躁	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+腹胀	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+腹胀满	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+两胁胀痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+尿道灼热	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+尿黄如茶	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+尿热	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+尿痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+脓疱	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+皮肤糜烂	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+皮肤黏膜破溃	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+痞闷	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+舌体肿	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+蚀疮	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+湿热下注	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+听衰	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+下痢脓血	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+下肢沉重	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+小腹胀痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+胸膈痞满	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+胸中闷痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+血淋	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+小儿惊痫	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+带下阴痒	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+湿痹病	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+聘耳流脓	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+脐腹胀痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+乳房胀痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+乳胀痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+胃脘嘈杂不适	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+潮热	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+肠风下血	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+齿痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+尿血	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+衄血	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+痈肿疮疡	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+痔疮痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+庁肿	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+风热	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+微恶风寒	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+咽喉干	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+目涩痛	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+风疹	潜在联系	Generalized Congenital Lipodystrophy With Myopathy
+舌红苔黄腻	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+胸中闷痛	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+小儿慢惊	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+嘈杂	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+停食	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+胃脘嘈杂	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+脱屑	潜在联系	Pyogenic Bacterial Infections Due To Myd88 Deficiency
+臁疮糜烂	潜在联系	Familial Gestational Hyperthyroidism
+臁疮糜烂	潜在联系	Bile Acid Synthesis Defect, Congenital, 3
+大便干结难下	潜在联系	Dominant Beta-Thalassemia
+大便干结	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+大便脓血	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+舌尖红	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+口苦	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+尿黄	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+舌有齿痕	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+吐脓	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+脘腹痞闷	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+胸胁胀痛	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+膝酸软	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+口鼻生疮	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+乳房肿痛	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+月经过多	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+痔疮出血	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+痔疮肿	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+痈疮肿毒	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+鼻塞	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+目暗不明	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+咽喉干痛	潜在联系	Vitamin B12-Unresponsive Methylmalonic Acidemia Type Mut0
+潮热	潜在联系	Carney-Stratakis Syndrome
+风热感冒	潜在联系	Carney-Stratakis Syndrome
+皮肤风团色红	潜在联系	Carney-Stratakis Syndrome
+舌红	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+舌糜烂	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+血热吐紐	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+夜惊	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+夜啼	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+耳道流脓	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+黏液便	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+痞满	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+舌体胖大	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+石淋涩痛	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+外阴红肿	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+胸痞	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+胸脘满闷	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+胸中满闷	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+血淋	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+血尿	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+足膝红肿热痛	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+小便淋漓	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+小儿惊痫	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+小儿惊风	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+类风湿性关节炎	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+血痢	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+嘈杂呕吐	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+肠鸣	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+肛门灼热	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+乳房肿块	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+乳房肿块	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+乳癖	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+胃脘嘈杂	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+便血	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+痱疹鲜红	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+咯血	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+咳血	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+两腮肿痛	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+妊娠漏血	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+天行赤眼	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+痈疽肿毒	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+痔疮肿痛	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+肠风	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+咽红肿痛	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+痒	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+风湿热痹	潜在联系	Peripheral Demyelinating Neuropathy-Central Dysmyelinating Leukodystrophy-Waardenburg Syndrome-Hirschsprung Disease
+身目发黄	潜在联系	Mednik Syndrome
+耳内流脓	潜在联系	Folate Malabsorption, Hereditary
+下血	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+胁下痞块	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+牙龈肿痛出血	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+风眼烂弦	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+面赤	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+尿血血色鲜红	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+流黄涕	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+目昏不明	潜在联系	Alpha-Thalassemia-X-Linked Intellectual Disability Syndrome
+下肢沉重	潜在联系	Acrodermatitis Enteropathica
+小便黄	潜在联系	Acrodermatitis Enteropathica
+阴痒	潜在联系	Acrodermatitis Enteropathica
+血淋涩痛	潜在联系	Acrodermatitis Enteropathica
+口燥	潜在联系	Acrodermatitis Enteropathica
+尿血	潜在联系	Acrodermatitis Enteropathica
+小便淋漓	潜在联系	Blau Syndrome
+风热感冒	潜在联系	Blau Syndrome
+流脓涕	潜在联系	Adult Syndrome
+目发黄	潜在联系	Adult Syndrome
+皮肤糜烂	潜在联系	Adult Syndrome
+牙痛	潜在联系	Adult Syndrome
+小便赤涩	潜在联系	Majeed Syndrome
+流脓	潜在联系	Majeed Syndrome
+身目发黄	潜在联系	Majeed Syndrome
+暑邪发热	潜在联系	Majeed Syndrome
+肢体困重	潜在联系	Majeed Syndrome
+热淋	潜在联系	Majeed Syndrome
+呃逆	潜在联系	Majeed Syndrome
+五心烦热	潜在联系	Majeed Syndrome
+暴注下泻	潜在联系	Majeed Syndrome
+尿血血色紫红	潜在联系	Majeed Syndrome
+舌暗红	潜在联系	Majeed Syndrome
+痈疽脓成不溃	潜在联系	Majeed Syndrome
+痈肿疔疮	潜在联系	Majeed Syndrome
+肠痈肿痛	潜在联系	Majeed Syndrome
+皮疹表面覆有较厚的银白色鳞屑	潜在联系	Majeed Syndrome
+风热郁肺咽痛	潜在联系	Majeed Syndrome
+尿热	潜在联系	Isolated Complex I Deficiency
+咯血	潜在联系	Isolated Complex I Deficiency
+尿热	潜在联系	Griscelli Syndrome, Type 2
+舌体胖大	潜在联系	Griscelli Syndrome, Type 2
+暑邪发热	潜在联系	Griscelli Syndrome, Type 2
+泄泻	潜在联系	Griscelli Syndrome, Type 2
+胃脘嘈杂不适	潜在联系	Griscelli Syndrome, Type 2
+赤缕红斑	潜在联系	Griscelli Syndrome, Type 2
+皮肤风团色红	潜在联系	Griscelli Syndrome, Type 2
+尿热	潜在联系	Familial Neurocardiogenic Syncope
+热痢	潜在联系	Familial Neurocardiogenic Syncope
+胁肋部疼痛	潜在联系	Familial Neurocardiogenic Syncope
+乳房结节	潜在联系	Familial Neurocardiogenic Syncope
+牙疼	潜在联系	Familial Neurocardiogenic Syncope
+腐肉不去	潜在联系	Familial Neurocardiogenic Syncope
+痈疽初起	潜在联系	Familial Neurocardiogenic Syncope
+痰稠难出	潜在联系	Familial Neurocardiogenic Syncope
+尿急	潜在联系	Glutaryl-Coa Dehydrogenase Deficiency
+脓痰	潜在联系	Glutaryl-Coa Dehydrogenase Deficiency
+胃火牙痛	潜在联系	Glutaryl-Coa Dehydrogenase Deficiency
+舌暗红	潜在联系	Glutaryl-Coa Dehydrogenase Deficiency
+风热郁肺咽痛	潜在联系	Glutaryl-Coa Dehydrogenase Deficiency
+口干	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+心气痛	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+发热	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+流脓	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+流脓涕	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+目黄	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+纳差	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+身目发黄	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+下肢沉重	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+小便浑浊	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+血淋	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+癥瘕痞块	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+足胫红肿热痛	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+劳热	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+湿痹	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+血淋涩痛	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+嘈杂	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+脐腹胀痛	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+呃逆	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+乳房胀痛	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+牙龈出血	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+牙龈红肿	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+易饥	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+口燥	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+小儿疳积发热	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+便闭	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+风眼烂弦	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+面赤	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+尿血血色紫红	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+腮肿	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+舌暗红	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+火毒疮疡	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+痈疽初起	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+风疹瘙痒	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+流黄涕	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+目昏不明	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+风湿热痹	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+风疹	潜在联系	Alpha-N-Acetylgalactosaminidase Deficiency Type 1
+头痈	潜在联系	Pyogenic Arthritis-Pyoderma Gangrenosum-Acne Syndrome
+风热感冒	潜在联系	Maternally-Inherited Diabetes And Deafness
+牙痛	潜在联系	Maternally-Inherited Diabetes And Deafness
+大便干结	潜在联系	Cyclic Neutropenia
+大便脓血	潜在联系	Cyclic Neutropenia
+舌尖红	潜在联系	Cyclic Neutropenia
+不眠	潜在联系	Cyclic Neutropenia
+口苦	潜在联系	Cyclic Neutropenia
+黏液便	潜在联系	Cyclic Neutropenia
+尿黄	潜在联系	Cyclic Neutropenia
+舌胖	潜在联系	Cyclic Neutropenia
+舌有齿痕	潜在联系	Cyclic Neutropenia
+湿痹拘挛	潜在联系	Cyclic Neutropenia
+吐脓	潜在联系	Cyclic Neutropenia
+脘腹痞闷	潜在联系	Cyclic Neutropenia
+小便白浊	潜在联系	Cyclic Neutropenia
+小便黄少	潜在联系	Cyclic Neutropenia
+胸腹胀满	潜在联系	Cyclic Neutropenia
+胸胁胀痛	潜在联系	Cyclic Neutropenia
+血尿	潜在联系	Cyclic Neutropenia
+灼痛	潜在联系	Cyclic Neutropenia
+湿痹	潜在联系	Cyclic Neutropenia
+膝酸软	潜在联系	Cyclic Neutropenia
+便结	潜在联系	Cyclic Neutropenia
+口鼻生疮	潜在联系	Cyclic Neutropenia
+乳房肿痛	潜在联系	Cyclic Neutropenia
+月经过多	潜在联系	Cyclic Neutropenia
+痔疮出血	潜在联系	Cyclic Neutropenia
+痔疮痛	潜在联系	Cyclic Neutropenia
+痔疮肿	潜在联系	Cyclic Neutropenia
+庁肿	潜在联系	Cyclic Neutropenia
+痈疮肿毒	潜在联系	Cyclic Neutropenia
+痈肿疔疮	潜在联系	Cyclic Neutropenia
+痔瘘	潜在联系	Cyclic Neutropenia
+鼻塞	潜在联系	Cyclic Neutropenia
+风热	潜在联系	Cyclic Neutropenia
+目暗不明	潜在联系	Cyclic Neutropenia
+咽喉干痛	潜在联系	Cyclic Neutropenia
+目暗	潜在联系	Cyclic Neutropenia
+尿血血色鲜红	潜在联系	Ehlers-Danlos Syndrome, Hypermobility Type
+呕吐	潜在联系	Dpagt1-Cdg
+乳房肿块	潜在联系	Dpagt1-Cdg
+臁疮糜烂	潜在联系	Mpi-Cdg
+吐血	潜在联系	Chylomicron Retention Disease
+尿色偏黄	潜在联系	Chylomicron Retention Disease
+胸胁闷痛	潜在联系	Chylomicron Retention Disease
+尿血血色紫红	潜在联系	Chylomicron Retention Disease
+风热郁肺咽痛	潜在联系	Congenital Bile Acid Synthesis Defect Type 1
+血热发斑	潜在联系	1P36 Deletion Syndrome
+发热	潜在联系	1P36 Deletion Syndrome
+脓疱	潜在联系	1P36 Deletion Syndrome
+热痹疼痛	潜在联系	1P36 Deletion Syndrome
+舌体胖大	潜在联系	1P36 Deletion Syndrome
+泄泻	潜在联系	1P36 Deletion Syndrome
+类风湿性关节炎	潜在联系	1P36 Deletion Syndrome
+嘈杂呕吐	潜在联系	1P36 Deletion Syndrome
+脘胁胀痛	潜在联系	1P36 Deletion Syndrome
+乳房疼痛	潜在联系	1P36 Deletion Syndrome
+乳腺增生	潜在联系	1P36 Deletion Syndrome
+牙龈出血	潜在联系	1P36 Deletion Syndrome
+火毒疮疡	潜在联系	1P36 Deletion Syndrome
+鼻流浊涕	潜在联系	1P36 Deletion Syndrome
+目涩痛	潜在联系	1P36 Deletion Syndrome
